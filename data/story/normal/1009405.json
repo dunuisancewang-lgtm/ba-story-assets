@@ -1,0 +1,1780 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1970838880
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 33
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">メイドの休息！</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">메이드의 휴식!</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">メイドの休息！</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">메이드의 휴식!</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">A Maid's Rest!</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">การพักผ่อนของเมด!</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">女僕的休息！</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">女仆的休息！</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;메이드의 휴식!",
+    "BGMId": 33,
+    "Sound": "",
+    "BGName": 1970838880,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"あれ？行き先はゲーム開発部の部室じゃないの？\"",
+      "j_ko": " \"어? 게임개발부 부실이 아니네?\"",
+      "g_ja": " \"あれ？行き先はゲーム開発部の部室じゃないの？\"",
+      "g_ko": " \"어? 게임개발부 부실이 아니네?\"",
+      "g_en": " \"Huh? This isn't the Game Development Department's club room.\"",
+      "g_th": " \"หืม? ไม่ใช่ห้องชมรมพัฒนาเกมหรอกเหรอ?\"",
+      "g_tw": "「嗯？不是要去遊戲開發部的部室嗎？」",
+      "g_tw_cn": "「嗯？不是要去游戏开发部的部室吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"어? 게임개발부 부실이 아니네?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "う～ん、最初はそのつもりだったんだけど……。",
+      "j_ko": "그게, 처음에는 우리 부실에서 쉬려고 했는데…….",
+      "g_ja": "う～ん、最初はそのつもりだったんだけど……。",
+      "g_ko": "그게, 처음에는 우리 부실에서 쉬려고 했는데…….",
+      "g_en": "Well, I HAD originally planned for us to rest in the club room...",
+      "g_th": "ตอนแรกเราก็ว่าจะพักผ่อนในห้องชมรมของตัวเองอยู่หรอก...",
+      "g_tw": "唔嗯，我本來也是這麼打算的……",
+      "g_tw_cn": "唔嗯，我本来也是这么打算的……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;02;그게, 처음에는 우리 부실에서 쉬려고 했는데…….\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 3,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "色んな部活から、先生の休息をぜひ支援したいって言われて。",
+      "j_ko": "선생님이 찾아온다는 소식에 말이지. 동아리 여기저기에서 협찬을 엄청나게 해 줬지 뭐야.",
+      "g_ja": "色んな部活から、先生の休息をぜひ支援したいって言われて。",
+      "g_ko": "선생님이 찾아온다는 소식에 말이지. 동아리 여기저기에서 협찬을 엄청나게 해 줬지 뭐야.",
+      "g_en": "...but when everyone heard you were coming, clubs from all over chipped in.",
+      "g_th": "แต่พอมีข่าวว่าคุณครูจะมา เราก็เลยได้สปอนเซอร์จากหลายๆ ชมรมเลยละ",
+      "g_tw": "結果一聽說老師要來，各個社團都送來了許多贊助。",
+      "g_tw_cn": "结果一听说老师要来，各个社团都送来了许多赞助。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;04;선생님이 찾아온다는 소식에 말이지. 동아리 여기저기에서 협찬을 엄청나게 해 줬지 뭐야.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 4,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ダイエット部、生活健康部、トレーニング部……<br/>それに、エンジニア部まで！",
+      "j_ko": "다이어트부, 생활건강부, 트레이닝부…… 심지어 엔지니어부까지.",
+      "g_ja": "ダイエット部、生活健康部、トレーニング部……<br/>それに、エンジニア部まで！",
+      "g_ko": "다이어트부, 생활건강부, 트레이닝부…… 심지어 엔지니어부까지.",
+      "g_en": "The Diet Club, the Lifestyle and Health Club, the Athletics Training Club...even the Engineering Department.",
+      "g_th": "ทั้งชมรมไดเอต ชมรมส่งเสริมสุขภาพ ชมรมออกกำลังกาย... แถมยังมีชมรมวิศวกรรมด้วย",
+      "g_tw": "比如減肥部、生活健康部、訓練部……甚至連工程師部都有。",
+      "g_tw_cn": "比如减肥部、生活健康部、训练部……甚至连工程师部都有。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;99;다이어트부, 생활건강부, 트레이닝부…… 심지어 엔지니어부까지.\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "聞いただけで不安になってきた？<br/>大丈夫！心配しすぎだって！",
+      "j_ko": "이름만 들어도 뭔가 불안해진다고? 에이, 걱정이 과해, 선생님. 속고만 살았어?",
+      "g_ja": "聞いただけで不安になってきた？<br/>大丈夫！心配しすぎだって！",
+      "g_ko": "이름만 들어도 뭔가 불안해진다고? 에이, 걱정이 과해, 선생님. 속고만 살았어?",
+      "g_en": "Are those names making you nervous? Relax. Not everybody's out to get you.",
+      "g_th": "แค่ได้ฟังชื่อก็รู้สึกถึงลางไม่ดีแล้วงั้นเหรอ? นี่ ไม่ต้องกังวลให้มากไปหรอกนะคุณครู ที่ผ่านมาโดนหลอกบ่อยเหรอ?",
+      "g_tw": "光聽名字就覺得很不安？<br/>哎呀，是老師你想太多了啦！",
+      "g_tw_cn": "光听名字就觉得很不安？<br/>哎呀，是老师你想太多了啦！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;03;이름만 들어도 뭔가 불안해진다고? 에이, 걱정이 과해, 선생님. 속고만 살았어?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 6,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "トレーニング部とエンジニア部は、先生も慣れてるでしょ？<br/>他の部活は初めて聞いたかもしれないけど！",
+      "j_ko": "물론 트레이닝부와 엔지니어부는…… 뭐…… 선생님도 익히 알고 있는 동아리겠지만! 다른 곳은 또 다를 거라고?",
+      "g_ja": "トレーニング部とエンジニア部は、先生も慣れてるでしょ？<br/>他の部活は初めて聞いたかもしれないけど！",
+      "g_ko": "물론 트레이닝부와 엔지니어부는…… 뭐…… 선생님도 익히 알고 있는 동아리겠지만! 다른 곳은 또 다를 거라고?",
+      "g_en": "I mean, you are already...familiar with the Athletics Training Club and the Engineering Department. But what are you expecting from the other clubs?",
+      "g_th": "คุณครูเองก็รู้จักและคุ้นเคยกับชมรมออกกำลังกายกับชมรมวิศวกรรมอยู่แล้ว แต่ชมรมอื่น<br/>ยังไม่รู้จักงั้นเหรอ?",
+      "g_tw": "當然訓練部和工程師部……呃……是老師也很熟悉的社團！<br/>不過其他社團就不一樣了吧？",
+      "g_tw_cn": "当然训练部和工程师部……呃……是老师也很熟悉的社团！<br/>不过其他社团就不一样了吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;10;물론 트레이닝부와 엔지니어부는…… 뭐…… 선생님도 익히 알고 있는 동아리겠지만! 다른 곳은 또 다를 거라고?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ダイエット部は食事制限や運動をしないで、科学的な方法で<br/>体づくりをすることを目的とした健全な部活！",
+      "j_ko": "가령 다이어트부의 경우는, 식이나 운동 없이, 과학적 방법론으로 체형을 만들자는 건전한 동아리이고.",
+      "g_ja": "ダイエット部は食事制限や運動をしないで、科学的な方法で<br/>体づくりをすることを目的とした健全な部活！",
+      "g_ko": "가령 다이어트부의 경우는, 식이나 운동 없이, 과학적 방법론으로 체형을 만들자는 건전한 동아리이고.",
+      "g_en": "Let me tell you, the Diet Club is reputable. They promote body shaping through scientific methods, without depending on diet or exercise.",
+      "g_th": "ชมรมไดเอตคือชมรมที่มุ่งเน้นการสร้างรูปร่างด้วยวิธีการทางวิทยาศาสตร์ โดยไม่คำนึงถึงอาหาร หรือการออกกำลังกาย",
+      "g_tw": "比方說減肥部是個不依靠飲食或運動，只靠科學方法塑造體型的健全社團。",
+      "g_tw_cn": "比方说减肥部是个不依靠饮食或运动，只靠科学方法塑造体型的健全社团。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;11;가령 다이어트부의 경우는, 식이나 운동 없이, 과학적 방법론으로 체형을 만들자는 건전한 동아리이고.\\n#3;em;[재잘]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 8,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "生活健康部は合法的な人体実験で、体質改善を目指している<br/>真っ当な部活なんだからね！",
+      "j_ko": "생활건강부는 보다 많은 합법적 인체실험을 통해 건강을 개선해 나가자는 동아리이니까!",
+      "g_ja": "生活健康部は合法的な人体実験で、体質改善を目指している<br/>真っ当な部活なんだからね！",
+      "g_ko": "생활건강부는 보다 많은 합법적 인체실험을 통해 건강을 개선해 나가자는 동아리이니까!",
+      "g_en": "The Lifestyle and Health Club works on improving health through human experimentation! The legal kind, I mean.",
+      "g_th": "ส่วนชมรมส่งเสริมสุขภาพคือชมรมที่พัฒนาสุขภาพผ่านรูปแบบการทดลองในมนุษย์อย่างถูกกฎหมาย",
+      "g_tw": "而生活健康部，則是透過合法的人體實驗來改善健康的社團哦！",
+      "g_tw_cn": "而生活健康部，则是通过合法的人体实验来改善健康的社团哦！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;10;생활건강부는 보다 많은 합법적 인체실험을 통해 건강을 개선해 나가자는 동아리이니까!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"説明を聞いたらもっと不安になってきた！\"",
+      "j_ko": " \"설명을 들으니 한층 더 불안해졌는데?!\"",
+      "g_ja": " \"説明を聞いたらもっと不安になってきた！\"",
+      "g_ko": " \"설명을 들으니 한층 더 불안해졌는데?!\"",
+      "g_en": " \"That does not make me feel better about either one of them.\"",
+      "g_th": " \"ยิ่งฟังยิ่งกังวลมากกว่าเดิมอีกนะ!\"",
+      "g_tw": "「聽你這麼一說好像更不安了耶！？」",
+      "g_tw_cn": "「听你这么一说好像更不安了耶！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"설명을 들으니 한층 더 불안해졌는데?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 10,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "大丈夫大丈夫！<br/>ミレニアムに先生を傷つけるような生徒なんて滅多にいないよ！",
+      "j_ko": "괜찮아, 괜찮아. 다 괜찮을 거야! 선생님에게 나쁜 짓을 하려는 학생은 밀레니엄에는 없을 테니까!",
+      "g_ja": "大丈夫大丈夫！<br/>ミレニアムに先生を傷つけるような生徒なんて滅多にいないよ！",
+      "g_ko": "괜찮아, 괜찮아. 다 괜찮을 거야! 선생님에게 나쁜 짓을 하려는 학생은 밀레니엄에는 없을 테니까!",
+      "g_en": "Don't worry, don't worry! Everything will be just fine! No one at Millennium wants to do anything bad to you.",
+      "g_th": "ไม่เป็นไรหรอก ไม่เป็นไร ทุกอย่างจะโอเค! ในมิลเลเนียมน่ะ ไม่มีนักเรียนคนไหนจะทำอะไรไม่ดีกับ<br/>คุณครูหรอก!",
+      "g_tw": "別擔心別擔心，沒事的啦！<br/>我們千年不會有想對老師做壞事的學生哦！",
+      "g_tw_cn": "别担心别担心，没事的啦！<br/>我们千年不会有想对老师做坏事的学生哦！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;11;괜찮아, 괜찮아. 다 괜찮을 거야! 선생님에게 나쁜 짓을 하려는 학생은 밀레니엄에는 없을 테니까!\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "んん？悪意がないのはわかってるって？<br/>だったら、何も心配することないじゃん！",
+      "j_ko": "어? 악의가 없을 거란 건 잘 알고 있다고? 그러면 더더욱 아무래도 괜찮은 거 아냐?",
+      "g_ja": "んん？悪意がないのはわかってるって？<br/>だったら、何も心配することないじゃん！",
+      "g_ko": "어? 악의가 없을 거란 건 잘 알고 있다고? 그러면 더더욱 아무래도 괜찮은 거 아냐?",
+      "g_en": "...Well, if you KNOW that, then why are you still nervous?",
+      "g_th": "หืม? คุณครูก็รู้ดีงั้นเหรอว่าคนอื่นไม่มีเจตนาร้าย? งั้นจะมีเรื่องให้กังวลทำไมล่ะ?",
+      "g_tw": "嗯？你也知道千年的學生沒有惡意？<br/>那不就沒問題了嗎？",
+      "g_tw_cn": "嗯？你也知道千年的学生没有恶意？<br/>那不就没问题了吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;02;어? 악의가 없을 거란 건 잘 알고 있다고? 그러면 더더욱 아무래도 괜찮은 거 아냐?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "みんなのことを信じよう！<br/>きっと身も心もスッキリするからさっ！",
+      "j_ko": "믿고 맡기자고. 몸도 마음도 푹 쉬고, 내일을 준비하는 거야!",
+      "g_ja": "みんなのことを信じよう！<br/>きっと身も心もスッキリするからさっ！",
+      "g_ko": "믿고 맡기자고. 몸도 마음도 푹 쉬고, 내일을 준비하는 거야!",
+      "g_en": "Just leave it all in their hands. Rest your body and soul, and prepare for tomorrow!",
+      "g_th": "เชื่อฉันเถอะน่า ไปพักกายพักใจแล้วเตรียมตัวเพื่อวันพรุ่งนี้เถอะ!",
+      "g_tw": "總之就相信我吧。<br/>要讓身心好好休息，為明天做好準備！",
+      "g_tw_cn": "总之就相信我吧。<br/>要让身心好好休息，为明天做好准备！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;03;믿고 맡기자고. 몸도 마음도 푹 쉬고, 내일을 준비하는 거야!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もう使用後のレビューを書くって約束しちゃったし。<br/>今さら逃げられないよ！",
+      "j_ko": "사용 후기도 확실히 전달해 주겠다고 약속했으니, 우리는 해 볼 수밖에 없다고!",
+      "g_ja": "もう使用後のレビューを書くって約束しちゃったし。<br/>今さら逃げられないよ！",
+      "g_ko": "사용 후기도 확실히 전달해 주겠다고 약속했으니, 우리는 해 볼 수밖에 없다고!",
+      "g_en": "We're committed to trying out what they've got and giving them feedback, so there's no backing out now!",
+      "g_th": "เราสัญญากับทางนั้นไว้แล้วว่าจะรีวิวอุปกรณ์ให้ งั้นก็ต้องลองใช้งานจริงสิ!",
+      "g_tw": "而且因為已經答應要回覆使用體驗的關係，我們也只能試試看了！",
+      "g_tw_cn": "而且因为已经答应要回复使用体验的关系，我们也只能试试看了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;11;사용 후기도 확실히 전달해 주겠다고 약속했으니, 우리는 해 볼 수밖에 없다고!\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 14,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "というわけで……最初に試すのは――",
+      "j_ko": "그래서…… 처음으로 시험해 볼 품목은 바로…….",
+      "g_ja": "というわけで……最初に試すのは――",
+      "g_ko": "그래서…… 처음으로 시험해 볼 품목은 바로…….",
+      "g_en": "So...the first item we'll be testing out is...",
+      "g_th": "และของอย่างแรกที่เราจะลองใช้กันก็คือ...",
+      "g_tw": "所以……第一個要體驗的項目就是……",
+      "g_tw_cn": "所以……第一个要体验的项目就是……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;01;그래서…… 처음으로 시험해 볼 품목은 바로…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "この、超高周波マッサージマシン！",
+      "j_ko": "이 초고주파 마사지기야!",
+      "g_ja": "この、超高周波マッサージマシン！",
+      "g_ko": "이 초고주파 마사지기야!",
+      "g_en": "...this ultra-high-frequency massager!",
+      "g_th": "เครื่องนวดความถี่สูง!",
+      "g_tw": "這個超高頻按摩器！",
+      "g_tw_cn": "这个超高频按摩器！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;00;이 초고주파 마사지기야!\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 16,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 16,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "説明しよう！超高周波マッサージマシンとは！<br/>筋肉をほぐす効果を最大化するために……！",
+      "j_ko": "설명하도록 하지! 초고주파 마사지기란! 근육 이완 효과를 극대화하기 위해서.",
+      "g_ja": "説明しよう！超高周波マッサージマシンとは！<br/>筋肉をほぐす効果を最大化するために……！",
+      "g_ko": "설명하도록 하지! 초고주파 마사지기란! 근육 이완 효과를 극대화하기 위해서.",
+      "g_en": "Allow me to explain! An ultra-high-frequency massager is designed to enhance muscle relaxation by a significant margin.",
+      "g_th": "เครื่องนวดความถี่สูงเป็นเครื่องนวดที่ได้รับการปรับปรุงขึ้นใหม่",
+      "g_tw": "我來說明吧！這款超高頻按摩器，是為了把放鬆肌肉的效果發揮到最大……",
+      "g_tw_cn": "我来说明吧！这款超高频按摩器，是为了把放松肌肉的效果发挥到最大……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;10;설명하도록 하지! 초고주파 마사지기란! 근육 이완 효과를 극대화하기 위해서.\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "一般的なマッサージマシンを遥かに凌駕した周波数になるように<br/>改良したものである！",
+      "j_ko": "일반 주파수의 대역폭을 한참이나 뛰어넘은 형태로 개량, 개조한 마사지기인 것이다!",
+      "g_ja": "一般的なマッサージマシンを遥かに凌駕した周波数になるように<br/>改良したものである！",
+      "g_ko": "일반 주파수의 대역폭을 한참이나 뛰어넘은 형태로 개량, 개조한 마사지기인 것이다!",
+      "g_en": "It's been improved and modified to far exceed the range of standard frequencies!",
+      "g_th": "ให้มีความถี่สูงกว่าเครื่องนวดทั่วไปมาก เพื่อเพิ่มประสิทธิภาพการผ่อนคลายกล้ามเนื้อให้มากที่สุด!",
+      "g_tw": "將震動的頻率改良到遠遠凌駕於一般範圍的按摩器！",
+      "g_tw_cn": "将震动的频率改良到远远凌驾于一般范围的按摩器！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;11;일반 주파수의 대역폭을 한참이나 뛰어넘은 형태로 개량, 개조한 마사지기인 것이다!\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 18,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……って、マニュアルに書かれてるね。",
+      "j_ko": "……라고 매뉴얼에는 적혀 있네.",
+      "g_ja": "……って、マニュアルに書かれてるね。",
+      "g_ko": "……라고 매뉴얼에는 적혀 있네.",
+      "g_en": "...Or at least, that's what the manual says.",
+      "g_th": "อืม... ในคู่มือเขียนไว้อย่างนี้น่ะ",
+      "g_tw": "……說明書上是這麼寫的。",
+      "g_tw_cn": "……说明书上是这么写的。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;01;……라고 매뉴얼에는 적혀 있네.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 19,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "使い方は簡単だよ！<br/>マッサージが必要な場所にこうやってマシンを装着して……。",
+      "j_ko": "사용법은 간단해. 마사지를 하고 싶은 곳에 기구를 부착하고.",
+      "g_ja": "使い方は簡単だよ！<br/>マッサージが必要な場所にこうやってマシンを装着して……。",
+      "g_ko": "사용법은 간단해. 마사지를 하고 싶은 곳에 기구를 부착하고.",
+      "g_en": "The instructions are simple: just attach the device to the area you want to massage.",
+      "g_th": "วิธีใช้ก็ง่ายๆ ก็แค่วางเครื่องนี้ไว้ในจุดที่ต้องการนวด",
+      "g_tw": "使用方法很簡單。把機器貼在想按摩的地方……",
+      "g_tw_cn": "使用方法很简单。把机器贴在想按摩的地方……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;00;사용법은 간단해. 마사지를 하고 싶은 곳에 기구를 부착하고.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 20,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "スイッチをオンにすればオッケー！",
+      "j_ko": "그대로 스위치를 켜면 된다고 하네?",
+      "g_ja": "スイッチをオンにすればオッケー！",
+      "g_ko": "그대로 스위치를 켜면 된다고 하네?",
+      "g_en": "Then turn on the switch.",
+      "g_th": "แล้วก็แค่เปิดสวิตช์ แค่นี้ก็ได้แล้ว",
+      "g_tw": "直接打開開關就行了？",
+      "g_tw_cn": "直接打开开关就行了？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;01;그대로 스위치를 켜면 된다고 하네?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 21,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（不安に震えながら、マッサージマシンのスイッチを入れた……）",
+      "j_ko": "(불안함을 애써 멀리하며, 마사지기를 작동시켰다…….)",
+      "g_ja": "（不安に震えながら、マッサージマシンのスイッチを入れた……）",
+      "g_ko": "(불안함을 애써 멀리하며, 마사지기를 작동시켰다…….)",
+      "g_en": "Setting aside my anxiety, I switched on the massager.",
+      "g_th": "(คุณครูพยายามไม่กังวล และเปิดใช้งานเครื่องนวด...)",
+      "g_tw": "（努力放下不安，嘗試啟動了按摩器……）",
+      "g_tw_cn": "（努力放下不安，尝试启动了按摩器……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(불안함을 애써 멀리하며, 마사지기를 작동시켰다…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 25,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Button_01"
+    }
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 26,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_VehicleEngine_02"
+    }
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 27,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1970838880
+    }
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 28,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Boatengine_01"
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"うわぁぁあぁぁあぁぁ！？\"",
+      "j_ko": " \"으어어어어어?!\"",
+      "g_ja": " \"うわぁぁあぁぁあぁぁ！？\"",
+      "g_ko": " \"으어어어어어?!\"",
+      "g_en": " \"Woaaahhh!\"",
+      "g_th": " \"อ๊ากกกก!\"",
+      "g_tw": "「唔喔喔喔喔喔！？」",
+      "g_tw_cn": "「唔喔喔喔喔喔！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"으어어어어어?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "し、振動がぁぁぁ凄いぃぃ！あぁぁ頭の中まで揺れてるぅぅぅ！",
+      "j_ko": "지, 진동이 너무 엄청나! 머릿속까지 떨리는 느낌이야!",
+      "g_ja": "し、振動がぁぁぁ凄いぃぃ！あぁぁ頭の中まで揺れてるぅぅぅ！",
+      "g_ko": "지, 진동이 너무 엄청나! 머릿속까지 떨리는 느낌이야!",
+      "g_en": "Th-The vibrations are so intense! I can feel them all the way up to my brain!",
+      "g_th": "สะ... สั่นแรงมากเลย! อย่างกับว่ามันสั่นไปถึงแกนสมองแล้วนะนั่น!",
+      "g_tw": "震，震動太強了！感覺連腦袋都在顫抖！",
+      "g_tw_cn": "震，震动太强了！感觉连脑袋都在颤抖！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;04;지, 진동이 너무 엄청나! 머릿속까지 떨리는 느낌이야!\\n#3;a\\n#3;closeup\\n#3;stiff\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うわぁぁぁ……め、めまいがぁぁぁぁ！",
+      "j_ko": "으아아…… 현기증이……. 현기증이……!",
+      "g_ja": "うわぁぁぁ……め、めまいがぁぁぁぁ！",
+      "g_ko": "으아아…… 현기증이……. 현기증이……!",
+      "g_en": "Ahhh... I'm getting dizzy... So dizzy...!",
+      "g_th": "โอยย... เวียนหัวจัง... เวียนหัว...!",
+      "g_tw": "呃啊啊……頭好暈……頭好暈……！",
+      "g_tw_cn": "呃啊啊……头好晕……头好晕……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;09;으아아…… 현기증이……. 현기증이……!\\n#3;closeup\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Boatengine_01"
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 31,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "は、はやくぅぅぅスイッチをぉぉぉ、オフにぃぃぃ……！<br/>指が動かないぃぃぃ……！",
+      "j_ko": "그런데 진동이 지나치게 강해서, 오히려 손가락 하나 까딱할 힘이 없어……!",
+      "g_ja": "は、はやくぅぅぅスイッチをぉぉぉ、オフにぃぃぃ……！<br/>指が動かないぃぃぃ……！",
+      "g_ko": "그런데 진동이 지나치게 강해서, 오히려 손가락 하나 까딱할 힘이 없어……!",
+      "g_en": "But the vibrations are so incredibly strong, I can't even lift a finger...!",
+      "g_th": "สั่นแรงมากจนฉันไม่มีแรงแม้แต่จะกระดิกนิ้วเลย...!",
+      "g_tw": "可是震動實在太強，連移動手指的力氣都沒有……！",
+      "g_tw_cn": "可是震动实在太强，连移动手指的力气都没有……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;09;그런데 진동이 지나치게 강해서, 오히려 손가락 하나 까딱할 힘이 없어……!\\n#3;closeup\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 32,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "せせせ先生ぇぇ！助けてぇぇぇ！！",
+      "j_ko": "으아앙~ 도와줘, 선생님! 전원을 꺼야 하는데 몸이 움직이지 않아~!",
+      "g_ja": "せせせ先生ぇぇ！助けてぇぇぇ！！",
+      "g_ko": "으아앙~ 도와줘, 선생님! 전원을 꺼야 하는데 몸이 움직이지 않아~!",
+      "g_en": "Waaah! Help me, Sensei! I need to shut it off, but I can't move!",
+      "g_th": "แง๊~ คุณครู ช่วยด้วย! ฉันต้องปิดเครื่อง แต่ร่างกายฉันขยับไม่ได้เลย~!",
+      "g_tw": "呃啊啊～救救我，老師！<br/>明明得關掉電源，可是身體動不了～！",
+      "g_tw_cn": "呃啊啊～救救我，老师！<br/>明明得关掉电源，可是身体动不了～！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;06;으아앙~ 도와줘, 선생님! 전원을 꺼야 하는데 몸이 움직이지 않아~!\\n#3;stiff\\n#3;closeup\\n#3;em;[훌쩍]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Tear",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（何とかして、マッサージマシンの電源を切った……）",
+      "j_ko": "(간신히, 어떻게든 마사지기를 멈추었다…….)",
+      "g_ja": "（何とかして、マッサージマシンの電源を切った……）",
+      "g_ko": "(간신히, 어떻게든 마사지기를 멈추었다…….)",
+      "g_en": "I somehow, barely, managed to shut it off.",
+      "g_th": "(ในที่สุดก็ปิดเครื่องนวดกันได้สำเร็จ...)",
+      "g_tw": "（好不容易才讓按摩器停了下來……）",
+      "g_tw_cn": "（好不容易才让按摩器停了下来……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(간신히, 어떻게든 마사지기를 멈추었다…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 37,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Button_01"
+    }
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 38,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1970838880
+    }
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 39,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はぁ、はぁ……あ、危なかったぁ……。",
+      "j_ko": "헉, 헉……. 큰일날 뻔했네…….",
+      "g_ja": "はぁ、はぁ……あ、危なかったぁ……。",
+      "g_ko": "헉, 헉……. 큰일날 뻔했네…….",
+      "g_en": "*huff* *huff* That was a close call...",
+      "g_th": "แฮ่ก... แฮ่ก... เกือบเป็นเรื่องแล้วมั้ยล่ะ...",
+      "g_tw": "呼，呼……差點就出大事了……",
+      "g_tw_cn": "呼，呼……差点就出大事了……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;04;헉, 헉……. 큰일날 뻔했네…….\\n#3;stiff\\n#3;em;[세로선]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sad",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 40,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 40,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "う、うぅっ！つ、次！<br/>次は絶対に大丈夫！さあ、特殊EMSスーツの出番だ！",
+      "j_ko": "그, 그래도 이번엔 다를 거야. 다음은 특수 EMS 슈트!",
+      "g_ja": "う、うぅっ！つ、次！<br/>次は絶対に大丈夫！さあ、特殊EMSスーツの出番だ！",
+      "g_ko": "그, 그래도 이번엔 다를 거야. 다음은 특수 EMS 슈트!",
+      "g_en": "B-But that was just a one-off. Next up is the special EMS suit!",
+      "g_th": "ตะ... แต่ครั้งนี้จะไม่เข้าอีหรอบเดิมหรอก เพราะของชิ้นต่อไปก็คือสูท EMS พิเศษ!",
+      "g_tw": "不，不過這次不一樣。接下來是特殊EMS套裝！",
+      "g_tw_cn": "不，不过这次不一样。接下来是特殊EMS套装！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;04;그, 그래도 이번엔 다를 거야. 다음은 특수 EMS 슈트!\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"特殊EMSスーツ？\"",
+      "j_ko": " \"그건 또 뭔데?\"",
+      "g_ja": " \"特殊EMSスーツ？\"",
+      "g_ko": " \"그건 또 뭔데?\"",
+      "g_en": " \"And what's that?\"",
+      "g_th": " \"มันคืออะไรเหรอ?\"",
+      "g_tw": "「那又是什麼？」",
+      "g_tw_cn": "「那又是什么？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그건 또 뭔데?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 42,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "これはね……運動はしたくない！でも、トレーニング効果は欲しい！<br/>そんな人のために開発された特別なスーツ！",
+      "j_ko": "이것은…… 운동은 하기 싫지만, 운동 효과는 보고 싶은 사람들을 위한 슈트래!",
+      "g_ja": "これはね……運動はしたくない！でも、トレーニング効果は欲しい！<br/>そんな人のために開発された特別なスーツ！",
+      "g_ko": "이것은…… 운동은 하기 싫지만, 운동 효과는 보고 싶은 사람들을 위한 슈트래!",
+      "g_en": "A suit for people who want the effects of working out without having to do the exercise!",
+      "g_th": "ในคู่มือเขียนไว้ว่าเป็นชุดสำหรับคนที่อยากเห็นผลจากการออกกำลังกาย แต่ไม่อยากออกกำลังกายน่ะ",
+      "g_tw": "這是……為了不想運動，卻又想獲得運動效果的人設計的套裝！",
+      "g_tw_cn": "这是……为了不想运动，却又想获得运动效果的人设计的套装！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;03;이것은…… 운동은 하기 싫지만, 운동 효과는 보고 싶은 사람들을 위한 슈트래!\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"運動せずにトレーニングの効果が！？\"",
+      "j_ko": " \"아니, 운동을 하지 않고도 운동을 할 수 있다니!\"",
+      "g_ja": " \"運動せずにトレーニングの効果が！？\"",
+      "g_ko": " \"아니, 운동을 하지 않고도 운동을 할 수 있다니!\"",
+      "g_en": " \"Wait, you can work out without actually exercising?!\"",
+      "g_th": " \"ได้ออกกำลังทั้งๆ ที่ไม่ได้ออกกำลังงั้นเหรอ!\"",
+      "g_tw": "「什麼，不運動也能有運動效果！」",
+      "g_tw_cn": "「什么，不运动也能有运动效果！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"아니, 운동을 하지 않고도 운동을 할 수 있다니!\"\\n[s2] \"획기적이다. 당장 하자.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"画期的だね！さっそく試してみよう！\"",
+      "j_ko": " \"획기적이다. 당장 하자.\"",
+      "g_ja": " \"画期的だね！さっそく試してみよう！\"",
+      "g_ko": " \"획기적이다. 당장 하자.\"",
+      "g_en": " \"That's revolutionary. Let's get started right away!\"",
+      "g_th": " \"เหลือเชื่อเลย งั้นก็มาใช้กันเถอะ\"",
+      "g_tw": "「多麼有創意的發明啊，馬上試試吧。」",
+      "g_tw_cn": "「多么有创意的发明啊，马上试试吧。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"아니, 운동을 하지 않고도 운동을 할 수 있다니!\"\\n[s2] \"획기적이다. 당장 하자.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふっふっふっ……！そう言うと思った！",
+      "j_ko": "훗. 훗. 훗…… 그렇게 나올 줄 알고 있었소.",
+      "g_ja": "ふっふっふっ……！そう言うと思った！",
+      "g_ko": "훗. 훗. 훗…… 그렇게 나올 줄 알고 있었소.",
+      "g_en": "Heh, heh, heh... I knew you'd be up for it.",
+      "g_th": "ฮุ ฮุ ฮุ... กะไว้แล้วเชียวว่าต้องเป็นแบบนี้",
+      "g_tw": "哼，哼，哼……就知道你會這麼說。",
+      "g_tw_cn": "哼，哼，哼……就知道你会这么说。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;11;훗. 훗. 훗…… 그렇게 나올 줄 알고 있었소.\\n#3;em;[재잘]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私も、キツイ運動はイヤだし……。",
+      "j_ko": "애초에 나도 운동은 하기 싫고 말이지…….",
+      "g_ja": "私も、キツイ運動はイヤだし……。",
+      "g_ko": "애초에 나도 운동은 하기 싫고 말이지…….",
+      "g_en": "To be honest, I'd rather not exercise either...",
+      "g_th": "ที่จริงฉันเองก็ขี้เกียจออกกำลังกายเหมือนกัน...",
+      "g_tw": "我也不是很喜歡運動……",
+      "g_tw_cn": "我也不是很喜欢运动……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;10;애초에 나도 운동은 하기 싫고 말이지…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 48,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "このスーツは筋肉を電気で刺激するから……。",
+      "j_ko": "전기근육자극요법이란 것을 사용하면, 적당한 빈도와 강도로 근육을 자극해서.",
+      "g_ja": "このスーツは筋肉を電気で刺激するから……。",
+      "g_ko": "전기근육자극요법이란 것을 사용하면, 적당한 빈도와 강도로 근육을 자극해서.",
+      "g_en": "The suit uses electricity, set to the right frequency and intensity, to stimulate your muscles.",
+      "g_th": "ถ้าเราใช้การกระตุ้นกล้ามเนื้อด้วยไฟฟ้าเพื่อกระตุ้นกล้ามเนื้อในความถี่และความแรงที่เหมาะสม",
+      "g_tw": "不過只要運用肌肉電刺激療法，以適當的頻率和強度刺激肌肉……",
+      "g_tw_cn": "不过只要运用肌肉电刺激疗法，以适当的频率和强度刺激肌肉……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;01;전기근육자극요법이란 것을 사용하면, 적당한 빈도와 강도로 근육을 자극해서.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "筋繊維も強化されて、持久力もアップするんだって！",
+      "j_ko": "근섬유를 강화하고 근지구력을 올릴 수 있대!",
+      "g_ja": "筋繊維も強化されて、持久力もアップするんだって！",
+      "g_ko": "근섬유를 강화하고 근지구력을 올릴 수 있대!",
+      "g_en": "It builds up muscle fibers and enhances endurance!",
+      "g_th": "ก็จะช่วยเสริมเส้นใยกล้ามเนื้อและเพิ่มความทนทานของกล้ามเนื้อได้นะ!",
+      "g_tw": "就能強化肌纖維，提升肌耐力哦！",
+      "g_tw_cn": "就能强化肌纤维，提升肌耐力哦！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;03;근섬유를 강화하고 근지구력을 올릴 수 있대!\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 50,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 51,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_03"
+    }
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（モモイと一緒にマニュアルを読みつつ、EMSスーツを試してみた）",
+      "j_ko": "(모모이와 함께 매뉴얼을 읽어 가며, EMS 슈트라는 것을 입어 보았다.)",
+      "g_ja": "（モモイと一緒にマニュアルを読みつつ、EMSスーツを試してみた）",
+      "g_ko": "(모모이와 함께 매뉴얼을 읽어 가며, EMS 슈트라는 것을 입어 보았다.)",
+      "g_en": "I read through the manual with Momoi, then helped her put on the EMS suit.",
+      "g_th": "(คุณครูอ่านคู่มือการใช้งานกับโมโมอิ แล้วลองใส่ชุดสูท EMS ดู)",
+      "g_tw": "（和桃井一起閱讀說明書之後，試穿了EMS套裝）",
+      "g_tw_cn": "（和桃井一起阅读说明书之后，试穿了EMS套装）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(모모이와 함께 매뉴얼을 읽어 가며, EMS 슈트라는 것을 입어 보았다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 56,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Electric_03"
+    }
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 57,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1970838880
+    }
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 58,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うわぁぁぁあぁぁぁっ！？！？",
+      "j_ko": "우와아아아아앗?!?!",
+      "g_ja": "うわぁぁぁあぁぁぁっ！？！？",
+      "g_ko": "우와아아아아앗?!?!",
+      "g_en": "Whoooaaah!",
+      "g_th": "เหวออออออ?!?!",
+      "g_tw": "哇啊啊啊啊啊啊！？！？",
+      "g_tw_cn": "哇啊啊啊啊啊啊！？！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;09;우와아아아아앗?!?!\\n#3;shake\\n#3;closeup\\n#3;em;[?!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Surprise",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 59,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Electric_01"
+    }
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 59,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "し、刺激が強いぃぃぃぃっ！",
+      "j_ko": "자, 자극이 과해! 충격의 빈도가 너무 빨라!",
+      "g_ja": "し、刺激が強いぃぃぃぃっ！",
+      "g_ko": "자, 자극이 과해! 충격의 빈도가 너무 빨라!",
+      "g_en": "Th-The stimulation is overwhelming! The shocks are coming in way too fast!",
+      "g_th": "กะ... กระตุ้นแรงไปหรือเปล่า! สั่นถี่มากไปแล้วนะ!",
+      "g_tw": "刺，刺激太強了！頻率也太高了啊啊啊！",
+      "g_tw_cn": "刺，刺激太强了！频率也太高了啊啊啊！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;09;자, 자극이 과해! 충격의 빈도가 너무 빨라!\\n#3;shake\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 60,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Electric_01"
+    }
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 60,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "き、筋肉がびりびりするぅぅぅぅ……！",
+      "j_ko": "근육이 아파! 어딘가 감전되고 있는 것 같은 느낌마저 들어!",
+      "g_ja": "き、筋肉がびりびりするぅぅぅぅ……！",
+      "g_ko": "근육이 아파! 어딘가 감전되고 있는 것 같은 느낌마저 들어!",
+      "g_en": "My muscles ache! It feels like I'm getting electrocuted!",
+      "g_th": "ปวดตัวไปหมดแล้ว! ฉันรู้สึกเหมือนโดนไฟดูดเลย!",
+      "g_tw": "肌肉好痛！感覺好像觸電一樣！",
+      "g_tw_cn": "肌肉好痛！感觉好像触电一样！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;06;근육이 아파! 어딘가 감전되고 있는 것 같은 느낌마저 들어!\\n#3;shake\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 61,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Electric_01"
+    }
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生ぇ！助けてぇぇ！！",
+      "j_ko": "선생님! 살려줘, 선생님!",
+      "g_ja": "先生ぇ！助けてぇぇ！！",
+      "g_ko": "선생님! 살려줘, 선생님!",
+      "g_en": "Sensei! Help! Sensei!",
+      "g_th": "คุณครู! ช่วยฉันด้วย คุณครู!",
+      "g_tw": "老師！救命啊，老師！",
+      "g_tw_cn": "老师！救命啊，老师！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;09;선생님! 살려줘, 선생님!\\n#3;shake\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 62,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 63,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Button_01"
+    }
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 64,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（どうにかしてEMSスーツの電源を切った……）",
+      "j_ko": "(간신히, 어떻게든 EMS 슈트의 전원을 끊었다.)",
+      "g_ja": "（どうにかしてEMSスーツの電源を切った……）",
+      "g_ko": "(간신히, 어떻게든 EMS 슈트의 전원을 끊었다.)",
+      "g_en": "I barely managed to cut the suit's power.",
+      "g_th": "(คุณครูช่วยปิดเครื่องชุดสูท EMS ได้อย่างหวุดหวิด)",
+      "g_tw": "（好不容易切斷了EMS套裝的電源）",
+      "g_tw_cn": "（好不容易切断了EMS套装的电源）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(간신히, 어떻게든 EMS 슈트의 전원을 끊었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 65,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1970838880
+    }
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"これ……本当に大丈夫……？\"",
+      "j_ko": " \"이거, 정말로 괜찮은 거야……?\"",
+      "g_ja": " \"これ……本当に大丈夫……？\"",
+      "g_ko": " \"이거, 정말로 괜찮은 거야……?\"",
+      "g_en": " \"Are you sure we should keep on doing this?\"",
+      "g_th": " \"อันนี้มัน... จะไม่เป็นไรจริงเหรอ...?\"",
+      "g_tw": "「這真的沒問題嗎……？」",
+      "g_tw_cn": "「这真的没问题吗……？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"이거, 정말로 괜찮은 거야……?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 68,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "つ、次っ！これは絶対に間違いないよ！<br/>なんたって、トレーニング部とエンジニア部の共同開発！",
+      "j_ko": "이번에는 진짜 다를 거야! 뭐니 뭐니 해도 트레이닝부와 엔지니어부가 함께 힘을 합쳐 만든 것이니까!",
+      "g_ja": "つ、次っ！これは絶対に間違いないよ！<br/>なんたって、トレーニング部とエンジニア部の共同開発！",
+      "g_ko": "이번에는 진짜 다를 거야! 뭐니 뭐니 해도 트레이닝부와 엔지니어부가 함께 힘을 합쳐 만든 것이니까!",
+      "g_en": "This time, it's really going to be different! This one has the whole Athletics Training Club AND the Engineering Department behind it!",
+      "g_th": "ครั้งนี้ต้องได้ผลแน่! ของชิ้นนี้มาจากการรวมพลังของชมรมออกกำลังกายกับชมรมวิศวกรรมเชียวนะ!",
+      "g_tw": "這次真的不一樣！<br/>畢竟這可是訓練部和工程師部一起合力製造的東西！",
+      "g_tw_cn": "这次真的不一样！<br/>毕竟这可是训练部和工程师部一起合力制造的东西！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;04;이번에는 진짜 다를 거야! 뭐니 뭐니 해도 트레이닝부와 엔지니어부가 함께 힘을 합쳐 만든 것이니까!\\n#3;hophop\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ええっ、不安も倍増した！？<br/>へーき！へーきっ！たまには信じてあげようよ！",
+      "j_ko": "어? 그 말을 들으니 두 배로 불안해졌다고? 에이, 속고만 살았어? 때로는 사람을 믿는 자세가 필요한 법이라구!",
+      "g_ja": "ええっ、不安も倍増した！？<br/>へーき！へーきっ！たまには信じてあげようよ！",
+      "g_ko": "어? 그 말을 들으니 두 배로 불안해졌다고? 에이, 속고만 살았어? 때로는 사람을 믿는 자세가 필요한 법이라구!",
+      "g_en": "Huh? That makes you TWICE as anxious? Seriously, you've got to learn to trust people sometimes!",
+      "g_th": "หืม? พอเป็นพวกนั้นก็ยิ่งกังวลใจเป็น 2 เท่างั้นเหรอ? โธ่ คุณครูไม่เชื่อใจใครเลยเหรอ? บางครั้งเราก็ควรเชื่อมั่นในคนอื่นบ้างนะ!",
+      "g_tw": "嗯？聽起來簡直是翻倍的不安？<br/>哎唷，老師你是被騙到怕了嗎？偶爾也該相信一下人家呀！",
+      "g_tw_cn": "嗯？听起来简直是翻倍的不安？<br/>哎唷，老师你是被骗到怕了吗？偶尔也该相信一下人家呀！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;02;어? 그 말을 들으니 두 배로 불안해졌다고? 에이, 속고만 살았어? 때로는 사람을 믿는 자세가 필요한 법이라구!\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 70,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "見てみて！これはただのストレッチローラーだから！",
+      "j_ko": "무엇보다 이번에는 단순한 폼롤러일 뿐이니까 말이지!",
+      "g_ja": "見てみて！これはただのストレッチローラーだから！",
+      "g_ko": "무엇보다 이번에는 단순한 폼롤러일 뿐이니까 말이지!",
+      "g_en": "Besides, this one is just a simple foam roller.",
+      "g_th": "และครั้งนี้ก็เป็นแค่โฟมโรลเลอร์ธรรมดาๆ ด้วย",
+      "g_tw": "而且最重要的是，這個只是單純的瑜珈滾筒而已！",
+      "g_tw_cn": "而且最重要的是，这个只是单纯的瑜珈滚筒而已！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;01;무엇보다 이번에는 단순한 폼롤러일 뿐이니까 말이지!\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 71,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……マニュアルによると。<br/>研究から分かった慢性的な疲労の原因は、不自然な姿勢……。",
+      "j_ko": "최근의 연구 결과에 따르면, 평소 취하는 부자연스러운 자세가 만성 피로를 유발하는 원인 중 하나일 수 있다고 해.",
+      "g_ja": "……マニュアルによると。<br/>研究から分かった慢性的な疲労の原因は、不自然な姿勢……。",
+      "g_ko": "최근의 연구 결과에 따르면, 평소 취하는 부자연스러운 자세가 만성 피로를 유발하는 원인 중 하나일 수 있다고 해.",
+      "g_en": "Recent research suggests that the unnatural postures we often adopt may be a contributing factor to chronic fatigue.",
+      "g_th": "ผลการวิจัยล่าสุดบอกว่าท่าทางที่ไม่เป็นธรรมชาติในชีวิตประจำวันอาจเป็นสาเหตุหนึ่งที่ทำให้เกิด<br/>ความเมื่อยล้าเรื้อรังได้",
+      "g_tw": "根據最近的研究結果，據說平常的不自然姿勢可能是誘發慢性疲勞的原因之一。",
+      "g_tw_cn": "根据最近的研究结果，据说平常的不自然姿势可能是诱发慢性疲劳的原因之一。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;10;최근의 연구 결과에 따르면, 평소 취하는 부자연스러운 자세가 만성 피로를 유발하는 원인 중 하나일 수 있다고 해.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そこで、姿勢を維持する体幹を強化するために開発されたのが<br/>このAI搭載のストレッチローラー！",
+      "j_ko": "그래서 척추기립근을 강화시키기 위해, 인공지능 폼롤러를 개발했다고 하더라고.",
+      "g_ja": "そこで、姿勢を維持する体幹を強化するために開発されたのが<br/>このAI搭載のストレッチローラー！",
+      "g_ko": "그래서 척추기립근을 강화시키기 위해, 인공지능 폼롤러를 개발했다고 하더라고.",
+      "g_en": "Therefore, they developed an AI-powered foam roller to enhance the strength of the spinal erector muscles.",
+      "g_th": "2 ชมรมนั้นก็เลยพัฒนาโฟมโรลเลอร์ AI ขึ้นมาเพื่อเสริมกล้ามเนื้อบริเวณหลังส่วนล่างน่ะ",
+      "g_tw": "所以他們為了強化豎脊肌，開發了這款AI瑜珈滾筒。",
+      "g_tw_cn": "所以他们为了强化竖脊肌，开发了这款AI瑜珈滚筒。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;00;그래서 척추기립근을 강화시키기 위해, 인공지능 폼롤러를 개발했다고 하더라고.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 73,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "このローラーは使う人の状態を自動的にチェックして<br/>最適な形に変化するらしいよ！",
+      "j_ko": "사용자의 상태를 폼롤러가 스스로 체크하여, 최적의 폼롤링을 제공한다는 발상인 거지.",
+      "g_ja": "このローラーは使う人の状態を自動的にチェックして<br/>最適な形に変化するらしいよ！",
+      "g_ko": "사용자의 상태를 폼롤러가 스스로 체크하여, 최적의 폼롤링을 제공한다는 발상인 거지.",
+      "g_en": "The idea is that the foam roller automatically evaluates the user's condition to deliver the best rolling experience.",
+      "g_th": "เป็นความคิดริเริ่มที่จะให้โฟมโรลเลอร์ตรวจสอบร่างกายของผู้ใช้งานแล้วก็จะได้นวดให้อย่างเหมาะสม<br/>ที่สุดน่ะ",
+      "g_tw": "瑜珈滾筒會自行確認使用者的狀態，提供最佳的滾動方式。",
+      "g_tw_cn": "瑜珈滚筒会自行确认用户的状态，提供最佳的滚动方式。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;01;사용자의 상태를 폼롤러가 스스로 체크하여, 최적의 폼롤링을 제공한다는 발상인 거지.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 74,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "どれどれ……。<br/>まずローラーの上に座って、体を前後に動かす、と――",
+      "j_ko": "그러면 어디 한번 해 볼까? 폼롤러를 엉덩이 아래에 두고 몸을 앞뒤로…….",
+      "g_ja": "どれどれ……。<br/>まずローラーの上に座って、体を前後に動かす、と――",
+      "g_ko": "그러면 어디 한번 해 볼까? 폼롤러를 엉덩이 아래에 두고 몸을 앞뒤로…….",
+      "g_en": "Shall we give it a try? It says to place it under your hips and roll your body back and forth.",
+      "g_th": "งั้นเรามาลองใช้งานกันเลยมั้ย? วางโฟมโรลเลอร์ไว้ใต้สะโพกแล้วขยับตัวขึ้นลงแบบนี้...",
+      "g_tw": "那就來試試看吧？<br/>先把瑜珈滾筒放在屁股底下，接著身體前後擺動……",
+      "g_tw_cn": "那就来试试看吧？<br/>先把瑜珈滚筒放在屁股底下，接着身体前后摆动……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;11;그러면 어디 한번 해 볼까? 폼롤러를 엉덩이 아래에 두고 몸을 앞뒤로…….\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 77,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Button_01"
+    }
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 79,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Electric_02"
+    }
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 79,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "う、うわぁぁぁ！？",
+      "j_ko": "으아아앙?!",
+      "g_ja": "う、うわぁぁぁ！？",
+      "g_ko": "으아아앙?!",
+      "g_en": "Aaaahh!",
+      "g_th": "อ๊าาา~!!",
+      "g_tw": "呃啊啊啊！？",
+      "g_tw_cn": "呃啊啊啊！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;09;으아아앙?!\\n#3;closeup\\n#3;shake",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 80,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "このローラー！は、はやすぎるっ！しかも、勝手に動いてぇぇ！<br/>ど、どこかに連れてかれるぅぅ！先生ぇぇ――！",
+      "j_ko": "롤링이 너무 빨라! 스스로 움직이고 있어! 선생님–!",
+      "g_ja": "このローラー！は、はやすぎるっ！しかも、勝手に動いてぇぇ！<br/>ど、どこかに連れてかれるぅぅ！先生ぇぇ――！",
+      "g_ko": "롤링이 너무 빨라! 스스로 움직이고 있어! 선생님–!",
+      "g_en": "It's rolling way too fast! It's moving on its own! Sensei—!",
+      "g_th": "หมุนเร็วไปหรือเปล่า! มันหมุนเองเร็วมากเลย! คุณครู!",
+      "g_tw": "這個轉速也太快了！而且還自己動起來了！老師──！",
+      "g_tw_cn": "这个转速也太快了！而且还自己动起来了！老师──！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 528285904,
+    "DataType": "speaker",
+    "Script": "3;모모이 메이드;06;롤링이 너무 빨라! 스스로 움직이고 있어! 선생님–!\\n#3;closeup\\n#3;shake\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 81,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"た、助けてあげたいけど、私も……！\"",
+      "j_ko": " \"나도 도와주고 싶은데–!\"",
+      "g_ja": " \"た、助けてあげたいけど、私も……！\"",
+      "g_ko": " \"나도 도와주고 싶은데–!\"",
+      "g_en": " \"I really want to help you, but...\"",
+      "g_th": " \"ครูก็อยากไปช่วยอยู่หรอกนะ\"",
+      "g_tw": "「我也是很想幫忙──！」",
+      "g_tw_cn": "「我也是很想帮忙──！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"나도 도와주고 싶은데–!\"\\n[s4] \"으아아–! 말려들어 간다–!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 81,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"うわぁぁ！壁にぶつかる――！\"",
+      "j_ko": " \"으아아–! 말려들어 간다–!\"",
+      "g_ja": " \"うわぁぁ！壁にぶつかる――！\"",
+      "g_ko": " \"으아아–! 말려들어 간다–!\"",
+      "g_en": " \"Aaahhh! I'm getting sucked in!\"",
+      "g_th": " \"อ๊าก! ครูก็โดนอยู่เหมือนกัน!\"",
+      "g_tw": "「呃啊啊──！要被捲進去了──！」",
+      "g_tw_cn": "「呃啊啊──！要被卷进去了──！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"나도 도와주고 싶은데–!\"\\n[s4] \"으아아–! 말려들어 간다–!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 84,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 85,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（その後も休息のために準備された様々なマシンを試した結果……）",
+      "j_ko": "(그렇게 온갖 휴식 보조 기구(?)를 체험하고.)",
+      "g_ja": "（その後も休息のために準備された様々なマシンを試した結果……）",
+      "g_ko": "(그렇게 온갖 휴식 보조 기구(?)를 체험하고.)",
+      "g_en": "After trying out various relaxation devices...",
+      "g_th": "(ทั้งคุณครูและโมโมอิได้ลองใช้อุปกรณ์พิเศษสำหรับผ่อนคลาย...)",
+      "g_tw": "（就這樣體驗了所有休息輔助器具(?)之後……）",
+      "g_tw_cn": "（就这样体验了所有休息辅助器具(?)之后……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 온갖 휴식 보조 기구(?)를 체험하고.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 86,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（モモイと一緒に、筋肉痛で倒れることになってしまった）",
+      "j_ko": "(우리는, 사이좋게 앓아눕고 말았다…….)",
+      "g_ja": "（モモイと一緒に、筋肉痛で倒れることになってしまった）",
+      "g_ko": "(우리는, 사이좋게 앓아눕고 말았다…….)",
+      "g_en": "...we ended up collapsing in discomfort together.",
+      "g_th": "(จนสุดท้ายต้องนอนปวดตัวกันทั้งคู่...)",
+      "g_tw": "（雙雙倒下了……）",
+      "g_tw_cn": "（双双倒下了……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(우리는, 사이좋게 앓아눕고 말았다…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

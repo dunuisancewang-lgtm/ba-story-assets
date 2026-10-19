@@ -1,0 +1,2169 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 36
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">浜辺の少女</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">해변의 설녀</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">浜辺の少女</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">해변의 설녀</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Snow Maiden of the Sands</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">หญิงหิมะริมหาด</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">海邊的雪女</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">海边的雪女</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;해변의 설녀",
+    "BGMId": 36,
+    "Sound": "",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（数日後。仕事で百鬼夜行の街を訪れた……）",
+      "j_ko": "(며칠 뒤. 업무차 찾은 백귀야행의 거리…….)",
+      "g_ja": "（数日後。仕事で百鬼夜行の街を訪れた……）",
+      "g_ko": "(며칠 뒤. 업무차 찾은 백귀야행의 거리…….)",
+      "g_en": "A few days later, I visited the streets of Hyakkiyako for work.",
+      "g_th": "(ไม่กี่วันหลังจากนั้น ณ ถนนเส้นหนึ่งในเฮียกคิยาโค...)",
+      "g_tw": "（幾天後，因公務造訪了百鬼夜行……）",
+      "g_tw_cn": "（几天后，因公务造访了百鬼夜行……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(며칠 뒤. 업무차 찾은 백귀야행의 거리…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2833604100
+    }
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 4,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ねえ、あの噂知ってる？",
+      "j_ko": "저기, 소문 들었어?",
+      "g_ja": "ねえ、あの噂知ってる？",
+      "g_ko": "저기, 소문 들었어?",
+      "g_en": "Hey, have you heard the rumors?",
+      "g_th": "นี่ ได้ยินข่าวลือนั้นหรือยัง?",
+      "g_tw": "喂，你聽說那個傳聞了嗎？",
+      "g_tw_cn": "喂，你听说那个传闻了吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1247542756,
+    "DataType": "speaker",
+    "Script": "2;백귀야행 학생 A;02;저기, 소문 들었어?\\n#2;em;[재잘]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "噂？何の？",
+      "j_ko": "소문? 무슨 소문?",
+      "g_ja": "噂？何の？",
+      "g_ko": "소문? 무슨 소문?",
+      "g_en": "Rumor? What rumor?",
+      "g_th": "ข่าวลือ? ข่าวลืออะไรเหรอ?",
+      "g_tw": "傳聞？什麼傳聞？",
+      "g_tw_cn": "传闻？什么传闻？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3080381498,
+    "DataType": "speaker",
+    "Script": "4;백귀야행 학생 핑크 B;02;소문? 무슨 소문?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 6,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "鳥居海岸に雪女が出るんだって！",
+      "j_ko": "토리이 해변에 설녀가 나타난다는 소문!",
+      "g_ja": "鳥居海岸に雪女が出るんだって！",
+      "g_ko": "토리이 해변에 설녀가 나타난다는 소문!",
+      "g_en": "Apparently a snow maiden has been appearing on the Torii beach!",
+      "g_th": "ที่บอกว่ามีสาวหิมะมาปรากฏตัวที่ชายหาดไง!",
+      "g_tw": "就是鳥居海岸出現雪女的傳聞啊！",
+      "g_tw_cn": "就是鸟居海岸出现雪女的传闻啊！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1247542756,
+    "DataType": "speaker",
+    "Script": "2;백귀야행 학생 A;01;토리이 해변에 설녀가 나타난다는 소문!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ええっ？雪女？\r\n\r\n",
+      "j_ko": "에에엥? 설녀가?",
+      "g_ja": "ええっ？雪女？\n\n",
+      "g_ko": "에에엥? 설녀가?",
+      "g_en": "Eh? A snow maiden?",
+      "g_th": "เอ๋? สาวหิมะงั้นเหรอ?",
+      "g_tw": "咦～？雪女？",
+      "g_tw_cn": "咦～？雪女？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3080381498,
+    "DataType": "speaker",
+    "Script": "4;백귀야행 학생 핑크 B;04;에에엥? 설녀가?\\n#4;shake\\n#4;em;[?!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Surprise",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 8,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（他の場所でも……）",
+      "j_ko": "(다른 장소에서도…….)",
+      "g_ja": "（他の場所でも……）",
+      "g_ko": "(다른 장소에서도…….)",
+      "g_en": "Somewhere else...",
+      "g_th": "(และในสถานที่อื่น...)",
+      "g_tw": "（在別的地方也……）",
+      "g_tw_cn": "（在别的地方也……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(다른 장소에서도…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 10,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1592269897
+    }
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いや、雪女が海なんかにいたら、日差しで溶けちゃいませんか？",
+      "j_ko": "아니, 해변에 설녀라니. 햇빛에 다 녹아버리는 거 아니에요?",
+      "g_ja": "いや、雪女が海なんかにいたら、日差しで溶けちゃいませんか？",
+      "g_ko": "아니, 해변에 설녀라니. 햇빛에 다 녹아버리는 거 아니에요?",
+      "g_en": "A snow maiden at a beach? Are you sure she didn't melt away under this sun?",
+      "g_th": "อะไรกัน สาวหิมะบนชายหาดงั้นเหรอ? ตัวเธอน่าจะละลายไปกับแสงแดดร้อนๆ นะ?",
+      "g_tw": "不是，海邊怎麼會有雪女啊。<br/>不會被陽光曬到融化嗎？",
+      "g_tw_cn": "不是，海边怎么会有雪女啊。<br/>不会被阳光晒到融化吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 521436467,
+    "DataType": "speaker",
+    "Script": "1;노점 상인;01;아니, 해변에 설녀라니. 햇빛에 다 녹아버리는 거 아니에요?\\n#1;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そういうもんかな？とにかく噂になっているんだよ。",
+      "j_ko": "응? 그런가? 아무튼 그런 소문이 돌던데요.",
+      "g_ja": "そういうもんかな？とにかく噂になっているんだよ。",
+      "g_ko": "응? 그런가? 아무튼 그런 소문이 돌던데요.",
+      "g_en": "Hmm, maybe? Anyways, that's what I heard.",
+      "g_th": "หืม? นั่นสินะ? เอาเป็นว่ามีข่าวลือแบบนั้นก็แล้วกัน",
+      "g_tw": "嗯？是嗎？總之就是有那樣的傳聞。",
+      "g_tw_cn": "嗯？是吗？总之就是有那样的传闻。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3824541971,
+    "DataType": "speaker",
+    "Script": "5;노점 손님;01;응? 그런가? 아무튼 그런 소문이 돌던데요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 13,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "雪女が一人でビーチをうろついてるって！",
+      "j_ko": "설녀가 혼자 해변을 돌아다닌다고!",
+      "g_ja": "雪女が一人でビーチをうろついてるって！",
+      "g_ko": "설녀가 혼자 해변을 돌아다닌다고!",
+      "g_en": "That a snow maiden is wandering around the beach alone!",
+      "g_th": "มีสาวหิมะมาปรากฏตัวเพียงลำพังอยู่ในชายหาดน่ะสิ!",
+      "g_tw": "說雪女獨自一人在海邊徘徊！",
+      "g_tw_cn": "说雪女独自一人在海边徘徊！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3824541971,
+    "DataType": "speaker",
+    "Script": "5;노점 손님;01;설녀가 혼자 해변을 돌아다닌다고!\\n#5;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " （おかしな噂が広まっている……）\r",
+      "j_ko": " (이상한 소문이 돌고 있다…….)",
+      "g_ja": " （おかしな噂が広まっている……）",
+      "g_ko": " (이상한 소문이 돌고 있다…….)",
+      "g_en": " \"(That's a strange rumor...)\"",
+      "g_th": " (มีข่าวลือแปลกๆ ไปทั่วเลย...)",
+      "g_tw": " （流傳著奇怪的傳聞……）",
+      "g_tw_cn": " （流传着奇怪的传闻……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] (이상한 소문이 돌고 있다…….)\\n[ns2] (설마…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " （まさか……）",
+      "j_ko": " (설마…….)",
+      "g_ja": " （まさか……）",
+      "g_ko": " (설마…….)",
+      "g_en": " \"(Wait, don't tell me...)\"",
+      "g_th": " (หรือว่า...)",
+      "g_tw": " （難道說……）",
+      "g_tw_cn": " （难道说……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] (이상한 소문이 돌고 있다…….)\\n[ns2] (설마…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 18,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 19,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（急いで百花繚乱の部室を訪れた）",
+      "j_ko": "(서둘러 백화요란 분쟁조정위원회를 찾아갔다.)",
+      "g_ja": "（急いで百花繚乱の部室を訪れた）",
+      "g_ko": "(서둘러 백화요란 분쟁조정위원회를 찾아갔다.)",
+      "g_en": "I hurried to the Hyakkaryouran Resolution Council.",
+      "g_th": "(คุณครูรีบมุ่งหน้าไปที่คณะไกล่เกลี่ยข้อพิพาท เฮียกกะเรียวรัน)",
+      "g_tw": "（急忙前往了百花繚亂紛爭調停委員會）",
+      "g_tw_cn": "（急忙前往了百花缭乱纷争调停委员会）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(서둘러 백화요란 분쟁조정위원회를 찾아갔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 20,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1753734847
+    }
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生？突然どうしたの？",
+      "j_ko": "응? 선생님? 갑자기 무슨 일이야?",
+      "g_ja": "先生？突然どうしたの？",
+      "g_ko": "응? 선생님? 갑자기 무슨 일이야?",
+      "g_en": "Hmm? Sensei, has something happened?",
+      "g_th": "หืม? คุณครู? มีเรื่องอะไรขึ้นมาเหรอ?",
+      "g_tw": "嗯？老師？這麼突然有什麼事嗎？",
+      "g_tw_cn": "嗯？老师？这么突然有什么事吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1798828068,
+    "DataType": "speaker",
+    "Script": "3;나구사;04;응? 선생님? 갑자기 무슨 일이야?\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 22,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（街に広まっている噂について話す）\r\n",
+      "j_ko": "(나구사에게 거리에서 떠도는 소문에 대해 말한다.)",
+      "g_ja": "（街に広まっている噂について話す）\n",
+      "g_ko": "(나구사에게 거리에서 떠도는 소문에 대해 말한다.)",
+      "g_en": "I told Nagusa about the rumors I'd been hearing everywhere.",
+      "g_th": "(คุณครูเล่าเกี่ยวกับข่าวลือที่แพร่สะพัดให้นางุสะฟัง)",
+      "g_tw": "（向名草說了街上流傳的傳聞）",
+      "g_tw_cn": "（向名草说了街上流传的传闻）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(나구사에게 거리에서 떠도는 소문에 대해 말한다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 24,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1753734847
+    }
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 25,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。\r\n",
+      "j_ko": "…….",
+      "g_ja": "……。\n",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1798828068,
+    "DataType": "speaker",
+    "Script": "3;나구사;12;…….\\n#3;em;[…]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 26,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それ、私のことかも。",
+      "j_ko": "그거, 아무래도 내 이야기가 맞는 것 같아.",
+      "g_ja": "それ、私のことかも。",
+      "g_ko": "그거, 아무래도 내 이야기가 맞는 것 같아.",
+      "g_en": "That does...rather sound like me.",
+      "g_th": "เรื่องนั้น... น่าจะเป็นเรื่องของฉันน่ะ",
+      "g_tw": "看來那個傳聞……說的應該就是我沒錯。",
+      "g_tw_cn": "看来那个传闻……说的应该就是我没错。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1798828068,
+    "DataType": "speaker",
+    "Script": "3;나구사;02;그거, 아무래도 내 이야기가 맞는 것 같아.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "最近よく鳥居海岸に行ってるから。",
+      "j_ko": "내가 간 해변이 토리이 해변이었거든.",
+      "g_ja": "最近よく鳥居海岸に行ってるから。",
+      "g_ko": "내가 간 해변이 토리이 해변이었거든.",
+      "g_en": "I did visit the Torii beach.",
+      "g_th": "ก็ชายหาดที่ฉันไปมา คือชายหาดโทริอิน่ะสิ",
+      "g_tw": "因為我去的海邊正是鳥居海岸。",
+      "g_tw_cn": "因为我去的海边正是鸟居海岸。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1798828068,
+    "DataType": "speaker",
+    "Script": "3;나구사;00;내가 간 해변이 토리이 해변이었거든.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "人目につかないように一人で泳いでたんだけど、逆効果だったみたい。\r\n",
+      "j_ko": "최대한 눈에 안 띄려고 혼자 수영했는데, 그게 역효과였을 줄이야.",
+      "g_ja": "人目につかないように一人で泳いでたんだけど、逆効果だったみたい。\n",
+      "g_ko": "최대한 눈에 안 띄려고 혼자 수영했는데, 그게 역효과였을 줄이야.",
+      "g_en": "I was swimming alone to avoid standing out, but it would appear that backfired.",
+      "g_th": "อุตส่าห์แอบไปว่ายน้ำคนเดียวเพราะไม่อยากให้ใครสังเกตเห็นแท้ๆ... ไม่คิดเลยว่าผลลัพธ์จะออกมากันตรงข้าม",
+      "g_tw": "我為了盡量不引人注目所以一個人去游泳，沒想到反而弄巧成拙了。",
+      "g_tw_cn": "我为了尽量不引人注目所以一个人去游泳，没想到反而弄巧成拙了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1798828068,
+    "DataType": "speaker",
+    "Script": "3;나구사;12;최대한 눈에 안 띄려고 혼자 수영했는데, 그게 역효과였을 줄이야.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……やっぱり、私は何をしても視線を集めてしまうのかな。\r\n",
+      "j_ko": "……역시, 나는 어떻게 해도 사람들의 시선을 사로잡는 모양이구나.",
+      "g_ja": "……やっぱり、私は何をしても視線を集めてしまうのかな。\n",
+      "g_ko": "……역시, 나는 어떻게 해도 사람들의 시선을 사로잡는 모양이구나.",
+      "g_en": "...No matter the endeavors I undertake, I am simply too dazzling.",
+      "g_th": "สรุปว่าไม่ว่าฉันจะทำอะไร ก็ดึงดูดความสนใจของผู้คนที่พบเห็นไปหมดสินะ...",
+      "g_tw": "……果然無論我怎麼做，似乎都會吸引眾人的目光呢。",
+      "g_tw_cn": "……果然无论我怎么做，似乎都会吸引众人的目光呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1798828068,
+    "DataType": "speaker",
+    "Script": "3;나구사;17;……역시, 나는 어떻게 해도 사람들의 시선을 사로잡는 모양이구나.\\n#3;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"こ、これは私のせいだ……！\"",
+      "j_ko": " \"이, 이건 내 잘못이야……!\"",
+      "g_ja": " \"こ、これは私のせいだ……！\"",
+      "g_ko": " \"이, 이건 내 잘못이야……!\"",
+      "g_en": " \"Th-This is my fault...!\"",
+      "g_th": " \"นะ... นี่เป็นความผิดของครูต่างหาก...!\"",
+      "g_tw": " 「是，是我不好……！」",
+      "g_tw_cn": " 「是，是我不好……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns3] \"이, 이건 내 잘못이야……!\"\\n[ns4] \"바다에 더 자주 가보라고 했던 건 나니까……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"もっと海に行くように勧めたから……。\"",
+      "j_ko": " \"바다에 더 자주 가보라고 했던 건 나니까……!\"",
+      "g_ja": " \"もっと海に行くように勧めたから……。\"",
+      "g_ko": " \"바다에 더 자주 가보라고 했던 건 나니까……!\"",
+      "g_en": " \"I told you to visit the beach more often...!\"",
+      "g_th": " \"ครูผิดเองที่บอกให้นางุสะไปทะเลบ่อยๆ...!\"",
+      "g_tw": " 「畢竟叫你多去海邊看看的是我……！」",
+      "g_tw_cn": " 「毕竟叫你多去海边看看的是我……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns3] \"이, 이건 내 잘못이야……!\"\\n[ns4] \"바다에 더 자주 가보라고 했던 건 나니까……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 33,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"よし、解決策を考えた！\"",
+      "j_ko": " \"그러니까 지금부터 이렇게 하자!\"",
+      "g_ja": " \"よし、解決策を考えた！\"",
+      "g_ko": " \"그러니까 지금부터 이렇게 하자!\"",
+      "g_en": " \"Okay, then let's do this!\"",
+      "g_th": " \"งั้นจากนี้ไป เราทำอย่างนี้แล้วกัน!\"",
+      "g_tw": " 「接下來就這麼辦吧！」",
+      "g_tw_cn": " 「接下来就这么办吧！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"그러니까 지금부터 이렇게 하자!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ん？どうするの？",
+      "j_ko": "응? 어떻게?",
+      "g_ja": "ん？どうするの？",
+      "g_ko": "응? 어떻게?",
+      "g_en": "Hm? What?",
+      "g_th": "หืม? ยังไงเหรอ?",
+      "g_tw": "嗯？怎麼辦？",
+      "g_tw_cn": "嗯？怎么办？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1798828068,
+    "DataType": "speaker",
+    "Script": "3;나구사;02;응? 어떻게?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 35,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 36,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Taiko_01"
+    }
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 36,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私と一緒に海へ行こう！",
+      "j_ko": "<cmd-char></cmd-char>나랑 같이 바다에 가는 거야!",
+      "g_ja": "私と一緒に海へ行こう！",
+      "g_ko": "<cmd-char></cmd-char>나랑 같이 바다에 가는 거야!",
+      "g_en": "<cmd-char></cmd-char>Let's go to the beach together!",
+      "g_th": "<cmd-char></cmd-char>ไปทะเลด้วยกันกับครูไง!",
+      "g_tw": "<cmd-char></cmd-char>跟我一起去海邊！",
+      "g_tw_cn": "<cmd-char></cmd-char>跟我一起去海边！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "stm",
+    "Script": "#stm;[0,0];instant;100;[log]나랑 같이 바다에 가는 거야![/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 38,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1753734847
+    }
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 39,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。\r\n",
+      "j_ko": "…….",
+      "g_ja": "……。\n",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1798828068,
+    "DataType": "speaker",
+    "Script": "3;나구사;04;…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 40,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "雪女が一人でうろついてるって噂だから……。",
+      "j_ko": "설녀가 혼자 돌아다닌다는 소문이 돌고 있으니까…….",
+      "g_ja": "雪女が一人でうろついてるって噂だから……。",
+      "g_ko": "설녀가 혼자 돌아다닌다는 소문이 돌고 있으니까…….",
+      "g_en": "Since the rumor is that the snow maiden is wandering around the beach alone...",
+      "g_th": "ตอนนี้กำลังมีข่าวลือว่าสาวหิมะมาปรากฏตัวเพียงลำพัง...",
+      "g_tw": "因為現在流傳著雪女獨自徘徊的傳聞……",
+      "g_tw_cn": "因为现在流传着雪女独自徘徊的传闻……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1798828068,
+    "DataType": "speaker",
+    "Script": "3;나구사;00;설녀가 혼자 돌아다닌다는 소문이 돌고 있으니까…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生がそばにいれば自然と噂は収まる、ってこと？\r\n",
+      "j_ko": "선생님이 계속 곁에서 즐겁게 어울려 준다면, 해변의 설녀 소문은 자연스레 사라질 거라고?",
+      "g_ja": "先生がそばにいれば自然と噂は収まる、ってこと？\n",
+      "g_ko": "선생님이 계속 곁에서 즐겁게 어울려 준다면, 해변의 설녀 소문은 자연스레 사라질 거라고?",
+      "g_en": "...if you are with me, the \"Snow Maiden of the Sands\" rumor would naturally fade away?",
+      "g_th": "หมายความว่าถ้าไปทะเลกับคุณครูละก็ ข่าวลือเรื่องสาวหิมะบนชายหาดก็จะค่อยๆ ซาไปเองงั้นเหรอ?",
+      "g_tw": "所以只要老師一直待在我身邊，雪女的傳聞就會自然消失？",
+      "g_tw_cn": "所以只要老师一直待在我身边，雪女的传闻就会自然消失？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1798828068,
+    "DataType": "speaker",
+    "Script": "3;나구사;02;선생님이 계속 곁에서 즐겁게 어울려 준다면, 해변의 설녀 소문은 자연스레 사라질 거라고?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。\r\n",
+      "j_ko": "…….",
+      "g_ja": "……。\n",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1798828068,
+    "DataType": "speaker",
+    "Script": "3;나구사;00;…….\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それを口実に私と海で遊ぼうとしてるんだ。",
+      "j_ko": "그걸 구실로 나랑 바다에 놀러 갈 심산인 거네.",
+      "g_ja": "それを口実に私と海で遊ぼうとしてるんだ。",
+      "g_ko": "그걸 구실로 나랑 바다에 놀러 갈 심산인 거네.",
+      "g_en": "Is this not simply a ploy to spend time with me at the beach?",
+      "g_th": "วางแผนใช้เรื่องนั้นเป็นข้ออ้างเพื่อไปเที่ยวทะเลกับฉันสินะ",
+      "g_tw": "你是打算拿這件事當藉口，跟我去海邊玩對吧？",
+      "g_tw_cn": "你是打算拿这件事当借口，跟我去海边玩对吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1798828068,
+    "DataType": "speaker",
+    "Script": "3;나구사;03;그걸 구실로 나랑 바다에 놀러 갈 심산인 거네.\\n#3;em;[전구]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Bulb",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "やっぱり先生は、したたかだね。",
+      "j_ko": "역시 선생님은 엉큼한 점이 있어.",
+      "g_ja": "やっぱり先生は、したたかだね。",
+      "g_ko": "역시 선생님은 엉큼한 점이 있어.",
+      "g_en": "Your cunning knows no bounds, Sensei.",
+      "g_th": "คุณครูนี่นะ ยังไม่ทิ้งนิสัยเจ้าเล่ห์เลยจริงๆ",
+      "g_tw": "老師果然別有心思呢。",
+      "g_tw_cn": "老师果然别有心思呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1798828068,
+    "DataType": "speaker",
+    "Script": "3;나구사;15;역시 선생님은 엉큼한 점이 있어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まあ……楽しそうだし。",
+      "j_ko": "하지만…… 재미있을 것 같아.",
+      "g_ja": "まあ……楽しそうだし。",
+      "g_ko": "하지만…… 재미있을 것 같아.",
+      "g_en": "However, that does sound rather...fun.",
+      "g_th": "แต่ว่า... แบบนั้นก็น่าสนุกดีนะ",
+      "g_tw": "不過……感覺會很有趣。",
+      "g_tw_cn": "不过……感觉会很有趣。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1798828068,
+    "DataType": "speaker",
+    "Script": "3;나구사;01;하지만…… 재미있을 것 같아.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "分かった。行こっか、先生。\r\n",
+      "j_ko": "알았어. 부탁할게. 같이 바다에 가자.",
+      "g_ja": "分かった。行こっか、先生。\n",
+      "g_ko": "알았어. 부탁할게. 같이 바다에 가자.",
+      "g_en": "I am in agreement. Let us go to the beach.",
+      "g_th": "ก็ได้ งั้นก็ฝากด้วยนะ ไว้เราไปทะเลด้วยกันเถอะ",
+      "g_tw": "好吧，那就拜託你了。<br/>一起去海邊吧。",
+      "g_tw_cn": "好吧，那就拜托你了。<br/>一起去海边吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1798828068,
+    "DataType": "speaker",
+    "Script": "3;나구사;16;알았어. 부탁할게. 같이 바다에 가자.\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"やった……！\"",
+      "j_ko": " \"얏호……!\"",
+      "g_ja": " \"やった……！\"",
+      "g_ko": " \"얏호……!\"",
+      "g_en": " \"YAY!\"",
+      "g_th": " \"ยะฮู้ว...!\"",
+      "g_tw": " 「呀呼……！」",
+      "g_tw_cn": " 「呀呼……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"얏호……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 48,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（そしてナグサと一緒に行った海では……）\r\n",
+      "j_ko": "(그리하여 나구사와 함께 찾아간 바다…….)",
+      "g_ja": "（そしてナグサと一緒に行った海では……）\n",
+      "g_ko": "(그리하여 나구사와 함께 찾아간 바다…….)",
+      "g_en": "So I went to the beach with Nagusa...",
+      "g_th": "(แล้วคุณครูกับนางุสะก็ได้ไปทะเลด้วยกัน...)",
+      "g_tw": "（於是和名草一起前往了海邊……）",
+      "g_tw_cn": "（于是和名草一起前往了海边……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그리하여 나구사와 함께 찾아간 바다…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 50,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1946431397
+    }
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 51,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SandRun_01"
+    }
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 52,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SandRun_02"
+    }
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 53,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 55,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SandRun_01"
+    }
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 56,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SandRun_02"
+    }
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 57,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（多くの生徒たちが楽しんでいた）",
+      "j_ko": "(많은 아이가 즐거운 시간을 보내고 있었다.)",
+      "g_ja": "（多くの生徒たちが楽しんでいた）",
+      "g_ko": "(많은 아이가 즐거운 시간을 보내고 있었다.)",
+      "g_en": "The beach was packed with students and civilians having fun.",
+      "g_th": "(เด็กๆ หลายคนกำลังสนุกสนาน)",
+      "g_tw": "（那裡有許多學生正享受著愉快的時光）",
+      "g_tw_cn": "（那里有许多学生正享受着愉快的时光）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(많은 아이가 즐거운 시간을 보내고 있었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 60,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SandFootStep_01"
+    }
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 62,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今日はいつもより人が多いね。",
+      "j_ko": "오늘은 평소보다 사람이 많네.",
+      "g_ja": "今日はいつもより人が多いね。",
+      "g_ko": "오늘은 평소보다 사람이 많네.",
+      "g_en": "It is certainly busier than usual.",
+      "g_th": "วันนี้คนเยอะกว่าทุกวันอีกนะ",
+      "g_tw": "今天的人比平常還多呢。",
+      "g_tw_cn": "今天的人比平常还多呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2139245516,
+    "DataType": "speaker",
+    "Script": "3;나구사 수영복;02;오늘은 평소보다 사람이 많네.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 64,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ！ナグサさん！",
+      "j_ko": "아! 나구사 님이다!",
+      "g_ja": "あ！ナグサさん！",
+      "g_ko": "아! 나구사 님이다!",
+      "g_en": "Ah, it's Nagusa!",
+      "g_th": "อ๊ะ! คุณนางุสะนี่นา!",
+      "g_tw": "啊！是名草大人！",
+      "g_tw_cn": "啊！是名草大人！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 672876078,
+    "DataType": "speaker",
+    "Script": "2;백귀야행 학생 수영복 A;02\\n4;백귀야행 학생 수영복 B;00\\n#na;백귀야행 학생 수영복 A;아! 나구사 님이다!\\n#2;em;[반응]\\n#2;h",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 65,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 65,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ナグサさんも雪女を見に来たんですか？",
+      "j_ko": "나구사 님! 나구사 님도 설녀를 구경하러 오신 건가요?",
+      "g_ja": "ナグサさんも雪女を見に来たんですか？",
+      "g_ko": "나구사 님! 나구사 님도 설녀를 구경하러 오신 건가요?",
+      "g_en": "Nagusa! Are you here to meet the snow maiden, too?",
+      "g_th": "คุณนางุสะ! คุณนางุสะก็มาดูสาวหิมะกับเขาด้วยเหรอคะ?",
+      "g_tw": "名草大人！名草大人也是來看雪女的嗎？",
+      "g_tw_cn": "名草大人！名草大人也是来看雪女的吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 729646543,
+    "DataType": "speaker",
+    "Script": "2;백귀야행 학생 수영복 A;02\\n4;백귀야행 학생 수영복 B;03;나구사 님! 나구사 님도 설녀를 구경하러 오신 건가요?\\n#4;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ん？\r\n",
+      "j_ko": "……응?",
+      "g_ja": "……ん？\n",
+      "g_ko": "……응?",
+      "g_en": "...Huh?",
+      "g_th": "หืม...?",
+      "g_tw": "……嗯？",
+      "g_tw_cn": "……嗯？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2139245516,
+    "DataType": "speaker",
+    "Script": "3;나구사 수영복;02;……응?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"やけに人が多いのは……そのせいかな？\"",
+      "j_ko": " \"사람이 많은 이유가…… 그거 때문이었나?\"",
+      "g_ja": " \"やけに人が多いのは……そのせいかな？\"",
+      "g_ko": " \"사람이 많은 이유가…… 그거 때문이었나?\"",
+      "g_en": " \"THAT'S why there are so many people?\"",
+      "g_th": " \"เพราะแบบนี้สินะ... คนก็เลยเยอะเป็นพิเศษ\"",
+      "g_tw": " 「人這麼多的原因……是因為那個嗎？」",
+      "g_tw_cn": " 「人这么多的原因……是因为那个吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"사람이 많은 이유가…… 그거 때문이었나?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "…….",
+      "g_ja": "……。",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2139245516,
+    "DataType": "speaker",
+    "Script": "3;나구사 수영복;10;…….\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "噂の雪女は、たぶん私のことだよ。",
+      "j_ko": "아마도, 소문의 설녀는 나였을 거야.",
+      "g_ja": "噂の雪女は、たぶん私のことだよ。",
+      "g_ko": "아마도, 소문의 설녀는 나였을 거야.",
+      "g_en": "I believe that the snow maiden of the rumor is me.",
+      "g_th": "สาวหิมะในข่าวลืออาจจะเป็นฉันก็ได้นะ",
+      "g_tw": "傳聞中的雪女，大概就是我吧。",
+      "g_tw_cn": "传闻中的雪女，大概就是我吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2139245516,
+    "DataType": "speaker",
+    "Script": "3;나구사 수영복;04;아마도, 소문의 설녀는 나였을 거야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 72,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えっ！？",
+      "j_ko": "네에에에?!",
+      "g_ja": "えっ！？",
+      "g_ko": "네에에에?!",
+      "g_en": "WHAAAT?!",
+      "g_th": "คะ?!",
+      "g_tw": "咦～～！？",
+      "g_tw_cn": "咦～～！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 672876078,
+    "DataType": "speaker",
+    "Script": "2;백귀야행 학생 수영복 A;04\\n4;백귀야행 학생 수영복 B;00\\n#na;백귀야행 학생 수영복 A;네에에에?!\\n#2;h\\n#2;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 74,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "目立たないようにって行動してたのが誤解されちゃったみたい。",
+      "j_ko": "눈에 띄지 않으려고 단독 활동을 하는 바람에 오해가 생긴 모양이네.",
+      "g_ja": "目立たないようにって行動してたのが誤解されちゃったみたい。",
+      "g_ko": "눈에 띄지 않으려고 단독 활동을 하는 바람에 오해가 생긴 모양이네.",
+      "g_en": "My attempts to evade others' attention appear to have had the opposite effect.",
+      "g_th": "ฉันพยายามแยกตัวไปทำอะไรคนเดียวเพราะไม่อยากให้ใครสังเกตเห็น แต่สงสัยจะทำให้เกิดเรื่องเข้าใจผิดขึ้นมาน่ะ",
+      "g_tw": "似乎是我為了不引人注目而單獨行動，結果反而造成了誤會。",
+      "g_tw_cn": "似乎是我为了不引人注目而单独行动，结果反而造成了误会。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2139245516,
+    "DataType": "speaker",
+    "Script": "3;나구사 수영복;06;눈에 띄지 않으려고 단독 활동을 하는 바람에 오해가 생긴 모양이네.\\n#3;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "わ、私たち、そうとも知らずに……！",
+      "j_ko": "저, 저희는 그런 줄도 모르고……!",
+      "g_ja": "わ、私たち、そうとも知らずに……！",
+      "g_ko": "저, 저희는 그런 줄도 모르고……!",
+      "g_en": "W-We didn't realize...!",
+      "g_th": "พะ... พวกฉันไม่รู้เลยค่ะว่าเป็นแบบนั้น...!",
+      "g_tw": "我，我們竟然完全不知情……！",
+      "g_tw_cn": "我，我们竟然完全不知情……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 729646543,
+    "DataType": "speaker",
+    "Script": "2;백귀야행 학생 수영복 A;04\\n4;백귀야행 학생 수영복 B;06;저, 저희는 그런 줄도 모르고……!\\n#4;h\\n#4;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Upset",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 78,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_01"
+    }
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 78,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "大丈夫。気にしないで。",
+      "j_ko": "아니야, 신경 쓰지 마.",
+      "g_ja": "大丈夫。気にしないで。",
+      "g_ko": "아니야, 신경 쓰지 마.",
+      "g_en": "Worry not. It is of no concern.",
+      "g_th": "ไม่เป็นไร ไม่ต้องสนใจหรอก",
+      "g_tw": "沒關係，你們不用在意。",
+      "g_tw_cn": "没关系，你们不用在意。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2139245516,
+    "DataType": "speaker",
+    "Script": "3;나구사 수영복;03;아니야, 신경 쓰지 마.\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 83,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 84,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1946431397
+    }
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 85,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それじゃ、先生……一緒に海を楽しもっか。",
+      "j_ko": "그럼…… 같이 바다를 즐기자, 선생님.",
+      "g_ja": "それじゃ、先生……一緒に海を楽しもっか。",
+      "g_ko": "그럼…… 같이 바다를 즐기자, 선생님.",
+      "g_en": "Then, let's go enjoy the beach, Sensei.",
+      "g_th": "ถ้างั้น... เราไปเล่นน้ำด้วยกันเถอะ คุณครู",
+      "g_tw": "那麼……一起享受大海吧，老師。",
+      "g_tw_cn": "那么……一起享受大海吧，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2139245516,
+    "DataType": "speaker",
+    "Script": "3;나구사 수영복;02;그럼…… 같이 바다를 즐기자, 선생님.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 86,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "みんなの誤解が解けるように。",
+      "j_ko": "사람들의 오해가 풀리도록, 날 도와주는 거야.",
+      "g_ja": "みんなの誤解が解けるように。",
+      "g_ko": "사람들의 오해가 풀리도록, 날 도와주는 거야.",
+      "g_en": "Please assist me in clearing up this misunderstanding.",
+      "g_th": "คุณครูต้องช่วยฉันคลายความเข้าใจผิดของทุกคนสิ",
+      "g_tw": "為了解開眾人的誤會，你得陪著我才行。",
+      "g_tw_cn": "为了解开众人的误会，你得陪着我才行。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2139245516,
+    "DataType": "speaker",
+    "Script": "3;나구사 수영복;03;사람들의 오해가 풀리도록, 날 도와주는 거야.\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 87,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"もちろん！\"",
+      "j_ko": " \"물론이지!\"",
+      "g_ja": " \"もちろん！\"",
+      "g_ko": " \"물론이지!\"",
+      "g_en": " \"Of course!\"",
+      "g_th": " \"แน่นอนอยู่แล้ว!\"",
+      "g_tw": " 「那當然！」",
+      "g_tw_cn": " 「那当然！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"물론이지!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 90,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SandFootStep_01"
+    }
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 92,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_01"
+    }
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 93,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3089427873
+    }
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 94,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterRun_01"
+    }
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 95,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterFootStep_01a"
+    }
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 96,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterRun_01"
+    }
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 98,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Water_Pour_01"
+    }
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 99,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 100,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1946431397
+    }
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 100,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "popup",
+      "Id": "popup32"
+    }
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 101,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "popup",
+      "Id": "popup32"
+    }
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 103,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 103,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_BatSwing_01"
+    }
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 104,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Break_01"
+    }
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 105,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 542731893
+    }
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 106,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 108,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 109,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（本当に楽しい時間が続いた……）\r\n",
+      "j_ko": "(정말로 즐거운 시간이 이어졌다…….)",
+      "g_ja": "（本当に楽しい時間が続いた……）\n",
+      "g_ko": "(정말로 즐거운 시간이 이어졌다…….)",
+      "g_en": "We had a great rest of our day.",
+      "g_th": "(ช่วงเวลาที่สนุกสนานดำเนินต่อไป...)",
+      "g_tw": "（愉快的時光持續著……）",
+      "g_tw_cn": "（愉快的时光持续着……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(정말로 즐거운 시간이 이어졌다…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 110,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3322378874
+    }
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 111,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 96,
+    "AbsolutePos": 111,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Seagull_01"
+    }
+  },
+  {
+    "ActualPos": 97,
+    "AbsolutePos": 112,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1853860068
+    }
+  },
+  {
+    "ActualPos": 98,
+    "AbsolutePos": 113,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SeaWave_01"
+    }
+  },
+  {
+    "ActualPos": 99,
+    "AbsolutePos": 114,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3566165386
+    }
+  },
+  {
+    "ActualPos": 100,
+    "AbsolutePos": 116,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 135
+    }
+  },
+  {
+    "ActualPos": 101,
+    "AbsolutePos": 116,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もう……こんな時間か。\r\n",
+      "j_ko": "벌써…… 시간이 이렇게 됐네.",
+      "g_ja": "もう……こんな時間か。\n",
+      "g_ko": "벌써…… 시간이 이렇게 됐네.",
+      "g_en": "Oh... Look at the time.",
+      "g_th": "เวลาผ่านไปขนาดนี้แล้วเหรอเนี่ย",
+      "g_tw": "已經……天黑了呢。",
+      "g_tw_cn": "已经……天黑了呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2139245516,
+    "DataType": "speaker",
+    "Script": "3;나구사 수영복;03;벌써…… 시간이 이렇게 됐네.\\n#3;em;[반응]",
+    "BGMId": 135,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 102,
+    "AbsolutePos": 117,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生のおかげで本当に楽しかった。",
+      "j_ko": "덕분에 정말 즐거웠어.",
+      "g_ja": "先生のおかげで本当に楽しかった。",
+      "g_ko": "덕분에 정말 즐거웠어.",
+      "g_en": "Today was very fun.",
+      "g_th": "ขอบคุณนะ วันนี้สนุกมากเลยละ",
+      "g_tw": "多虧了老師，我真的很開心。",
+      "g_tw_cn": "多亏了老师，我真的很开心。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2139245516,
+    "DataType": "speaker",
+    "Script": "3;나구사 수영복;13;덕분에 정말 즐거웠어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 103,
+    "AbsolutePos": 118,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "海に来た目的を忘れるくらい。\r\n",
+      "j_ko": "바다를 찾아온 본래의 목적을 잊어버릴 정도로.",
+      "g_ja": "海に来た目的を忘れるくらい。\n",
+      "g_ko": "바다를 찾아온 본래의 목적을 잊어버릴 정도로.",
+      "g_en": "So much so that our original intention in visiting the beach slipped my mind entirely.",
+      "g_th": "ฉันสนุกจนเกือบลืมจุดประสงค์เดิมที่มาทะเลด้วยกันวันนี้เลย",
+      "g_tw": "開心到都快忘記來海邊的目的了。",
+      "g_tw_cn": "开心到都快忘记来海边的目的了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2139245516,
+    "DataType": "speaker",
+    "Script": "3;나구사 수영복;14;바다를 찾아온 본래의 목적을 잊어버릴 정도로.\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 104,
+    "AbsolutePos": 119,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "誤解を解きたくて来たのに、遊ぶのに夢中になって……。",
+      "j_ko": "난 분명 오해를 풀고 싶어서 왔는데, 노는 것에 정신이 팔려서…….",
+      "g_ja": "誤解を解きたくて来たのに、遊ぶのに夢中になって……。",
+      "g_ko": "난 분명 오해를 풀고 싶어서 왔는데, 노는 것에 정신이 팔려서…….",
+      "g_en": "I came here to combat the rumors spreading due to my negligence, and yet I enjoyed myself immensely.",
+      "g_th": "ฉันมาที่นี่เพราะอยากคลายความเข้าใจผิดแท้ๆ แต่ฉันกลับสนุกจนลืมตัวไปเลย...",
+      "g_tw": "我明明是為了解開誤會才來的，結果卻只顧著玩……",
+      "g_tw_cn": "我明明是为了解开误会才来的，结果却只顾着玩……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2139245516,
+    "DataType": "speaker",
+    "Script": "3;나구사 수영복;11;난 분명 오해를 풀고 싶어서 왔는데, 노는 것에 정신이 팔려서…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 105,
+    "AbsolutePos": 120,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"目的なんて関係ないよ。\"",
+      "j_ko": " \"이유 같은 건 상관없어.\"",
+      "g_ja": " \"目的なんて関係ないよ。\"",
+      "g_ko": " \"이유 같은 건 상관없어.\"",
+      "g_en": " \"The reason doesn't matter too much.\"",
+      "g_th": " \"เหตุผลน่ะไม่สำคัญหรอก\"",
+      "g_tw": " 「理由什麼的都無所謂。」",
+      "g_tw_cn": " 「理由什么的都无所谓。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"이유 같은 건 상관없어.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 106,
+    "AbsolutePos": 122,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"一緒にいる時間が楽しかったなら、それで十分。\"",
+      "j_ko": " \"함께 있는 시간이 즐거웠다면, 그걸로 충분해.\"",
+      "g_ja": " \"一緒にいる時間が楽しかったなら、それで十分。\"",
+      "g_ko": " \"함께 있는 시간이 즐거웠다면, 그걸로 충분해.\"",
+      "g_en": " \"If you found our time together enjoyable, that's enough.\"",
+      "g_th": " \"ถ้าอยู่ด้วยกันแล้วมีความสุขก็พอแล้วละ\"",
+      "g_tw": " 「只要待在一起的時光是快樂的，那就足夠了。」",
+      "g_tw_cn": " 「只要待在一起的时光是快乐的，那就足够了。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"함께 있는 시간이 즐거웠다면, 그걸로 충분해.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 107,
+    "AbsolutePos": 124,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。\r\n",
+      "j_ko": "…….",
+      "g_ja": "……。\n",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2139245516,
+    "DataType": "speaker",
+    "Script": "3;나구사 수영복;13;…….\\n#3;em;[…]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 108,
+    "AbsolutePos": 125,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……うん。そうだね。",
+      "j_ko": "……응. 그렇네.",
+      "g_ja": "……うん。そうだね。",
+      "g_ko": "……응. 그렇네.",
+      "g_en": "...Yes, you're right.",
+      "g_th": "อื้อ... นั่นสินะ",
+      "g_tw": "……嗯。說的也是。",
+      "g_tw_cn": "……嗯。说的也是。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2139245516,
+    "DataType": "speaker",
+    "Script": "3;나구사 수영복;14;……응. 그렇네.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 109,
+    "AbsolutePos": 126,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それなら、またお願いしてもいいの？",
+      "j_ko": "그럼, 또 부탁해도 될까?",
+      "g_ja": "それなら、またお願いしてもいいの？",
+      "g_ko": "그럼, 또 부탁해도 될까?",
+      "g_en": "Could I reach out to you for assistance next time as well?",
+      "g_th": "ถ้างั้น ไว้ฉันขอให้ช่วยแบบนี้อีกได้มั้ย?",
+      "g_tw": "那我下次還可以拜託你嗎？",
+      "g_tw_cn": "那我下次还可以拜托你吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2139245516,
+    "DataType": "speaker",
+    "Script": "3;나구사 수영복;13;그럼, 또 부탁해도 될까?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 110,
+    "AbsolutePos": 127,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"当然だよ！\"",
+      "j_ko": " \"물론이지.\"",
+      "g_ja": " \"当然だよ！\"",
+      "g_ko": " \"물론이지.\"",
+      "g_en": " \"Of course.\"",
+      "g_th": " \"ได้อยู่แล้ว\"",
+      "g_tw": " 「當然囉。」",
+      "g_tw_cn": " 「当然啰。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"물론이지.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 111,
+    "AbsolutePos": 128,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_01"
+    }
+  },
+  {
+    "ActualPos": 112,
+    "AbsolutePos": 128,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ありがとう、先生。",
+      "j_ko": "고마워, 선생님.",
+      "g_ja": "ありがとう、先生。",
+      "g_ko": "고마워, 선생님.",
+      "g_en": "Thank you, Sensei.",
+      "g_th": "ขอบคุณนะ คุณครู",
+      "g_tw": "謝謝你，老師。",
+      "g_tw_cn": "谢谢你，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2139245516,
+    "DataType": "speaker",
+    "Script": "3;나구사 수영복;03;고마워, 선생님.\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 113,
+    "AbsolutePos": 131,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SandFootStep_01"
+    }
+  },
+  {
+    "ActualPos": 114,
+    "AbsolutePos": 133,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "遅くなったし……そろそろ帰ろう。\r\n",
+      "j_ko": "이제…… 슬슬 돌아가자. 밤이 너무 깊었어.",
+      "g_ja": "遅くなったし……そろそろ帰ろう。\n",
+      "g_ko": "이제…… 슬슬 돌아가자. 밤이 너무 깊었어.",
+      "g_en": "Let us go home. The hour grows late.",
+      "g_th": "ฉันว่า... เรากลับกันได้แล้วละ นี่ก็ดึกมากแล้วด้วย",
+      "g_tw": "差不多……該回去了。<br/>時間已經很晚了。",
+      "g_tw_cn": "差不多……该回去了。<br/>时间已经很晚了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2139245516,
+    "DataType": "speaker",
+    "Script": "3;나구사 수영복;14;이제…… 슬슬 돌아가자. 밤이 너무 깊었어.\\n#3;em;[///]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 115,
+    "AbsolutePos": 134,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 116,
+    "AbsolutePos": 135,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（その後、ナグサを百花繚乱の部室まで送っていった）",
+      "j_ko": "(이후 나구사를 백화요란 분쟁조정위원회실까지 바래다주었다.)",
+      "g_ja": "（その後、ナグサを百花繚乱の部室まで送っていった）",
+      "g_ko": "(이후 나구사를 백화요란 분쟁조정위원회실까지 바래다주었다.)",
+      "g_en": "I took Nagusa back to the Hyakkaryouran Resolution Council.",
+      "g_th": "(หลังจากนั้นคุณครูก็มาส่งนางุสะถึงคณะไกล่เกลี่ยข้อพิพาท เฮียกกะเรียวรัน)",
+      "g_tw": "（之後將名草送回了百花繚亂紛爭調停委員會）",
+      "g_tw_cn": "（之后将名草送回了百花缭乱纷争调停委员会）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(이후 나구사를 백화요란 분쟁조정위원회실까지 바래다주었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 117,
+    "AbsolutePos": 136,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（次海に行く日が今から待ち遠しい）",
+      "j_ko": "(다음에 또 바다에 갈 날이 기다려진다…….)",
+      "g_ja": "（次海に行く日が今から待ち遠しい）",
+      "g_ko": "(다음에 또 바다에 갈 날이 기다려진다…….)",
+      "g_en": "I couldn't wait to go to the beach with Nagusa again...",
+      "g_th": "(และรอคอยวันที่จะได้ไปทะเลกับนางุสะอีกครั้ง...)",
+      "g_tw": "（真期待下次去海邊的日子……）",
+      "g_tw_cn": "（真期待下次去海边的日子……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(다음에 또 바다에 갈 날이 기다려진다…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

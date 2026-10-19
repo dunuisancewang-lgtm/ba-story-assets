@@ -1,0 +1,1902 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">断れない申し出</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">거절할 수 없는 제안</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">断れない申し出</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">거절할 수 없는 제안</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">An Unrefusable Offer</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ข้อเสนอที่ไม่อาจปฏิเสธ</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">無法拒絕的提案</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">无法拒绝的提案</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;거절할 수 없는 제안",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（一人の観光客として、フィーナのツアーに参加した）",
+      "j_ko": "(손님으로 피나의 투어에 따라왔다.)",
+      "g_ja": "（一人の観光客として、フィーナのツアーに参加した）",
+      "g_ko": "(손님으로 피나의 투어에 따라왔다.)",
+      "g_en": "I tagged along on Pina's tour.",
+      "g_th": "(คุณครูมาเป็นลูกทัวร์ของพีน่า)",
+      "g_tw": "（以遊客的身分參加了菲娜的導覽團）",
+      "g_tw_cn": "（以游客的身分参加了菲娜的导览团）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(손님으로 피나의 투어에 따라왔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2833604100
+    }
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 3,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 240
+    }
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 3,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ここから先は、現地ガイドの方の案内に従って入場しマス！",
+      "j_ko": "여기서부터는 현장 가이드의 인솔에 따라 입장하시면 됩니다.",
+      "g_ja": "ここから先は、現地ガイドの方の案内に従って入場しマス！",
+      "g_ko": "여기서부터는 현장 가이드의 인솔에 따라 입장하시면 됩니다.",
+      "g_en": "The castle's docent will take care of you from here!",
+      "g_th": "จากตรงนี้ไป ทุกท่านเข้าไปข้างในตามการแนะนำของไกด์ที่นี่ได้เลยค่ะ",
+      "g_tw": "接下來請跟著現場的導覽員入場。",
+      "g_tw_cn": "接下来请跟着现场的导览员入场。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "3;피나 가이드;03;여기서부터는 현장 가이드의 인솔에 따라 입장하시면 됩니다.\\n#3;a\\n#3;em;[재잘]",
+    "BGMId": 240,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 4,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "集合時間までにバスへ戻ってきてクダサイね！",
+      "j_ko": "그러면 집합시간까지 버스로 와 주시기 바랍니다!",
+      "g_ja": "集合時間までにバスへ戻ってきてクダサイね！",
+      "g_ko": "그러면 집합시간까지 버스로 와 주시기 바랍니다!",
+      "g_en": "Please return to the bus on time! Thank you!",
+      "g_th": "แล้วกลับมาที่รถภายในเวลานัดพบที่กำหนดนะคะ!",
+      "g_tw": "之後請在集合時間回到巴士這邊哦！",
+      "g_tw_cn": "之后请在集合时间回到巴士这边哦！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "3;피나 가이드;01;그러면 집합시간까지 버스로 와 주시기 바랍니다!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 6,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うわぁ……立派なお城だ……！",
+      "j_ko": "오… 대단한 성이군.",
+      "g_ja": "うわぁ……立派なお城だ……！",
+      "g_ko": "오… 대단한 성이군.",
+      "g_en": "Oh... It's incredible!",
+      "g_th": "โห... ปราสาทนี้สวยจังเลย",
+      "g_tw": "哦……好氣派的城堡啊。",
+      "g_tw_cn": "哦……好气派的城堡啊。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1510751406,
+    "DataType": "speaker",
+    "Script": "4;여행객 A2;00;오… 대단한 성이군.\\n#4;a\\n#4;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "何度来てもここはすごいね。",
+      "j_ko": "여러 번 와 봤지만 대단하네.",
+      "g_ja": "何度来てもここはすごいね。",
+      "g_ko": "여러 번 와 봤지만 대단하네.",
+      "g_en": "I come here a lot, and even the grounds are breathtaking!",
+      "g_th": "ฉันมาที่นี่ก็หลายครั้งแล้ว แต่เห็นกี่ครั้งก็ยังน่าประทับใจเหมือนเดิมเลยละ",
+      "g_tw": "不管來幾次都覺得很震撼呢。",
+      "g_tw_cn": "不管来几次都觉得很震撼呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2085186708,
+    "DataType": "speaker",
+    "Script": "1;운전 기사;00;여러 번 와 봤지만 대단하네.\\n#1;ar\\n#4;m5",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 8,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いつか、じっくり見て回りたいもんだ。",
+      "j_ko": "언제 한 번 시간 내서 실내도 들어가 보면 좋겠는걸.",
+      "g_ja": "いつか、じっくり見て回りたいもんだ。",
+      "g_ko": "언제 한 번 시간 내서 실내도 들어가 보면 좋겠는걸.",
+      "g_en": "I really wish I could afford to go inside...",
+      "g_th": "อยากเข้าไปดูในตัวปราสาทดูสักครั้งจัง",
+      "g_tw": "希望下次有機會進去裡面參觀。",
+      "g_tw_cn": "希望下次有机会进去里面参观。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2085186708,
+    "DataType": "speaker",
+    "Script": "1;운전 기사;00;언제 한 번 시간 내서 실내도 들어가 보면 좋겠는걸.\\n#2;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（せっかくだし、フィーナの様子を見に行ってみようかな）",
+      "j_ko": " (기왕 이렇게 된 거, 피나를 도우러 가볼까)",
+      "g_ja": "（せっかくだし、フィーナの様子を見に行ってみようかな）",
+      "g_ko": " (기왕 이렇게 된 거, 피나를 도우러 가볼까)",
+      "g_en": " (\"I'll use this opportunity to help Pina.\")",
+      "g_th": " \"เอาตั๋วใบนี้เข้าไปเที่ยวชมข้างในได้เลย\"",
+      "g_tw": "（既然如此，不如去幫菲娜的忙吧）",
+      "g_tw_cn": "（既然如此，不如去帮菲娜的忙吧）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] (기왕 이렇게 된 거, 피나를 도우러 가볼까)\\n[s2] \"혹시, 대신 입장하시겠어요?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"よかったら、私の代わりに見てきませんか？\"",
+      "j_ko": " \"혹시, 대신 입장하시겠어요?\"",
+      "g_ja": " \"よかったら、私の代わりに見てきませんか？\"",
+      "g_ko": " \"혹시, 대신 입장하시겠어요?\"",
+      "g_en": " \"Excuse me, would you like my spot on the tour?\"",
+      "g_th": " \"งั้นให้คุณคนขับรถไปเที่ยวข้างในแทนแล้วกัน\"",
+      "g_tw": "「不介意的話，要不要代替我進去參觀？」",
+      "g_tw_cn": "「不介意的话，要不要代替我进去参观？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] (기왕 이렇게 된 거, 피나를 도우러 가볼까)\\n[s2] \"혹시, 대신 입장하시겠어요?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えっ、ほんとかい？",
+      "j_ko": "오 괜찮겠나? 이거 미안한걸.",
+      "g_ja": "えっ、ほんとかい？",
+      "g_ko": "오 괜찮겠나? 이거 미안한걸.",
+      "g_en": "Truly? Thank you!",
+      "g_th": "โอ้ จริงเหรอ? ใจดีจริงๆ เลยนะเรา",
+      "g_tw": "咦，可以嗎？真不好意思。",
+      "g_tw_cn": "咦，可以吗？真不好意思。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2085186708,
+    "DataType": "speaker",
+    "Script": "1;운전 기사;00;오 괜찮겠나? 이거 미안한걸.\\n#1;m3\\n#4;dr",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "悪いね。じゃあ、お言葉に甘えようかな……！",
+      "j_ko": "그럼 간만에 여행 온 기분 좀 내봐야겠네!",
+      "g_ja": "悪いね。じゃあ、お言葉に甘えようかな……！",
+      "g_ko": "그럼 간만에 여행 온 기분 좀 내봐야겠네!",
+      "g_en": "What a wonderful opportunity! I can't wait!",
+      "g_th": "งั้นระหว่างนี้ก็ขอเป็นนักท่องเที่ยวดูหน่อยแล้วกันนะ!",
+      "g_tw": "那我就久違享受一下旅行的感覺囉！",
+      "g_tw_cn": "那我就久违享受一下旅行的感觉啰！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2085186708,
+    "DataType": "speaker",
+    "Script": "1;운전 기사;00;그럼 간만에 여행 온 기분 좀 내봐야겠네!\\n#1;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 14,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（フィーナの様子を見るために、バスに戻ることにした）",
+      "j_ko": "(피나를 돕고 싶었기에 버스로 돌아왔다.)",
+      "g_ja": "（フィーナの様子を見るために、バスに戻ることにした）",
+      "g_ko": "(피나를 돕고 싶었기에 버스로 돌아왔다.)",
+      "g_en": "I returned to the bus to help Pina.",
+      "g_th": "(แล้วคุณครูก็กลับไปที่รถเพราะอยากช่วยพีน่า)",
+      "g_tw": "（為了協助菲娜而回到了巴士）",
+      "g_tw_cn": "（为了协助菲娜而回到了巴士）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(피나를 돕고 싶었기에 버스로 돌아왔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 16,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2959583765
+    }
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 17,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "雨予報だから、傘も準備シテ……。",
+      "j_ko": "기상예보에서 비가 온다고 했으니 우산은 여기…….",
+      "g_ja": "雨予報だから、傘も準備シテ……。",
+      "g_ko": "기상예보에서 비가 온다고 했으니 우산은 여기…….",
+      "g_en": "Let's see...umbrellas in case there's a drizzle...",
+      "g_th": "พยากรณ์อากาศบอกว่าจะฝนตก งั้นก็เตรียมร่มไว้...",
+      "g_tw": "天氣預報說會下雨，先把傘放在這裡……",
+      "g_tw_cn": "天气预报说会下雨，先把伞放在这里……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "2;피나 가이드;01;기상예보에서 비가 온다고 했으니 우산은 여기…….\\n#2;a\\n#2;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 20,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 21,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "配布用のパンフレットはココ……。",
+      "j_ko": "나눠드릴 유인물은 여기…….",
+      "g_ja": "配布用のパンフレットはココ……。",
+      "g_ko": "나눠드릴 유인물은 여기…….",
+      "g_en": "And we can't forget these handy brochures...",
+      "g_th": "ใบปลิวที่ต้องเอาไปแจกอยู่ตรงนี้...",
+      "g_tw": "要發放的宣傳單在這邊……",
+      "g_tw_cn": "要发放的宣传单在这边……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "2;피나 가이드;01;나눠드릴 유인물은 여기…….\\n#2;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 22,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_01"
+    }
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ペットボトルは1本、2本、3本……。もう一度！1本、2本……",
+      "j_ko": "물병이 하나 둘 셋…아니, 다시, 하나 둘 셋……..",
+      "g_ja": "ペットボトルは1本、2本、3本……。もう一度！1本、2本……",
+      "g_ko": "물병이 하나 둘 셋…아니, 다시, 하나 둘 셋……..",
+      "g_en": "And for water bottles, I have a one, a two, a... How many, again?",
+      "g_th": "ขวดน้ำมีหนึ่ง สอง สาม... ไม่สิ เอาใหม่ๆ หนึ่ง สอง สาม...",
+      "g_tw": "水瓶一個、兩個、三個……<br/>再數一次。一、二、三……",
+      "g_tw_cn": "水瓶一个、两个、三个……<br/>再数一次。一、二、三……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "2;피나 가이드;05;물병이 하나 둘 셋…아니, 다시, 하나 둘 셋……..\\n#2;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 23,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_01"
+    }
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "念には念を入れマス！1本、2本……。",
+      "j_ko": "다 살펴보긴 했지만 혹시 모르니 다시…… 하나……. 둘…….",
+      "g_ja": "念には念を入れマス！1本、2本……。",
+      "g_ko": "다 살펴보긴 했지만 혹시 모르니 다시…… 하나……. 둘…….",
+      "g_en": "Looks right, but I should quadruple-check, just in case! A one...a two...",
+      "g_th": "ที่จริงก็เช็กหมดแล้ว แต่อีกรอบเพื่อความชัวร์ดีกว่า... หนึ่ง... สอง...",
+      "g_tw": "雖然已經檢查過了，但以防萬一還是……一個……兩個……",
+      "g_tw_cn": "虽然已经检查过了，但以防万一还是……一个……两个……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "2;피나 가이드;06;다 살펴보긴 했지만 혹시 모르니 다시…… 하나……. 둘…….\\n#2;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 24,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"フィーナ、お疲れ様。\"",
+      "j_ko": " \"피나, 수고가 많네.\"",
+      "g_ja": " \"フィーナ、お疲れ様。\"",
+      "g_ko": " \"피나, 수고가 많네.\"",
+      "g_en": " \"You're working hard, Pina.\"",
+      "g_th": " \"เหนื่อยแย่เลยนะ พีน่า\"",
+      "g_tw": "「菲娜，辛苦你了。」",
+      "g_tw_cn": "「菲娜，辛苦你了。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"피나, 수고가 많네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 25,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あっ！センセイ！",
+      "j_ko": "앗!! 선생님!",
+      "g_ja": "あっ！センセイ！",
+      "g_ko": "앗!! 선생님!",
+      "g_en": "Ah!!! Sensei!",
+      "g_th": "อ๊ะ!! คุณครู!",
+      "g_tw": "啊！！老師！",
+      "g_tw_cn": "啊！！老师！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "2;피나 가이드;02;앗!! 선생님!\\n#2;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 26,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "次の行き先の準備をしていマシタ！",
+      "j_ko": "에헤— 다음 코스의 준비를 하고 있었습니다!",
+      "g_ja": "次の行き先の準備をしていマシタ！",
+      "g_ko": "에헤— 다음 코스의 준비를 하고 있었습니다!",
+      "g_en": "Eh... I was just checking supplies. You can't be too prepared!",
+      "g_th": "แหะๆ ฉันกำลังเตรียมตัวสำหรับสถานที่ท่องเที่ยวต่อไปอยู่ค่ะ!",
+      "g_tw": "嘿嘿～我正在準備下個行程！",
+      "g_tw_cn": "嘿嘿～我正在准备下个行程！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "2;피나 가이드;03;에헤— 다음 코스의 준비를 하고 있었습니다!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "センセイはどうしてココに……ま、また何かやらかしマシタ！？",
+      "j_ko": "선생님께서는 그런데 왜…… 아앗?! 불초 피나가 혹시 이번에도 예약을 안 했다던가?!",
+      "g_ja": "センセイはどうしてココに……ま、また何かやらかしマシタ！？",
+      "g_ko": "선생님께서는 그런데 왜…… 아앗?! 불초 피나가 혹시 이번에도 예약을 안 했다던가?!",
+      "g_en": "But why are you... Aah?! Did I mess up your reservation?",
+      "g_th": "ว่าแต่ทำไมคุณครูถึง... อ๊ะ?! หรือว่าพีน่าลืมให้ตั๋วเข้าชมคุณครูคะ?!",
+      "g_tw": "不過老師你為什麼……啊啊！？<br/>難道是不才菲娜又忘記預約了嗎！？",
+      "g_tw_cn": "不过老师你为什么……啊啊！？<br/>难道是不才菲娜又忘记预约了吗！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "2;피나 가이드;04;선생님께서는 그런데 왜…… 아앗?! 불초 피나가 혹시 이번에도 예약을 안 했다던가?!\\n#2;em;[?!]\\n#2;shake",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Surprise",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " （フィーナの様子を見に来たことを説明する）",
+      "j_ko": " (피나를 도우러 왔다고 자초지종을 말한다)",
+      "g_ja": " （フィーナの様子を見に来たことを説明する）",
+      "g_ko": " (피나를 도우러 왔다고 자초지종을 말한다)",
+      "g_en": " Explain to Pina that I came here to help her.",
+      "g_th": " (อธิบายว่าที่มาหาเพราะอยากช่วยงานพีน่า)",
+      "g_tw": "（說明來龍去脈，表示自己是來幫他的）",
+      "g_tw_cn": "（说明来龙去脉，表示自己是来帮他的）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] (피나를 도우러 왔다고 자초지종을 말한다)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そういうことデスネ！でも、もう昔の未熟なフィーナとは違いマス！",
+      "j_ko": "그렇군요! 하지만 이 피나, 이전과는 다릅니다!",
+      "g_ja": "そういうことデスネ！でも、もう昔の未熟なフィーナとは違いマス！",
+      "g_ko": "그렇군요! 하지만 이 피나, 이전과는 다릅니다!",
+      "g_en": "I see! But, as you can see, I have everything under control!",
+      "g_th": "อย่างนี้สินะคะ! แต่พีน่าในตอนนี้ไม่ใช่พีน่าคนเดิมแล้วนะ!",
+      "g_tw": "原來如此！不過現在的菲娜，已經跟以前不一樣了！",
+      "g_tw_cn": "原来如此！不过现在的菲娜，已经跟以前不一样了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "2;피나 가이드;02;그렇군요! 하지만 이 피나, 이전과는 다릅니다!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ミスをしないように、石橋を何度も叩いて渡りマス！",
+      "j_ko": "이번에는 실수하지 않게 확실히 두 번, 세 번, 다섯 번 확인하고 있습니다!",
+      "g_ja": "ミスをしないように、石橋を何度も叩いて渡りマス！",
+      "g_ko": "이번에는 실수하지 않게 확실히 두 번, 세 번, 다섯 번 확인하고 있습니다!",
+      "g_en": "I checked everything thoroughly, just to ensure perfection. No more mistakes!",
+      "g_th": "ตอนนี้ไม่ว่าจะทำอะไร พีน่าจะเช็กซ้ำๆ สี่ห้าครั้งเลยค่ะ จะได้ไม่มีอะไรผิดพลาดยังไงล่ะคะ!",
+      "g_tw": "為了避免出錯，我確實檢查了兩次、三次、五次！",
+      "g_tw_cn": "为了避免出错，我确实检查了两次、三次、五次！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "2;피나 가이드;05;이번에는 실수하지 않게 확실히 두 번, 세 번, 다섯 번 확인하고 있습니다!\\n#2;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 31,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "トリプルチェック、デス！1本……2本……。",
+      "j_ko": "그런 김에 다시 하나…… 둘…….",
+      "g_ja": "トリプルチェック、デス！1本……2本……。",
+      "g_ko": "그런 김에 다시 하나…… 둘…….",
+      "g_en": "That said, let's count one more time. A one...a two...",
+      "g_th": "ไหนๆ ก็พูดถึงแล้ว งั้นขอนับใหม่อีกรอบ หนึ่ง... สอง... ",
+      "g_tw": "既然都說到這裡了，順便再來一次吧。<br/>一個……兩個……",
+      "g_tw_cn": "既然都说到这里了，顺便再来一次吧。<br/>一个……两个……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "2;피나 가이드;05;그런 김에 다시 하나…… 둘…….\\n#2;m4",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 32,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"もうその辺で十分じゃないかな？\"",
+      "j_ko": " \"이제 그만하면 충분한 것 같으니까\"",
+      "g_ja": " \"もうその辺で十分じゃないかな？\"",
+      "g_ko": " \"이제 그만하면 충분한 것 같으니까\"",
+      "g_en": " \"I think that's enough.\"",
+      "g_th": " \"ครูว่าเท่านี้ก็น่าจะเพียงพอแล้วนะ\"",
+      "g_tw": "「這樣應該差不多了。」",
+      "g_tw_cn": "「这样应该差不多了。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"이제 그만하면 충분한 것 같으니까\"\\n[s4] \"잠시 쉬는 것 어떨까?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 32,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"少し一緒に休憩しない？\"",
+      "j_ko": " \"잠시 쉬는 것 어떨까?\"",
+      "g_ja": " \"少し一緒に休憩しない？\"",
+      "g_ko": " \"잠시 쉬는 것 어떨까?\"",
+      "g_en": " \"How about a little break?\"",
+      "g_th": " \"ลองพักสักหน่อยมั้ย?\"",
+      "g_tw": "「要不要休息一下？」",
+      "g_tw_cn": "「要不要休息一下？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"이제 그만하면 충분한 것 같으니까\"\\n[s4] \"잠시 쉬는 것 어떨까?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 35,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "で、でも……やらかしが怖クテ……",
+      "j_ko": "그렇지만 더 이상 실수하기가 무섭다고 할지…….",
+      "g_ja": "で、でも……やらかしが怖クテ……",
+      "g_ko": "그렇지만 더 이상 실수하기가 무섭다고 할지…….",
+      "g_en": "But...I don't want to fail again.",
+      "g_th": "แต่ฉันกลัวว่าจะมีอะไรผิดพลาดอีก...",
+      "g_tw": "可是我一想到萬一又出錯就……",
+      "g_tw_cn": "可是我一想到万一又出错就……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "2;피나 가이드;09;그렇지만 더 이상 실수하기가 무섭다고 할지…….\\n#2;em;[세로선]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sad",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 36,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "念には念をデス……。",
+      "j_ko": "시간이 있을 때 좀 더 확실하게…….",
+      "g_ja": "念には念をデス……。",
+      "g_ko": "시간이 있을 때 좀 더 확실하게…….",
+      "g_en": "Since I have free time, I should use it to prepare for work, right?",
+      "g_th": "ตอนมีเวลา ฉันก็เลยอยากเช็กให้แน่ใจค่ะ...",
+      "g_tw": "只好趁有空的時候多確認……",
+      "g_tw_cn": "只好趁有空的时候多确认……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "2;피나 가이드;06;시간이 있을 때 좀 더 확실하게…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"フィーナは十分頑張ってるから。\"",
+      "j_ko": " \"피나는 충분히 잘 하고 있으니까.\"",
+      "g_ja": " \"フィーナは十分頑張ってるから。\"",
+      "g_ko": " \"피나는 충분히 잘 하고 있으니까.\"",
+      "g_en": " \"You're already doing well, Pina.\"",
+      "g_th": " \"พักหน่อยเถอะ ตอนนี้พีน่าทำได้ดีแล้วละ\"",
+      "g_tw": "「菲娜已經做得很好了。」",
+      "g_tw_cn": "「菲娜已经做得很好了。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"피나는 충분히 잘 하고 있으니까.\"\\n[s6] \"시간 날 때 쉬는 것도 일을 잘 하기 위해서 필요해\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"休むことも、大事な仕事の一つだよ。\"",
+      "j_ko": " \"시간 날 때 쉬는 것도 일을 잘 하기 위해서 필요해\"",
+      "g_ja": " \"休むことも、大事な仕事の一つだよ。\"",
+      "g_ko": " \"시간 날 때 쉬는 것도 일을 잘 하기 위해서 필요해\"",
+      "g_en": " \"Resting during your free time will actually improve your work.\"",
+      "g_th": " \"การพักผ่อนเมื่อมีเวลาจะทำให้เราทำงานได้ดีนะ\"",
+      "g_tw": "「想要把工作做好，適時休息也是必要的。」",
+      "g_tw_cn": "「想要把工作做好，适时休息也是必要的。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"피나는 충분히 잘 하고 있으니까.\"\\n[s6] \"시간 날 때 쉬는 것도 일을 잘 하기 위해서 필요해\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 40,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "身に余るお言葉、大変恐縮デス！",
+      "j_ko": "스승님이 그렇게 인정해 주시니 너무나도 황송합니다……!",
+      "g_ja": "身に余るお言葉、大変恐縮デス！",
+      "g_ko": "스승님이 그렇게 인정해 주시니 너무나도 황송합니다……!",
+      "g_en": "What a thing to hear from my mentor!",
+      "g_th": "ถ้าท่านอาจารย์ว่าอย่างนั้น พีน่าก็ซาบซึ้งใจนะคะ...!",
+      "g_tw": "老師居然對我這麼肯定，真是令我受寵若驚……！",
+      "g_tw_cn": "老师居然对我这么肯定，真是令我受宠若惊……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "2;피나 가이드;03;스승님이 그렇게 인정해 주시니 너무나도 황송합니다……!\\n#2;em;[재잘]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "センセイにそう言われては断れマセン……！",
+      "j_ko": "그렇다면 그 말씀대로 잠시 휴식을……!",
+      "g_ja": "センセイにそう言われては断れマセン……！",
+      "g_ko": "그렇다면 그 말씀대로 잠시 휴식을……!",
+      "g_en": "Well, if you insist, perhaps I will take a small...reprieve.",
+      "g_th": "งั้นพีน่าจะพักสักหน่อยอย่างที่ท่านอาจารย์แนะนำค่ะ...!",
+      "g_tw": "那麼就聽老師說的，暫時休息一下吧……！",
+      "g_tw_cn": "那么就听老师说的，暂时休息一下吧……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "2;피나 가이드;01;그렇다면 그 말씀대로 잠시 휴식을……!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 42,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 42,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（フィーナと一緒にバスの中で休むことにした）",
+      "j_ko": "(그렇게, 피나와 함께 차 안에서 쉬기로 했다.)",
+      "g_ja": "（フィーナと一緒にバスの中で休むことにした）",
+      "g_ko": "(그렇게, 피나와 함께 차 안에서 쉬기로 했다.)",
+      "g_en": "Pina and I decided to rest in the bus.",
+      "g_th": "(แล้วคุณครูก็พักผ่อนในรถกับพีน่า)",
+      "g_tw": "（就這樣和菲娜一起在車內休息）",
+      "g_tw_cn": "（就这样和菲娜一起在车内休息）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게, 피나와 함께 차 안에서 쉬기로 했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 44,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 841065535
+    }
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 44,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 216
+    }
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 46,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 973763034
+    }
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:630]― <cmd-char>피나 가이드</cmd-char>うーん、[wa:2080]ハッ！",
+      "j_ko": "[wa:630]― <cmd-char>피나 가이드</cmd-char>우-웅-!! [wa:1960]하-!",
+      "g_ja": "[wa:630]― <cmd-char>피나 가이드</cmd-char>うーん、[wa:2080]ハッ！",
+      "g_ko": "[wa:630]― <cmd-char>피나 가이드</cmd-char>우-웅-!! [wa:1960]하-!",
+      "g_en": "― <cmd-char>피나 가이드</cmd-char>Umm!!! Ha![wa:2590] ",
+      "g_th": "― <cmd-char>피나 가이드</cmd-char>อะ... อื้ม!! เฮ้อ![wa:2270] ",
+      "g_tw": "― <cmd-char>피나 가이드</cmd-char>唔嗯，哈！[wa:2790] ",
+      "g_tw_cn": "― <cmd-char>피나 가이드</cmd-char>唔嗯，哈！[wa:2790] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:630]― [log=피나 가이드]우-웅-!! [wa:1960]하-![/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 973763034,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 48,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>피나 가이드</cmd-char>……なんだか、[wa:1100]緊張していたみたいデス。",
+      "j_ko": "― <cmd-char>피나 가이드</cmd-char>어쩐지, [wa:1140]긴장하고 있었나 봅니다.",
+      "g_ja": "― <cmd-char>피나 가이드</cmd-char>……なんだか、[wa:1100]緊張していたみたいデス。",
+      "g_ko": "― <cmd-char>피나 가이드</cmd-char>어쩐지, [wa:1140]긴장하고 있었나 봅니다.",
+      "g_en": "― <cmd-char>피나 가이드</cmd-char>Seems like I was feeling tense.[wa:620] ",
+      "g_th": "― <cmd-char>피나 가이드</cmd-char>สงสัยฉันกำลังประหม่าอยู่น่ะค่ะ[wa:660] ",
+      "g_tw": "― <cmd-char>피나 가이드</cmd-char>總覺得，好像太緊張了。[wa:1420] ",
+      "g_tw_cn": "― <cmd-char>피나 가이드</cmd-char>总觉得，好像太紧张了。[wa:1420] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=피나 가이드]어쩐지, [wa:1140]긴장하고 있었나 봅니다.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1000]― <cmd-char>피나 가이드</cmd-char>お客さんと一緒の間は[wa:1440]夢中だったから、",
+      "j_ko": "[wa:1000]― <cmd-char>피나 가이드</cmd-char>손님들과 함께 있을[wa:1320] 때는 열중하느라, ",
+      "g_ja": "[wa:1000]― <cmd-char>피나 가이드</cmd-char>お客さんと一緒の間は[wa:1440]夢中だったから、",
+      "g_ko": "[wa:1000]― <cmd-char>피나 가이드</cmd-char>손님들과 함께 있을[wa:1320] 때는 열중하느라, ",
+      "g_en": "― <cmd-char>피나 가이드</cmd-char>I never really noticed when I was with guests[wa:1360] ",
+      "g_th": "― <cmd-char>피나 가이드</cmd-char>ตอนอยู่กับลูกทัวร์ ฉันมัวแต่ตั้งใจทำงาน[wa:1600] ",
+      "g_tw": "― <cmd-char>피나 가이드</cmd-char>跟客人們在一起的期間很投入，[wa:2600] ",
+      "g_tw_cn": "― <cmd-char>피나 가이드</cmd-char>跟客人们在一起的期间很投入，[wa:2600] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1000]― [log=피나 가이드]손님들과 함께 있을[wa:1320] 때는 열중하느라, [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 53,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>피나 가이드</cmd-char>気づかなったのデスが……",
+      "j_ko": "― <cmd-char>피나 가이드</cmd-char>눈치채지 못했는데…… ",
+      "g_ja": "― <cmd-char>피나 가이드</cmd-char>気づかなったのデスが……",
+      "g_ko": "― <cmd-char>피나 가이드</cmd-char>눈치채지 못했는데…… ",
+      "g_en": "― <cmd-char>피나 가이드</cmd-char>because I was so focused...",
+      "g_th": "― <cmd-char>피나 가이드</cmd-char>ก็เลยไม่รู้ตัว...",
+      "g_tw": "― <cmd-char>피나 가이드</cmd-char>所以沒注意到……",
+      "g_tw_cn": "― <cmd-char>피나 가이드</cmd-char>所以没注意到……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=피나 가이드]눈치채지 못했는데…… [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1000]― <cmd-char>피나 가이드</cmd-char>こうして先生と一緒にいると、",
+      "j_ko": "[wa:920]― <cmd-char>피나 가이드</cmd-char>이렇게 선생님과 함께 있으니,",
+      "g_ja": "[wa:1000]― <cmd-char>피나 가이드</cmd-char>こうして先生と一緒にいると、",
+      "g_ko": "[wa:920]― <cmd-char>피나 가이드</cmd-char>이렇게 선생님과 함께 있으니,",
+      "g_en": "― <cmd-char>피나 가이드</cmd-char>Being with you like this[wa:600] ",
+      "g_th": "― <cmd-char>피나 가이드</cmd-char>พอได้อยู่กับคุณครูแบบนี้[wa:600] ",
+      "g_tw": "― <cmd-char>피나 가이드</cmd-char>像這樣跟老師待在一起，[wa:1120] ",
+      "g_tw_cn": "― <cmd-char>피나 가이드</cmd-char>像这样跟老师待在一起，[wa:1120] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:920]― [log=피나 가이드]이렇게 선생님과 함께 있으니,[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 58,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>피나 가이드</cmd-char>なんだか[wa:920]心が落ち着きマス。",
+      "j_ko": "― <cmd-char>피나 가이드</cmd-char>마음이 [wa:920]한결 놓입니다. ",
+      "g_ja": "― <cmd-char>피나 가이드</cmd-char>なんだか[wa:920]心が落ち着きマス。",
+      "g_ko": "― <cmd-char>피나 가이드</cmd-char>마음이 [wa:920]한결 놓입니다. ",
+      "g_en": "― <cmd-char>피나 가이드</cmd-char>makes me feel relaxed.[wa:560] ",
+      "g_th": "― <cmd-char>피나 가이드</cmd-char>ฉันโล่งใจมากเลยค่ะ [wa:680] ",
+      "g_tw": "― <cmd-char>피나 가이드</cmd-char>心情才放鬆了下來。[wa:1080] ",
+      "g_tw_cn": "― <cmd-char>피나 가이드</cmd-char>心情才放松了下来。[wa:1080] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=피나 가이드]마음이 [wa:920]한결 놓입니다. [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 61,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2827442657
+    }
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1000]― <cmd-char>피나 가이드</cmd-char>軽やかに動くためには[wa:1110]ストレッチは必須デス！[wa:1380]もう一度！",
+      "j_ko": "[wa:1000]― <cmd-char>피나 가이드</cmd-char>날렵하기 위해서는 [wa:1110]스트레칭도 필수! [wa:1380]다시 한번!",
+      "g_ja": "[wa:1000]― <cmd-char>피나 가이드</cmd-char>軽やかに動くためには[wa:1110]ストレッチは必須デス！[wa:1380]もう一度！",
+      "g_ko": "[wa:1000]― <cmd-char>피나 가이드</cmd-char>날렵하기 위해서는 [wa:1110]스트레칭도 필수! [wa:1380]다시 한번!",
+      "g_en": "― <cmd-char>피나 가이드</cmd-char>Stretching is essential to be nimble! Again![wa:2770] ",
+      "g_th": "― <cmd-char>피나 가이드</cmd-char>ถ้าอยากคล่องแคล่วก็ต้องยืดกล้ามเนื้อ! อีกครั้งหนึ่ง![wa:2450] ",
+      "g_tw": "― <cmd-char>피나 가이드</cmd-char>想要行動敏捷，伸展是必要的！再來一次！[wa:3770] ",
+      "g_tw_cn": "― <cmd-char>피나 가이드</cmd-char>想要行动敏捷，伸展是必要的！再来一次！[wa:3770] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1000]― [log=피나 가이드]날렵하기 위해서는 [wa:1110]스트레칭도 필수! [wa:1380]다시 한번![/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 2827442657,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 64,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>피나 가이드</cmd-char>ん、[wa:880]んん、[wa:1160]うーん！",
+      "j_ko": "― <cmd-char>피나 가이드</cmd-char>음,[wa:880] 음, [wa:1120]으-읏!",
+      "g_ja": "― <cmd-char>피나 가이드</cmd-char>ん、[wa:880]んん、[wa:1160]うーん！",
+      "g_ko": "― <cmd-char>피나 가이드</cmd-char>음,[wa:880] 음, [wa:1120]으-읏!",
+      "g_en": "― <cmd-char>피나 가이드</cmd-char>Hm, hmm. U-Ugh![wa:1800] ",
+      "g_th": "― <cmd-char>피나 가이드</cmd-char>อืม... อืม... อะ... อึก![wa:1440] ",
+      "g_tw": "― <cmd-char>피나 가이드</cmd-char>嗯，嗯嗯，唔嗯～！[wa:2040] ",
+      "g_tw_cn": "― <cmd-char>피나 가이드</cmd-char>嗯，嗯嗯，唔嗯～！[wa:2040] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;― [log=피나 가이드]음,[wa:880] 음, [wa:1120]으-읏![/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 67,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 598095504
+    }
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:570]― <cmd-char>피나 가이드</cmd-char>え？[wa:1060]肩の力を抜いた方がイイ……[wa:2700]デスか？",
+      "j_ko": "[wa:570]― <cmd-char>피나 가이드</cmd-char>네?[wa:1060] 릴렉스하는 모습이……[wa:2660] 좋은가요?",
+      "g_ja": "[wa:570]― <cmd-char>피나 가이드</cmd-char>え？[wa:1060]肩の力を抜いた方がイイ……[wa:2700]デスか？",
+      "g_ko": "[wa:570]― <cmd-char>피나 가이드</cmd-char>네?[wa:1060] 릴렉스하는 모습이……[wa:2660] 좋은가요?",
+      "g_en": "― <cmd-char>피나 가이드</cmd-char>What? It's nice to see me...relax?[wa:3730] ",
+      "g_th": "― <cmd-char>피나 가이드</cmd-char>คะ? ฉันดูดี... ตอนรีแล็กซ์เหรอคะ?[wa:3770] ",
+      "g_tw": "― <cmd-char>피나 가이드</cmd-char>咦？最好放鬆一下肩膀的力氣……是嗎？[wa:4370] ",
+      "g_tw_cn": "― <cmd-char>피나 가이드</cmd-char>咦？最好放松一下肩膀的力气……是吗？[wa:4370] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:570]― [log=피나 가이드]네?[wa:1060] 릴렉스하는 모습이……[wa:2660] 좋은가요?[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 598095504,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 70,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3055195333
+    }
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2400]― <cmd-char>피나 가이드</cmd-char>そ、[wa:700]その……[wa:1720]これは[wa:960]ガイドとして",
+      "j_ko": "[wa:2400]― <cmd-char>피나 가이드</cmd-char>그……[wa:660] 그게…… [wa:1640]가이드로서[wa:1080] ",
+      "g_ja": "[wa:2400]― <cmd-char>피나 가이드</cmd-char>そ、[wa:700]その……[wa:1720]これは[wa:960]ガイドとして",
+      "g_ko": "[wa:2400]― <cmd-char>피나 가이드</cmd-char>그……[wa:660] 그게…… [wa:1640]가이드로서[wa:1080] ",
+      "g_en": "― <cmd-char>피나 가이드</cmd-char>W-Well... As a guide, [wa:5500] ",
+      "g_th": "― <cmd-char>피나 가이드</cmd-char>อะ...เอ่อ... พลังและความรับผิดชอบ [wa:5020] ",
+      "g_tw": "― <cmd-char>피나 가이드</cmd-char>那，那個……該說這是為了以導覽員的身分[wa:5620] ",
+      "g_tw_cn": "― <cmd-char>피나 가이드</cmd-char>那，那个……该说这是为了以导览员的身分[wa:5620] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:2400]― [log=피나 가이드]그……[wa:660] 그게…… [wa:1640]가이드로서[wa:1080] [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 3055195333,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>피나 가이드</cmd-char>気合いを入れているといいマスか……。",
+      "j_ko": "― <cmd-char>피나 가이드</cmd-char>기합과 책임도 물론 중요하지만……",
+      "g_ja": "― <cmd-char>피나 가이드</cmd-char>気合いを入れているといいマスか……。",
+      "g_ko": "― <cmd-char>피나 가이드</cmd-char>기합과 책임도 물론 중요하지만……",
+      "g_en": "― <cmd-char>피나 가이드</cmd-char>spirit and responsibility are definitely important...",
+      "g_th": "― <cmd-char>피나 가이드</cmd-char>เป็นสิ่งที่สำคัญของคนเป็นไกด์...",
+      "g_tw": "― <cmd-char>피나 가이드</cmd-char>振作嗎……",
+      "g_tw_cn": "― <cmd-char>피나 가이드</cmd-char>振作吗……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=피나 가이드]기합과 책임도 물론 중요하지만……[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>피나 가이드</cmd-char>二人っきりだと……[wa:1900]その……。",
+      "j_ko": "― <cmd-char>피나 가이드</cmd-char>단둘이 있을 때에는…… [wa:1740]뭐랄까…….",
+      "g_ja": "― <cmd-char>피나 가이드</cmd-char>二人っきりだと……[wa:1900]その……。",
+      "g_ko": "― <cmd-char>피나 가이드</cmd-char>단둘이 있을 때에는…… [wa:1740]뭐랄까…….",
+      "g_en": "― <cmd-char>피나 가이드</cmd-char>But when there's just the two of us... How should I put it...[wa:60] ",
+      "g_th": "― <cmd-char>피나 가이드</cmd-char>แต่ตอนอยู่ด้วยกันสองคน... จะว่ายังไงดีนะ...[wa:780] ",
+      "g_tw": "― <cmd-char>피나 가이드</cmd-char>兩人獨處的話……那個……[wa:2020] ",
+      "g_tw_cn": "― <cmd-char>피나 가이드</cmd-char>两人独处的话……那个……[wa:2020] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;― [log=피나 가이드]단둘이 있을 때에는…… [wa:1740]뭐랄까…….[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 78,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 541161321
+    }
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 78,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1330]― <cmd-char>피나 가이드</cmd-char>つい、[wa:1070]リラックスしてしまうから……。",
+      "j_ko": "[wa:1330]― <cmd-char>피나 가이드</cmd-char>그, [wa:1070]마음을 놓게 된달까요……. ",
+      "g_ja": "[wa:1330]― <cmd-char>피나 가이드</cmd-char>つい、[wa:1070]リラックスしてしまうから……。",
+      "g_ko": "[wa:1330]― <cmd-char>피나 가이드</cmd-char>그, [wa:1070]마음을 놓게 된달까요……. ",
+      "g_en": "― <cmd-char>피나 가이드</cmd-char>Um, I end up relaxing...[wa:2160] ",
+      "g_th": "― <cmd-char>피나 가이드</cmd-char>ฉัน... ก็รู้สึกโล่งใจน่ะค่ะ... [wa:1880] ",
+      "g_tw": "― <cmd-char>피나 가이드</cmd-char>就會不自覺地放鬆下來……[wa:2640] ",
+      "g_tw_cn": "― <cmd-char>피나 가이드</cmd-char>就会不自觉地放松下来……[wa:2640] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1330]― [log=피나 가이드]그, [wa:1070]마음을 놓게 된달까요……. [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 541161321,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 80,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 81,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Knock_01"
+    }
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 82,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あれ？",
+      "j_ko": "뭐지? 문이 닫혀있어.",
+      "g_ja": "あれ？",
+      "g_ko": "뭐지? 문이 닫혀있어.",
+      "g_en": "Hey! The door's locked.",
+      "g_th": "อะไรเนี่ย? ประตูปิดอยู่เหรอ?",
+      "g_tw": "咦？門怎麼關著？",
+      "g_tw_cn": "咦？门怎么关着？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1510751406,
+    "DataType": "speaker",
+    "Script": "#na;여행객 A2;뭐지? 문이 닫혀있어.",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 83,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "集合時間まだだっけ？",
+      "j_ko": "아직 집합시간이 아닌가?",
+      "g_ja": "集合時間まだだっけ？",
+      "g_ko": "아직 집합시간이 아닌가?",
+      "g_en": "Are we too early?",
+      "g_th": "หรือว่ายังไม่ถึงเวลา?",
+      "g_tw": "還沒到集合時間嗎？",
+      "g_tw_cn": "还没到集合时间吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1759095369,
+    "DataType": "speaker",
+    "Script": "#na;여행객 B;아직 집합시간이 아닌가?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 84,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "Oops！？",
+      "j_ko": "Oops!?",
+      "g_ja": "Oops！？",
+      "g_ko": "Oops!?",
+      "g_en": "Oops!",
+      "g_th": "Oops!?",
+      "g_tw": "Oops！？",
+      "g_tw_cn": "Oops！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "#na;피나 가이드;Oops!?",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Surprise",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 85,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "急いでお迎えしなければ！",
+      "j_ko": "벌써 이렇게 시간이!! 맞이해야 합니다앗!!",
+      "g_ja": "急いでお迎えしなければ！",
+      "g_ko": "벌써 이렇게 시간이!! 맞이해야 합니다앗!!",
+      "g_en": "They're back! I need to work!",
+      "g_th": "เวลาผ่านไปแค่ไหนแล้วเนี่ย!! ต้องไปทำงานแล้วค่ะ!!",
+      "g_tw": "已經這麼晚了！！<br/>我得去迎接客人才行！！",
+      "g_tw_cn": "已经这么晚了！！<br/>我得去迎接客人才行！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "#na;피나 가이드;벌써 이렇게 시간이!! 맞이해야 합니다앗!!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 88,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_02"
+    }
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 89,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_BusDoor_01"
+    }
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 90,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2959583765
+    }
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 92,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "お帰りなサイ！お疲れ様でシタ！",
+      "j_ko": "어서오세요— 수고 많으셨습니다—",
+      "g_ja": "お帰りなサイ！お疲れ様でシタ！",
+      "g_ko": "어서오세요— 수고 많으셨습니다—",
+      "g_en": "Welcome back! Did everyone have fun?",
+      "g_th": "เชิญค่ะ สนุกมั้ยคะทุกคน",
+      "g_tw": "歡迎回來～辛苦了～",
+      "g_tw_cn": "欢迎回来～辛苦了～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "3;피나 가이드;03;어서오세요— 수고 많으셨습니다—\\n#3;em;[재잘]\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 95,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 96,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "楽しかったです～",
+      "j_ko": "재밌었어요—",
+      "g_ja": "楽しかったです～",
+      "g_ko": "재밌었어요—",
+      "g_en": "It was marvelous!",
+      "g_th": "สนุกมากเลยครับ",
+      "g_tw": "真好玩～",
+      "g_tw_cn": "真好玩～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1510751406,
+    "DataType": "speaker",
+    "Script": "3;피나 가이드;03\\n2;여행객 A2;00;재밌었어요—\\n#2;a\\n#2;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 99,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 101,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 101,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生のおかげでしっかり見て回れたよ！ありがとう！",
+      "j_ko": "이야— 선생님 덕분에 구경 잘 하고 왔네요—",
+      "g_ja": "先生のおかげでしっかり見て回れたよ！ありがとう！",
+      "g_ko": "이야— 선생님 덕분에 구경 잘 하고 왔네요—",
+      "g_en": "Breathtaking! Thank you for giving me your spot!",
+      "g_th": "ขอบใจที่ให้ตั๋วนะคุณครู ข้างในนั้นสวยมากเลยละ",
+      "g_tw": "哎呀～多虧老師，我今天參觀得很開心～",
+      "g_tw_cn": "哎呀～多亏老师，我今天参观得很开心～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2085186708,
+    "DataType": "speaker",
+    "Script": "3;피나 가이드;03\\n2;여행객 A2;00\\n1;운전 기사;00;이야— 선생님 덕분에 구경 잘 하고 왔네요—\\n#1;m2\\n#2;m5",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 104,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 105,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "！！！",
+      "j_ko": "!!!",
+      "g_ja": "！！！",
+      "g_ko": "!!!",
+      "g_en": "!!!",
+      "g_th": "!!!",
+      "g_tw": "！！！",
+      "g_tw_cn": "！！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "3;피나 가이드;04\\n1;운전 기사;00\\n#na;피나 가이드;!!!\\n#1;m4\\n#3;h\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 106,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ど、どうぞ、ご乗車クダサイ！",
+      "j_ko": "아…… 그…… 어, 어서오세요!",
+      "g_ja": "……ど、どうぞ、ご乗車クダサイ！",
+      "g_ko": "아…… 그…… 어, 어서오세요!",
+      "g_en": "Ah... Uh... W-Welcome!",
+      "g_th": "อ่า... เอ่อ... ยะ... ยินดีต้อนรับกลับมาค่ะ!",
+      "g_tw": "啊……唔……請，請上車吧！",
+      "g_tw_cn": "啊……唔……请，请上车吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "3;피나 가이드;04\\n1;운전 기사;00\\n#na;피나 가이드;아…… 그…… 어, 어서오세요!\\n#3;h\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 109,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 111,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"フィーナ？どうかしたの？\"",
+      "j_ko": " \"피나? 왜 그래?\"",
+      "g_ja": " \"フィーナ？どうかしたの？\"",
+      "g_ko": " \"피나? 왜 그래?\"",
+      "g_en": " \"Pina? What's wrong now?\"",
+      "g_th": " \"พีน่า? เป็นอะไรไปเหรอ?\"",
+      "g_tw": "「菲娜？你怎麼了？」",
+      "g_tw_cn": "「菲娜？你怎么了？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"피나? 왜 그래?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 112,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "エット……。",
+      "j_ko": "저…… 그게…… 선생님…….",
+      "g_ja": "エット……。",
+      "g_ko": "저…… 그게…… 선생님…….",
+      "g_en": "Um...the thing is... Sensei, Boss...",
+      "g_th": "คุณครูคะ... ฉัน... เอ่อ...",
+      "g_tw": "那……那個……老師……",
+      "g_tw_cn": "那……那个……老师……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "3;피나 가이드;06;저…… 그게…… 선생님…….\\n#3;stiff\\n#fontsize;50",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 113,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "フィーナ、バスの中に靴が置きっぱなしデシタ……！",
+      "j_ko": "서둘러서 나오다가 신발을 버스 안에 벗어두고 내렸습니다!!",
+      "g_ja": "フィーナ、バスの中に靴が置きっぱなしデシタ……！",
+      "g_ko": "서둘러서 나오다가 신발을 버스 안에 벗어두고 내렸습니다!!",
+      "g_en": "I just realized I left my heels in the bus!!!",
+      "g_th": "ฉันรีบลงมารับลูกทัวร์ ก็เลยลืมรองเท้าไว้บนรถค่ะ!!",
+      "g_tw": "我剛才急著下車，結果不小心把鞋子留在巴士上了！！",
+      "g_tw_cn": "我刚才急着下车，结果不小心把鞋子留在巴士上了！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "3;피나 가이드;09;서둘러서 나오다가 신발을 버스 안에 벗어두고 내렸습니다!!\\n#3;em;[땀]\\n#fontsize;50",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 114,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 7,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……！とりあえず平然としておこう！\"",
+      "j_ko": " \"일단 내색하지 말고!\"",
+      "g_ja": " \"……！とりあえず平然としておこう！\"",
+      "g_ko": " \"일단 내색하지 말고!\"",
+      "g_en": " \"First, act natural!\"",
+      "g_th": " \"งั้นนิ่งไว้ก่อน!\"",
+      "g_tw": "「先不要表現出來！」",
+      "g_tw_cn": "「先不要表现出来！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"일단 내색하지 말고!\"\\n[s8] \"최대한 발밑을 보면 안 돼!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 114,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 8,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"バレないようにね……！\"",
+      "j_ko": " \"최대한 발밑을 보면 안 돼!\"",
+      "g_ja": " \"バレないようにね……！\"",
+      "g_ko": " \"최대한 발밑을 보면 안 돼!\"",
+      "g_en": " \"Avoid looking down. Eyes on the guests!\"",
+      "g_th": " \"อย่าเพิ่งมองลงไปที่เท้านะ!\"",
+      "g_tw": "「盡量不要看腳下！」",
+      "g_tw_cn": "「尽量不要看脚下！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"일단 내색하지 말고!\"\\n[s8] \"최대한 발밑을 보면 안 돼!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 117,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "し……承知デス！",
+      "j_ko": "네……네엡!!",
+      "g_ja": "し……承知デス！",
+      "g_ko": "네……네엡!!",
+      "g_en": "R-Right!!!",
+      "g_th": "ค่ะ... ค่ะ!!",
+      "g_tw": "是……是！！",
+      "g_tw_cn": "是……是！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1242341257,
+    "DataType": "speaker",
+    "Script": "3;피나 가이드;04;네……네엡!!\\n#3;stiff\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 118,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 119,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（全員が乗車した後、フィーナは誰にも気付かれないように素早く靴を履き直した）",
+      "j_ko": "(손님들이 모두 타고, 피나는 최대한 발을 빠르게 움직이면서 몰래 신발을 신었다.)",
+      "g_ja": "（全員が乗車した後、フィーナは誰にも気付かれないように素早く靴を履き直した）",
+      "g_ko": "(손님들이 모두 타고, 피나는 최대한 발을 빠르게 움직이면서 몰래 신발을 신었다.)",
+      "g_en": "After boarding the guests, Pina dashed to the back of the bus and slipped on her heels.",
+      "g_th": "(เมื่อลูกทัวร์ขึ้นรถหมดแล้ว พีน่าก็รีบขึ้นรถแล้วแอบใส่รองเท้าของตัวเอง)",
+      "g_tw": "（等客人們都上車後，菲娜才趕緊穿上了鞋子）",
+      "g_tw_cn": "（等客人们都上车后，菲娜才赶紧穿上了鞋子）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(손님들이 모두 타고, 피나는 최대한 발을 빠르게 움직이면서 몰래 신발을 신었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

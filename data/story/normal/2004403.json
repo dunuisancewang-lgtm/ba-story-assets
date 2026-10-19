@@ -1,0 +1,2734 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 757057552
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 214
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">ペースメーカー</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">페이스 메이커</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">ペースメーカー</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">페이스 메이커</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Pacemaker</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">เพซเซอร์</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">配速員</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">配速员</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;페이스 메이커",
+    "BGMId": 214,
+    "Sound": "",
+    "BGName": 757057552,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "お待ちしておりました、トレー……ナー……？",
+      "j_ko": "어서 오십시오. 트레이너. 기다리고 있었습니다……?",
+      "g_ja": "お待ちしておりました、トレー……ナー……？",
+      "g_ko": "어서 오십시오. 트레이너. 기다리고 있었습니다……?",
+      "g_en": "Welcome. Trainer. I've been waiting!",
+      "g_th": "เชิญค่ะ เทรนเนอร์ ฉันรออยู่นานเลยนะคะ...",
+      "g_tw": "歡迎你來，指導員。<br/>我一直在等你……？",
+      "g_tw_cn": "欢迎你来，指导员。<br/>我一直在等你……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 121193308,
+    "DataType": "speaker",
+    "Script": "3;스미레;05;어서 오십시오. 트레이너. 기다리고 있었습니다……?\\n#3;a\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "トレーナー！？",
+      "j_ko": "트레이너?!",
+      "g_ja": "トレーナー！？",
+      "g_ko": "트레이너?!",
+      "g_en": "Trainer?",
+      "g_th": "เทรนเนอร์?!",
+      "g_tw": "指導員！？",
+      "g_tw_cn": "指导员！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 121193308,
+    "DataType": "speaker",
+    "Script": "3;스미레;06;트레이너?!\\n#3;shake\\n#3;em;[?!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Surprise",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 3,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"えっ、スミレ、どうしたの……？\"",
+      "j_ko": " \"가, 갑자기 왜 그래, 스미레?!\"",
+      "g_ja": " \"えっ、スミレ、どうしたの……？\"",
+      "g_ko": " \"가, 갑자기 왜 그래, 스미레?!\"",
+      "g_en": " \"Why are you looking at me like that?\"",
+      "g_th": " \"จะ... จู่ๆ ก็เป็นอะไรไปเหรอ สึมิเระ?!\"",
+      "g_tw": "「突，突然怎麼了，堇！？」",
+      "g_tw_cn": "「突，突然怎么了，堇！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"가, 갑자기 왜 그래, 스미레?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 4,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "気のせいでしょうか……",
+      "j_ko": "음. 아뇨. 어디까지나 제 착각에 지나지 않았으면 좋겠습니다만…….",
+      "g_ja": "気のせいでしょうか……",
+      "g_ko": "음. 아뇨. 어디까지나 제 착각에 지나지 않았으면 좋겠습니다만…….",
+      "g_en": "Mmm. I'm hoping that I was mistaken, but...",
+      "g_th": "อืม ไม่มีอะไรค่ะ ฉันคงคิดไปเองน่ะค่ะ แต่ว่า...",
+      "g_tw": "唔嗯，不，希望這只是我的錯覺……",
+      "g_tw_cn": "唔嗯，不，希望这只是我的错觉……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 121193308,
+    "DataType": "speaker",
+    "Script": "3;스미레;99;음. 아뇨. 어디까지나 제 착각에 지나지 않았으면 좋겠습니다만…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ちょっと……丸くなりましたか……？",
+      "j_ko": "정말 아주 약간입니다만, 최근 체형이 살짝 변하시지 않으셨나요?",
+      "g_ja": "ちょっと……丸くなりましたか……？",
+      "g_ko": "정말 아주 약간입니다만, 최근 체형이 살짝 변하시지 않으셨나요?",
+      "g_en": "It's only a small change, but have you...let yourself go a little?",
+      "g_th": "ช่วงนี้รูปร่างของเทรนเนอร์เปลี่ยนไปนิดหน่อยหรือเปล่าคะ?",
+      "g_tw": "雖然只有非常細微的差別，不過指導員的體型是不是稍微有了一點變化呢？",
+      "g_tw_cn": "虽然只有非常细微的差别，不过指导员的体型是不是稍微有了一点变化呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 121193308,
+    "DataType": "speaker",
+    "Script": "3;스미레;04;정말 아주 약간입니다만, 최근 체형이 살짝 변하시지 않으셨나요?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 6,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"そう？……あっ\"",
+      "j_ko": " \"어, 나는 모르겠는데? 그러고 보니…….\"",
+      "g_ja": " \"そう？……あっ\"",
+      "g_ko": " \"어, 나는 모르겠는데? 그러고 보니…….\"",
+      "g_en": " \"Uh, I'm not sure? Maybe...\"",
+      "g_th": " \"หืม? ไม่รู้สิ? จะว่าไปครูก็กินขนมบ่อยอยู่...\"",
+      "g_tw": "「咦，我也不太確定耶？不過聽你這麼一說……」",
+      "g_tw_cn": "「咦，我也不太确定耶？不过听你这么一说……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"어, 나는 모르겠는데? 그러고 보니…….\"\\n[s2] \"근무 시간에 살짝살짝 군것질을 하긴 했는데…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 6,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"最近、お菓子の量が増えたかも……。\"",
+      "j_ko": " \"근무 시간에 살짝살짝 군것질을 하긴 했는데…….\"",
+      "g_ja": " \"最近、お菓子の量が増えたかも……。\"",
+      "g_ko": " \"근무 시간에 살짝살짝 군것질을 하긴 했는데…….\"",
+      "g_en": " \"I've been sneaking a few snacks during work...\"",
+      "g_th": " \"ช่วงนี้ครูชอบหยิบนู่นนี่มากินระหว่างทำงานน่ะ...\"",
+      "g_tw": "「我工作時間確實有偷偷吃一點零食……」",
+      "g_tw_cn": "「我工作时间确实有偷偷吃一点零食……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"어, 나는 모르겠는데? 그러고 보니…….\"\\n[s2] \"근무 시간에 살짝살짝 군것질을 하긴 했는데…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "お菓子！",
+      "j_ko": "군것질!",
+      "g_ja": "お菓子！",
+      "g_ko": "군것질!",
+      "g_en": "SNACKS!",
+      "g_th": "กินจุ๊บจิ๊บสินะคะ!",
+      "g_tw": "零食！",
+      "g_tw_cn": "零食！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 121193308,
+    "DataType": "speaker",
+    "Script": "3;스미레;05;군것질!\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "原因はそれですね……。",
+      "j_ko": "그것이군요. 문제의 원인을 찾아낸 것 같습니다.",
+      "g_ja": "原因はそれですね……。",
+      "g_ko": "그것이군요. 문제의 원인을 찾아낸 것 같습니다.",
+      "g_en": "That's it. Insidious. That's the problem.",
+      "g_th": "นั่นละค่ะ ฉันเจอต้นตอของปัญหาแล้วละ",
+      "g_tw": "看來我找到問題的根源了。",
+      "g_tw_cn": "看来我找到问题的根源了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 121193308,
+    "DataType": "speaker",
+    "Script": "3;스미레;99;그것이군요. 문제의 원인을 찾아낸 것 같습니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "わかりました。では、最適なトレーニングメニューを用意しましょう！",
+      "j_ko": "아닙니다. 괜찮습니다. 우리에게는 과학과 합리, 그리고 트레이닝이 있습니다.",
+      "g_ja": "わかりました。では、最適なトレーニングメニューを用意しましょう！",
+      "g_ko": "아닙니다. 괜찮습니다. 우리에게는 과학과 합리, 그리고 트레이닝이 있습니다.",
+      "g_en": "Not to worry! We have science, logic, and training technology. I'll shape you up!",
+      "g_th": "แต่ไม่เป็นไรค่ะ พวกเราพึ่งพาวิทยาศาสตร์ ตรรกศาสตร์ และการเทรนนิ่งได้ค่ะ",
+      "g_tw": "不過沒關係，指導員不必擔心。<br/>我們有科學、理性和訓練作為後盾。",
+      "g_tw_cn": "不过没关系，指导员不必担心。<br/>我们有科学、理性和训练作为后盾。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 121193308,
+    "DataType": "speaker",
+    "Script": "3;스미레;05;아닙니다. 괜찮습니다. 우리에게는 과학과 합리, 그리고 트레이닝이 있습니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "さ、まずは体重測定からです！",
+      "j_ko": "자! 어서 체질량지수 측정을 시작해 보도록 하죠!",
+      "g_ja": "さ、まずは体重測定からです！",
+      "g_ko": "자! 어서 체질량지수 측정을 시작해 보도록 하죠!",
+      "g_en": "Now! Let's start with your body mass index!",
+      "g_th": "เอาละ! รีบไปวัดค่าดัชนีมวลกายเดี๋ยวนี้เลยค่ะ!",
+      "g_tw": "來！趕快開始測量身體質量指數吧！",
+      "g_tw_cn": "来！赶快开始测量身体质量指数吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 121193308,
+    "DataType": "speaker",
+    "Script": "3;스미레;10;자! 어서 체질량지수 측정을 시작해 보도록 하죠!\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 13,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 14,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_04"
+    }
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 15,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05a"
+    }
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 16,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05b"
+    }
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 17,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05c"
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 18,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05d"
+    }
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 19,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（スミレによって、強引に体組成計へと乗せられた……）",
+      "j_ko": "(그렇게 스미레에게 이끌려 가, 측정기에서 전극을 잡은 채 키와 몸무게를 쟀다…….)",
+      "g_ja": "（スミレによって、強引に体組成計へと乗せられた……）",
+      "g_ko": "(그렇게 스미레에게 이끌려 가, 측정기에서 전극을 잡은 채 키와 몸무게를 쟀다…….)",
+      "g_en": "I was dragged by Sumire, who had me holding electrodes as she measured me.",
+      "g_th": "(แล้วคุณครูก็โดนสึมิเระลากมายืนบนเครื่องวัดองค์ประกอบของร่างกายเพื่อวัดค่าต่างๆ อย่างละเอียด)",
+      "g_tw": "（就這樣被堇帶著，握著測量器的電極測量了身高和體重……）",
+      "g_tw_cn": "（就这样被堇带着，握着测量器的电极测量了身高和体重……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 스미레에게 이끌려 가, 측정기에서 전극을 잡은 채 키와 몸무게를 쟀다…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 20,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 757057552
+    }
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……結果が出ました。",
+      "j_ko": "네. 결과가 나왔군요.",
+      "g_ja": "……結果が出ました。",
+      "g_ko": "네. 결과가 나왔군요.",
+      "g_en": "Interesting...",
+      "g_th": "ค่ะ ผลออกมาแล้วค่ะ",
+      "g_tw": "結果出來了呢。",
+      "g_tw_cn": "结果出来了呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 121193308,
+    "DataType": "speaker",
+    "Script": "3;스미레;05;네. 결과가 나왔군요.\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ど、どうですか、スミレコーチ……？\"",
+      "j_ko": " \"어, 어떤가요. 스미레 코치……?\"",
+      "g_ja": " \"ど、どうですか、スミレコーチ……？\"",
+      "g_ko": " \"어, 어떤가요. 스미레 코치……?\"",
+      "g_en": " \"H-How am I, Sumire...?\"",
+      "g_th": " \"ปะ... เป็นยังไงบ้าง โค้ชสึมิเระ...?\"",
+      "g_tw": "「怎，怎麼樣呢。堇教練……？」",
+      "g_tw_cn": "「怎，怎么样呢。堇教练……？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"어, 어떤가요. 스미레 코치……?\"\\n[s4] \"혹시 죽을병인가요?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"太り過ぎてる……？\"",
+      "j_ko": " \"혹시 죽을병인가요?!\"",
+      "g_ja": " \"太り過ぎてる……？\"",
+      "g_ko": " \"혹시 죽을병인가요?!\"",
+      "g_en": " \"Is it life-threatening?!\"",
+      "g_th": " \"ปะ... เป็นยังไงบ้าง ครูเป็นโรคร้ายแรงหรือเปล่า?!\"",
+      "g_tw": "「該不會沒救了吧！？」",
+      "g_tw_cn": "「该不会没救了吧！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"어, 어떤가요. 스미레 코치……?\"\\n[s4] \"혹시 죽을병인가요?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 25,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ご安心ください、数値は正常ですよ。ですが――",
+      "j_ko": "아뇨. 다행히도 정상 범주입니다, 트레이너. 안심하셔도 좋습니다. 다만…….",
+      "g_ja": "ご安心ください、数値は正常ですよ。ですが――",
+      "g_ko": "아뇨. 다행히도 정상 범주입니다, 트레이너. 안심하셔도 좋습니다. 다만…….",
+      "g_en": "Fortunately, you're within acceptable ranges, Trainer. However...",
+      "g_th": "ไม่เป็นอะไรค่ะ ค่อยยังชั่วที่อยู่ในเกณฑ์ปกติค่ะเทรนเนอร์ วางใจได้เลยค่ะ แต่ว่า...",
+      "g_tw": "不，數值還在正常的範圍內，請指導員放心。<br/>只不過……",
+      "g_tw_cn": "不，数值还在正常的范围内，请指导员放心。<br/>只不过……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 121193308,
+    "DataType": "speaker",
+    "Script": "3;스미레;99;아뇨. 다행히도 정상 범주입니다, 트레이너. 안심하셔도 좋습니다. 다만…….\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 26,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ここを見てください！わずかながらトレーナーは体脂肪率が高いです！",
+      "j_ko": "네! 여분의 지방 성분이, 약간이지만 관찰되고 있습니다!",
+      "g_ja": "ここを見てください！わずかながらトレーナーは体脂肪率が高いです！",
+      "g_ko": "네! 여분의 지방 성분이, 약간이지만 관찰되고 있습니다!",
+      "g_en": "It's only a little, but I'm observing excessive fat! See?",
+      "g_th": "ค่ะ! แต่เทรนเนอร์มีไขมันส่วนเกินอยู่เล็กน้อยค่ะ!",
+      "g_tw": "嗯！雖然只有一點點，但確實觀察到了多餘的脂肪成分！",
+      "g_tw_cn": "嗯！虽然只有一点点，但确实观察到了多余的脂肪成分！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 121193308,
+    "DataType": "speaker",
+    "Script": "3;스미레;10;네! 여분의 지방 성분이, 약간이지만 관찰되고 있습니다!\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そのくらい……と思いましたね？甘いですよ！",
+      "j_ko": "그러면 된 거 아니냐고요? 아닙니다, 트레이너! 그거야말로 하나는 알고 둘은 모르는 이야기입니다!",
+      "g_ja": "そのくらい……と思いましたね？甘いですよ！",
+      "g_ko": "그러면 된 거 아니냐고요? 아닙니다, 트레이너! 그거야말로 하나는 알고 둘은 모르는 이야기입니다!",
+      "g_en": "Fine? No, not at all, Trainer! Don't you get it?",
+      "g_th": "มีน้อยก็ดีแล้วอย่างนั้นเหรอคะ? ไม่ค่ะ เทรนเนอร์! ถามเหมือนไม่รู้อะไรเอาเสียเลยนะคะ!",
+      "g_tw": "那不就沒問題了？<br/>不，指導員！那是不夠了解的人才會有的觀念哦！",
+      "g_tw_cn": "那不就没问题了？<br/>不，指导员！那是不够了解的人才会有的观念哦！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 121193308,
+    "DataType": "speaker",
+    "Script": "3;스미레;10;그러면 된 거 아니냐고요? 아닙니다, 트레이너! 그거야말로 하나는 알고 둘은 모르는 이야기입니다!\\n#3;hophop\\n#3;em;[스팀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Steam",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "脂肪は、未来の筋肉のための「燃料」です！",
+      "j_ko": "지방은 곧 저장된 연료죠. 태워서 에너지를 낼 수 있는 힘의 원천입니다.",
+      "g_ja": "脂肪は、未来の筋肉のための「燃料」です！",
+      "g_ko": "지방은 곧 저장된 연료죠. 태워서 에너지를 낼 수 있는 힘의 원천입니다.",
+      "g_en": "Fat is essentially stored fuel. It's excess energy and reserved calories.",
+      "g_th": "ไขมันจะถูกเก็บไว้เป็นเชื้อเพลิงค่ะ มันจะถูกเผาไหม้และกลายเป็นพลังงานที่เราใช้ในการทำกิจกรรม<br/>ต่างๆ",
+      "g_tw": "脂肪就是儲存在身體裡的燃料──是能夠用來燃燒、產生能量的力量來源。",
+      "g_tw_cn": "脂肪就是保存在身体里的燃料──是能够用来燃烧、产生能量的力量来源。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 121193308,
+    "DataType": "speaker",
+    "Script": "3;스미레;99;지방은 곧 저장된 연료죠. 태워서 에너지를 낼 수 있는 힘의 원천입니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "つまり、この脂肪は可能性の塊！",
+      "j_ko": "즉 여분의 지방이야말로 미래에 근육이 될 가능성을 품은 꿈과 희망의 생체조직이라고 볼 수 있겠죠!",
+      "g_ja": "つまり、この脂肪は可能性の塊！",
+      "g_ko": "즉 여분의 지방이야말로 미래에 근육이 될 가능성을 품은 꿈과 희망의 생체조직이라고 볼 수 있겠죠!",
+      "g_en": "Meaning, fat is body tissue that carries the hopes and dreams of becoming muscle!",
+      "g_th": "เพราะงั้นไขมันส่วนเกินจึงเรียกได้ว่าเป็นเนื้อเยื่อชีวภาพแห่งความฝันและความหวังที่จะเปลี่ยนเป็น<br/>กล้ามเนื้อได้ในอนาคต",
+      "g_tw": "因此，多餘的脂肪就是培養未來肌肉的樂土，是象徵夢想與希望的生物組織！",
+      "g_tw_cn": "因此，多余的脂肪就是培养未来肌肉的乐土，是象征梦想与希望的生物组织！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 121193308,
+    "DataType": "speaker",
+    "Script": "3;스미레;07;즉 여분의 지방이야말로 미래에 근육이 될 가능성을 품은 꿈과 희망의 생체조직이라고 볼 수 있겠죠!\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今のトレーナーは……いつか花開く種子なんです！",
+      "j_ko": "즉, 지금 트레이너의 신체는, 꿈과 희망과 가능성을 품은 위대한 씨앗과 같은 상태라는 겁니다!",
+      "g_ja": "今のトレーナーは……いつか花開く種子なんです！",
+      "g_ko": "즉, 지금 트레이너의 신체는, 꿈과 희망과 가능성을 품은 위대한 씨앗과 같은 상태라는 겁니다!",
+      "g_en": "So your body, right now, is a fount of unrealized potential!",
+      "g_th": "เท่ากับว่าร่างกายของเทรนเนอร์ในตอนนี้เป็นเหมือนกับเมล็ดพันธุ์ยิ่งใหญ่ที่เต็มไปด้วยความฝันและ<br/>ความหวังแห่งอนาคตค่ะ!",
+      "g_tw": "換句話說──<br/>現在指導員的身體，就像是一顆懷抱著夢想、希望與可能性的偉大種子啊！",
+      "g_tw_cn": "换句话说──<br/>现在指导员的身体，就像是一颗怀抱着梦想、希望与可能性的伟大种子啊！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 121193308,
+    "DataType": "speaker",
+    "Script": "3;스미레;10;즉, 지금 트레이너의 신체는, 꿈과 희망과 가능성을 품은 위대한 씨앗과 같은 상태라는 겁니다!\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 31,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "早速、トレーニングを始めましょうか！",
+      "j_ko": "한 시도 지체할 수 없겠군요. 당장 트레이닝을 시작하죠!",
+      "g_ja": "早速、トレーニングを始めましょうか！",
+      "g_ko": "한 시도 지체할 수 없겠군요. 당장 트레이닝을 시작하죠!",
+      "g_en": "Enough wasting time. Let's start the training!",
+      "g_th": "จะผัดผ่อนไม่ได้แม้แต่น้อยค่ะ มาเริ่มออกกำลังกายกันเถอะ!",
+      "g_tw": "不能再耽誤時間了。立刻開始訓練吧！",
+      "g_tw_cn": "不能再耽误时间了。立刻开始训练吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 121193308,
+    "DataType": "speaker",
+    "Script": "3;스미레;07;한 시도 지체할 수 없겠군요. 당장 트레이닝을 시작하죠!\\n#3;em;[반짝]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 32,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"結局、トレーニングをすることに……！\"",
+      "j_ko": " \"결국 이렇게 되는 건가~\"",
+      "g_ja": " \"結局、トレーニングをすることに……！\"",
+      "g_ko": " \"결국 이렇게 되는 건가~\"",
+      "g_en": " \"If you insist...\"",
+      "g_th": " \"สุดท้ายก็จบลงแบบนี้สินะ~\"",
+      "g_tw": "「結果最後又變成這樣了啊～」",
+      "g_tw_cn": "「结果最后又变成这样了啊～」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"결국 이렇게 되는 건가~\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1482375174
+    }
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 34,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 220
+    }
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "準備運動は終わりましたね、トレーナー。モチベーションも高いようで嬉しいです！",
+      "j_ko": "준비 운동은 끝나셨습니까, 트레이너. 좋네요. 아주 좋아요.",
+      "g_ja": "準備運動は終わりましたね、トレーナー。モチベーションも高いようで嬉しいです！",
+      "g_ko": "준비 운동은 끝나셨습니까, 트레이너. 좋네요. 아주 좋아요.",
+      "g_en": "Are you done with the warm-up, Trainer? Good. Excellent.",
+      "g_th": "วอร์มร่างกายเสร็จหรือยังคะเทรนเนอร์? ดีเลยค่ะ แบบนี้ละ เยี่ยมเลย",
+      "g_tw": "熱身運動結束了嗎，指導員。<br/>很好，非常好。",
+      "g_tw_cn": "热身运动结束了吗，指导员。<br/>很好，非常好。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;03;준비 운동은 끝나셨습니까, 트레이너. 좋네요. 아주 좋아요.\\n#3;a\\n#3;em;[재잘]",
+    "BGMId": 220,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 35,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"あれ、着替えたの……？\"",
+      "j_ko": " \"어? 왜 그 옷이야?\"",
+      "g_ja": " \"あれ、着替えたの……？\"",
+      "g_ko": " \"어? 왜 그 옷이야?\"",
+      "g_en": " \"What's with the outfit?\"",
+      "g_th": " \"หืม? ทำไมใส่ชุดนี้ล่ะ?\"",
+      "g_tw": "「嗯？你為什麼要換上那套衣服？」",
+      "g_tw_cn": "「嗯？你为什么要换上那套衣服？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"어? 왜 그 옷이야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 36,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ああ、この服は……。",
+      "j_ko": "아, 이 복장 말씀이시군요.",
+      "g_ja": "ああ、この服は……。",
+      "g_ko": "아, 이 복장 말씀이시군요.",
+      "g_en": "Oh, this old thing?",
+      "g_th": "ตกใจที่ฉันหยิบชุดนี้มาใส่เหรอคะ?",
+      "g_tw": "啊，是指這套服裝嗎？",
+      "g_tw_cn": "啊，是指这套服装吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;02;아, 이 복장 말씀이시군요.\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "スタジアムでアルバイトをしていた時のものです。",
+      "j_ko": "확실히 이 복장은 스타디움에서 사용하는 제복입니다만.",
+      "g_ja": "スタジアムでアルバイトをしていた時のものです。",
+      "g_ko": "확실히 이 복장은 스타디움에서 사용하는 제복입니다만.",
+      "g_en": "Although this could be considered my work uniform...",
+      "g_th": "จริงอยู่ที่มันเป็นยูนิฟอร์มที่ฉันใส่เวลาทำงานพาร์ทไทม์ในสนามกีฬา",
+      "g_tw": "雖然這的確是我在運動場時會穿的打工制服……",
+      "g_tw_cn": "虽然这的确是我在运动场时会穿的打工制服……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;01;확실히 이 복장은 스타디움에서 사용하는 제복입니다만.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 38,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "個人的に気に入って、たまにトレーニングでも着ているんですよ。",
+      "j_ko": "개인적으로 꽤나 마음에 들어서, 평소에도 가끔 애용하고 있습니다.",
+      "g_ja": "個人的に気に入って、たまにトレーニングでも着ているんですよ。",
+      "g_ko": "개인적으로 꽤나 마음에 들어서, 평소에도 가끔 애용하고 있습니다.",
+      "g_en": "...I wear it from time to time because I...enjoy it.",
+      "g_th": "แต่ฉันชอบชุดนี้เป็นการส่วนตัว ก็เลยหยิบออกมาใส่บ้างในชีวิตประจำวันค่ะ",
+      "g_tw": "不過我個人還挺喜歡的，所以偶爾私底下也會穿。",
+      "g_tw_cn": "不过我个人还挺喜欢的，所以偶尔私底下也会穿。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;03;개인적으로 꽤나 마음에 들어서, 평소에도 가끔 애용하고 있습니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 39,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ドリンクサーバーは、同じ容量のものを自前で用意しました。",
+      "j_ko": "무엇보다 전신에 실리는 25kg 정도의 적당한 무게감이, 제법 괜찮은 자극이 되거든요.",
+      "g_ja": "ドリンクサーバーは、同じ容量のものを自前で用意しました。",
+      "g_ko": "무엇보다 전신에 실리는 25kg 정도의 적당한 무게감이, 제법 괜찮은 자극이 되거든요.",
+      "g_en": "I find the 25 kg keg to be quite invigorating.",
+      "g_th": "เหนือสิ่งอื่นใด น้ำหนักประมาณ 25 กิโลที่ฉันกำลังแบกอยู่ก็เป็นตัวกระตุ้นที่ดีเลยค่ะ",
+      "g_tw": "而且全身約25kg的重量，剛好能帶給身體不錯的刺激。",
+      "g_tw_cn": "而且全身约25kg的重量，刚好能带给身体不错的刺激。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;08;무엇보다 전신에 실리는 25kg 정도의 적당한 무게감이, 제법 괜찮은 자극이 되거든요.\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 40,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "では、軽く10kmのランニングから始めましょう。",
+      "j_ko": "그러면, 몸을 풀기 위해 가볍게 10km 구보부터 시작하도록 할까요!",
+      "g_ja": "では、軽く10kmのランニングから始めましょう。",
+      "g_ko": "그러면, 몸을 풀기 위해 가볍게 10km 구보부터 시작하도록 할까요!",
+      "g_en": "Now then, let's warm up with a light 10 km run!",
+      "g_th": "งั้นเรามาเริ่มจากการวิ่งเบาๆ สัก 10 กิโลเมตรเพื่อให้ร่างกายอบอุ่นก่อนเลยค่ะ!",
+      "g_tw": "那麼，就先用輕鬆的10km慢跑來暖暖身吧！",
+      "g_tw_cn": "那么，就先用轻松的10km慢跑来暖暖身吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;03;그러면, 몸을 풀기 위해 가볍게 10km 구보부터 시작하도록 할까요!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私もこの装備で、トレーナーと一緒に走ります。",
+      "j_ko": "저 역시 이 복장과 드링크 도구를 착용한 채 함께 달리도록 하겠습니다!",
+      "g_ja": "私もこの装備で、トレーナーと一緒に走ります。",
+      "g_ko": "저 역시 이 복장과 드링크 도구를 착용한 채 함께 달리도록 하겠습니다!",
+      "g_en": "I'll also run with you! With the drinks!",
+      "g_th": "ฉันก็จะวิ่งไปกับเทรนเนอร์ พร้อมกับเครื่องจ่ายเครื่องดื่มอันนี้ด้วยค่ะ!",
+      "g_tw": "我也會穿著這套服裝和飲料機一起跑！",
+      "g_tw_cn": "我也会穿着这套服装和饮料机一起跑！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;05;저 역시 이 복장과 드링크 도구를 착용한 채 함께 달리도록 하겠습니다!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "本来ならば20kmが標準的な距離ですが……",
+      "j_ko": "본디 저라면 가볍게 20km부터 시작하지만…….",
+      "g_ja": "本来ならば20kmが標準的な距離ですが……",
+      "g_ko": "본디 저라면 가볍게 20km부터 시작하지만…….",
+      "g_en": "Normally, I would start with a relaxed 20 km trek...",
+      "g_th": "ปกติแล้วฉันจะเริ่มวิ่งเบาๆ ที่ 20 กิโลเมตรก่อน...",
+      "g_tw": "雖然我平時對自己的標準是輕鬆跑20km……",
+      "g_tw_cn": "虽然我平时对自己的标准是轻松跑20km……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;09;본디 저라면 가볍게 20km부터 시작하지만…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今回は、普段あまり運動をしないトレーナーに合わせた距離にしました！",
+      "j_ko": "트레이너에게 있어서는 조금 갑작스러울 수 있는 러닝이므로, 충분히 소화할 수 있는 메뉴를 준비했습니다!",
+      "g_ja": "今回は、普段あまり運動をしないトレーナーに合わせた距離にしました！",
+      "g_ko": "트레이너에게 있어서는 조금 갑작스러울 수 있는 러닝이므로, 충분히 소화할 수 있는 메뉴를 준비했습니다!",
+      "g_en": "But it might be a bit too much for you, so I'll ease you in.",
+      "g_th": "แต่มันอาจจะหนักเกินไปสำหรับเทรนเนอร์ก็ได้ ฉันก็เลยเตรียมโปรแกรมใหม่ที่ไม่เป็นการหักโหมมาค่ะ",
+      "g_tw": "不過那對指導員可能會有點負擔，所以我改成了一定可以消化的菜單！",
+      "g_tw_cn": "不过那对指导员可能会有点负担，所以我改成了一定可以消化的菜单！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;07;트레이너에게 있어서는 조금 갑작스러울 수 있는 러닝이므로, 충분히 소화할 수 있는 메뉴를 준비했습니다!\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"気づかいは嬉しいけど、もう少し距離を短くしてくれると……\"",
+      "j_ko": " \"배려는 감사하지만, 절반으로 줄여 주시면 안 될까요~!\"",
+      "g_ja": " \"気づかいは嬉しいけど、もう少し距離を短くしてくれると……\"",
+      "g_ko": " \"배려는 감사하지만, 절반으로 줄여 주시면 안 될까요~!\"",
+      "g_en": " \"10 km? Why not 5?\"",
+      "g_th": " \"ขอบใจที่เป็นห่วงนะ แต่ช่วยลดเหลือครึ่งเดียวได้มั้ย~!\"",
+      "g_tw": "「謝謝你的貼心，但能不能再減半呢～！」",
+      "g_tw_cn": "「谢谢你的贴心，但能不能再减半呢～！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"배려는 감사하지만, 절반으로 줄여 주시면 안 될까요~!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "大丈夫、トレーナーなら必ずやり遂げられます！",
+      "j_ko": "에이, 왜 이러세요. '회원님'. 충분히 하실 수 있잖아요.",
+      "g_ja": "大丈夫、トレーナーなら必ずやり遂げられます！",
+      "g_ko": "에이, 왜 이러세요. '회원님'. 충분히 하실 수 있잖아요.",
+      "g_en": "Don't be like that. We're on the same team. You can do it.",
+      "g_th": "อะไรกัน พูดอะไรอย่างนั้นล่ะคะ 'คุณสมาชิก' คุณทำได้สบายๆ ค่ะ",
+      "g_tw": "哎呀，請「會員」不必擔心，你絕對能做到的。",
+      "g_tw_cn": "哎呀，请「会员」不必担心，你绝对能做到的。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;08;에이, 왜 이러세요. '회원님'. 충분히 하실 수 있잖아요.\\n#3;em;[재잘]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "では始めましょう！",
+      "j_ko": "그러면, 시작하도록 하죠!",
+      "g_ja": "では始めましょう！",
+      "g_ko": "그러면, 시작하도록 하죠!",
+      "g_en": "Now then, let's begin!",
+      "g_th": "งั้นก็มาเริ่มกันเลย!",
+      "g_tw": "那麼，開始吧！",
+      "g_tw_cn": "那么，开始吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;03;그러면, 시작하도록 하죠!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 47,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1693520842
+    }
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（スミレと一緒にトラックを走り始めた……！）",
+      "j_ko": "(결국 스미레와 함께 러닝 트랙을 달리기 시작했다……!)",
+      "g_ja": "（スミレと一緒にトラックを走り始めた……！）",
+      "g_ko": "(결국 스미레와 함께 러닝 트랙을 달리기 시작했다……!)",
+      "g_en": "I ended up running on the track with Sumire...!",
+      "g_th": "(สุดท้ายคุณครูก็ต้องไปวิ่งกับสึมิเระ...!)",
+      "g_tw": "（於是就和堇一起在跑道上跑步……！）",
+      "g_tw_cn": "（于是就和堇一起在跑道上跑步……！）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(결국 스미레와 함께 러닝 트랙을 달리기 시작했다……!)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 50,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1482375174
+    }
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 52,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 54,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1007327460
+    }
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 55,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 57,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"はぁ……はぁ……もうむ……り……\"",
+      "j_ko": " \"헥, 헥. 헉, 헉……!\"",
+      "g_ja": " \"はぁ……はぁ……もうむ……り……\"",
+      "g_ko": " \"헥, 헥. 헉, 헉……!\"",
+      "g_en": " *pant* *pant* *pant* *pant*",
+      "g_th": " \"แฮ่ก... แฮ่ก... แฮ่ก... แฮ่ก...!\"",
+      "g_tw": "「呼，呼，哈，哈……！」",
+      "g_tw_cn": "「呼，呼，哈，哈……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"헥, 헥. 헉, 헉……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 58,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1482375174
+    }
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 58,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あと半分です！頑張りましょう！",
+      "j_ko": "회원님! 힘내세요! 이제 절반 넘게 달렸습니다! 우리는 할 수 있습니다!",
+      "g_ja": "あと半分です！頑張りましょう！",
+      "g_ko": "회원님! 힘내세요! 이제 절반 넘게 달렸습니다! 우리는 할 수 있습니다!",
+      "g_en": "Keep going! We're just over halfway now! Push!",
+      "g_th": "คุณสมาชิก! พยายามเข้านะคะ! วิ่งมาได้ครึ่งทางแล้วค่ะ! มั่นใจ เราทำได้!",
+      "g_tw": "會員！加油！<br/>已經跑完一半以上了！我們做得到！",
+      "g_tw_cn": "会员！加油！<br/>已经跑完一半以上了！我们做得到！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;10;회원님! 힘내세요! 이제 절반 넘게 달렸습니다! 우리는 할 수 있습니다!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1482375174,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 61,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 62,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 64,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 65,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3691288269
+    }
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 67,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 69,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 70,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 72,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3691288269
+    }
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 73,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "最後まで私がしっかりと先導しますから！",
+      "j_ko": "네? 트레이너는 몰라도, 저는 제법 힘이 남는 것 같은데, 그러면 먼저 뛰어가도 되지 않느냐고요?",
+      "g_ja": "最後まで私がしっかりと先導しますから！",
+      "g_ko": "네? 트레이너는 몰라도, 저는 제법 힘이 남는 것 같은데, 그러면 먼저 뛰어가도 되지 않느냐고요?",
+      "g_en": "Hm? You seem to be...plateauing. Why don't I run in front?",
+      "g_th": "คะ? ถึงเทรนเนอร์จะเหนื่อยแล้ว แต่ฉันดูจะยังมีแรงล้นเหลือ งั้นก็ให้ฉันวิ่งนำไปก่อนเหรอคะ?",
+      "g_tw": "咦？既然我還有體力，要不要自己先走？",
+      "g_tw_cn": "咦？既然我还有体力，要不要自己先走？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;02;네? 트레이너는 몰라도, 저는 제법 힘이 남는 것 같은데, 그러면 먼저 뛰어가도 되지 않느냐고요?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 74,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "トレーナー、陸上競技にはペースメーカーという役割の人がいます。",
+      "j_ko": "아닙니다. 트레이너. 육상에는 페이스 메이커라는 역할이 있죠.",
+      "g_ja": "トレーナー、陸上競技にはペースメーカーという役割の人がいます。",
+      "g_ko": "아닙니다. 트레이너. 육상에는 페이스 메이커라는 역할이 있죠.",
+      "g_en": "You see, there's a role called a \"pacemaker\" in track.",
+      "g_th": "ไม่ได้ค่ะ เทรนเนอร์ ปกติในการวิ่งจะมีคนที่มีบทบาทเป็นเพซเซอร์ค่ะ",
+      "g_tw": "不，指導員。<br/>在田徑賽之中，有一個叫做配速員的角色。",
+      "g_tw_cn": "不，指导员。<br/>在田径赛之中，有一个叫做配速员的角色。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;99;아닙니다. 트레이너. 육상에는 페이스 메이커라는 역할이 있죠.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "選手のペースを考慮しつつ、その力をより引き出していくサポーターですね。",
+      "j_ko": "함께 달리는 사람을 위해 속도를 조율하여, 그 사람이 자신의 모든 역량을 끌어내도록 돕는 보조자입니다.",
+      "g_ja": "選手のペースを考慮しつつ、その力をより引き出していくサポーターですね。",
+      "g_ko": "함께 달리는 사람을 위해 속도를 조율하여, 그 사람이 자신의 모든 역량을 끌어내도록 돕는 보조자입니다.",
+      "g_en": "It's a partner who adjusts their speed to help their fellow runner reach their full potential.",
+      "g_th": "หน้าที่ของเพซเซอร์คือการเป็นผู้ช่วยที่คอยปรับความเร็วให้เหมาะสมกับคนที่วิ่งด้วยกัน และช่วยให้คน<br/>คนนั้นดึงศักยภาพของตัวเองออกมาอย่างเต็มที่ค่ะ",
+      "g_tw": "是個為跑者調節速度，幫助跑者發揮出所有能力的輔助者。",
+      "g_tw_cn": "是个为跑者调节速度，帮助跑者发挥出所有能力的辅助者。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;01;함께 달리는 사람을 위해 속도를 조율하여, 그 사람이 자신의 모든 역량을 끌어내도록 돕는 보조자입니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 76,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "前を走るペースメーカーが風を受け、後に続く選手の負担を減らし、ペースを作る――",
+      "j_ko": "앞에서 맞바람을 어느 정도 맞아주기 때문에, 뒤따라 달리는 사람은 체력적인 이득을 얻게 되기도 하죠.",
+      "g_ja": "前を走るペースメーカーが風を受け、後に続く選手の負担を減らし、ペースを作る――",
+      "g_ko": "앞에서 맞바람을 어느 정도 맞아주기 때문에, 뒤따라 달리는 사람은 체력적인 이득을 얻게 되기도 하죠.",
+      "g_en": "They block headwind, so the person running behind can regain their stamina.",
+      "g_th": "นอกจากนี้เพซเซอร์ยังช่วยบังลมปะทะจากด้านหน้าให้ คนที่วิ่งตามหลังก็จะไม่เสียแรงมากด้วยค่ะ",
+      "g_tw": "由於跑在前面的人多少會幫後面的人承受風阻，<br/>因此跟跑的人能獲得一點體力上的優勢。",
+      "g_tw_cn": "由于跑在前面的人多少会帮后面的人承受风阻，<br/>因此跟跑的人能获得一点体力上的优势。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;05;앞에서 맞바람을 어느 정도 맞아주기 때문에, 뒤따라 달리는 사람은 체력적인 이득을 얻게 되기도 하죠.\\n#3;m4",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 77,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もちろん、共に走る選手の精神を安定させるのも大切な役目です！",
+      "j_ko": "고립되어 혼자 달리는 것보다 심리적인 안정감을 주기 때문에, 이렇게 앞뒤로 나란히 달리는 것이 효과적이기도 하고요.",
+      "g_ja": "もちろん、共に走る選手の精神を安定させるのも大切な役目です！",
+      "g_ko": "고립되어 혼자 달리는 것보다 심리적인 안정감을 주기 때문에, 이렇게 앞뒤로 나란히 달리는 것이 효과적이기도 하고요.",
+      "g_en": "Additionally, running in line like this provides vital moral support compared to running alone.",
+      "g_th": "อีกอย่าง การวิ่งกับเพซเซอร์จะให้ความมั่นคงทางจิตใจมากกว่าการวิ่งเหงาๆ คนเดียว การวิ่งเคียงข้าง<br/>กันไปแบบนี้จึงยิ่งมีประสิทธิภาพค่ะ",
+      "g_tw": "跟孤立無援地獨自向前跑相比，<br/>配速員能給予心理上的安定感，像這樣前後並排跑步也很有效果。",
+      "g_tw_cn": "跟孤立无援地独自向前跑相比，<br/>配速员能给予心理上的安定感，像这样前后并排跑步也很有效果。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;03;고립되어 혼자 달리는 것보다 심리적인 안정감을 주기 때문에, 이렇게 앞뒤로 나란히 달리는 것이 효과적이기도 하고요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 80,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 81,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 83,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 84,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 291898475
+    }
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 86,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 88,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 89,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 90,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 291898475
+    }
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 91,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 291898475
+    }
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 91,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 91,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "さあ、私を信じてついてきてください！",
+      "j_ko": "기운 내세요, 트레이너! 제가 있습니다. 제가 앞서서 길을 열고 있습니다!",
+      "g_ja": "さあ、私を信じてついてきてください！",
+      "g_ko": "기운 내세요, 트레이너! 제가 있습니다. 제가 앞서서 길을 열고 있습니다!",
+      "g_en": "So cheer up, Trainer! I'm here. And I'm leading the way!",
+      "g_th": "ส่งกำลังใจให้นะคะเทรนเนอร์! ฉันอยู่ตรงนี้ค่ะ ฉันจะเปิดทางให้เอง!",
+      "g_tw": "振作起來吧，指導員！<br/>我會在前面為你開路的！",
+      "g_tw_cn": "振作起来吧，指导员！<br/>我会在前面为你开路的！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;08;기운 내세요, 트레이너! 제가 있습니다. 제가 앞서서 길을 열고 있습니다!\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 291898475,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 92,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私も、トレーナーが最後まで走り抜けると信じています！",
+      "j_ko": "저는 트레이너께서 마지막까지 해 낼 수 있다고, 누구보다 굳게 믿어 의심치 않습니다!",
+      "g_ja": "私も、トレーナーが最後まで走り抜けると信じています！",
+      "g_ko": "저는 트레이너께서 마지막까지 해 낼 수 있다고, 누구보다 굳게 믿어 의심치 않습니다!",
+      "g_en": "I believe in you! We will finish this together!",
+      "g_th": "ฉันเชื่อสุดใจว่าเทรนเนอร์จะทำสำเร็จได้ในที่สุดค่ะ!",
+      "g_tw": "我比任何人都堅信，指導員一定能夠堅持到最後！",
+      "g_tw_cn": "我比任何人都坚信，指导员一定能够坚持到最后！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;03;저는 트레이너께서 마지막까지 해 낼 수 있다고, 누구보다 굳게 믿어 의심치 않습니다!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 93,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"もう……心臓が爆発しそう……！\"",
+      "j_ko": " \"그 마음은 진짜로 고맙긴 한데~!\"",
+      "g_ja": " \"もう……心臓が爆発しそう……！\"",
+      "g_ko": " \"그 마음은 진짜로 고맙긴 한데~!\"",
+      "g_en": " \"That's...very sweet...but...!\"",
+      "g_th": " \"ก็ขอบใจอยู่หรอกนะที่เชื่อแบบนั้น~!\"",
+      "g_tw": "「你的這份心意我是很感謝沒錯啦～！」",
+      "g_tw_cn": "「你的这份心意我是很感谢没错啦～！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그 마음은 진짜로 고맙긴 한데~!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 94,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1693520842
+    }
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 96,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 97,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 98,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 99,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 99,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 100,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（こうしてスミレにサポートされながら……）",
+      "j_ko": "(그렇게 스미레의 페이스 메이킹에 힘입어…….)",
+      "g_ja": "（こうしてスミレにサポートされながら……）",
+      "g_ko": "(그렇게 스미레의 페이스 메이킹에 힘입어…….)",
+      "g_en": "And so, thanks to Sumire's pacemaking...",
+      "g_th": "(จากการสนับสนุนของเพซเซอร์สึมิเระ...)",
+      "g_tw": "（於是在堇的協助配速下……）",
+      "g_tw_cn": "（于是在堇的协助配速下……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 스미레의 페이스 메이킹에 힘입어…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 101,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（なんとか10kmコースを完走することができた！）",
+      "j_ko": "(정말로, 10km 트랙을 완주하는 데에 성공했다!)",
+      "g_ja": "（なんとか10kmコースを完走することができた！）",
+      "g_ko": "(정말로, 10km 트랙을 완주하는 데에 성공했다!)",
+      "g_en": "I actually finished the 10 km run!",
+      "g_th": "(สุดท้ายคุณครูก็วิ่ง 10 กิโลเมตรได้สำเร็จจริงๆ!)",
+      "g_tw": "（真的順利跑完了全程10km！）",
+      "g_tw_cn": "（真的顺利跑完了全程10km！）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(정말로, 10km 트랙을 완주하는 데에 성공했다!)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 102,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3312569532
+    }
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 102,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 268
+    }
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 104,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1998413872
+    }
+  },
+  {
+    "ActualPos": 96,
+    "AbsolutePos": 104,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1130]― <cmd-char>스미레 아르바이트</cmd-char>お疲れ様でした！[wa:940]トレーナー！",
+      "j_ko": "[wa:1050]― <cmd-char>스미레 아르바이트</cmd-char>수고하셨습니다. [wa:940]트레이너!",
+      "g_ja": "[wa:1130]― <cmd-char>스미레 아르바이트</cmd-char>お疲れ様でした！[wa:940]トレーナー！",
+      "g_ko": "[wa:1050]― <cmd-char>스미레 아르바이트</cmd-char>수고하셨습니다. [wa:940]트레이너!",
+      "g_en": "― <cmd-char>스미레 아르바이트</cmd-char>Good work, Trainer![wa:1790] ",
+      "g_th": "― <cmd-char>스미레 아르바이트</cmd-char>ทำได้ดีมากค่ะ เทรนเนอร์![wa:1590] ",
+      "g_tw": "— <cmd-char>스미레 아르바이트</cmd-char>辛苦了！指導員！[wa:2190] ",
+      "g_tw_cn": "— <cmd-char>스미레 아르바이트</cmd-char>辛苦了！指导员！[wa:2190] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1050]― [log=스미레 아르바이트]수고하셨습니다. [wa:940]트레이너![/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1998413872,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 97,
+    "AbsolutePos": 106,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>스미레 아르바이트</cmd-char>本当に、[wa:1190]見事な走りでした。",
+      "j_ko": "[wa:130]― <cmd-char>스미레 아르바이트</cmd-char>정말로, [wa:1090]멋진 달리기였습니다.",
+      "g_ja": "― <cmd-char>스미레 아르바이트</cmd-char>本当に、[wa:1190]見事な走りでした。",
+      "g_ko": "[wa:130]― <cmd-char>스미레 아르바이트</cmd-char>정말로, [wa:1090]멋진 달리기였습니다.",
+      "g_en": "― <cmd-char>스미레 아르바이트</cmd-char>That was truly an amazing run.[wa:660] ",
+      "g_th": "― <cmd-char>스미레 아르바이트</cmd-char>เป็นการวิ่งที่ยอดเยี่ยมจริงๆ เลยค่ะ[wa:460] ",
+      "g_tw": "— <cmd-char>스미레 아르바이트</cmd-char>你真的，跑得非常好。[wa:1420] ",
+      "g_tw_cn": "— <cmd-char>스미레 아르바이트</cmd-char>你真的，跑得非常好。[wa:1420] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:130]― [log=스미레 아르바이트]정말로, [wa:1090]멋진 달리기였습니다.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 98,
+    "AbsolutePos": 109,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:260]― <cmd-char>스미레 아르바이트</cmd-char>どうぞ、[wa:1080]お飲み物をご用意しています。",
+      "j_ko": "[wa:200]― <cmd-char>스미레 아르바이트</cmd-char>자, 드십시오. [wa:950]제가 준비한 것입니다.",
+      "g_ja": "[wa:260]― <cmd-char>스미레 아르바이트</cmd-char>どうぞ、[wa:1080]お飲み物をご用意しています。",
+      "g_ko": "[wa:200]― <cmd-char>스미레 아르바이트</cmd-char>자, 드십시오. [wa:950]제가 준비한 것입니다.",
+      "g_en": "― <cmd-char>스미레 아르바이트</cmd-char>Here, have this. I mixed it for you.[wa:550] ",
+      "g_th": "― <cmd-char>스미레 아르바이트</cmd-char>เอ้า ดื่มนี่สิคะ ฉันเตรียมมาให้ค่ะ[wa:630] ",
+      "g_tw": "— <cmd-char>스미레 아르바이트</cmd-char>請用，我為你準備了飲料。[wa:1470] ",
+      "g_tw_cn": "— <cmd-char>스미레 아르바이트</cmd-char>请用，我为你准备了饮料。[wa:1470] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:200]― [log=스미레 아르바이트]자, 드십시오. [wa:950]제가 준비한 것입니다.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 99,
+    "AbsolutePos": 112,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ありがとう、スミレ……！\"",
+      "j_ko": " \"이건…… 드링크야?\"",
+      "g_ja": " \"ありがとう、スミレ……！\"",
+      "g_ko": " \"이건…… 드링크야?\"",
+      "g_en": " \"Is this...a drink?\"",
+      "g_th": " \"นี่คือ... เครื่องดื่มเหรอ?\"",
+      "g_tw": "「這是……飲料？」",
+      "g_tw_cn": "「这是……饮料？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"이건…… 드링크야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 100,
+    "AbsolutePos": 114,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 357617041
+    }
+  },
+  {
+    "ActualPos": 101,
+    "AbsolutePos": 114,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1170]― <cmd-char>스미레 아르바이트</cmd-char>ええ、[wa:900]この努力は報われるべきです。",
+      "j_ko": "[wa:1100]― <cmd-char>스미레 아르바이트</cmd-char>네. [wa:970]노력은 보답 받을 수 있어야 합니다.",
+      "g_ja": "[wa:1170]― <cmd-char>스미레 아르바이트</cmd-char>ええ、[wa:900]この努力は報われるべきです。",
+      "g_ko": "[wa:1100]― <cmd-char>스미레 아르바이트</cmd-char>네. [wa:970]노력은 보답 받을 수 있어야 합니다.",
+      "g_en": "― <cmd-char>스미레 아르바이트</cmd-char>Yes. Effort should be rewarded.[wa:1750] ",
+      "g_th": "― <cmd-char>스미레 아르바이트</cmd-char>ค่ะ เราต้องได้รับการตอบแทนจากความพยายามสิคะ[wa:1270] ",
+      "g_tw": "— <cmd-char>스미레 아르바이트</cmd-char>沒錯，這份努力就該獲得回報。[wa:2390] ",
+      "g_tw_cn": "— <cmd-char>스미레 아르바이트</cmd-char>没错，这份努力就该获得回报。[wa:2390] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1100]― [log=스미레 아르바이트]네. [wa:970]노력은 보답 받을 수 있어야 합니다.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 357617041,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 102,
+    "AbsolutePos": 116,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:650]― <cmd-char>스미레 아르바이트</cmd-char>ちゃんとしたご褒美があってこそ、[wa:1960]ですから。",
+      "j_ko": "[wa:400]― <cmd-char>스미레 아르바이트</cmd-char>제대로 보상이 주어져야 하는 건, [wa:1900]당연하니까요.",
+      "g_ja": "[wa:650]― <cmd-char>스미레 아르바이트</cmd-char>ちゃんとしたご褒美があってこそ、[wa:1960]ですから。",
+      "g_ko": "[wa:400]― <cmd-char>스미레 아르바이트</cmd-char>제대로 보상이 주어져야 하는 건, [wa:1900]당연하니까요.",
+      "g_en": "― <cmd-char>스미레 아르바이트</cmd-char>It's only natural to receive an earned reward.[wa:1500] ",
+      "g_th": "― <cmd-char>스미레 아르바이트</cmd-char>สมควรแล้วที่จะได้รับรางวัลอย่างเหมาะสมค่ะ[wa:1700] ",
+      "g_tw": "— <cmd-char>스미레 아르바이트</cmd-char>所以必須，給予適當的獎勵。[wa:2780] ",
+      "g_tw_cn": "— <cmd-char>스미레 아르바이트</cmd-char>所以必须，给予适当的奖励。[wa:2780] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:400]― [log=스미레 아르바이트]제대로 보상이 주어져야 하는 건, [wa:1900]당연하니까요.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 103,
+    "AbsolutePos": 119,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 641150250
+    }
+  },
+  {
+    "ActualPos": 104,
+    "AbsolutePos": 119,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:950]― <cmd-char>스미레 아르바이트</cmd-char>もちろん、[wa:1300]世の中のすべてが――",
+      "j_ko": "[wa:950]― <cmd-char>스미레 아르바이트</cmd-char>물론 [wa:1300]세상 모든 것이……",
+      "g_ja": "[wa:950]― <cmd-char>스미레 아르바이트</cmd-char>もちろん、[wa:1300]世の中のすべてが――",
+      "g_ko": "[wa:950]― <cmd-char>스미레 아르바이트</cmd-char>물론 [wa:1300]세상 모든 것이……",
+      "g_en": "― <cmd-char>스미레 아르바이트</cmd-char>Of course, not everyone in this world...[wa:1170] ",
+      "g_th": "― <cmd-char>스미레 아르바이트</cmd-char>แน่นอนว่าทุกสิ่งในโลก...[wa:1810] ",
+      "g_tw": "— <cmd-char>스미레 아르바이트</cmd-char>當然，世上的一切──[wa:2330] ",
+      "g_tw_cn": "— <cmd-char>스미레 아르바이트</cmd-char>当然，世上的一切──[wa:2330] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:950]― [log=스미레 아르바이트]물론 [wa:1300]세상 모든 것이……[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 641150250,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 105,
+    "AbsolutePos": 121,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>스미레 아르바이트</cmd-char>努力に比例した評価が与えられるわけではありません。",
+      "j_ko": "― <cmd-char>스미레 아르바이트</cmd-char>노력에 비례한 평가를 얻을 수는 없을 겁니다.",
+      "g_ja": "― <cmd-char>스미레 아르바이트</cmd-char>努力に比例した評価が与えられるわけではありません。",
+      "g_ko": "― <cmd-char>스미레 아르바이트</cmd-char>노력에 비례한 평가를 얻을 수는 없을 겁니다.",
+      "g_en": "― <cmd-char>스미레 아르바이트</cmd-char>...receives the goodness they deserve.",
+      "g_th": "― <cmd-char>스미레 아르바이트</cmd-char>ล้วนไม่ได้รับการประเมินตามความพยายามเสมอไป",
+      "g_tw": "— <cmd-char>스미레 아르바이트</cmd-char>未必都能獲得與努力成正比的評價。",
+      "g_tw_cn": "— <cmd-char>스미레 아르바이트</cmd-char>未必都能获得与努力成正比的评价。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=스미레 아르바이트]노력에 비례한 평가를 얻을 수는 없을 겁니다.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 106,
+    "AbsolutePos": 124,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3547521023
+    }
+  },
+  {
+    "ActualPos": 107,
+    "AbsolutePos": 124,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1330]― <cmd-char>스미레 아르바이트</cmd-char>それでも私は……",
+      "j_ko": "[wa:1230]― <cmd-char>스미레 아르바이트</cmd-char>그래도 저는……[wa:50] ",
+      "g_ja": "[wa:1330]― <cmd-char>스미레 아르바이트</cmd-char>それでも私は……",
+      "g_ko": "[wa:1230]― <cmd-char>스미레 아르바이트</cmd-char>그래도 저는……[wa:50] ",
+      "g_en": "― <cmd-char>스미레 아르바이트</cmd-char>But still...[wa:1160] ",
+      "g_th": "― <cmd-char>스미레 아르바이트</cmd-char>แต่ว่าฉันก็...[wa:1080] ",
+      "g_tw": "— <cmd-char>스미레 아르바이트</cmd-char>但我依然……[wa:1360] ",
+      "g_tw_cn": "— <cmd-char>스미레 아르바이트</cmd-char>但我依然……[wa:1360] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1230]― [log=스미레 아르바이트]그래도 저는……[/log][wa:50] ",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 3547521023,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 108,
+    "AbsolutePos": 126,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:200]― <cmd-char>스미레 아르바이트</cmd-char>頑張った人がきちんと報われて欲しいと、[wa:2720]思うのです。",
+      "j_ko": "[wa:100]― <cmd-char>스미레 아르바이트</cmd-char>노력한 사람은 보답받았으면 좋겠다고, [wa:2520]생각하고 있습니다.",
+      "g_ja": "[wa:200]― <cmd-char>스미레 아르바이트</cmd-char>頑張った人がきちんと報われて欲しいと、[wa:2720]思うのです。",
+      "g_ko": "[wa:100]― <cmd-char>스미레 아르바이트</cmd-char>노력한 사람은 보답받았으면 좋겠다고, [wa:2520]생각하고 있습니다.",
+      "g_en": "― <cmd-char>스미레 아르바이트</cmd-char>I hope that people who work hard are rewarded for it.[wa:1740] ",
+      "g_th": "― <cmd-char>스미레 아르바이트</cmd-char>คิดว่าอยากให้คนที่เพียรพยายามได้รับรางวัลค่ะ[wa:2100] ",
+      "g_tw": "— <cmd-char>스미레 아르바이트</cmd-char>希望努力的人都能確實獲得回報。[wa:3220] ",
+      "g_tw_cn": "— <cmd-char>스미레 아르바이트</cmd-char>希望努力的人都能确实获得回报。[wa:3220] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:100]― [log=스미레 아르바이트]노력한 사람은 보답받았으면 좋겠다고, [wa:2520]생각하고 있습니다.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 109,
+    "AbsolutePos": 129,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2470496543
+    }
+  },
+  {
+    "ActualPos": 110,
+    "AbsolutePos": 129,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:670]― <cmd-char>스미레 아르바이트</cmd-char>さあ、[wa:950]お飲みください。",
+      "j_ko": "[wa:670]― <cmd-char>스미레 아르바이트</cmd-char>자, [wa:900]어서 드셔주세요.",
+      "g_ja": "[wa:670]― <cmd-char>스미레 아르바이트</cmd-char>さあ、[wa:950]お飲みください。",
+      "g_ko": "[wa:670]― <cmd-char>스미레 아르바이트</cmd-char>자, [wa:900]어서 드셔주세요.",
+      "g_en": "― <cmd-char>스미레 아르바이트</cmd-char>Here, please enjoy.[wa:1290] ",
+      "g_th": "― <cmd-char>스미레 아르바이트</cmd-char>เอาละ รีบดื่มสิคะ[wa:1370] ",
+      "g_tw": "— <cmd-char>스미레 아르바이트</cmd-char>來，請享用吧。[wa:1730] ",
+      "g_tw_cn": "— <cmd-char>스미레 아르바이트</cmd-char>来，请享用吧。[wa:1730] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:670]― [log=스미레 아르바이트]자, [wa:900]어서 드셔주세요.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 2470496543,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 111,
+    "AbsolutePos": 131,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:250]― <cmd-char>스미레 아르바이트</cmd-char>私も一杯、[wa:1320]いただきます。",
+      "j_ko": "[wa:150]― <cmd-char>스미레 아르바이트</cmd-char>저도 한잔[wa:1230]하겠습니다.",
+      "g_ja": "[wa:250]― <cmd-char>스미레 아르바이트</cmd-char>私も一杯、[wa:1320]いただきます。",
+      "g_ko": "[wa:150]― <cmd-char>스미레 아르바이트</cmd-char>저도 한잔[wa:1230]하겠습니다.",
+      "g_en": "― <cmd-char>스미레 아르바이트</cmd-char>I'll have a drink as well.[wa:780] ",
+      "g_th": "― <cmd-char>스미레 아르바이트</cmd-char>ฉันก็จะดื่มด้วยค่ะ[wa:1100] ",
+      "g_tw": "— <cmd-char>스미레 아르바이트</cmd-char>我也要喝一杯。[wa:1500] ",
+      "g_tw_cn": "— <cmd-char>스미레 아르바이트</cmd-char>我也要喝一杯。[wa:1500] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:150]― [log=스미레 아르바이트]저도 한잔[wa:1230]하겠습니다.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 112,
+    "AbsolutePos": 133,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1482375174
+    }
+  },
+  {
+    "ActualPos": 113,
+    "AbsolutePos": 134,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（スミレの気遣いに感動し、ドリンクを飲んだところ……）",
+      "j_ko": "(스미레의 마음 씀씀이에 감동하며, 드링크를 마셨을 때……!)",
+      "g_ja": "（スミレの気遣いに感動し、ドリンクを飲んだところ……）",
+      "g_ko": "(스미레의 마음 씀씀이에 감동하며, 드링크를 마셨을 때……!)",
+      "g_en": "I was moved by Sumire's kindness and took a sip...!",
+      "g_th": "(คุณครูยกแก้วขึ้นดื่มด้วยความประทับใจในความคิดของสึมิเระ และในตอนนั้นเอง...!)",
+      "g_tw": "（就在被堇的體貼感動，喝下飲料的同時……！）",
+      "g_tw_cn": "（就在被堇的体贴感动，喝下饮料的同时……！）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(스미레의 마음 씀씀이에 감동하며, 드링크를 마셨을 때……!)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 114,
+    "AbsolutePos": 137,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Drink_01"
+    }
+  },
+  {
+    "ActualPos": 115,
+    "AbsolutePos": 138,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Drink_02"
+    }
+  },
+  {
+    "ActualPos": 116,
+    "AbsolutePos": 139,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Drink_01"
+    }
+  },
+  {
+    "ActualPos": 117,
+    "AbsolutePos": 141,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"うっ、口の中が粘ついてる……！\" ",
+      "j_ko": " \"끄, 끈적하고 텁텁해?!\"",
+      "g_ja": " \"うっ、口の中が粘ついてる……！\"",
+      "g_ko": " \"끄, 끈적하고 텁텁해?!\"",
+      "g_en": " \"I-It's so thick?\"",
+      "g_th": " \"ทำไมมันเหนียวหนืดแบบนี้ล่ะ?!\"",
+      "g_tw": "「怎，怎麼黏黏又澀澀的！？」",
+      "g_tw_cn": "「怎，怎么黏黏又涩涩的！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns5] \"끄, 끈적하고 텁텁해?!\"\\n[ns6] \"스미레, 이건 혹시!?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 118,
+    "AbsolutePos": 141,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"スミレ、これはもしかして……！？\"",
+      "j_ko": " \"스미레, 이건 혹시!?\"",
+      "g_ja": " \"スミレ、これはもしかして……！？\"",
+      "g_ko": " \"스미레, 이건 혹시!?\"",
+      "g_en": " \"Sumire, what the...?\"",
+      "g_th": " \"สึมิเระ หรือว่านี่คือ!?\"",
+      "g_tw": "「堇，這該不會是……！？」",
+      "g_tw_cn": "「堇，这该不会是……！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns5] \"끄, 끈적하고 텁텁해?!\"\\n[ns6] \"스미레, 이건 혹시!?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 119,
+    "AbsolutePos": 144,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "よくお気づきですね！",
+      "j_ko": "네. 트레이너.",
+      "g_ja": "よくお気づきですね！",
+      "g_ko": "네. 트레이너.",
+      "g_en": "Yes, Trainer.",
+      "g_th": "ค่ะ เทรนเนอร์",
+      "g_tw": "沒錯，指導員。",
+      "g_tw_cn": "没错，指导员。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;03;네. 트레이너.\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 120,
+    "AbsolutePos": 145,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そう、私特製のプロテインドリンクです！",
+      "j_ko": "단백질 드링크입니다.",
+      "g_ja": "そう、私特製のプロテインドリンクです！",
+      "g_ko": "단백질 드링크입니다.",
+      "g_en": "It's packed with protein!",
+      "g_th": "เครื่องดื่มโปรตีนยังไงล่ะคะ",
+      "g_tw": "這是蛋白質飲料。",
+      "g_tw_cn": "这是蛋白质饮料。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;08;단백질 드링크입니다.\\n#3;em;[반짝]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 121,
+    "AbsolutePos": 146,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"喉が余計に乾いた気がするんだけど！？\"",
+      "j_ko": " \"오히려 더욱 목이 말라졌습니다만!\"",
+      "g_ja": " \"喉が余計に乾いた気がするんだけど！？\"",
+      "g_ko": " \"오히려 더욱 목이 말라졌습니다만!\"",
+      "g_en": " \"It made me even thirstier!\"",
+      "g_th": " \"แบบนี้ยิ่งทำให้หิวน้ำเข้าไปใหญ่นะ!\"",
+      "g_tw": "「這樣我反而更渴了啊！」",
+      "g_tw_cn": "「这样我反而更渴了啊！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"오히려 더욱 목이 말라졌습니다만!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 122,
+    "AbsolutePos": 147,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "トレーナー、これこそが至高の一杯なんですよ。",
+      "j_ko": "아닙니다. 트레이너. 이것은 상당히 중요한 일입니다.",
+      "g_ja": "トレーナー、これこそが至高の一杯なんですよ。",
+      "g_ko": "아닙니다. 트레이너. 이것은 상당히 중요한 일입니다.",
+      "g_en": "Listen, Trainer. This is quite important.",
+      "g_th": "ไม่หรอกค่ะ เทรนเนอร์ นี่เป็นเรื่องสำคัญมากเลยนะคะ",
+      "g_tw": "不，指導員。這可是相當重要的事情。",
+      "g_tw_cn": "不，指导员。这可是相当重要的事情。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;01;아닙니다. 트레이너. 이것은 상당히 중요한 일입니다.\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 123,
+    "AbsolutePos": 148,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "運動後にタンパク質を摂取すると、筋肉の回復を促進してくれます。",
+      "j_ko": "운동 후 에너지를 소비한 몸에 단백질이 보충되면, 그만큼 근섬유 합성이 더욱 효과적으로 일어나게 되죠.",
+      "g_ja": "運動後にタンパク質を摂取すると、筋肉の回復を促進してくれます。",
+      "g_ko": "운동 후 에너지를 소비한 몸에 단백질이 보충되면, 그만큼 근섬유 합성이 더욱 효과적으로 일어나게 되죠.",
+      "g_en": "You need protein after exercise for ultimate muscle synthesis!",
+      "g_th": "ถ้าร่างกายของเราได้รับโปรตีนหลังจากออกกำลังกาย ก็จะยิ่งเกิดการสังเคราะห์เส้นใยกล้ามเนื้ออย่าง<br/>มีประสิทธิภาพค่ะ",
+      "g_tw": "如果能在運動之後為消耗能量的身體補充蛋白質，可以更有效地促進肌纖維合成。",
+      "g_tw_cn": "如果能在运动之后为消耗能量的身体补充蛋白质，可以更有效地促进肌纤维合成。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;02;운동 후 에너지를 소비한 몸에 단백질이 보충되면, 그만큼 근섬유 합성이 더욱 효과적으로 일어나게 되죠.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 124,
+    "AbsolutePos": 149,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "特に、動物性タンパク質は筋肉の合成に必要不可欠です。",
+      "j_ko": "또한 근육 단백질 합성에는 식물성 단백질보다 동물성 단백질 효과가 더 뛰어난데.",
+      "g_ja": "特に、動物性タンパク質は筋肉の合成に必要不可欠です。",
+      "g_ko": "또한 근육 단백질 합성에는 식물성 단백질보다 동물성 단백질 효과가 더 뛰어난데.",
+      "g_en": "Furthermore, animal protein is more effective than plant protein.",
+      "g_th": "นอกจากนี้ในการสังเคราะห์กล้ามเนื้อ โปรตีนจากสัตว์ยังมีประสิทธิภาพมากกว่าโปรตีนจากพืช",
+      "g_tw": "而且跟植物性蛋白質相比，動物性蛋白質在肌肉蛋白質合成方面的效果更好。",
+      "g_tw_cn": "而且跟植物性蛋白质相比，动物性蛋白质在肌肉蛋白质合成方面的效果更好。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;05;또한 근육 단백질 합성에는 식물성 단백질보다 동물성 단백질 효과가 더 뛰어난데.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 125,
+    "AbsolutePos": 150,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "その中でも、吸収の早い乳清タンパクが含まれたこのプロテインは――",
+      "j_ko": "특히 우유에 있는 유청 단백질은 빠르게 소화돼 근육 단백질 합성을 촉진합니다.",
+      "g_ja": "その中でも、吸収の早い乳清タンパクが含まれたこのプロテインは――",
+      "g_ko": "특히 우유에 있는 유청 단백질은 빠르게 소화돼 근육 단백질 합성을 촉진합니다.",
+      "g_en": "In particular, this whey protein is quickly digested and integrated to cultivate strong muscles!",
+      "g_th": "โดยเฉพาะโปรตีนเวย์ในนมที่ย่อยได้รวดเร็ว มันเลยไปช่วยส่งเสริมการสังเคราะห์กล้ามเนื้อค่ะ",
+      "g_tw": "尤其牛奶中的乳清蛋白能夠快速被消化吸收，促進肌肉蛋白質的合成。",
+      "g_tw_cn": "尤其牛奶中的乳清蛋白能够快速被消化吸收，促进肌肉蛋白质的合成。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;03;특히 우유에 있는 유청 단백질은 빠르게 소화돼 근육 단백질 합성을 촉진합니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 126,
+    "AbsolutePos": 151,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まさに、未来の筋肉を創る一杯と言っていいでしょう！",
+      "j_ko": "바로, 단백질 드링크죠.",
+      "g_ja": "まさに、未来の筋肉を創る一杯と言っていいでしょう！",
+      "g_ko": "바로, 단백질 드링크죠.",
+      "g_en": "So, drink up!",
+      "g_th": "เพราะงั้นก็ต้องดื่มเครื่องดื่มโปรตีนสิคะ",
+      "g_tw": "因此才需要喝下這杯蛋白質飲料。",
+      "g_tw_cn": "因此才需要喝下这杯蛋白质饮料。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;08;바로, 단백질 드링크죠.\\n#3;em;[반짝]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 127,
+    "AbsolutePos": 154,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Fall_02"
+    }
+  },
+  {
+    "ActualPos": 128,
+    "AbsolutePos": 155,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ダメだ……喉がカラカラで立てない……。\"",
+      "j_ko": " \"안 돼……. 목이 말라서 일어설 힘조차 없어…….\"",
+      "g_ja": " \"ダメだ……喉がカラカラで立てない……。\"",
+      "g_ko": " \"안 돼……. 목이 말라서 일어설 힘조차 없어…….\"",
+      "g_en": " \"I can't... Just leave me here.\"",
+      "g_th": " \"ไม่นะ... ตอนนี้ครูกระหายน้ำจนไม่มีแรงแล้ว...\"",
+      "g_tw": "「不行……我已經渴到連站起來的力氣都沒有了……」",
+      "g_tw_cn": "「不行……我已经渴到连站起来的力气都没有了……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"안 돼……. 목이 말라서 일어설 힘조차 없어…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 129,
+    "AbsolutePos": 156,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ト、トレーナー……？喉が渇くようでしたら、糖質ゼロのスポーツドリンクも用意してあります。",
+      "j_ko": "트, 트레이너? 그야 물론 보통의 무설탕 갈증 해소 이온 음료도 준비되어 있습니다만…….",
+      "g_ja": "ト、トレーナー……？喉が渇くようでしたら、糖質ゼロのスポーツドリンクも用意してあります。",
+      "g_ko": "트, 트레이너? 그야 물론 보통의 무설탕 갈증 해소 이온 음료도 준비되어 있습니다만…….",
+      "g_en": "T-Trainer? Perhaps you'd prefer a sugar-free sports drink? It's got electrolytes.",
+      "g_th": "ทะ... เทรนเนอร์? ที่จริงฉันก็มีเครื่องดื่มไอออนสูตรไม่มีน้ำตาลเตรียมไว้เพื่อดับกระหายเหมือนกัน...",
+      "g_tw": "指，指導員？<br/>我當然也有準備解渴的無糖運動飲料……",
+      "g_tw_cn": "指，指导员？<br/>我当然也有准备解渴的无糖运动饮料……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;06;트, 트레이너? 그야 물론 보통의 무설탕 갈증 해소 이온 음료도 준비되어 있습니다만…….\\n#3;stiff\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 130,
+    "AbsolutePos": 158,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_04"
+    }
+  },
+  {
+    "ActualPos": 131,
+    "AbsolutePos": 158,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "どうぞ。少しずつ飲んでくださいね。",
+      "j_ko": "네. 여기 있습니다. 목에 걸리지 않도록 천천히 드세요.",
+      "g_ja": "どうぞ。少しずつ飲んでくださいね。",
+      "g_ko": "네. 여기 있습니다. 목에 걸리지 않도록 천천히 드세요.",
+      "g_en": "Yes. Very good. Drink it slowly so you don't choke.",
+      "g_th": "นี่ไงคะ ดื่มช้าๆ นะคะ จะได้ไม่สำลัก",
+      "g_tw": "來，請慢慢喝，小心不要嗆到了。",
+      "g_tw_cn": "来，请慢慢喝，小心不要呛到了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;03;네. 여기 있습니다. 목에 걸리지 않도록 천천히 드세요.\\n#3;a\\n#3;greeting\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 132,
+    "AbsolutePos": 162,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いえ、感謝の言葉など……",
+      "j_ko": "아닙니다. 저에게 고맙다고 하실 필요 없어요.",
+      "g_ja": "いえ、感謝の言葉など……",
+      "g_ko": "아닙니다. 저에게 고맙다고 하실 필요 없어요.",
+      "g_en": "Oh, you don't have to thank me.",
+      "g_th": "ไม่เป็นไรค่ะ ไม่ต้องเอ่ยขอบคุณฉันหรอกค่ะ",
+      "g_tw": "沒關係，不需要對我道謝。",
+      "g_tw_cn": "没关系，不需要对我道谢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;06;아닙니다. 저에게 고맙다고 하실 필요 없어요.\\n#3;a\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 133,
+    "AbsolutePos": 163,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "むしろ、最後まで走り切る姿を見せてくれたことに、私の方こそ感謝しています！",
+      "j_ko": "오히려 이렇게 트레이너께서 마지막까지 훌륭히 코스를 완주해 주셔서, 제가 더욱 감사드리고 싶을 지경입니다.",
+      "g_ja": "むしろ、最後まで走り切る姿を見せてくれたことに、私の方こそ感謝しています！",
+      "g_ko": "오히려 이렇게 트레이너께서 마지막까지 훌륭히 코스를 완주해 주셔서, 제가 더욱 감사드리고 싶을 지경입니다.",
+      "g_en": "In fact, I should thank YOU for being such a good sport on the track!",
+      "g_th": "ฉันต่างหากที่อยากขอบคุณเทรนเนอร์ที่ทุ่มเทออกกำลังกายตามโปรแกรมของฉันได้จนจบ",
+      "g_tw": "指導員能夠出色地堅持到最後，反而是我想對你表達謝意呢。",
+      "g_tw_cn": "指导员能够出色地坚持到最后，反而是我想对你表达谢意呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;03;오히려 이렇게 트레이너께서 마지막까지 훌륭히 코스를 완주해 주셔서, 제가 더욱 감사드리고 싶을 지경입니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 134,
+    "AbsolutePos": 164,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "では、トレーナー！",
+      "j_ko": "그러면, 트레이너!",
+      "g_ja": "では、トレーナー！",
+      "g_ko": "그러면, 트레이너!",
+      "g_en": "Now then, Trainer!",
+      "g_th": "ถ้างั้น... เทรนเนอร์คะ!",
+      "g_tw": "那麼，指導員！",
+      "g_tw_cn": "那么，指导员！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;10;그러면, 트레이너!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 135,
+    "AbsolutePos": 165,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "明日も、共に新しい筋肉を育てていきましょう！",
+      "j_ko": "우리 함께, 다시 내일의 근섬유를 위해 힘을 내도록 하죠!",
+      "g_ja": "明日も、共に新しい筋肉を育てていきましょう！",
+      "g_ko": "우리 함께, 다시 내일의 근섬유를 위해 힘을 내도록 하죠!",
+      "g_en": "Let's rally and build those muscles!",
+      "g_th": "เรามาออกแรงเพื่อเส้นใยกล้ามเนื้อในอนาคตกันอีกรอบเถอะค่ะ!",
+      "g_tw": "跟我一起為明天的肌纖維繼續加油吧！",
+      "g_tw_cn": "跟我一起为明天的肌纤维继续加油吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;05;우리 함께, 다시 내일의 근섬유를 위해 힘을 내도록 하죠!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 136,
+    "AbsolutePos": 166,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"えっ、明日も？\"",
+      "j_ko": " \"여기서 또?!\"",
+      "g_ja": " \"えっ、明日も？\"",
+      "g_ko": " \"여기서 또?!\"",
+      "g_en": " \"We're doing more?!\"",
+      "g_th": " \"อีกรอบเหรอ?!\"",
+      "g_tw": "「還沒完嗎！？」",
+      "g_tw_cn": "「还没完吗！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"여기서 또?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 137,
+    "AbsolutePos": 167,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もちろんです。最初にお伝えしましたよね？",
+      "j_ko": "네. 앞서도 말씀드리지 않았나요?",
+      "g_ja": "もちろんです。最初にお伝えしましたよね？",
+      "g_ko": "네. 앞서도 말씀드리지 않았나요?",
+      "g_en": "Yes. Weren't you listening?",
+      "g_th": "ค่ะ ฉันก็บอกไปตั้งแต่ก่อนหน้านี้แล้วนี่คะ?",
+      "g_tw": "那當然。我剛才不是說過了嗎？",
+      "g_tw_cn": "那当然。我刚才不是说过了吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;08;네. 앞서도 말씀드리지 않았나요?\\n#3;em;[재잘]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 138,
+    "AbsolutePos": 168,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "「軽く10kmから始めましょう」と！",
+      "j_ko": "이것은, '몸을 풀기 위한 가벼운 10km 구보' 라고요.",
+      "g_ja": "「軽く10kmから始めましょう」と！",
+      "g_ko": "이것은, '몸을 풀기 위한 가벼운 10km 구보' 라고요.",
+      "g_en": "That was a warm-up. It was only 10 km!",
+      "g_th": "นี่เป็น 'การวิ่งเบาๆ 10 กิโลเมตรเพื่อวอร์มร่างกาย' เท่านั้นค่ะ",
+      "g_tw": "這是「暖身的輕鬆10km慢跑」啊。",
+      "g_tw_cn": "这是「暖身的轻松10km慢跑」啊。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1606344189,
+    "DataType": "speaker",
+    "Script": "3;스미레 아르바이트;03;이것은, '몸을 풀기 위한 가벼운 10km 구보' 라고요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 139,
+    "AbsolutePos": 171,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Close_01"
+    }
+  },
+  {
+    "ActualPos": 140,
+    "AbsolutePos": 172,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 141,
+    "AbsolutePos": 173,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（スミレのトレーニングは、効果抜群だったものの）",
+      "j_ko": "(스미레의 트레이닝은, 나중에 돌이켜 보면 분명히 효과적인 것이었지만…….)",
+      "g_ja": "（スミレのトレーニングは、効果抜群だったものの）",
+      "g_ko": "(스미레의 트레이닝은, 나중에 돌이켜 보면 분명히 효과적인 것이었지만…….)",
+      "g_en": "Looking back, though Sumire's training was clearly effective...",
+      "g_th": "(เมื่อมองย้อนกลับไป การเทรนนิ่งของสึมิเระในวันนี้มีประสิทธิภาพอย่างไม่ต้องสงสัย...)",
+      "g_tw": "（雖然堇的訓練，事後回想起來確實相當有效……）",
+      "g_tw_cn": "（虽然堇的训练，事后回想起来确实相当有效……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(스미레의 트레이닝은, 나중에 돌이켜 보면 분명히 효과적인 것이었지만…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 142,
+    "AbsolutePos": 174,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（10kmも走ったことで、しばらく筋肉痛に悩まされることになった……）",
+      "j_ko": "(갑작스럽게 10km를 뛴 부작용으로, 며칠 동안 근육통에 시달려야 했다…….)",
+      "g_ja": "（10kmも走ったことで、しばらく筋肉痛に悩まされることになった……）",
+      "g_ko": "(갑작스럽게 10km를 뛴 부작용으로, 며칠 동안 근육통에 시달려야 했다…….)",
+      "g_en": "I was too sore to move for the next few days.",
+      "g_th": "(แต่การวิ่ง 10 กิโลเมตรอย่างกะทันหันทำให้คุณครูทรมานจากการปวดกล้ามเนื้อไปอีกหลายวัน...)",
+      "g_tw": "（然而因為突然跑了10km的關係，必須忍受好幾天的肌肉痠痛……）",
+      "g_tw_cn": "（然而因为突然跑了10km的关系，必须忍受好几天的肌肉酸痛……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(갑작스럽게 10km를 뛴 부작용으로, 며칠 동안 근육통에 시달려야 했다…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

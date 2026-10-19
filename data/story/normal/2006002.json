@@ -1,0 +1,1998 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4054967157
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 201
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">イブキとお休み！</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">이부키와 함께 휴식을!</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\"></span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">이부키와 함께 휴식을!</span>",
+      "g_en": "<span class=\"scenario-cmd-title\"></span>",
+      "g_th": "<span class=\"scenario-cmd-title\"></span>",
+      "g_tw": "<span class=\"scenario-cmd-title\"></span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\"></span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;이부키와 함께 휴식을!",
+    "BGMId": 201,
+    "Sound": "",
+    "BGName": 4054967157,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "砂浜のパラソルの下",
+      "j_ko": "모래사장 파라솔 아래",
+      "g_ja": "",
+      "g_ko": "모래사장 파라솔 아래",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "place",
+    "Script": "#place;모래사장 파라솔 아래",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Seagull_01"
+    }
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 3,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SeaWave_02"
+    }
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 4,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（イブキと夏休みの約束をしたものの……）",
+      "j_ko": "(이부키와 여름휴가 약속을 한 것까지는 좋았는데…….)",
+      "g_ja": "",
+      "g_ko": "(이부키와 여름휴가 약속을 한 것까지는 좋았는데…….)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(이부키와 여름휴가 약속을 한 것까지는 좋았는데…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（……予定を合わせるために無理をした結果、海に着く頃にはすっかりヘトヘトだった）",
+      "j_ko": "(……일정을 맞추려고 무리한 탓에, 해변에 도착했을 때는 이미 녹초 상태였다.)",
+      "g_ja": "",
+      "g_ko": "(……일정을 맞추려고 무리한 탓에, 해변에 도착했을 때는 이미 녹초 상태였다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(……일정을 맞추려고 무리한 탓에, 해변에 도착했을 때는 이미 녹초 상태였다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふわぁ……。",
+      "j_ko": "흐아아암…….",
+      "g_ja": "",
+      "g_ko": "흐아아암…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "3;이부키 수영복;17;흐아아암…….\\n#3;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "イブキ、ねむーい……。",
+      "j_ko": "졸려어어어…….",
+      "g_ja": "",
+      "g_ko": "졸려어어어…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "3;이부키 수영복;16;졸려어어어…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（私の疲れが移ったのか、イブキもなんだかぐったりしている）",
+      "j_ko": "(내 영향을 받았는지, 이부키도 대단히 피곤해 보인다.)",
+      "g_ja": "",
+      "g_ko": "(내 영향을 받았는지, 이부키도 대단히 피곤해 보인다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(내 영향을 받았는지, 이부키도 대단히 피곤해 보인다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ぜんぜん力はいんないよぉ……。",
+      "j_ko": "선생니이임…… 이부키…… 몸에 힘이 없어…….",
+      "g_ja": "",
+      "g_ko": "선생니이임…… 이부키…… 몸에 힘이 없어…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "3;이부키 수영복;11;선생니이임…… 이부키…… 몸에 힘이 없어…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"先生も……。\"",
+      "j_ko": " \"선생님도 그래…….\"",
+      "g_ja": "",
+      "g_ko": " \"선생님도 그래…….\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"선생님도 그래…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 14,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 14,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えへへ……イブキとおんなじー。",
+      "j_ko": "헤헤…… 이부키랑 똑같네…….",
+      "g_ja": "",
+      "g_ko": "헤헤…… 이부키랑 똑같네…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "3;이부키 수영복;03;헤헤…… 이부키랑 똑같네…….\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でも、先生と遊ぶって……。",
+      "j_ko": "선생님이랑 같이 놀기로 약속했는데",
+      "g_ja": "",
+      "g_ko": "선생님이랑 같이 놀기로 약속했는데",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "3;이부키 수영복;99;선생님이랑 같이 놀기로 약속했는데",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 16,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "約束……したから……。",
+      "j_ko": "했는……데…….",
+      "g_ja": "",
+      "g_ko": "했는……데…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "3;이부키 수영복;16;했는……데…….\\n#3;em;[zzz]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Zzz",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "zzz…….",
+      "g_ja": "",
+      "g_ko": "zzz…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "3;이부키 수영복;16;zzz…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 18,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 19,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ぐぅ。",
+      "j_ko": "피휴우우…….",
+      "g_ja": "",
+      "g_ko": "피휴우우…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "#na;이부키 수영복;피휴우우…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 20,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"イブキは休んでて大丈夫だよ。\"",
+      "j_ko": " \"그래, 이럴 때는 일단 잠부터 자야지…….\"",
+      "g_ja": "",
+      "g_ko": " \"그래, 이럴 때는 일단 잠부터 자야지…….\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그래, 이럴 때는 일단 잠부터 자야지…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（イブキがぐっすり眠ったのを確認して……）",
+      "j_ko": "(이부키가 잠든 것을 확인한 뒤…….)",
+      "g_ja": "",
+      "g_ko": "(이부키가 잠든 것을 확인한 뒤…….)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(이부키가 잠든 것을 확인한 뒤…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ちょっと、目を閉じるだけ……。\"",
+      "j_ko": " \"……나도 눈 좀 붙일까.\"",
+      "g_ja": "",
+      "g_ko": " \"……나도 눈 좀 붙일까.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"……나도 눈 좀 붙일까.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（……そのまま眠ってしまった）",
+      "j_ko": "(그렇게 이부키 옆에서 잠에 들었다.)",
+      "g_ja": "",
+      "g_ko": "(그렇게 이부키 옆에서 잠에 들었다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 이부키 옆에서 잠에 들었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 24,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（……不意に目が覚める）",
+      "j_ko": "(그런데…….)",
+      "g_ja": "",
+      "g_ko": "(그런데…….)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그런데…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……んん、暑い？\"",
+      "j_ko": " \"……왜 이렇게 뜨겁지?\"",
+      "g_ja": "",
+      "g_ko": " \"……왜 이렇게 뜨겁지?\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"……왜 이렇게 뜨겁지?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 30,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4054967157
+    }
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 31,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（時間が経過したからか……パラソルの影が移動し、日差しが肌を焼いている）",
+      "j_ko": "(해의 위치가 바뀌어서, 따가운 햇빛이 파라솔 안으로 들이치고 있었다.)",
+      "g_ja": "",
+      "g_ko": "(해의 위치가 바뀌어서, 따가운 햇빛이 파라솔 안으로 들이치고 있었다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(해의 위치가 바뀌어서, 따가운 햇빛이 파라솔 안으로 들이치고 있었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 32,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"イブキが暑くないように……。\"",
+      "j_ko": " \"이부키가 뜨겁지 않게…….\"",
+      "g_ja": "",
+      "g_ko": " \"이부키가 뜨겁지 않게…….\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"이부키가 뜨겁지 않게…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_04"
+    }
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 33,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（パラソルの影を調整する）",
+      "j_ko": "(파라솔의 방향을 바꾸어 그늘의 위치를 조정한 뒤.)",
+      "g_ja": "",
+      "g_ko": "(파라솔의 방향을 바꾸어 그늘의 위치를 조정한 뒤.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(파라솔의 방향을 바꾸어 그늘의 위치를 조정한 뒤.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"これなら、大丈夫かな。\"",
+      "j_ko": " \"이 정도면 괜찮겠지.\"",
+      "g_ja": "",
+      "g_ko": " \"이 정도면 괜찮겠지.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] \"이 정도면 괜찮겠지.\"\\n[ns2] \"그러면 다시 조금만…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……少し、目を閉じるだけ。\"",
+      "j_ko": " \"그러면 다시 조금만…….\"",
+      "g_ja": "",
+      "g_ko": " \"그러면 다시 조금만…….\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] \"이 정도면 괜찮겠지.\"\\n[ns2] \"그러면 다시 조금만…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 37,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 38,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（しばらくして……）",
+      "j_ko": "(다시 얼마 뒤…….)",
+      "g_ja": "",
+      "g_ko": "(다시 얼마 뒤…….)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(다시 얼마 뒤…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 39,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4054967157
+    }
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 40,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……はっ！また日差しが！\"",
+      "j_ko": " \"……앗 뜨거워.\"",
+      "g_ja": "",
+      "g_ko": " \"……앗 뜨거워.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"……앗 뜨거워.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 41,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_04"
+    }
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（もう一度パラソルの位置を変える。イブキはぐっすり眠っている)",
+      "j_ko": "(파라솔 위치를 또다시 조정한 뒤, 다시 잠에 들었다.)",
+      "g_ja": "",
+      "g_ko": "(파라솔 위치를 또다시 조정한 뒤, 다시 잠에 들었다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(파라솔 위치를 또다시 조정한 뒤, 다시 잠에 들었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 46,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（しばらくして……）",
+      "j_ko": "(그리고 또 얼마 뒤…….)",
+      "g_ja": "",
+      "g_ko": "(그리고 또 얼마 뒤…….)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그리고 또 얼마 뒤…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 50,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Ring_02"
+    }
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"あれ……？イブキから着信……？\"",
+      "j_ko": " \"응? 이부키의 전화……?'",
+      "g_ja": "",
+      "g_ko": " \"응? 이부키의 전화……?'",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"응? 이부키의 전화……?'",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 53,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4054967157
+    }
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 54,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（目が覚めて隣を見ると）",
+      "j_ko": "(그러고 보니 옆에 있던 이부키가 어느새 사라져 있었다.)",
+      "g_ja": "",
+      "g_ko": "(그러고 보니 옆에 있던 이부키가 어느새 사라져 있었다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그러고 보니 옆에 있던 이부키가 어느새 사라져 있었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 55,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（眠っているはずのイブキの姿がなかった）",
+      "j_ko": "(근처 어디에서도 보이지 않았고.)",
+      "g_ja": "",
+      "g_ko": "(근처 어디에서도 보이지 않았고.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(근처 어디에서도 보이지 않았고.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 59,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"イブキ……！？\"",
+      "j_ko": " \"이부키……?\"",
+      "g_ja": "",
+      "g_ko": " \"이부키……?\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"이부키……?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 60,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Ring_02"
+    }
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（心配になりながら、とりあえず電話に出た）",
+      "j_ko": "(걱정하는 마음으로 차분히 전화를 받았다.)",
+      "g_ja": "",
+      "g_ko": "(걱정하는 마음으로 차분히 전화를 받았다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(걱정하는 마음으로 차분히 전화를 받았다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 65,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Radio_01"
+    }
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 65,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生先生！",
+      "j_ko": "선생님 선생님!",
+      "g_ja": "",
+      "g_ko": "선생님 선생님!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "3;이부키 수영복;00;선생님 선생님!\\n#3;sig",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 66,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"よかった……！なんともない？\"",
+      "j_ko": " \"다행이다……! 어디 있어?\" ",
+      "g_ja": "",
+      "g_ko": " \"다행이다……! 어디 있어?\" ",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"다행이다……! 어디 있어?\" ",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "なんの話～？<br/>あのね、イブキね、すっごい場所見つけたの！",
+      "j_ko": "이부키가 있지, 엄청 멋진 곳을 찾아냈어!",
+      "g_ja": "",
+      "g_ko": "이부키가 있지, 엄청 멋진 곳을 찾아냈어!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "3;이부키 수영복;03;이부키가 있지, 엄청 멋진 곳을 찾아냈어!\\n#3;sig\\n#3;em;[재잘]\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "海を見たら、右にま～っすぐ向かって！",
+      "j_ko": "바다를 보고 오른쪽으로 쭉~ 올라오면 돼!",
+      "g_ja": "",
+      "g_ko": "바다를 보고 오른쪽으로 쭉~ 올라오면 돼!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "3;이부키 수영복;01;바다를 보고 오른쪽으로 쭉~ 올라오면 돼!\\n#3;sig",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 69,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まってるね～！",
+      "j_ko": "빨리 와, 선생님! 보고 싶어!",
+      "g_ja": "",
+      "g_ko": "빨리 와, 선생님! 보고 싶어!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "3;이부키 수영복;03;빨리 와, 선생님! 보고 싶어!\\n#3;sig\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 72,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Confirm_01"
+    }
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 73,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……とりあえず行ってみよう。\"",
+      "j_ko": " \"……일단 가볼까.\"",
+      "g_ja": "",
+      "g_ko": " \"……일단 가볼까.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"……일단 가볼까.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 74,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（イブキの無事に胸をなでおろし、言われた場所へ向かった）",
+      "j_ko": "(아무 일도 일어나지 않은 것에 안심하며, 이부키가 있는 쪽으로 향했다.)",
+      "g_ja": "",
+      "g_ko": "(아무 일도 일어나지 않은 것에 안심하며, 이부키가 있는 쪽으로 향했다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(아무 일도 일어나지 않은 것에 안심하며, 이부키가 있는 쪽으로 향했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 76,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4238746601
+    }
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 78,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 763288144
+    }
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 80,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1512766282
+    }
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 82,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"言われたとおりに来たけど……。\"",
+      "j_ko": " \"여기쯤일 것 같은데…….\"",
+      "g_ja": "",
+      "g_ko": " \"여기쯤일 것 같은데…….\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"여기쯤일 것 같은데…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 83,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 83,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 83,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生！",
+      "j_ko": "선생님!",
+      "g_ja": "",
+      "g_ko": "선생님!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "#na;이부키 수영복;선생님!",
+    "BGMId": 999,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 84,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（突然、頭上からイブキの声が聞こえた）",
+      "j_ko": "(갑자기 머리 위에서 이부키의 목소리가 들려왔다.)",
+      "g_ja": "",
+      "g_ko": "(갑자기 머리 위에서 이부키의 목소리가 들려왔다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(갑자기 머리 위에서 이부키의 목소리가 들려왔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 85,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " 上を見る。",
+      "j_ko": " 머리를 들어 위를 본다.",
+      "g_ja": "",
+      "g_ko": " 머리를 들어 위를 본다.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] 머리를 들어 위를 본다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 86,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 676529894
+    }
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 86,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 351
+    }
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 88,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2138125405
+    }
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 88,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:500]― <cmd-char>이부키 수영복</cmd-char>先生！[wa:950]こっちこっち～！",
+      "j_ko": "[wa:500]― <cmd-char>이부키 수영복</cmd-char>선생님! [wa:870]이쪽이야![wa:80] ",
+      "g_ja": "",
+      "g_ko": "[wa:500]― <cmd-char>이부키 수영복</cmd-char>선생님! [wa:870]이쪽이야![wa:80] ",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:500]― [log=이부키 수영복]선생님! [wa:870]이쪽이야![wa:80] [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 2138125405,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 89,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2860]― <cmd-char>이부키 수영복</cmd-char>ここ、[wa:560]すっ[wa:610]ごく涼しいの！",
+      "j_ko": "[wa:2860]― <cmd-char>이부키 수영복</cmd-char>이 숲, [wa:480]엄~[wa:610]청 시원해! ",
+      "g_ja": "",
+      "g_ko": "[wa:2860]― <cmd-char>이부키 수영복</cmd-char>이 숲, [wa:480]엄~[wa:610]청 시원해! ",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:2860]― [log=이부키 수영복]이 숲, [wa:480]엄~[wa:610]청 시원해! [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 92,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1795531678
+    }
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 92,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:670]― <cmd-char>이부키 수영복</cmd-char>どんなにお日様の光が強くても――",
+      "j_ko": "[wa:670]― <cmd-char>이부키 수영복</cmd-char>아무리 해님이 쨍쨍 내리쬐어도……",
+      "g_ja": "",
+      "g_ko": "[wa:670]― <cmd-char>이부키 수영복</cmd-char>아무리 해님이 쨍쨍 내리쬐어도……",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:670]― [log=이부키 수영복]아무리 해님이 쨍쨍 내리쬐어도……[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1795531678,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 93,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:3180]― <cmd-char>이부키 수영복</cmd-char>ここなら……[wa:1080]ほら、[wa:950]全然暑くないんだよ～！",
+      "j_ko": "[wa:3180]― <cmd-char>이부키 수영복</cmd-char>여기라면…… [wa:1040] 봐봐, [wa:830]나무들이 전부 가려줘서~!",
+      "g_ja": "",
+      "g_ko": "[wa:3180]― <cmd-char>이부키 수영복</cmd-char>여기라면…… [wa:1040] 봐봐, [wa:830]나무들이 전부 가려줘서~!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:3180]― [log=이부키 수영복]여기라면…… [wa:1040] 봐봐, [wa:830]나무들이 전부 가려줘서~![/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 96,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2424426434
+    }
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 96,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:500]― <cmd-char>이부키 수영복</cmd-char>だからね！[wa:930]ここなら――",
+      "j_ko": "[wa:500]― <cmd-char>이부키 수영복</cmd-char>그러니까![wa:770] 여기서는…….",
+      "g_ja": "",
+      "g_ko": "[wa:500]― <cmd-char>이부키 수영복</cmd-char>그러니까![wa:770] 여기서는…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:500]― [log=이부키 수영복]그러니까![wa:770] 여기서는…….[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 2424426434,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 97,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1880]― <cmd-char>이부키 수영복</cmd-char>もう、[wa:630]パラソル移動しなくてもいいんだよ、[wa:2100]先生。",
+      "j_ko": "[wa:1880]― <cmd-char>이부키 수영복</cmd-char>이제 [wa:630]파라솔 안 옮겨도 괜찮아, [wa:2100]선생님!",
+      "g_ja": "",
+      "g_ko": "[wa:1880]― <cmd-char>이부키 수영복</cmd-char>이제 [wa:630]파라솔 안 옮겨도 괜찮아, [wa:2100]선생님!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:1880]― [log=이부키 수영복]이제 [wa:630]파라솔 안 옮겨도 괜찮아, [wa:2100]선생님![/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 100,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……気づいてたの？\"",
+      "j_ko": " \"……봤어?\" ",
+      "g_ja": "",
+      "g_ko": " \"……봤어?\" ",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"……봤어?\" ",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 102,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2957682123
+    }
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 102,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2000]― <cmd-char>이부키 수영복</cmd-char>……[wa:1010]うん。[wa:1090]ほんとはね、[wa:830]イブキ、[wa:710]見てたの。",
+      "j_ko": "[wa:2000]― <cmd-char>이부키 수영복</cmd-char>……[wa:1010]응, [wa:1090]사실은 있지. [wa:750]이부키, [wa:670]전부 봤어.",
+      "g_ja": "",
+      "g_ko": "[wa:2000]― <cmd-char>이부키 수영복</cmd-char>……[wa:1010]응, [wa:1090]사실은 있지. [wa:750]이부키, [wa:670]전부 봤어.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:2000]― [log=이부키 수영복]……[wa:1010]응, [wa:1090]사실은 있지. [wa:750]이부키, [wa:670]전부 봤어.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 2957682123,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 103,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2150]― <cmd-char>이부키 수영복</cmd-char>先生がよいしょ、[wa:1490]よいしょって、[wa:890]パラソル運んでるとこ……。",
+      "j_ko": "[wa:2150]― <cmd-char>이부키 수영복</cmd-char>선생님이 영차[wa:1490]영차 하고, [wa:890]파라솔 옮기는 거…….",
+      "g_ja": "",
+      "g_ko": "[wa:2150]― <cmd-char>이부키 수영복</cmd-char>선생님이 영차[wa:1490]영차 하고, [wa:890]파라솔 옮기는 거…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:2150]― [log=이부키 수영복]선생님이 영차[wa:1490]영차 하고, [wa:890]파라솔 옮기는 거…….[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 106,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1788749109
+    }
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 106,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:670]― <cmd-char>이부키 수영복</cmd-char>でも[wa:860]ここなら大丈夫だよ！",
+      "j_ko": "[wa:670]― <cmd-char>이부키 수영복</cmd-char>하지만 [wa:700]여기선 안 그래도 돼!",
+      "g_ja": "",
+      "g_ko": "[wa:670]― <cmd-char>이부키 수영복</cmd-char>하지만 [wa:700]여기선 안 그래도 돼!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:670]― [log=이부키 수영복]하지만 [wa:700]여기선 안 그래도 돼![/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1788749109,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 107,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2910]― <cmd-char>이부키 수영복</cmd-char>イブキと一緒に、[wa:1330]ゆっ[wa:470]くり休もうね！",
+      "j_ko": "[wa:2910]― <cmd-char>이부키 수영복</cmd-char>그냥 이부키랑 [wa:1330]푹! [wa:390]쉬기만 하면 되는 거야!",
+      "g_ja": "",
+      "g_ko": "[wa:2910]― <cmd-char>이부키 수영복</cmd-char>그냥 이부키랑 [wa:1330]푹! [wa:390]쉬기만 하면 되는 거야!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:2910]― [log=이부키 수영복]그냥 이부키랑 [wa:1330]푹! [wa:390]쉬기만 하면 되는 거야![/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 109,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1512766282
+    }
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 110,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "イブキね！ここを見つけたから先生に早く来てほしくて！",
+      "j_ko": "응? 그런데 나무에는 왜 올라가 있었냐고?",
+      "g_ja": "",
+      "g_ko": "응? 그런데 나무에는 왜 올라가 있었냐고?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "3;이부키 수영복;02;응? 그런데 나무에는 왜 올라가 있었냐고?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 111,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 111,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "高いところから見てたら、先生が迷ったときも教えてあげられるでしょ！えへへ！",
+      "j_ko": "그야 높은 곳에 있어야 선생님이 오는 걸 더 빨리 볼 수 있으니까!",
+      "g_ja": "",
+      "g_ko": "그야 높은 곳에 있어야 선생님이 오는 걸 더 빨리 볼 수 있으니까!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "3;이부키 수영복;03;그야 높은 곳에 있어야 선생님이 오는 걸 더 빨리 볼 수 있으니까!\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 112,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ねぇねぇ、先生。",
+      "j_ko": "그런데 선생님.",
+      "g_ja": "",
+      "g_ko": "그런데 선생님.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "3;이부키 수영복;00;그런데 선생님.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 113,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えっと……。",
+      "j_ko": "그…….",
+      "g_ja": "",
+      "g_ko": "그…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "3;이부키 수영복;02;그…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 114,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……降りられなくなっちゃった。",
+      "j_ko": "여기…… 어떻게 내려가?",
+      "g_ja": "",
+      "g_ko": "여기…… 어떻게 내려가?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533185223,
+    "DataType": "speaker",
+    "Script": "3;이부키 수영복;03;여기…… 어떻게 내려가?\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 115,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"こっちにおいで。\"",
+      "j_ko": " \"자, 여기 잡아.\"",
+      "g_ja": "",
+      "g_ko": " \"자, 여기 잡아.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"자, 여기 잡아.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 116,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 96,
+    "AbsolutePos": 117,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（イブキを木の下に降ろし、木陰で一緒に休むことにした）",
+      "j_ko": "(이부키를 들고 나무 아래로 내려온 뒤, 그늘에서 다시 휴식을 취했다.)",
+      "g_ja": "",
+      "g_ko": "(이부키를 들고 나무 아래로 내려온 뒤, 그늘에서 다시 휴식을 취했다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(이부키를 들고 나무 아래로 내려온 뒤, 그늘에서 다시 휴식을 취했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 97,
+    "AbsolutePos": 118,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（その後、ここはヤシの実が降ってくるから危ないという話を聞いて移動することになったが……）",
+      "j_ko": "(얼마 뒤, 야자수 아래에 있으면 떨어지는 코코넛에 맞을 수도 있다는 관리인의 말에 자리를 옮기긴 했지만…….)",
+      "g_ja": "",
+      "g_ko": "(얼마 뒤, 야자수 아래에 있으면 떨어지는 코코넛에 맞을 수도 있다는 관리인의 말에 자리를 옮기긴 했지만…….)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(얼마 뒤, 야자수 아래에 있으면 떨어지는 코코넛에 맞을 수도 있다는 관리인의 말에 자리를 옮기긴 했지만…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 98,
+    "AbsolutePos": 119,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（イブキと共に過ごした時間は、心安らぐものだった）",
+      "j_ko": "(……이번 여름에 들어 가장 마음 편한 시간이었다.)",
+      "g_ja": "",
+      "g_ko": "(……이번 여름에 들어 가장 마음 편한 시간이었다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(……이번 여름에 들어 가장 마음 편한 시간이었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

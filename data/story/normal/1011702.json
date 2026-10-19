@@ -1,0 +1,1869 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2494718854
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 240
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">ガール・イン・ザ・トレイン</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">걸 인 더 트레인</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">ガール・イン・ザ・トレイン</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">걸 인 더 트레인</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Girl on the Train</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">Girl in the Train</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">Girl in the Train</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">Girl in the Train</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;걸 인 더 트레인",
+    "BGMId": 240,
+    "Sound": "",
+    "BGName": 2494718854,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "列車の客室",
+      "j_ko": "출장 열차의 객실",
+      "g_ja": "列車の客室",
+      "g_ko": "출장 열차의 객실",
+      "g_en": "Business Train Cabin",
+      "g_th": "ในห้องโดยสารบนรถไฟที่นั่งไปทำงาน",
+      "g_tw": "出差列車的客室",
+      "g_tw_cn": "出差列车的客室",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "place",
+    "Script": "#place;출장 열차의 객실",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 3,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……暇だなぁ。\"",
+      "j_ko": " \"……심심하네.\"",
+      "g_ja": " \"……暇だなぁ。\"",
+      "g_ko": " \"……심심하네.\"",
+      "g_en": " \"...I'm bored.\"",
+      "g_th": " \"เบื่อจังเลย...\"",
+      "g_tw": "「……好無聊哦。」",
+      "g_tw_cn": "「……好无聊哦。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"……심심하네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 4,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（移動中、時間を持て余していると……）",
+      "j_ko": "(딱히 할 것도 없어서 심심하던 찰나……)",
+      "g_ja": "（移動中、時間を持て余していると……）",
+      "g_ko": "(딱히 할 것도 없어서 심심하던 찰나……)",
+      "g_en": "There wasn't much to do on the train.",
+      "g_th": "(ในขณะที่คุณครูรู้สึกเบื่อๆ เพราะไม่มีอะไรทำ...)",
+      "g_tw": "（正因無事可做而感到無聊的時候……）",
+      "g_tw_cn": "（正因无事可做而感到无聊的时候……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(딱히 할 것도 없어서 심심하던 찰나……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 7,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_DoorOpen_05"
+    }
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 8,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "切符拝見しまーす。",
+      "j_ko": "검표- 시작-",
+      "g_ja": "切符拝見しまーす。",
+      "g_ko": "검표- 시작-",
+      "g_en": "Ticket check, starting now.",
+      "g_th": "เริ่มตรวจตั๋วละนะ",
+      "g_tw": "驗票～開始～",
+      "g_tw_cn": "验票～开始～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;02;검표- 시작-\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はーいみんな出してー。",
+      "j_ko": "승객님들- 티켓-",
+      "g_ja": "はーいみんな出してー。",
+      "g_ko": "승객님들- 티켓-",
+      "g_en": "Tickets, everybody.",
+      "g_th": "ผู้โดยสาร เตรียมตั๋วกันด้วย",
+      "g_tw": "各位乘客～把票拿出來吧～",
+      "g_tw_cn": "各位乘客～把票拿出来吧～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;05;승객님들- 티켓-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ヒカリ……？\"",
+      "j_ko": " \"히카리……?\"",
+      "g_ja": " \"ヒカリ……？\"",
+      "g_ko": " \"히카리……?\"",
+      "g_en": " \"Hikari...?\"",
+      "g_th": " \"ฮิคาริเหรอ...?\"",
+      "g_tw": "「光……？」",
+      "g_tw_cn": "「光……？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"히카리……?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 18,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 19,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 21,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07c"
+    }
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 22,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_03"
+    }
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 23,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07b"
+    }
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 24,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07d"
+    }
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 25,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_03"
+    }
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 28,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07a"
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 29,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_03"
+    }
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 33,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、先生だー。",
+      "j_ko": "어- 선생님-?",
+      "g_ja": "あ、先生だー。",
+      "g_ko": "어- 선생님-?",
+      "g_en": "Huh? Sensei?",
+      "g_th": "เอ๋ คุณครู?",
+      "g_tw": "咦～老師～？",
+      "g_tw_cn": "咦～老师～？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;15;어- 선생님-?\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"こんにちはヒカリ、奇遇だね。\"",
+      "j_ko": " \"안녕, 히카리. 여기서 만나네.\"",
+      "g_ja": " \"こんにちはヒカリ、奇遇だね。\"",
+      "g_ko": " \"안녕, 히카리. 여기서 만나네.\"",
+      "g_en": " \"Nice to see you.\"",
+      "g_th": " \"สวัสดี ฮิคาริ ได้เจอกันบนรถไฟเหรอเนี่ย\"",
+      "g_tw": "「你好啊，光。真巧呢。」",
+      "g_tw_cn": "「你好啊，光。真巧呢。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"안녕, 히카리. 여기서 만나네.\"\\n[s2] \"일하고 있구나.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"仕事中だったんだ。\"",
+      "j_ko": " \"일하고 있구나.\"",
+      "g_ja": " \"仕事中だったんだ。\"",
+      "g_ko": " \"일하고 있구나.\"",
+      "g_en": " \"Working, huh?\"",
+      "g_th": " \"สวัสดี ฮิคาริ ทำงานอยู่สินะ\"",
+      "g_tw": "「你正在工作啊。」",
+      "g_tw_cn": "「你正在工作啊。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"안녕, 히카리. 여기서 만나네.\"\\n[s2] \"일하고 있구나.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うんー頑張ってるー。",
+      "j_ko": "응- 히카리 열일중-",
+      "g_ja": "うんー頑張ってるー。",
+      "g_ko": "응- 히카리 열일중-",
+      "g_en": "Yup. That's Hikari, working hard.",
+      "g_th": "อื้อ ฮิคาริกำลังตั้งใจทำงานเลย",
+      "g_tw": "嗯～光正在努力～",
+      "g_tw_cn": "嗯～光正在努力～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;08;응- 히카리 열일중-\\n#3;greeting\\n#3;closeup\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 38,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生出張だっけー。",
+      "j_ko": "선생님 출장 가는 길-?",
+      "g_ja": "先生出張だっけー。",
+      "g_ko": "선생님 출장 가는 길-?",
+      "g_en": "You on a business trip, Sensei?",
+      "g_th": "คุณครูนั่งรถไฟไปดูงานเหรอ?",
+      "g_tw": "老師在出差對吧～？",
+      "g_tw_cn": "老师在出差对吧～？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;15;선생님 출장 가는 길-?\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 39,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ちょっと待っててー。",
+      "j_ko": "금방 끝내고 올 테니- 기다려-",
+      "g_ja": "ちょっと待っててー。",
+      "g_ko": "금방 끝내고 올 테니- 기다려-",
+      "g_en": "I'll be back soon. Wait here.",
+      "g_th": "ฉันขอรีบไปทำงานก่อน รอเดี๋ยวนะ",
+      "g_tw": "光驗完票馬上回來～等等我～",
+      "g_tw_cn": "光验完票马上回来～等等我～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;05;금방 끝내고 올 테니- 기다려-\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 42,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_03"
+    }
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"？？\"",
+      "j_ko": " \"온다고……?\"",
+      "g_ja": " \"？？\"",
+      "g_ko": " \"온다고……?\"",
+      "g_en": " \"Back soon...?\"",
+      "g_th": " \"จะมาหาเหรอ...?\"",
+      "g_tw": "「馬上回來……？」",
+      "g_tw_cn": "「马上回来……？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"온다고……?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 45,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（しばらくすると……）",
+      "j_ko": "(시간이 지나……)",
+      "g_ja": "（しばらくすると……）",
+      "g_ko": "(시간이 지나……)",
+      "g_en": "After some time...",
+      "g_th": "(ครู่ต่อมา...)",
+      "g_tw": "（過了不久……）",
+      "g_tw_cn": "（过了不久……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(시간이 지나……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 47,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2494718854
+    }
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 48,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07a"
+    }
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 49,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07b"
+    }
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 50,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07c"
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "わっ！！",
+      "j_ko": "와악-!!",
+      "g_ja": "わっ！！",
+      "g_ko": "와악-!!",
+      "g_en": "Booga-booga!",
+      "g_th": "ย้าห์!!",
+      "g_tw": "哇！！",
+      "g_tw_cn": "哇！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;02;와악-!!\\n#3;closeup\\n#bgshake\\n#fontsize;80",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ビックリしたぁ！？\" ",
+      "j_ko": " \"아이고, 깜짝이야.\"",
+      "g_ja": " \"ビックリしたぁ！？\" ",
+      "g_ko": " \"아이고, 깜짝이야.\"",
+      "g_en": " \"Oh! You surprised me.\"",
+      "g_th": " \"ว้าก ตกใจหมดเลย\"",
+      "g_tw": "「哎唷，嚇我一跳。」",
+      "g_tw_cn": "「哎唷，吓我一跳。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"아이고, 깜짝이야.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 57,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ビックリしたでしょー。",
+      "j_ko": "선생님- 깜짝 놀랐지-",
+      "g_ja": "ビックリしたでしょー。",
+      "g_ko": "선생님- 깜짝 놀랐지-",
+      "g_en": "Got the drop on you, Sensei.",
+      "g_th": "คุณครู ตกใจเลยล่ะสิ?",
+      "g_tw": "老師～嚇到了吧～",
+      "g_tw_cn": "老师～吓到了吧～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;08;선생님- 깜짝 놀랐지-\\n#3;em;[반짝]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 58,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"早かったね。\"",
+      "j_ko": " \"엄청 빨리 왔네.\"",
+      "g_ja": " \"早かったね。\"",
+      "g_ko": " \"엄청 빨리 왔네.\"",
+      "g_en": " \"You must've finished taking tickets fast.\"",
+      "g_th": " \"ทำไมมาเร็วจัง?\"",
+      "g_tw": "「你這麼快就回來啦。」",
+      "g_tw_cn": "「你这么快就回来啦。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"엄청 빨리 왔네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 59,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ヒカリ、切符の穴あけマスター。",
+      "j_ko": "응응- 히카리 완전 검표 전문가-",
+      "g_ja": "ヒカリ、切符の穴あけマスター。",
+      "g_ko": "응응- 히카리 완전 검표 전문가-",
+      "g_en": "Yuppies. Hikari is a ticket-taking master.",
+      "g_th": "อื้อ ก็ฮิคาริตรวจตั๋วเร็วไง",
+      "g_tw": "嗯嗯～光是驗票專家～",
+      "g_tw_cn": "嗯嗯～光是验票专家～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;03;응응- 히카리 완전 검표 전문가-\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 60,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "パパッと終わらせてきたー。",
+      "j_ko": "선생님 숨 쉬는 동안 끝내고 왔어-",
+      "g_ja": "パパッと終わらせてきたー。",
+      "g_ko": "선생님 숨 쉬는 동안 끝내고 왔어-",
+      "g_en": "Done in a blink of Sensei's eye.",
+      "g_th": "ระหว่างคุณครูนั่งพักหายใจ ฉันก็เคลียร์ตั๋วหมดแล้วละ",
+      "g_tw": "老師一個呼吸就能驗完了～",
+      "g_tw_cn": "老师一个呼吸就能验完了～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;15;선생님 숨 쉬는 동안 끝내고 왔어-\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 63,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 65,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_01"
+    }
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 66,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "んじゃ、何して遊ぶー？",
+      "j_ko": "자- 이제 뭐 하고 놀까-",
+      "g_ja": "んじゃ、何して遊ぶー？",
+      "g_ko": "자- 이제 뭐 하고 놀까-",
+      "g_en": "So what're we playing?",
+      "g_th": "เอาละ งั้นเราเล่นอะไรกันดี?",
+      "g_tw": "來吧～現在要玩什麼呢～",
+      "g_tw_cn": "来吧～现在要玩什么呢～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;03;자- 이제 뭐 하고 놀까-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"遊ぶ……！？\"",
+      "j_ko": " \"노는 건가……!\"",
+      "g_ja": " \"遊ぶ……！？\"",
+      "g_ko": " \"노는 건가……!\"",
+      "g_en": " \"We're playing?\"",
+      "g_th": " \"มาเล่นด้วยหรอกเหรอ...!\"",
+      "g_tw": "「要一起玩嗎……！」",
+      "g_tw_cn": "「要一起玩吗……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"노는 건가……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そーだ、一緒に食べよー。",
+      "j_ko": "아- 이거 같이 먹자-",
+      "g_ja": "そーだ、一緒に食べよー。",
+      "g_ko": "아- 이거 같이 먹자-",
+      "g_en": "Ah, I know. Let's share some of these.",
+      "g_th": "อ๊ะ กินอันนี้กันเถอะ",
+      "g_tw": "啊～來一起吃這個～",
+      "g_tw_cn": "啊～来一起吃这个～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;12;아- 이거 같이 먹자-\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 71,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_01"
+    }
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "たのしー棒、ナパーム味ー。",
+      "j_ko": "즐거워 스틱- 소이탄 맛-",
+      "g_ja": "たのしー棒、ナパーム味ー。",
+      "g_ko": "즐거워 스틱- 소이탄 맛-",
+      "g_en": "Fun Sticks. Incendiary flavor.",
+      "g_th": "ขนมแท่ง รสระเบิดเพลิง",
+      "g_tw": "開心棒～燃燒彈口味～",
+      "g_tw_cn": "开心棒～燃烧弹口味～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;08;즐거워 스틱- 소이탄 맛-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 73,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ナパーム味……？\"",
+      "j_ko": " \"…….소이탄 맛?\"",
+      "g_ja": " \"ナパーム味……？\"",
+      "g_ko": " \"…….소이탄 맛?\"",
+      "g_en": " \"...Incendiary?\"",
+      "g_th": " \"รสระเบิดเพลิง...?\"",
+      "g_tw": "「……燃燒彈口味？」",
+      "g_tw_cn": "「……燃烧弹口味？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"…….소이탄 맛?\"\\n[s4] \"과자에 그런 맛이 왜 있는 거야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 73,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"そんな味のお菓子があるんだ？\"",
+      "j_ko": " \"과자에 그런 맛이 왜 있는 거야?\"",
+      "g_ja": " \"そんな味のお菓子があるんだ？\"",
+      "g_ko": " \"과자에 그런 맛이 왜 있는 거야?\"",
+      "g_en": " \"Why is that a snack flavor?\"",
+      "g_th": " \"ทำไมถึงมีขนมรสแบบนั้นด้วย?\"",
+      "g_tw": "「零食怎麼會有那種口味？」",
+      "g_tw_cn": "「零食怎么会有那种口味？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"…….소이탄 맛?\"\\n[s4] \"과자에 그런 맛이 왜 있는 거야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ナパーム感あるよー。",
+      "j_ko": "먹어봐- 진짜 그런 맛이 나-",
+      "g_ja": "ナパーム感あるよー。",
+      "g_ko": "먹어봐- 진짜 그런 맛이 나-",
+      "g_en": "Tastes like real napalm. Try it!",
+      "g_th": "ลองกินดูสิ มันเป็นรสแบบนั้นจริงๆ นะ",
+      "g_tw": "你吃看看～真的是那個味道哦～",
+      "g_tw_cn": "你吃看看～真的是那个味道哦～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;12;먹어봐- 진짜 그런 맛이 나-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 79,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 80,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Eat_01"
+    }
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 81,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ピリ辛の粉が口の中に散らばる……！\"",
+      "j_ko": " \"……소이탄 맛은 이렇구나……\"",
+      "g_ja": " \"ピリ辛の粉が口の中に散らばる……！\"",
+      "g_ko": " \"……소이탄 맛은 이렇구나……\"",
+      "g_en": " \"...So this is what napalm tastes like.\"",
+      "g_th": " \"ระเบิดเพลิงมีรสชาติแบบนี้สินะ...\"",
+      "g_tw": "「原來燃燒彈口味是這麼回事……」",
+      "g_tw_cn": "「原来燃烧弹口味是这么回事……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns5] \"……소이탄 맛은 이렇구나……\"\\n[ns6] \"콜록, 콜록…… 새로운 세계네……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 81,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"げほっ、げほっ……。\"",
+      "j_ko": " \"콜록, 콜록…… 새로운 세계네……\"",
+      "g_ja": " \"げほっ、げほっ……。\"",
+      "g_ko": " \"콜록, 콜록…… 새로운 세계네……\"",
+      "g_en": " \"*cough* *cough* It's a new world...\"",
+      "g_th": " \"แค่ก... แค่ก... เปิดโลกเลยนะเนี่ย...\"",
+      "g_tw": "「咳咳，咳咳……真是前所未有的體驗呢……」",
+      "g_tw_cn": "「咳咳，咳咳……真是前所未有的体验呢……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns5] \"……소이탄 맛은 이렇구나……\"\\n[ns6] \"콜록, 콜록…… 새로운 세계네……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 84,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "刺激的でしょー。",
+      "j_ko": "응- 매콤해서 맛있지-",
+      "g_ja": "刺激的でしょー。",
+      "g_ko": "응- 매콤해서 맛있지-",
+      "g_en": "Right? Nicey-spicey!",
+      "g_th": "อื้อ มันอร่อยตรงที่มันเผ็ดนี่ละ",
+      "g_tw": "嗯～辣辣的很好吃～",
+      "g_tw_cn": "嗯～辣辣的很好吃～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;03;응- 매콤해서 맛있지-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 85,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "んじゃ、次これー。",
+      "j_ko": "이거 다 먹으면- 다음엔 이거야-",
+      "g_ja": "んじゃ、次これー。",
+      "g_ko": "이거 다 먹으면- 다음엔 이거야-",
+      "g_en": "Now try this one.",
+      "g_th": "ถ้ากินหมดแล้ว ก็ต้องต่อด้วยอันนี้",
+      "g_tw": "吃完之後～接下來是這個～",
+      "g_tw_cn": "吃完之后～接下来是这个～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;08;이거 다 먹으면- 다음엔 이거야-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 88,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_01"
+    }
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 89,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "パチパチキャンディ、限定版の<ruby>照明弾<rp>(</rp><rt>しょうめいだん</rt><rp>)</rp></ruby>味ー。",
+      "j_ko": "팝팝 캔디 조명탄 맛- 한정판이야-",
+      "g_ja": "パチパチキャンディ、限定版の<ruby>照明弾<rp>(</rp><rt>しょうめいだん</rt><rp>)</rp></ruby>味ー。",
+      "g_ko": "팝팝 캔디 조명탄 맛- 한정판이야-",
+      "g_en": "Pop-Pop Candy, flare flavor. Limited edition.",
+      "g_th": "ลูกอมป๊อปป๊อปลิมิเต็ด รสพลุแฟลร์",
+      "g_tw": "照明彈口味跳跳糖～還是限定版哦～",
+      "g_tw_cn": "照明弹口味跳跳糖～还是限定版哦～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;12;팝팝 캔디 조명탄 맛- 한정판이야-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 90,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "元は激すっぱ味だけど、こっちは激ヤバすっぱ味らしー。",
+      "j_ko": "원래 엄청 신맛인데- 이건 엄청엄청 신맛이래-",
+      "g_ja": "元は激すっぱ味だけど、こっちは激ヤバすっぱ味らしー。",
+      "g_ko": "원래 엄청 신맛인데- 이건 엄청엄청 신맛이래-",
+      "g_en": "Usually, it's sour. This is SUUUPER sour.",
+      "g_th": "ปกติมันก็เปรี้ยวมากอยู่แล้ว แต่อันนี้เห็นว่าเปรี้ยวจนตาปิดเลยละ",
+      "g_tw": "原味是很酸～這個是超超酸～",
+      "g_tw_cn": "原味是很酸～这个是超超酸～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;05;원래 엄청 신맛인데- 이건 엄청엄청 신맛이래-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 93,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 94,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はい、あーん。",
+      "j_ko": "선생님 아- 해-",
+      "g_ja": "はい、あーん。",
+      "g_ko": "선생님 아- 해-",
+      "g_en": "C'mon, Sensei. Say ah.",
+      "g_th": "อ้าปากสิ คุณครู อ้า...",
+      "g_tw": "老師嘴巴打開～啊～",
+      "g_tw_cn": "老师嘴巴打开～啊～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;02;선생님 아- 해-\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 95,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " （こわいけど……）",
+      "j_ko": " (두려운데……)",
+      "g_ja": " （こわいけど……）",
+      "g_ko": " (두려운데……)",
+      "g_en": " \"(This is scary...)\"",
+      "g_th": " (น่ากลัวจัง...)",
+      "g_tw": "（好可怕……）",
+      "g_tw_cn": "（好可怕……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] (두려운데……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 99,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……あ、あーん。\"",
+      "j_ko": " \"……아-\"",
+      "g_ja": " \"……あ、あーん。\"",
+      "g_ko": " \"……아-\"",
+      "g_en": " \"...Ah...\"",
+      "g_th": " \"อ้า...\"",
+      "g_tw": "「啊～」",
+      "g_tw_cn": "「啊～」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"……아-\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 100,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 102,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Tampe_01"
+    }
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 103,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"すっっ……っぱいっ！！\"",
+      "j_ko": " \"으! 진짜 셔!! 엄청 셔!!\"",
+      "g_ja": " \"すっっ……っぱいっ！！\"",
+      "g_ko": " \"으! 진짜 셔!! 엄청 셔!!\"",
+      "g_en": " \"Ugh! SOOO SOUR!!\"",
+      "g_th": " \"อึก! เปรี้ยว!! เปรี้ยวจัดเลย!!\"",
+      "g_tw": "「唔啊！好酸！！真的有夠酸的啦！！」",
+      "g_tw_cn": "「唔啊！好酸！！真的有够酸的啦！！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"으! 진짜 셔!! 엄청 셔!!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 104,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "梅干しみたいな顔してるー。",
+      "j_ko": "선생님 얼굴- 찌그러져서 다 먹은 깡통 음료수 같아-",
+      "g_ja": "梅干しみたいな顔してるー。",
+      "g_ko": "선생님 얼굴- 찌그러져서 다 먹은 깡통 음료수 같아-",
+      "g_en": "You've got crumply face. Like an empty juice box.",
+      "g_th": "ดูหน้าคุณครูสิ หน้าบิดเบี้ยวเหมือนกระป๋องเครื่องดื่มที่บู้บี้เลย",
+      "g_tw": "老師的臉皺成一團～跟壓扁的鋁罐一樣～",
+      "g_tw_cn": "老师的脸皱成一团～跟压扁的铝罐一样～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;03;선생님 얼굴- 찌그러져서 다 먹은 깡통 음료수 같아-\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 105,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ヒカリもあーん、だよ！\"",
+      "j_ko": " \"히카리도 아- 해!\"",
+      "g_ja": " \"ヒカリもあーん、だよ！\"",
+      "g_ko": " \"히카리도 아- 해!\"",
+      "g_en": " \"Your turn, Hikari! Say ah!\"",
+      "g_th": " \"ฮิคาริก็กินด้วยกันสิ อ้าม...\"",
+      "g_tw": "「光也張開嘴巴，啊～！」",
+      "g_tw_cn": "「光也张开嘴巴，啊～！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"히카리도 아- 해!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 106,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あーん……",
+      "j_ko": "아-",
+      "g_ja": "あーん……",
+      "g_ko": "아-",
+      "g_en": "Ah...",
+      "g_th": "อ้าม...",
+      "g_tw": "啊～",
+      "g_tw_cn": "啊～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;10;아-\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 109,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 110,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "……",
+      "g_ja": "……。",
+      "g_ko": "……",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;09;……\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 111,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "んっ……すっふぁいねー。",
+      "j_ko": "셔-",
+      "g_ja": "んっ……すっふぁいねー。",
+      "g_ko": "셔-",
+      "g_en": "Sour...",
+      "g_th": "เปรี้ยวเนอะ",
+      "g_tw": "酸酸的～",
+      "g_tw_cn": "酸酸的～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;10;셔-\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 112,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"すっぱそうじゃない！\"",
+      "j_ko": " \"표정이 멀쩡한데?!\"",
+      "g_ja": " \"すっぱそうじゃない！\"",
+      "g_ko": " \"표정이 멀쩡한데?!\"",
+      "g_en": " \"Huh. YOUR face didn't crumple up.\"",
+      "g_th": " \"แต่ทำไมทำหน้าปกติเลยล่ะ?!\"",
+      "g_tw": "「表情怎麼這麼平靜！？」",
+      "g_tw_cn": "「表情怎么这么平静！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"표정이 멀쩡한데?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 113,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ひふぁり、ふっふぁいのへいふぃー。",
+      "j_ko": "히하리 힌허에 항해-",
+      "g_ja": "ひふぁり、ふっふぁいのへいふぃー。",
+      "g_ko": "히하리 힌허에 항해-",
+      "g_en": "*chew* Um gud wiff harr foob.",
+      "g_th": "ฮิฮาริ ฮอบฮิน เฮี่ยวๆ",
+      "g_tw": "因為光不怕酸～",
+      "g_tw_cn": "因为光不怕酸～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;09;히하리 힌허에 항해-\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 114,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 7,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"すっぱいの平気！？\"",
+      "j_ko": " \"신 거에 강하다고?\"",
+      "g_ja": " \"すっぱいの平気！？\"",
+      "g_ko": " \"신 거에 강하다고?\"",
+      "g_en": " \"You're good with sour food?\"",
+      "g_th": " \"ฮิคาริชอบกินเปรี้ยวๆ?\"",
+      "g_tw": "「不怕酸？」",
+      "g_tw_cn": "「不怕酸？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"신 거에 강하다고?\"\\n[s8] \"억울해! 당했다!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 114,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 8,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"やられた……！\"",
+      "j_ko": " \"억울해! 당했다!\"",
+      "g_ja": " \"やられた……！\"",
+      "g_ko": " \"억울해! 당했다!\"",
+      "g_en": " \"You got me! That's no fair!\"",
+      "g_th": " \"อะไรเนี่ย! แกล้งครูงั้นเหรอ!\"",
+      "g_tw": "「好不甘心！居然只有我中招！」",
+      "g_tw_cn": "「好不甘心！居然只有我中招！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"신 거에 강하다고?\"\\n[s8] \"억울해! 당했다!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 117,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 118,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（そうしてヒカリと色んなお菓子を楽しんだ）",
+      "j_ko": "(그렇게 히카리와 이런저런 과자들을 먹으며 시간을 보냈다.)",
+      "g_ja": "（そうしてヒカリと色んなお菓子を楽しんだ）",
+      "g_ko": "(그렇게 히카리와 이런저런 과자들을 먹으며 시간을 보냈다.)",
+      "g_en": "I continued to try different snacks with Hikari.",
+      "g_th": "(แล้วคุณครูก็กินขนมต่างๆ กับฮิคาริ)",
+      "g_tw": "（就這樣和光一起享用各種零食，度過乘車的時光）",
+      "g_tw_cn": "（就这样和光一起享用各种零食，度过乘车的时光）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 히카리와 이런저런 과자들을 먹으며 시간을 보냈다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 119,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2494718854
+    }
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 120,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07a"
+    }
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 121,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07b"
+    }
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 122,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07c"
+    }
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 123,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07d"
+    }
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 125,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ところで……\"",
+      "j_ko": " \"그런데 히카리……\"",
+      "g_ja": " \"ところで……\"",
+      "g_ko": " \"그런데 히카리……\"",
+      "g_en": " \"By the way, Hikari...\"",
+      "g_th": " \"นี่ ฮิคาริ...\"",
+      "g_tw": "「話說光……」",
+      "g_tw_cn": "「话说光……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"그런데 히카리……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 129,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"仕事に戻らなくて大丈夫？\"",
+      "j_ko": " \"이렇게 계속 놀고 있어도 돼?\"",
+      "g_ja": " \"仕事に戻らなくて大丈夫？\"",
+      "g_ko": " \"이렇게 계속 놀고 있어도 돼?\"",
+      "g_en": " \"Is it okay for you to keep playing like this?\"",
+      "g_th": " \"จะมานั่งกินขนมอยู่แบบนี้ได้เหรอ?\"",
+      "g_tw": "「你一直待在這邊玩沒關係嗎？」",
+      "g_tw_cn": "「你一直待在这边玩没关系吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"이렇게 계속 놀고 있어도 돼?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 131,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生と遊びたいからもう上がってるよー。",
+      "j_ko": "응- 히카리 선생님이랑 놀려고 퇴근했어-",
+      "g_ja": "先生と遊びたいからもう上がってるよー。",
+      "g_ko": "응- 히카리 선생님이랑 놀려고 퇴근했어-",
+      "g_en": "Yup. Clocked out just to play with you.",
+      "g_th": "อื้อ ฮิคาริอยากมานั่งเล่นกับคุณครู ก็เลยเลิกงานแล้ว",
+      "g_tw": "嗯～光為了和老師玩，已經下班了～",
+      "g_tw_cn": "嗯～光为了和老师玩，已经下班了～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;12;응- 히카리 선생님이랑 놀려고 퇴근했어-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 132,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 9,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"そんなことが！？\"",
+      "j_ko": " \"그래도 되는 거야?!\"",
+      "g_ja": " \"そんなことが！？\"",
+      "g_ko": " \"그래도 되는 거야?!\"",
+      "g_en": " \"You can do that?!\"",
+      "g_th": " \"ทำแบบนี้ก็ได้เหรอ?!\"",
+      "g_tw": "「還能這樣嗎！？」",
+      "g_tw_cn": "「还能这样吗！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s9] \"그래도 되는 거야?!\"\\n[s10] \"부럽다…… 부러워……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 132,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 10,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"羨ましいっ……！\"",
+      "j_ko": " \"부럽다…… 부러워……!\"",
+      "g_ja": " \"羨ましいっ……！\"",
+      "g_ko": " \"부럽다…… 부러워……!\"",
+      "g_en": " \"I'm jealous... I'm so jealous...!\"",
+      "g_th": " \"อิจฉาจัง... อิจฉาสุดๆ...!\"",
+      "g_tw": "「好羨慕……老師好羨慕啊……！」",
+      "g_tw_cn": "「好羡慕……老师好羡慕啊……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s9] \"그래도 되는 거야?!\"\\n[s10] \"부럽다…… 부러워……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 135,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今のヒカリはむてきー。",
+      "j_ko": "지금 히카리는 무적-",
+      "g_ja": "今のヒカリはむてきー。",
+      "g_ko": "지금 히카리는 무적-",
+      "g_en": "Right now, Hikari is invincible.",
+      "g_th": "ตอนนี้ฮิคาริไม่มีงาน",
+      "g_tw": "現在的光是無敵的～",
+      "g_tw_cn": "现在的光是无敌的～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;09;지금 히카리는 무적-\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 136,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生も早上がり推奨ー。",
+      "j_ko": "선생님도 퇴근해 버려- 까짓거-",
+      "g_ja": "先生も早上がり推奨ー。",
+      "g_ko": "선생님도 퇴근해 버려- 까짓거-",
+      "g_en": "You should clock out too. Easy.",
+      "g_th": "คุณครูก็เลิกงานได้แล้วน่า",
+      "g_tw": "老師也下班吧～不會怎樣的～",
+      "g_tw_cn": "老师也下班吧～不会怎样的～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;10;선생님도 퇴근해 버려- 까짓거-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 137,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"そうしたいのは山々だけど……。\"",
+      "j_ko": " \"그러고 싶지만……\"",
+      "g_ja": " \"そうしたいのは山々だけど……。\"",
+      "g_ko": " \"그러고 싶지만……\"",
+      "g_en": " \"I'd love to, but...\"",
+      "g_th": " \"ครูก็อยากทำแบบนั้นหรอกนะ...\"",
+      "g_tw": "「我也是很想這麼做……」",
+      "g_tw_cn": "「我也是很想这么做……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그러고 싶지만……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 138,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生あわれー。がんばー。",
+      "j_ko": "선생님 불쌍해- 일해야 돼-",
+      "g_ja": "先生あわれー。がんばー。",
+      "g_ko": "선생님 불쌍해- 일해야 돼-",
+      "g_en": "Aww, poor Sensei has to work...",
+      "g_th": "น่าสงสารคุณครูจัง ยังต้องทำงานอยู่อีก",
+      "g_tw": "老師好可憐～還要工作～",
+      "g_tw_cn": "老师好可怜～还要工作～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;99;선생님 불쌍해- 일해야 돼-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 139,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でもヒカリは遊ぶー。",
+      "j_ko": "하지만 히카리는 놀 거야-",
+      "g_ja": "でもヒカリは遊ぶー。",
+      "g_ko": "하지만 히카리는 놀 거야-",
+      "g_en": "...Hikari gets to keep playing, though.",
+      "g_th": "แต่ฮิคาริจะนั่งเล่นต่อ",
+      "g_tw": "不過光要繼續玩～",
+      "g_tw_cn": "不过光要继续玩～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;03;하지만 히카리는 놀 거야-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 140,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 141,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ヒカリは終点まで存分に遊ぶと、帰っていった）",
+      "j_ko": "(그렇게 히카리는 종착역에서 내릴 때까지 실컷 놀다 갔다……)",
+      "g_ja": "（ヒカリは終点まで存分に遊ぶと、帰っていった）",
+      "g_ko": "(그렇게 히카리는 종착역에서 내릴 때까지 실컷 놀다 갔다……)",
+      "g_en": "And so, for the rest of my commute, Hikari continued to play to her heart's content.",
+      "g_th": "(แล้วฮิคาริก็มานั่งอู้งาน แล้วเล่นสนุกไปจนถึงสถานีสุดท้าย...)",
+      "g_tw": "（於是光就這樣盡情玩到了終點站……）",
+      "g_tw_cn": "（于是光就这样尽情玩到了终点站……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 히카리는 종착역에서 내릴 때까지 실컷 놀다 갔다……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

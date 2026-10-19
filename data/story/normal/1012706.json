@@ -1,0 +1,1414 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 917772294
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">夢の終わりから</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">꿈의 끝에서</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">夢の終わりから</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">꿈의 끝에서</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">At the End of a Dream</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ณ ปลายทางแห่งความฝัน</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">在夢的盡頭</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">在梦的尽头</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;꿈의 끝에서",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 917772294,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ワイルドハント・キャンパス",
+      "j_ko": "와일드헌트 캠퍼스",
+      "g_ja": "ワイルドハント ・キャンパス",
+      "g_ko": "와일드헌트 캠퍼스",
+      "g_en": "Wildhunt Campus",
+      "g_th": "สถาบันไวลด์ฮันต์",
+      "g_tw": "狂獵校園",
+      "g_tw_cn": "狂猎校园",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "place",
+    "Script": "#place;와일드헌트 캠퍼스",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（今日も手続きの仕事を終え、建物の外に出た）",
+      "j_ko": "(오늘도 행정 업무를 처리한 뒤, 건물 밖으로 나왔다.)",
+      "g_ja": "（今日も手続きの仕事を終え、建物の外に出た）",
+      "g_ko": "(오늘도 행정 업무를 처리한 뒤, 건물 밖으로 나왔다.)",
+      "g_en": "I left after another long day of paperwork.",
+      "g_th": "(หลังจากเสร็จงานธุรการ คุณครูก็ออกมาข้างนอกเพื่อทำงานอื่น)",
+      "g_tw": "（今天也在處理完行政工作後，走到了建築物外面）",
+      "g_tw_cn": "（今天也在处理完行政工作后，走到了建筑物外面）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(오늘도 행정 업무를 처리한 뒤, 건물 밖으로 나왔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 6,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"仕事って、どうして急に増えるんだろう……。\"",
+      "j_ko": " \"대체 왜 업무를 할수록 업무가 늘어나는 걸까…….\"",
+      "g_ja": " \"仕事って、どうして急に 増 えるんだろう……。\"",
+      "g_ko": " \"대체 왜 업무를 할수록 업무가 늘어나는 걸까…….\"",
+      "g_en": " \"It seems my reward for working hard is more work...\"",
+      "g_th": " \"ทำไมยิ่งทำ งานก็ยิ่งเยอะขึ้นนะ...\"",
+      "g_tw": "「為什麼工作會越做越多呢……」",
+      "g_tw_cn": "「为什么工作会越做越多呢……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"대체 왜 업무를 할수록 업무가 늘어나는 걸까…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（一つ片付けると、次は二つ生えてくる……）",
+      "j_ko": "(하나의 업무를 쳐내면 두 개의 업무가 자라나는 상황…….)",
+      "g_ja": "（一つ片付けると、次は二つ生えてくる……）",
+      "g_ko": "(하나의 업무를 쳐내면 두 개의 업무가 자라나는 상황…….)",
+      "g_en": "As usual, it seemed that solving one problem only caused two more to spring up.",
+      "g_th": "(ในสถานการณ์ที่ทำงานเสร็จงานหนึ่ง งานใหม่ก็งอกขึ้นอีก 2 งาน...)",
+      "g_tw": "（才剛結束一項工作，又冒出了兩項新的工作……）",
+      "g_tw_cn": "（才刚结束一项工作，又冒出了两项新的工作……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(하나의 업무를 쳐내면 두 개의 업무가 자라나는 상황…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 8,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ひとまず、ワイルドハントの芸術情報館へ向かった）",
+      "j_ko": "(처리해야 할 서류들을 들고 와일드헌트 예술정보관으로 향했다.)",
+      "g_ja": "（ひとまず、ワイルドハントの芸術情報館へ向かった）",
+      "g_ko": "(처리해야 할 서류들을 들고 와일드헌트 예술정보관으로 향했다.)",
+      "g_en": "I carried my documents and headed to the Wildhunt Arts Information Center.",
+      "g_th": "(คุณครูก็หอบเอกสารที่ต้องจัดการ แล้วมุ่งหน้าไปยังศูนย์ข้อมูลศิลปะไวลด์ฮันต์)",
+      "g_tw": "（帶著需要處理的文件，前往了狂獵的藝術情報館）",
+      "g_tw_cn": "（带着需要处理的文档，前往了狂猎的艺术情报馆）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(처리해야 할 서류들을 들고 와일드헌트 예술정보관으로 향했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 9,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 729948449
+    }
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ワイルドハント・芸術情報館",
+      "j_ko": "와일드헌트 예술정보관",
+      "g_ja": "ワイルドハント ・ 芸術情報館",
+      "g_ko": "와일드헌트 예술정보관",
+      "g_en": "Wildhunt Arts Information Center",
+      "g_th": "ศูนย์ข้อมูลศิลปะ ไวลด์ฮันต์",
+      "g_tw": "狂獵藝術情報館",
+      "g_tw_cn": "狂猎艺术情报馆",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "place",
+    "Script": "#place;와일드헌트 예술정보관",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " 空いている席に座った。",
+      "j_ko": " 빈 책상에 자리를 잡고 앉는다.",
+      "g_ja": " 空いている席に座った。",
+      "g_ko": " 빈 책상에 자리를 잡고 앉는다.",
+      "g_en": " Sit at an empty desk.",
+      "g_th": " ไปนั่งโต๊ะที่ว่าง",
+      "g_tw": " 在空桌旁坐下",
+      "g_tw_cn": " 在空桌旁坐下",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] 빈 책상에 자리를 잡고 앉는다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 12,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_02"
+    }
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 13,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_02"
+    }
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 14,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"終わりが見えない……。\"",
+      "j_ko": " \"끝이 없네…….\"",
+      "g_ja": " \"終わりが見えない……。\"",
+      "g_ko": " \"끝이 없네…….\"",
+      "g_en": " \"Will it never end...?\"",
+      "g_th": " \"งานไม่จบไม่สิ้นสักที...\"",
+      "g_tw": "「真是沒完沒了啊……」",
+      "g_tw_cn": "「真是没完没了啊……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"끝이 없네…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（どれくらい時間が経ったのだろう……）",
+      "j_ko": "(그렇게 얼마나 더 서류 작업을 이어갔을까…….)",
+      "g_ja": "（どれくらい時間が経ったのだろう……）",
+      "g_ko": "(그렇게 얼마나 더 서류 작업을 이어갔을까…….)",
+      "g_en": "And, as I was shuffling some papers...",
+      "g_th": "(คุณครูทำงานเอกสารต่ออีกพักใหญ่...)",
+      "g_tw": "（究竟又持續做了多久的文書作業呢……）",
+      "g_tw_cn": "（究竟又持续做了多久的文书作业呢……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 얼마나 더 서류 작업을 이어갔을까…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 19,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 20,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 653597919
+    }
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 20,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Bird_02"
+    }
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "…….",
+      "g_ja": "……。",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4194168262,
+    "DataType": "speaker",
+    "Script": "3;산의 귀인;00;…….\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"どちら様ですか……？\"",
+      "j_ko": " \"누구세요……?\"",
+      "g_ja": " \"どちら様ですか……？\"",
+      "g_ko": " \"누구세요……?\"",
+      "g_en": " \"Who's there...?\"",
+      "g_th": " \"ใครน่ะ...?\"",
+      "g_tw": "「是誰……？」",
+      "g_tw_cn": "「是谁……？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"누구세요……?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 23,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Fear_02"
+    }
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "寝てる場合か？<br/>仕事はどうした？",
+      "j_ko": "힘을…… 원하는가…….",
+      "g_ja": "寝てる場合か？<br/>仕事はどうした？",
+      "g_ko": "힘을…… 원하는가…….",
+      "g_en": "Do you crave...the strength...",
+      "g_th": "อยากได้พลัง... มั้ยเล่า...?",
+      "g_tw": "你……渴望力量嗎？",
+      "g_tw_cn": "你……渴望力量吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4194168262,
+    "DataType": "speaker",
+    "Script": "3;산의 귀인;00;힘을…… 원하는가…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 24,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"はい？\"",
+      "j_ko": " \"네?\"",
+      "g_ja": " \"はい？\"",
+      "g_ko": " \"네?\"",
+      "g_en": " \"What?\"",
+      "g_th": " \"หืม?\"",
+      "g_tw": "「咦？」",
+      "g_tw_cn": "「咦？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"네?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 25,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 233
+    }
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 25,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あちらの峰を見たまえ……！",
+      "j_ko": "저 먼 봉우리를 보라……!",
+      "g_ja": "あちらの峰を見たまえ……！",
+      "g_ko": "저 먼 봉우리를 보라……!",
+      "g_en": "Look at that peak...!",
+      "g_th": "มองไปที่ยอดเขาโน่นสิ...!",
+      "g_tw": "看向那遠方的山巒吧……！",
+      "g_tw_cn": "看向那远方的山峦吧……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4194168262,
+    "DataType": "speaker",
+    "Script": "3;산의 귀인;00;저 먼 봉우리를 보라……!",
+    "BGMId": 233,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 26,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あと、私にラーメンを持って来い。",
+      "j_ko": "라멘 먹고 싶다.",
+      "g_ja": "あと、私にラーメンを持って来い。",
+      "g_ko": "라멘 먹고 싶다.",
+      "g_en": "I want ramen.",
+      "g_th": "อยากกินราเม็งจัง",
+      "g_tw": "好想吃拉麵。",
+      "g_tw_cn": "好想吃拉面。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4194168262,
+    "DataType": "speaker",
+    "Script": "3;산의 귀인;00;라멘 먹고 싶다.\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"す、少しだけ休ませてください……！\"",
+      "j_ko": " \"그게 무슨 소리예요?!\"",
+      "g_ja": " \"す、少しだけ休ませてください……！\"",
+      "g_ko": " \"그게 무슨 소리예요?!\"",
+      "g_en": " \"What are you talking about?!\"",
+      "g_th": " \"หมายความว่ายังไงน่ะ?!\"",
+      "g_tw": "「什麼跟什麼啊！？ 」",
+      "g_tw_cn": "「什么跟什么啊！？ 」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그게 무슨 소리예요?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "なにっ？この私に口答えするつもりか！？",
+      "j_ko": "뭐? 감히 본좌의 말에 토를 달아?!",
+      "g_ja": "なにっ？この私に口答えするつもりか！？",
+      "g_ko": "뭐? 감히 본좌의 말에 토를 달아?!",
+      "g_en": "What? You dare to demand answers from me?",
+      "g_th": "อะไรกัน? เจ้ากล้าดูหมิ่นคำพูดของข้างั้นรึ?!",
+      "g_tw": "啊？竟敢質疑本大人的話！？",
+      "g_tw_cn": "啊？竟敢质疑本大人的话！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4194168262,
+    "DataType": "speaker",
+    "Script": "3;산의 귀인;00;뭐? 감히 본좌의 말에 토를 달아?!\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "無礼者！",
+      "j_ko": "이 건방진 자가!",
+      "g_ja": "無礼者！",
+      "g_ko": "이 건방진 자가!",
+      "g_en": "The audacity!",
+      "g_th": "อวดดียิ่งนัก!",
+      "g_tw": "這個放肆的傢伙！",
+      "g_tw_cn": "这个放肆的家伙！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4194168262,
+    "DataType": "speaker",
+    "Script": "3;산의 귀인;00;이 건방진 자가!\\n#3;closeup\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"うああっ……！\"",
+      "j_ko": " \"흐아아악……!\"",
+      "g_ja": " \"うああっ……！\"",
+      "g_ko": " \"흐아아악……!\"",
+      "g_en": " \"Aaaaah...!\"",
+      "g_th": " \"เฮือกกก... ม่ายยย!\"",
+      "g_tw": "「哇啊啊啊……！」",
+      "g_tw_cn": "「哇啊啊啊……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"흐아아악……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Fall_02"
+    }
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 32,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こちらにいたんですね、先生。",
+      "j_ko": "여기 계셨군요, 선생님.",
+      "g_ja": "こちらにいたんですね、先生。",
+      "g_ko": "여기 계셨군요, 선생님.",
+      "g_en": "Hello there, Sensei.",
+      "g_th": "อยู่นี่เองเหรอคะ คุณครู",
+      "g_tw": "你在這裡啊，老師。",
+      "g_tw_cn": "你在这里啊，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4260459994,
+    "DataType": "speaker",
+    "Script": "#na;미요;여기 계셨군요, 선생님.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2975207016
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 239
+    }
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 35,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1300138313
+    }
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 35,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:610]― <cmd-char>미요</cmd-char>……[wa:1740]こんなところで、[wa:1060]何をされているんですか？",
+      "j_ko": "[wa:610]― <cmd-char>미요</cmd-char>……[wa:1740]이런 곳에서, [wa:1060]무엇을 하고 계신 건가요?",
+      "g_ja": "[wa:610]― <cmd-char>미요</cmd-char>……[wa:1740]こんなところで、[wa:1060]何をされているんですか？",
+      "g_ko": "[wa:610]― <cmd-char>미요</cmd-char>……[wa:1740]이런 곳에서, [wa:1060]무엇을 하고 계신 건가요?",
+      "g_en": "― <cmd-char>미요</cmd-char>...What are you doing in a place like this?[wa:2650] ",
+      "g_th": "― <cmd-char>미요</cmd-char>... มาทำอะไรอยู่ในที่แบบนี้เหรอคะ...?[wa:2890] ",
+      "g_tw": "― <cmd-char>미요</cmd-char>……你在這種地方，做什麼呢？[wa:3810] ",
+      "g_tw_cn": "― <cmd-char>미요</cmd-char>……你在这种地方，做什么呢？[wa:3810] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:610]― [log=미요]……[wa:1740]이런 곳에서, [wa:1060]무엇을 하고 계신 건가요?[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1300138313,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:80]― <cmd-char>미요</cmd-char>ずっと先生を[wa:810]探していたのに……。",
+      "j_ko": "― <cmd-char>미요</cmd-char>계속 선생님을 [wa:880]찾고 있었는데……",
+      "g_ja": "[wa:80]― <cmd-char>미요</cmd-char>ずっと先生を[wa:810]探していたのに……。",
+      "g_ko": "― <cmd-char>미요</cmd-char>계속 선생님을 [wa:880]찾고 있었는데……",
+      "g_en": "― <cmd-char>미요</cmd-char>I've been looking for you for so long...[wa:10] ",
+      "g_th": "― <cmd-char>미요</cmd-char>ฉันตามหาคุณครูอยู่นานเลยนะ...[wa:400] ",
+      "g_tw": "― <cmd-char>미요</cmd-char>明明我一直在找老師的說……[wa:1040] ",
+      "g_tw_cn": "― <cmd-char>미요</cmd-char>明明我一直在找老师的说……[wa:1040] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=미요]계속 선생님을 [wa:880]찾고 있었는데……[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 40,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ミヨ……？\"",
+      "j_ko": " \"미요……?\"",
+      "g_ja": " \"ミヨ……？\"",
+      "g_ko": " \"미요……?\"",
+      "g_en": " \"Miyo...?\"",
+      "g_th": " \"มิโยะ...?\"",
+      "g_tw": "「美代……？」",
+      "g_tw_cn": "「美代……？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"미요……?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 41,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 708193512
+    }
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:610]― <cmd-char>미요</cmd-char>さっきから[wa:1060]少し[wa:800]苦しそうですが……。",
+      "j_ko": "[wa:610]― <cmd-char>미요</cmd-char>또 아까부터[wa:1020] 계속[wa:760] 끙끙거리시고…….",
+      "g_ja": "[wa:610]― <cmd-char>미요</cmd-char>さっきから[wa:1060]少し[wa:800]苦しそうですが……。",
+      "g_ko": "[wa:610]― <cmd-char>미요</cmd-char>또 아까부터[wa:1020] 계속[wa:760] 끙끙거리시고…….",
+      "g_en": "― <cmd-char>미요</cmd-char>And you've been groaning to yourself...[wa:1590] ",
+      "g_th": "― <cmd-char>미요</cmd-char>เห็นร้องโอดโอยอยู่ตั้งแต่เมื่อกี้แล้ว...[wa:1550] ",
+      "g_tw": "― <cmd-char>미요</cmd-char>你從剛才看起來就有點痛苦……[wa:2590] ",
+      "g_tw_cn": "― <cmd-char>미요</cmd-char>你从刚才看起来就有点痛苦……[wa:2590] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:610]― [log=미요]또 아까부터[wa:1020] 계속[wa:760] 끙끙거리시고…….[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 708193512,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>미요</cmd-char>もしかして、[wa:1030]あまり[wa:490]体調が[wa:370]良くないのですか……？",
+      "j_ko": "― <cmd-char>미요</cmd-char>저기 혹시, [wa:980]몸 상태가 별로 [wa:750]안 좋으신가요……?",
+      "g_ja": "― <cmd-char>미요</cmd-char>もしかして、[wa:1030]あまり[wa:490]体調が[wa:370]良くないのですか……？",
+      "g_ko": "― <cmd-char>미요</cmd-char>저기 혹시, [wa:980]몸 상태가 별로 [wa:750]안 좋으신가요……?",
+      "g_en": "― <cmd-char>미요</cmd-char>Could it be that you're not feeling well...?[wa:1010] ",
+      "g_th": "― <cmd-char>미요</cmd-char>รู้สึกไม่ค่อยสบายตรงไหนหรือเปล่าคะ...?[wa:1250] ",
+      "g_tw": "― <cmd-char>미요</cmd-char>難道是身體不舒服嗎……？[wa:2290] ",
+      "g_tw_cn": "― <cmd-char>미요</cmd-char>难道是身体不舒服吗……？[wa:2290] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=미요]저기 혹시, [wa:980]몸 상태가 별로 [wa:750]안 좋으신가요……?[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ちょっと変な夢を見てね……。\"",
+      "j_ko": " \"아…… 이상한 꿈을 꿔서…….\"",
+      "g_ja": " \"ちょっと変な夢を見てね……。\"",
+      "g_ko": " \"아…… 이상한 꿈을 꿔서…….\"",
+      "g_en": " \"Ah... I just had a weird dream...\"",
+      "g_th": " \"อ่า... พอดีครูฝันแปลกๆ น่ะ...\"",
+      "g_tw": "「只是做了個奇怪的夢……」",
+      "g_tw_cn": "「只是做了个奇怪的梦……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"아…… 이상한 꿈을 꿔서…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 47,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1950338081
+    }
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2480]― <cmd-char>미요</cmd-char>なるほど、[wa:1570]悪夢……。",
+      "j_ko": "[wa:2480]― <cmd-char>미요</cmd-char>흐음, [wa:1610]악몽인가요.",
+      "g_ja": "[wa:2480]― <cmd-char>미요</cmd-char>なるほど、[wa:1570]悪夢……。",
+      "g_ko": "[wa:2480]― <cmd-char>미요</cmd-char>흐음, [wa:1610]악몽인가요.",
+      "g_en": "― <cmd-char>미요</cmd-char>Hmm, a nightmare.[wa:3810] ",
+      "g_th": "― <cmd-char>미요</cmd-char>อย่างนี้นี่เอง ฝันร้ายเหรอคะ?[wa:3330] ",
+      "g_tw": "― <cmd-char>미요</cmd-char>原來如此，是惡夢啊……[wa:4050] ",
+      "g_tw_cn": "― <cmd-char>미요</cmd-char>原来如此，是恶梦啊……[wa:4050] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:2480]― [log=미요]흐음, [wa:1610]악몽인가요.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1950338081,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>미요</cmd-char>きっと、[wa:1200]罰が当たったんですよ。",
+      "j_ko": "― <cmd-char>미요</cmd-char>분명, [wa:1200]벌을 받은 거예요.",
+      "g_ja": "― <cmd-char>미요</cmd-char>きっと、[wa:1200]罰が当たったんですよ。",
+      "g_ko": "― <cmd-char>미요</cmd-char>분명, [wa:1200]벌을 받은 거예요.",
+      "g_en": "― <cmd-char>미요</cmd-char>I'm sure this is your punishment.[wa:440] ",
+      "g_th": "― <cmd-char>미요</cmd-char>ต้องเป็นการถูกลงโทษแน่ๆ ค่ะ[wa:680] ",
+      "g_tw": "― <cmd-char>미요</cmd-char>肯定是遭到報應了吧。[wa:1360] ",
+      "g_tw_cn": "― <cmd-char>미요</cmd-char>肯定是遭到报应了吧。[wa:1360] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=미요]분명, [wa:1200]벌을 받은 거예요.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"そんな悪いことしたかな！？\"",
+      "j_ko": " \"갑자기?!\"",
+      "g_ja": " \"そんな悪いことしたかな！？\"",
+      "g_ko": " \"갑자기?!\"",
+      "g_en": " \"For what?!\"",
+      "g_th": " \"ครูไปทำอะไรผิดไว้เหรอ?!\"",
+      "g_tw": "「我有做那麼壞的事嗎！？ 」",
+      "g_tw_cn": "「我有做那么坏的事吗！？ 」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"갑자기?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 53,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 802207547
+    }
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 53,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2300]― <cmd-char>미요</cmd-char>最近、[wa:490]よくワイルドハントにいらしてるのに……。",
+      "j_ko": "[wa:2300]― <cmd-char>미요</cmd-char>최근 [wa:490]자주 와일드헌트에 오셨으면서도…….",
+      "g_ja": "[wa:2300]― <cmd-char>미요</cmd-char>最近、[wa:490]よくワイルドハントにいらしてるのに……。",
+      "g_ko": "[wa:2300]― <cmd-char>미요</cmd-char>최근 [wa:490]자주 와일드헌트에 오셨으면서도…….",
+      "g_en": "― <cmd-char>미요</cmd-char>You've been coming to Wildhunt so often...[wa:1990] ",
+      "g_th": "― <cmd-char>미요</cmd-char>ก็หมู่นี้มาที่ไวลด์ฮันต์อยู่บ่อยๆ...[wa:2230] ",
+      "g_tw": "― <cmd-char>미요</cmd-char>明明最近經常來狂獵……[wa:3230] ",
+      "g_tw_cn": "― <cmd-char>미요</cmd-char>明明最近经常来狂猎……[wa:3230] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:2300]― [log=미요]최근 [wa:490]자주 와일드헌트에 오셨으면서도…….[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 802207547,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 55,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>미요</cmd-char>一度も、私に連絡しなかったから。",
+      "j_ko": "― <cmd-char>미요</cmd-char>한 번도 저한테 연락 주지 않으셨잖아요.",
+      "g_ja": "― <cmd-char>미요</cmd-char>一度も、私に連絡しなかったから。",
+      "g_ko": "― <cmd-char>미요</cmd-char>한 번도 저한테 연락 주지 않으셨잖아요.",
+      "g_en": "― <cmd-char>미요</cmd-char>Yet you've never once called me.",
+      "g_th": "― <cmd-char>미요</cmd-char>แต่ไม่เคยติดต่อมาหาฉันสักครั้งเลยนี่คะ",
+      "g_tw": "― <cmd-char>미요</cmd-char>卻連一次都沒有聯絡我。",
+      "g_tw_cn": "― <cmd-char>미요</cmd-char>却连一次都没有联系我。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=미요]한 번도 저한테 연락 주지 않으셨잖아요.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 58,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ご、ごめん……。\"",
+      "j_ko": " \"미…… 미안…….\"",
+      "g_ja": " \"ご、ごめん……。\"",
+      "g_ko": " \"미…… 미안…….\"",
+      "g_en": " \"S-Sorry...\"",
+      "g_th": " \"คะ... ครูขอโทษ...\"",
+      "g_tw": "「對，對不起……」",
+      "g_tw_cn": "「对，对不起……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"미…… 미안…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 59,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 17776400
+    }
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 59,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2390]― <cmd-char>미요</cmd-char>……ふふ、[wa:1240]冗談ですよ。",
+      "j_ko": "[wa:2390]― <cmd-char>미요</cmd-char>……후후, [wa:1200]농담이에요.",
+      "g_ja": "[wa:2390]― <cmd-char>미요</cmd-char>……ふふ、[wa:1240]冗談ですよ。",
+      "g_ko": "[wa:2390]― <cmd-char>미요</cmd-char>……후후, [wa:1200]농담이에요.",
+      "g_en": "― <cmd-char>미요</cmd-char>...Fufu, I'm joking.[wa:3270] ",
+      "g_th": "― <cmd-char>미요</cmd-char>ฮุฮุ... ล้อเล่นค่ะ[wa:3350] ",
+      "g_tw": "― <cmd-char>미요</cmd-char>……呵呵，開玩笑的。[wa:3670] ",
+      "g_tw_cn": "― <cmd-char>미요</cmd-char>……呵呵，开玩笑的。[wa:3670] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:2390]― [log=미요]……후후, [wa:1200]농담이에요.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 17776400,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 62,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>미요</cmd-char>でも、[wa:1190]こうやって先生にお会いできて……",
+      "j_ko": "― <cmd-char>미요</cmd-char>그래도, [wa:1110]이렇게 선생님과 만날 수 있어서…….",
+      "g_ja": "― <cmd-char>미요</cmd-char>でも、[wa:1190]こうやって先生にお会いできて……",
+      "g_ko": "― <cmd-char>미요</cmd-char>그래도, [wa:1110]이렇게 선생님과 만날 수 있어서…….",
+      "g_en": "― <cmd-char>미요</cmd-char>But still, meeting you like this...[wa:710] ",
+      "g_th": "― <cmd-char>미요</cmd-char>แต่พอได้เจอกับคุณครูแบบนี้...[wa:950] ",
+      "g_tw": "― <cmd-char>미요</cmd-char>不過，能像這樣見到老師……[wa:1590] ",
+      "g_tw_cn": "― <cmd-char>미요</cmd-char>不过，能像这样见到老师……[wa:1590] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;― [log=미요]그래도, [wa:1110]이렇게 선생님과 만날 수 있어서…….[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 64,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:80]― <cmd-char>미요</cmd-char>私、[wa:990]嬉しいです。",
+      "j_ko": "― <cmd-char>미요</cmd-char>저, [wa:1030]기뻐요.",
+      "g_ja": "[wa:80]― <cmd-char>미요</cmd-char>私、[wa:990]嬉しいです。",
+      "g_ko": "― <cmd-char>미요</cmd-char>저, [wa:1030]기뻐요.",
+      "g_en": "― <cmd-char>미요</cmd-char>makes me happy, Sensei.[wa:390] ",
+      "g_th": "― <cmd-char>미요</cmd-char>ฉันก็ดีใจนะคะ[wa:790] ",
+      "g_tw": "― <cmd-char>미요</cmd-char>我很開心。[wa:1110] ",
+      "g_tw_cn": "― <cmd-char>미요</cmd-char>我很开心。[wa:1110] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=미요]저, [wa:1030]기뻐요.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 66,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 729948449
+    }
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ワイルドハント・芸術情報館",
+      "j_ko": "와일드헌트 예술정보관",
+      "g_ja": "ワイルドハント ・ 芸術情報館",
+      "g_ko": "와일드헌트 예술정보관",
+      "g_en": "Wildhunt Arts Information Center",
+      "g_th": "ศูนย์ข้อมูลศิลปะ ไวลด์ฮันต์",
+      "g_tw": "狂獵藝術情報館",
+      "g_tw_cn": "狂猎艺术情报馆",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "place",
+    "Script": "#place;와일드헌트 예술정보관",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"起こしてくれてありがとう、ミヨ。\"",
+      "j_ko": " \"깨워줘서 고마워, 미요.\"",
+      "g_ja": " \"起こしてくれてありがとう、ミヨ。\"",
+      "g_ko": " \"깨워줘서 고마워, 미요.\"",
+      "g_en": " \"Thanks for waking me up, Miyo.\"",
+      "g_th": " \"ขอบใจที่ช่วยปลุกครูนะ มิโยะ\"",
+      "g_tw": "「謝謝你叫醒我，美代。」",
+      "g_tw_cn": "「谢谢你叫醒我，美代。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"깨워줘서 고마워, 미요.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いいえ。",
+      "j_ko": "뭘요.",
+      "g_ja": "いいえ。",
+      "g_ko": "뭘요.",
+      "g_en": "It was nothing.",
+      "g_th": "ไม่เป็นไรเลยค่ะ",
+      "g_tw": "老師不必客氣。",
+      "g_tw_cn": "老师不必客气。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4260459994,
+    "DataType": "speaker",
+    "Script": "3;미요;08;뭘요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 71,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ところで、どうしてこんな場所で仕事を……？",
+      "j_ko": "그나저나 왜 이런 낡고 불편한 곳에서 작업 중이셨어요?",
+      "g_ja": "ところで、どうしてこんな場所で仕事を……？",
+      "g_ko": "그나저나 왜 이런 낡고 불편한 곳에서 작업 중이셨어요?",
+      "g_en": "Anyway, why were you working in such an old and dusty corner?",
+      "g_th": "ว่าแต่ ทำไมคุณครูถึงมาทำงานในห้องเก่าๆ และไม่สะดวกสบายแบบนี้ล่ะคะ?",
+      "g_tw": "不過，為什麼要在這種老舊又不舒服的地方工作呢？",
+      "g_tw_cn": "不过，为什么要在这种老旧又不舒服的地方工作呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4260459994,
+    "DataType": "speaker",
+    "Script": "3;미요;02;그나저나 왜 이런 낡고 불편한 곳에서 작업 중이셨어요?\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今日先生が訪れた建物の西側に、もっと作業しやすい場所がありましたよ？",
+      "j_ko": "오늘 방문하셨던 건물들 서쪽에 더 작업하기 편한 곳이 있는데…….",
+      "g_ja": "今日先生が訪れた建物の西側に、もっと作業しやすい場所がありましたよ？",
+      "g_ko": "오늘 방문하셨던 건물들 서쪽에 더 작업하기 편한 곳이 있는데…….",
+      "g_en": "There's a much nicer library... It's directly west of the buildings you visited today.",
+      "g_th": "อาคารทางทิศตะวันตกของอาคารที่คุณครูแวะไปวันนี้น่าทำงานกว่าเยอะเลย...",
+      "g_tw": "今天老師去過的建築西邊，明明有更適合工作的地方才對……",
+      "g_tw_cn": "今天老师去过的建筑西边，明明有更适合工作的地方才对……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4260459994,
+    "DataType": "speaker",
+    "Script": "3;미요;36;오늘 방문하셨던 건물들 서쪽에 더 작업하기 편한 곳이 있는데…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 73,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "と、とりあえず立ってください。",
+      "j_ko": "이, 일단 일어나세요.",
+      "g_ja": "と、とりあえず立ってください。",
+      "g_ko": "이, 일단 일어나세요.",
+      "g_en": "H-How about you get up?",
+      "g_th": "เอาละ ลุกขึ้นก่อนเถอะค่ะ",
+      "g_tw": "總，總之請先起來吧。",
+      "g_tw_cn": "总，总之请先起来吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4260459994,
+    "DataType": "speaker",
+    "Script": "3;미요;07;이, 일단 일어나세요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 74,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それから……コーヒーでも飲みませんか？",
+      "j_ko": "……같이, 커피라도 한잔하면서 잠이라도 깨요, 선생님.",
+      "g_ja": "それから……コーヒーでも飲みませんか？",
+      "g_ko": "……같이, 커피라도 한잔하면서 잠이라도 깨요, 선생님.",
+      "g_en": "...Let's get some coffee. That should help.",
+      "g_th": "ไปดื่มกาแฟให้ตื่นสักแก้วก่อนนะคะ คุณครู...",
+      "g_tw": "……跟我一起去喝杯咖啡提提神吧，老師。",
+      "g_tw_cn": "……跟我一起去喝杯咖啡提提神吧，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4260459994,
+    "DataType": "speaker",
+    "Script": "3;미요;13;……같이, 커피라도 한잔하면서 잠이라도 깨요, 선생님.\\n#3;em;[하트]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Heart",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 75,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ミヨと一緒に校内のカフェでコーヒーを飲んだ）",
+      "j_ko": "(그렇게 미요와 교내 카페에서 커피를 마시며 잠을 깼다.)",
+      "g_ja": "（ミヨと一緒に校内のカフェでコーヒーを飲んだ）",
+      "g_ko": "(그렇게 미요와 교내 카페에서 커피를 마시며 잠을 깼다.)",
+      "g_en": "I perked up after drinking a cup of coffee with Miyo at the school's cafe.",
+      "g_th": "(จากนั้นคุณครูกับมิโยะก็ไปที่คาเฟ่ในโรงเรียนแล้วดื่มกาแฟให้หายง่วงด้วยกัน)",
+      "g_tw": "（於是便和美代一起，在學院內的咖啡廳喝咖啡驅散睡意）",
+      "g_tw_cn": "（于是便和美代一起，在学院内的咖啡厅喝咖啡驱散睡意）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 미요와 교내 카페에서 커피를 마시며 잠을 깼다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 77,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ワイルドハントを出た頃……ひとつの疑問が浮かんだ）",
+      "j_ko": "(이후 와일드헌트를 나올 때, 문득 이런 생각이 들었다.)",
+      "g_ja": "（ワイルドハントを出た頃……ひとつの疑問が浮かんだ）",
+      "g_ko": "(이후 와일드헌트를 나올 때, 문득 이런 생각이 들었다.)",
+      "g_en": "And, as I left, I was struck by a thought.",
+      "g_th": "(หลังจากกลับมาจากไวลด์ฮันต์ คุณครูก็คิดว่า)",
+      "g_tw": "（在離開狂獵時，突然冒出了一個念頭）",
+      "g_tw_cn": "（在离开狂猎时，突然冒出了一个念头）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(이후 와일드헌트를 나올 때, 문득 이런 생각이 들었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 80,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 81,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Fear_03"
+    }
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 81,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（……ミヨは、なんで私がどこにいるかわかったんだろう）",
+      "j_ko": "(……미요는, 내가 방문했던 건물들을 어떻게 알고 있었던 걸까.)",
+      "g_ja": "（……ミヨは、なんで私がどこにいるかわかったんだろう）",
+      "g_ko": "(……미요는, 내가 방문했던 건물들을 어떻게 알고 있었던 걸까.)",
+      "g_en": "How did Miyo know where I visited that day?",
+      "g_th": "(มิโยะรู้ได้ยังไงว่าวันนี้ตัวเองแวะไปอาคารไหนบ้าง...)",
+      "g_tw": "（……美代是怎麼知道我去過哪些建築的呢？）",
+      "g_tw_cn": "（……美代是怎么知道我去过哪些建筑的呢？）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(……미요는, 내가 방문했던 건물들을 어떻게 알고 있었던 걸까.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,2654 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 252
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">認めないんだから！</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">인정 못 해!</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">認めないんだから！</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">인정 못 해!</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">I Won't Accept It!</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ไม่เชื่อหรอก!</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">無法認同！</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">无法认同！</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;인정 못 해!",
+    "BGMId": 252,
+    "Sound": "",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（レナの指定通り、待ち合わせ場所へ向かった）",
+      "j_ko": "(늦은 밤. 시간에 맞춰 약속 장소에 나갔다.)",
+      "g_ja": "（レナの指定通り、待ち合わせ場所へ向かった）",
+      "g_ko": "(늦은 밤. 시간에 맞춰 약속 장소에 나갔다.)",
+      "g_en": "I went to the meeting spot late at night.",
+      "g_th": "(กลางดึกคืนหนึ่ง คุณครูไปถึงสถานที่นัดหมายตรงตามเวลา)",
+      "g_tw": "（深夜，準時來到了約好的地點）",
+      "g_tw_cn": "（深夜，准时来到了约好的地点）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(늦은 밤. 시간에 맞춰 약속 장소에 나갔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3871880569
+    }
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 4,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 4,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、こっちこっち！",
+      "j_ko": "여, 여기야! 선생님!",
+      "g_ja": "あ、こっちこっち！",
+      "g_ko": "여, 여기야! 선생님!",
+      "g_en": "O-Over here! Sensei!",
+      "g_th": "ทะ... ทางนี้! คุณครู!",
+      "g_tw": "這，這裡！老師！",
+      "g_tw_cn": "这，这里！老师！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;04;여, 여기야! 선생님!\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"こんな時間にバス停に？\"",
+      "j_ko": " \"이런 시간에 버스 정류장?\"",
+      "g_ja": " \"こんな時間にバス停に？\"",
+      "g_ko": " \"이런 시간에 버스 정류장?\"",
+      "g_en": " \"We're taking a bus? This late?\"",
+      "g_th": " \"ที่นี่มันป้ายรถบัสนี่นา?\"",
+      "g_tw": " 「這種時間在公車站？」",
+      "g_tw_cn": " 「这种时间在公车站？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"이런 시간에 버스 정류장?\"\\n[s2] \"어디 가려고?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"どこへ行くの？\"",
+      "j_ko": " \"어디 가려고?\"",
+      "g_ja": " \"どこへ行くの？\"",
+      "g_ko": " \"어디 가려고?\"",
+      "g_en": " \"Where are we going?\"",
+      "g_th": " \"จะนั่งรถไปไหนเหรอ?\"",
+      "g_tw": " 「要去哪裡？」",
+      "g_tw_cn": " 「要去哪里？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"이런 시간에 버스 정류장?\"\\n[s2] \"어디 가려고?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 8,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えっと……。",
+      "j_ko": "으음, 그게 말이지…….",
+      "g_ja": "えっと……。",
+      "g_ko": "으음, 그게 말이지…….",
+      "g_en": "Well, the thing is...",
+      "g_th": "อืม คือว่า...",
+      "g_tw": "唔嗯，那個……",
+      "g_tw_cn": "唔嗯，那个……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;13;으음, 그게 말이지…….\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今から……。",
+      "j_ko": "지금부터…….",
+      "g_ja": "今から……。",
+      "g_ko": "지금부터…….",
+      "g_en": "Starting now...we're going to...",
+      "g_th": "จากนี้ไป...",
+      "g_tw": "現在……",
+      "g_tw_cn": "现在……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;13;지금부터…….\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "幽霊が出るって噂の廃墟に行くの。",
+      "j_ko": "유령이 나온다는 폐교에 갈 거야.",
+      "g_ja": "幽霊が出るって噂の廃墟に行くの。",
+      "g_ko": "유령이 나온다는 폐교에 갈 거야.",
+      "g_en": "...investigate a school. An abandoned one. And people say it has ghosts.",
+      "g_th": "ฉันจะไปโรงเรียนร้างที่มีข่าวว่ามีวิญญาณออกมา",
+      "g_tw": "要去據說有幽靈出沒的廢校。",
+      "g_tw_cn": "要去据说有幽灵出没的废校。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;27;유령이 나온다는 폐교에 갈 거야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"え、幽霊！？\"",
+      "j_ko": " \"가, 갑자기 폐교?!\"",
+      "g_ja": " \"え、幽霊！？\"",
+      "g_ko": " \"가, 갑자기 폐교?!\"",
+      "g_en": " \"A haunted school?!\"",
+      "g_th": " \"ทะ... ทำไมจู่ๆ ถึงจะไปโรงเรียนร้างล่ะ?!\"",
+      "g_tw": " 「突，突然要去廢校！？」",
+      "g_tw_cn": " 「突，突然要去废校！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"가, 갑자기 폐교?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "だ、だって仕方ないのよ！",
+      "j_ko": "어, 어쩔 수 없었어!",
+      "g_ja": "だ、だって仕方ないのよ！",
+      "g_ko": "어, 어쩔 수 없었어!",
+      "g_en": "I-I have to!",
+      "g_th": "กะ... ก็มันช่วยไม่ได้นี่นา!",
+      "g_tw": "我，我也沒辦法啊！",
+      "g_tw_cn": "我，我也没办法啊！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;15;어, 어쩔 수 없었어!\\n#3;em;[!]\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先輩たちに「幽霊はいないって証明する」って言っちゃったんだもん！",
+      "j_ko": "선배들에게 유령이 없다는 걸 증명하기로 했단 말이야!",
+      "g_ja": "先輩たちに「幽霊はいないって証明する」って言っちゃったんだもん！",
+      "g_ko": "선배들에게 유령이 없다는 걸 증명하기로 했단 말이야!",
+      "g_en": "I told my seniors, the Occult Society, that I would prove that ghosts don't exist.",
+      "g_th": "ฉันตั้งใจไว้แล้วว่าจะพิสูจน์ให้พวกรุ่นพี่เห็นว่าผีหรือวิญญาณน่ะไม่มีอยู่จริง!",
+      "g_tw": "誰叫我已經答應前輩們要證明沒有幽靈了！",
+      "g_tw_cn": "谁叫我已经答应前辈们要证明没有幽灵了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;20;선배들에게 유령이 없다는 걸 증명하기로 했단 말이야!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 14,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"みんなもついてきそうなのに。\"",
+      "j_ko": " \"그런 거라면 그 아이들도 재밌다며 따라올 것 같은데.\"",
+      "g_ja": " \"みんなもついてきそうなのに。\"",
+      "g_ko": " \"그런 거라면 그 아이들도 재밌다며 따라올 것 같은데.\"",
+      "g_en": " \"That sounds up their alley. Why didn't they tag along?\"",
+      "g_th": " \"ถ้างั้นคนอื่นคงคิดว่าน่าสนุกและตามมาด้วยนะ\"",
+      "g_tw": " 「那樣的話，他們也會覺得有趣而跟來吧。」",
+      "g_tw_cn": " 「那样的话，他们也会觉得有趣而跟来吧。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그런 거라면 그 아이들도 재밌다며 따라올 것 같은데.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私が来ないでって言ったの。",
+      "j_ko": "내가 오지 말라고 했어.",
+      "g_ja": "私が来ないでって言ったの。",
+      "g_ko": "내가 오지 말라고 했어.",
+      "g_en": "I told them not to.",
+      "g_th": "ฉันบอกไปแล้วละว่าไม่ต้องตามมาด้วย",
+      "g_tw": "是我叫他們不要跟過來的。",
+      "g_tw_cn": "是我叫他们不要跟过来的。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;05;내가 오지 말라고 했어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 16,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "イタズラとかしそうだし……。",
+      "j_ko": "선배들이라면 또 이상한 장난을 칠 게 뻔하니까.",
+      "g_ja": "イタズラとかしそうだし……。",
+      "g_ko": "선배들이라면 또 이상한 장난을 칠 게 뻔하니까.",
+      "g_en": "I'm sure they would pull some stupid prank again and try to scare me.",
+      "g_th": "ก็พวกรุ่นพี่น่ะ ถ้ามาแล้วต้องแกล้งกันด้วยวิธีแปลกๆ แน่นอน",
+      "g_tw": "畢竟前輩們肯定又會做一些奇怪的惡作劇。",
+      "g_tw_cn": "毕竟前辈们肯定又会做一些奇怪的恶作剧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;06;선배들이라면 또 이상한 장난을 칠 게 뻔하니까.\\n#3;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "外出証があるのも私だけだから。",
+      "j_ko": "외출증이 있는 것도 나뿐이었고.",
+      "g_ja": "外出証があるのも私だけだから。",
+      "g_ko": "외출증이 있는 것도 나뿐이었고.",
+      "g_en": "Also... I'm the only one with an approved outing pass.",
+      "g_th": "แล้วฉันก็เป็นคนเดียวที่มีบัตรออกนอกโรงเรียน",
+      "g_tw": "而且有外出證的也只有我而已。",
+      "g_tw_cn": "而且有外出证的也只有我而已。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;12;외출증이 있는 것도 나뿐이었고.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 18,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でも、なんか一人で行くのは……やっぱちょっと、さ……。",
+      "j_ko": "하지만 그게…… 역시 혼자 가는 건 조금 그래서…….",
+      "g_ja": "でも、なんか一人で行くのは……やっぱちょっと、さ……。",
+      "g_ko": "하지만 그게…… 역시 혼자 가는 건 조금 그래서…….",
+      "g_en": "But well... It's so late. And it's a little sketchy, you know. So I figured I shouldn't go alone...",
+      "g_th": "แต่ปัญหาคือ... ถ้าฉันไปคนเดียวมันก็กระไรอยู่...",
+      "g_tw": "但是……一個人去果然有點……",
+      "g_tw_cn": "但是……一个人去果然有点……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;13;하지만 그게…… 역시 혼자 가는 건 조금 그래서…….\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 19,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"そこで私の出番ってことだね。\"",
+      "j_ko": " \"날 부른 거구나?\"",
+      "g_ja": " \"そこで私の出番ってことだね。\"",
+      "g_ko": " \"날 부른 거구나?\"",
+      "g_en": " \"So you called me?\"",
+      "g_th": " \"ก็เลยจะขอให้ครูไปด้วยสินะ?\"",
+      "g_tw": " 「所以就找我來了嗎？」",
+      "g_tw_cn": " 「所以就找我来了吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"날 부른 거구나?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 20,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まあ、別に本当に<ruby>出る<rp>(</rp><rt>・   ・</rt><rp>)</rp></ruby>とは思ってないけど……！",
+      "j_ko": "뭐, 진짜 유령이 나올 리는 없을 테니 별일이야 있겠냐만…….",
+      "g_ja": "まあ、別に本当に<ruby>出る<rp>(</rp><rt>・   ・</rt><rp>)</rp></ruby>とは思ってないけど……！",
+      "g_ko": "뭐, 진짜 유령이 나올 리는 없을 테니 별일이야 있겠냐만…….",
+      "g_en": "Well, I doubt anything will happen, but still. No ghosts will show up.",
+      "g_th": "แต่ก็... ยังไงก็ไม่มีทางที่วิญญาณจะโผล่ออกมาอยู่แล้ว งั้นก็ไม่น่ามีอะไรหรอก...",
+      "g_tw": "嗯，雖然我不認為會有真的幽靈出現……",
+      "g_tw_cn": "嗯，虽然我不认为会有真的幽灵出现……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;06;뭐, 진짜 유령이 나올 리는 없을 테니 별일이야 있겠냐만…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "とにかく、これで貸し借りなしよ！",
+      "j_ko": "아무튼 이걸로 빚진 거 없애줄 테니까 같이 가는 거다?",
+      "g_ja": "とにかく、これで貸し借りなしよ！",
+      "g_ko": "아무튼 이걸로 빚진 거 없애줄 테니까 같이 가는 거다?",
+      "g_en": "If you want to pay me back for your...\"pants incident,\" this would help.",
+      "g_th": "คุณครูเคยติดหนี้ฉันไว้ งั้นก็ถือว่าไปกับฉันเพื่อเป็นการใช้หนี้แล้วกันนะ?",
+      "g_tw": "總之，這樣就算是還了欠我的人情，你就跟我一起去吧？",
+      "g_tw_cn": "总之，这样就算是还了欠我的人情，你就跟我一起去吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;02;아무튼 이걸로 빚진 거 없애줄 테니까 같이 가는 거다?\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"了解！レナを守るよ！\"",
+      "j_ko": " \"응! 내가 지켜줄게!\"",
+      "g_ja": " \"了解！レナを守るよ！\"",
+      "g_ko": " \"응! 내가 지켜줄게!\"",
+      "g_en": " \"Sure! I'll protect you!\"",
+      "g_th": " \"อื้อ! ครูจะคอยปกป้องเรนะให้เอง!\"",
+      "g_tw": " 「嗯！我會保護你的！」",
+      "g_tw_cn": " 「嗯！我会保护你的！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"응! 내가 지켜줄게!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はあ……なんでこんなことになったんだろ……。",
+      "j_ko": "하아…… 내가 진짜 어쩌다가…….",
+      "g_ja": "はあ……なんでこんなことになったんだろ……。",
+      "g_ko": "하아…… 내가 진짜 어쩌다가…….",
+      "g_en": "*sigh* How did it come to this...?",
+      "g_th": "เฮ้อ... ฉันได้มาทำอะไรแบบนี้ได้ยังไงนะ...",
+      "g_tw": "唉……我到底為什麼……",
+      "g_tw_cn": "唉……我到底为什么……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;25;하아…… 내가 진짜 어쩌다가…….\\n#3;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Upset",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 24,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あっ、バスが来たわ。",
+      "j_ko": "아. 저기 버스 왔다.",
+      "g_ja": "あっ、バスが来たわ。",
+      "g_ko": "아. 저기 버스 왔다.",
+      "g_en": "Ah. There's the bus.",
+      "g_th": "อ๊ะ รถมาแล้ว",
+      "g_tw": "啊，公車來了。",
+      "g_tw_cn": "啊，公车来了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;02;아. 저기 버스 왔다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 25,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 26,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_BusDoor_01"
+    }
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 27,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Bus_01"
+    }
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 28,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2918447061
+    }
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（そしてひと気のない場所に到着し……）",
+      "j_ko": "(그렇게 도착한 어느 인적 없는 곳…….)",
+      "g_ja": "（そしてひと気のない場所に到着し……）",
+      "g_ko": "(그렇게 도착한 어느 인적 없는 곳…….)",
+      "g_en": "It dropped us off in a secluded area.",
+      "g_th": "(แล้วทั้งสองก็มาถึงสถานที่แห่งหนึ่งที่ไม่มีผู้คนสัญจรผ่าน...)",
+      "g_tw": "（就這樣到達了某個人煙稀少的地方……）",
+      "g_tw_cn": "（就这样到达了某个人烟稀少的地方……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 도착한 어느 인적 없는 곳…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もうすぐ廃墟よ。",
+      "j_ko": "여기서 조금만 더 걸어가면 오래된 폐교가 나와.",
+      "g_ja": "もうすぐ廃墟よ。",
+      "g_ko": "여기서 조금만 더 걸어가면 오래된 폐교가 나와.",
+      "g_en": "The abandoned school is down this street.",
+      "g_th": "ถ้าเดินต่ออีกหน่อย ก็จะเจอโรงเรียนร้างเก่าๆ แห่งหนึ่ง",
+      "g_tw": "從這裡再往前一點，就會看到那間老舊的廢校了。",
+      "g_tw_cn": "从这里再往前一点，就会看到那间老旧的废校了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;01;여기서 조금만 더 걸어가면 오래된 폐교가 나와.\\n#3;a\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 31,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "元々いわくつきの場所でね。<br/>建物ができた時から妙な音がするって噂があったの。",
+      "j_ko": "건물터가 이상했던 건지, 지어질 때부터 수상한 비명이 끊이지 않았다고 하더라.",
+      "g_ja": "元々いわくつきの場所でね。<br/>建物ができた時から妙な音がするって噂があったの。",
+      "g_ko": "건물터가 이상했던 건지, 지어질 때부터 수상한 비명이 끊이지 않았다고 하더라.",
+      "g_en": "It could be a coincidence, but the rumors say that its halls are plagued with mysterious screaming...and have been since the day the school opened.",
+      "g_th": "ไม่รู้ว่าเพราะทำเลมันแปลกๆ หรือเปล่า ว่ากันว่าตั้งแต่เริ่มก่อสร้างก็มีเสียงกรีดร้องแปลกๆ ให้ได้ยินตลอดเลยละ",
+      "g_tw": "聽說可能是因為位置的關係，從建造的時候開始就一直會傳出詭異的慘叫聲。",
+      "g_tw_cn": "听说可能是因为位置的关系，从建造的时候开始就一直会传出诡异的惨叫声。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;99;건물터가 이상했던 건지, 지어질 때부터 수상한 비명이 끊이지 않았다고 하더라.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 32,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "で、その音が今でも聞こえるらしくて……。",
+      "j_ko": "그 비명은 폐교된 지금까지 들리고 있대.",
+      "g_ja": "で、その音が今でも聞こえるらしくて……。",
+      "g_ko": "그 비명은 폐교된 지금까지 들리고 있대.",
+      "g_en": "...They say you can still hear the screams, even though there are no more students.",
+      "g_th": "ต่อให้ปิดโรงเรียนนั้นไปแล้ว เสียงกรีดร้องนั้นก็ยังอยู่เลยด้วย",
+      "g_tw": "而且就連廢校之後的現在也還能聽見。",
+      "g_tw_cn": "而且就连废校之后的现在也还能听见。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;01;그 비명은 폐교된 지금까지 들리고 있대.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 33,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "肝試しに行った子たちが気を失ったり気分が悪くなったりで、<br/>今はもう誰も近づかないみたいだけど。",
+      "j_ko": "담력 시험을 하러 갔다가 기절한 아이들도 많아서 지금은 아무도 접근하지 않는다고 해.",
+      "g_ja": "肝試しに行った子たちが気を失ったり気分が悪くなったりで、<br/>今はもう誰も近づかないみたいだけど。",
+      "g_ko": "담력 시험을 하러 갔다가 기절한 아이들도 많아서 지금은 아무도 접근하지 않는다고 해.",
+      "g_en": "A few kids have even passed out while exploring it. That's why no one goes over here anymore.",
+      "g_th": "ได้ยินมาว่ามีเด็กหลายคนเข้ามาล่าท้าผีเพื่อทดสอบความกล้าหาญ และก็เป็นลมกลับไป จนตอนนี้ไม่มีใครกล้าเข้าไปใกล้โรงเรียนแห่งนั้นเลยละ",
+      "g_tw": "很多去試膽的人都被嚇到昏倒，所以現在已經沒有人敢靠近了。",
+      "g_tw_cn": "很多去试胆的人都被吓到昏倒，所以现在已经没有人敢靠近了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;02;담력 시험을 하러 갔다가 기절한 아이들도 많아서 지금은 아무도 접근하지 않는다고 해.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"結構詳しいんだね？\"",
+      "j_ko": " \"사전 조사 열심히 했네.\"",
+      "g_ja": " \"結構詳しいんだね？\"",
+      "g_ko": " \"사전 조사 열심히 했네.\"",
+      "g_en": " \"Such diligent research.\"",
+      "g_th": " \"ค้นคว้าข้อมูลมาเยอะเลยนะเนี่ย\"",
+      "g_tw": " 「事前調查做得很認真呢。」",
+      "g_tw_cn": " 「事前调查做得很认真呢。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"사전 조사 열심히 했네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 35,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 35,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ど、どういうところかくらい、普通調べるでしょ！",
+      "j_ko": "가, 가는 곳이 어딘지는 알아야 할 거 아냐!",
+      "g_ja": "ど、どういうところかくらい、普通調べるでしょ！",
+      "g_ko": "가, 가는 곳이 어딘지는 알아야 할 거 아냐!",
+      "g_en": "N-Naturally! You should always research where you're going.",
+      "g_th": "กะ... ก็ฉันต้องรู้ก่อนสิว่าที่ที่จะไปมันเป็นสถานที่แบบไหน!",
+      "g_tw": "要，要去的地方是什麼情況，當然得查清楚啊！",
+      "g_tw_cn": "要，要去的地方是什么情况，当然得查清楚啊！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;09;가, 가는 곳이 어딘지는 알아야 할 거 아냐!\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 36,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ほら、行くわよ！幽霊なんていないって証明してやるんだから！",
+      "j_ko": "아무튼 가자. 유령 따위 없다는 걸 증명하는 거야!",
+      "g_ja": "ほら、行くわよ！幽霊なんていないって証明してやるんだから！",
+      "g_ko": "아무튼 가자. 유령 따위 없다는 걸 증명하는 거야!",
+      "g_en": "We should get to it. Come on, let's prove that there's no such thing as ghosts!",
+      "g_th": "เอาเถอะ ฉันจะพิสูจน์ให้เห็นเองว่าผีหรือวิญญาณน่ะไม่มีอยู่จริง!",
+      "g_tw": "總之走吧！我們要證明根本沒有什麼幽靈！",
+      "g_tw_cn": "总之走吧！我们要证明根本没有什么幽灵！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;15;아무튼 가자. 유령 따위 없다는 걸 증명하는 거야!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 37,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 38,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 39,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 40,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2802318428
+    }
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（そうして廃墟の中を進んでいくと……）",
+      "j_ko": "(그리하여 도착한 폐교 내부…….)",
+      "g_ja": "（そうして廃墟の中を進んでいくと……）",
+      "g_ko": "(그리하여 도착한 폐교 내부…….)",
+      "g_en": "We entered the abandoned school.",
+      "g_th": "(แล้วทั้งสองคนก็มาถึงด้านในโรงเรียนร้าง...)",
+      "g_tw": "（就這樣進入了廢校內部……）",
+      "g_tw_cn": "（就这样进入了废校内部……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그리하여 도착한 폐교 내부…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"なんか雰囲気あるね……。\"",
+      "j_ko": " \"오…… 뭔가 으스스한데?\"",
+      "g_ja": " \"なんか雰囲気あるね……。\"",
+      "g_ko": " \"오…… 뭔가 으스스한데?\"",
+      "g_en": " \"Huh... Isn't this place a little creepy?\"",
+      "g_th": " \"โอ้... รู้สึกขนลุกแปลกๆ นะ?\"",
+      "g_tw": " 「哦……有點陰森呢？」",
+      "g_tw_cn": " 「哦……有点阴森呢？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"오…… 뭔가 으스스한데?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "この場所には七不思議があるんだって。",
+      "j_ko": "이 폐교에는 7대 불가사의가 있대.",
+      "g_ja": "この場所には七不思議があるんだって。",
+      "g_ko": "이 폐교에는 7대 불가사의가 있대.",
+      "g_en": "This school is said to house the \"Seven Mysteries.\"",
+      "g_th": "มีข่าวลือว่าที่นี่มีเรื่องลึกลับเจ็ดอย่างซ่อนอยู่",
+      "g_tw": "據說這間廢校有七大不可思議。",
+      "g_tw_cn": "据说这间废校有七大不可思议。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;02;이 폐교에는 7대 불가사의가 있대.\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "一つ目。真夜中の廊下に鳴り響く、窓を叩く音。",
+      "j_ko": "첫째. 심야에, 복도의 창문을 쿵쿵 두드리는 소리.",
+      "g_ja": "一つ目。真夜中の廊下に鳴り響く、窓を叩く音。",
+      "g_ko": "첫째. 심야에, 복도의 창문을 쿵쿵 두드리는 소리.",
+      "g_en": "First is loud knocking on the window in the middle of the night.",
+      "g_th": "อย่างแรกก็คือ เสียงเคาะหน้าต่างตรงทางเดินในยามดึก",
+      "g_tw": "第一。在深夜敲打走廊窗戶的聲音。",
+      "g_tw_cn": "第一。在深夜敲打走廊窗户的声音。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;13;첫째. 심야에, 복도의 창문을 쿵쿵 두드리는 소리.\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "二つ目。存在しない13番目の階段。",
+      "j_ko": "둘째. 존재하지 않는 열세 번째 계단.",
+      "g_ja": "二つ目。存在しない13番目の階段。",
+      "g_ko": "둘째. 존재하지 않는 열세 번째 계단.",
+      "g_en": "Second: there's a thirteenth stair that...also doesn't exist.",
+      "g_th": "อย่างที่สอง บันไดขั้นที่สิบสามที่ไม่มีอยู่จริง",
+      "g_tw": "第二。不存在的第十三階階梯。",
+      "g_tw_cn": "第二。不存在的第十三阶阶梯。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;13;둘째. 존재하지 않는 열세 번째 계단.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "三つ目。廊下を徘徊する人影。",
+      "j_ko": "셋째. 수상한 그림자가 돌아다니는 교직원 복도.",
+      "g_ja": "三つ目。廊下を徘徊する人影。",
+      "g_ko": "셋째. 수상한 그림자가 돌아다니는 교직원 복도.",
+      "g_en": "Third is an eerie shadow wandering around the faculty hallway.",
+      "g_th": "อย่างที่สาม ทางเดินบนอาคารของครูที่มีเงาปริศนาวนเวียนอยู่",
+      "g_tw": "第三。有可疑影子走動的教職員走廊。",
+      "g_tw_cn": "第三。有可疑影子走动的教职员走廊。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;05;셋째. 수상한 그림자가 돌아다니는 교직원 복도.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "四つ目。窓から見える、血に染まった桜の木。",
+      "j_ko": "넷째. 교실 창문 너머로 보이는 피에 물든 벚나무.",
+      "g_ja": "四つ目。窓から見える、血に染まった桜の木。",
+      "g_ko": "넷째. 교실 창문 너머로 보이는 피에 물든 벚나무.",
+      "g_en": "A bloodstained cherry blossom pressed against a classroom window—that's the fourth mystery.",
+      "g_th": "อย่างที่สี่ ต้นซากุระเปื้อนเลือดที่เห็นได้จากนอกหน้าต่างห้องเรียน",
+      "g_tw": "第四。從教室窗戶看到的染血的櫻花樹。",
+      "g_tw_cn": "第四。从教室窗户看到的染血的樱花树。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;06;넷째. 교실 창문 너머로 보이는 피에 물든 벚나무.\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 48,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "五つ目。壊れたスピーカーから聞こえてくる、鐘の音。",
+      "j_ko": "다섯째. 교실의 망가진 스피커에서 울리는 종소리.",
+      "g_ja": "五つ目。壊れたスピーカーから聞こえてくる、鐘の音。",
+      "g_ko": "다섯째. 교실의 망가진 스피커에서 울리는 종소리.",
+      "g_en": "Fifth: the broken classroom speakers play the sound of a ringing bell.",
+      "g_th": "อย่างที่ห้า เสียงระฆังที่ดังออกมาจากลำโพงที่เสียในห้องเรียน",
+      "g_tw": "第五。從教室壞掉的音響響起的鐘聲。",
+      "g_tw_cn": "第五。从教室坏掉的音响响起的钟声。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;06;다섯째. 교실의 망가진 스피커에서 울리는 종소리.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "六つ目。地下機械室から漏れてくる泣き声。",
+      "j_ko": "여섯째. 지하 기계실에서 울리는 수상한 비명.",
+      "g_ja": "六つ目。地下機械室から漏れてくる泣き声。",
+      "g_ko": "여섯째. 지하 기계실에서 울리는 수상한 비명.",
+      "g_en": "Sixth, which we've already talked about—is general suspicious screaming originating from the basement's mechanical room.",
+      "g_th": "อย่างที่หก เสียงกรีดร้องน่าสงสัยที่ดังมาจากห้องควบคุมระบบใต้ดิน",
+      "g_tw": "第六。從地下機房傳來的可疑慘叫聲。",
+      "g_tw_cn": "第六。从地下机房传来的可疑惨叫声。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;01;여섯째. 지하 기계실에서 울리는 수상한 비명.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 50,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "七つ目は――",
+      "j_ko": "마지막 일곱째는…….",
+      "g_ja": "七つ目は――",
+      "g_ko": "마지막 일곱째는…….",
+      "g_en": "And the seventh mystery...",
+      "g_th": "อย่างที่เจ็ด อย่างสุดท้าย...",
+      "g_tw": "最後第七是……",
+      "g_tw_cn": "最后第七是……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;01;마지막 일곱째는…….\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "――それはまだ、誰も知らないんだって。",
+      "j_ko": "아직 아무도 모르는 숨겨진 전설.",
+      "g_ja": "――それはまだ、誰も知らないんだって。",
+      "g_ko": "아직 아무도 모르는 숨겨진 전설.",
+      "g_en": "It's so mysterious that no one knows what it is.",
+      "g_th": "ตำนานลึกลับที่ยังไม่มีใครล่วงรู้มาก่อน",
+      "g_tw": "還沒有人知道的隱藏傳說。",
+      "g_tw_cn": "还没有人知道的隐藏传说。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;04;아직 아무도 모르는 숨겨진 전설.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それに気づいた人には、災いが降りかかる……とか。",
+      "j_ko": "그 숨겨진 전설까지 알면 엄청난 저주가 내린다고…….",
+      "g_ja": "それに気づいた人には、災いが降りかかる……とか。",
+      "g_ko": "그 숨겨진 전설까지 알면 엄청난 저주가 내린다고…….",
+      "g_en": "They say that if you so much as LEARN what this mystery is, you'll be inflicted with a terrible curse.",
+      "g_th": "ว่ากันว่าถ้าล่วงรู้ไปถึงตำนานที่ถูกซ่อนไว้ ก็จะต้องเจอคำสาปน่าสะพรึงกลัว...",
+      "g_tw": "聽說只要知道那個隱藏傳說，就會受到可怕的詛咒……",
+      "g_tw_cn": "听说只要知道那个隐藏传说，就会受到可怕的诅咒……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;06;그 숨겨진 전설까지 알면 엄청난 저주가 내린다고…….\\n#3;em;[세로선]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sad",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 53,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"なんだかどれも聞いた事があるような話だね。\"",
+      "j_ko": " \"전부 어디선가 들어봤을 법한 이야기네.\"",
+      "g_ja": " \"なんだかどれも聞いた事があるような話だね。\"",
+      "g_ko": " \"전부 어디선가 들어봤을 법한 이야기네.\"",
+      "g_en": " \"These sound like pretty typical ghost stories.\"",
+      "g_th": " \"เหมือนจะเคยได้ยินเรื่องแบบนี้มาก่อนเลยนะ\"",
+      "g_tw": " 「都是一些好像在哪裡聽過的故事呢。」",
+      "g_tw_cn": " 「都是一些好像在哪里听过的故事呢。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"전부 어디선가 들어봤을 법한 이야기네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 54,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そ、そうでしょ？よくある話でしょ？",
+      "j_ko": "그, 그렇지? 뻔한 괴담이지?",
+      "g_ja": "そ、そうでしょ？よくある話でしょ？",
+      "g_ko": "그, 그렇지? 뻔한 괴담이지?",
+      "g_en": "R-Right? Just...everyday ghost stories, right?",
+      "g_th": "ชะ... ใช่มั้ยล่ะ? ฟังดูเหมือนเรื่องลึกลับหลอกเด็กทั่วไปเลยใช่มั้ย?",
+      "g_tw": "對，對吧？就是那種很老套的怪談嘛？",
+      "g_tw_cn": "对，对吧？就是那种很老套的怪谈嘛？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;09;그, 그렇지? 뻔한 괴담이지?\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 55,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "とにかく。全部確認したら先輩たちに写真を送るつもり。",
+      "j_ko": "아무튼 이 괴담을 확인한 뒤에 사진을 찍어서 선배들에게 보여줄 거야.",
+      "g_ja": "とにかく。全部確認したら先輩たちに写真を送るつもり。",
+      "g_ko": "아무튼 이 괴담을 확인한 뒤에 사진을 찍어서 선배들에게 보여줄 거야.",
+      "g_en": "And that's why I'll investigate all these silly rumors, take some photos, and show the others.",
+      "g_th": "ฉันจะตรวจสอบเรื่องลึกลับนี้แล้วถ่ายรูปไปให้พวกรุ่นพี่ดูให้ได้เลย",
+      "g_tw": "總之，我打算確認那些怪談之後，把照片拍給前輩們看。",
+      "g_tw_cn": "总之，我打算确认那些怪谈之后，把照片拍给前辈们看。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;02;아무튼 이 괴담을 확인한 뒤에 사진을 찍어서 선배들에게 보여줄 거야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "絶対何も起きないから。<br/>幽霊はいないって証明――",
+      "j_ko": "분명 아무 일도 없을 테니까, 유령이 없다는 걸 증명할 수 있을…….",
+      "g_ja": "絶対何も起きないから。<br/>幽霊はいないって証明――",
+      "g_ko": "분명 아무 일도 없을 테니까, 유령이 없다는 걸 증명할 수 있을…….",
+      "g_en": "And, because NOTHING will happen, I'll finally prove that ghosts don't—",
+      "g_th": "ในเมื่อไม่มีเรื่องอะไรเกิดขึ้น งั้นก็พิสูจน์ได้ว่าผีไม่มีอยู่จริง...",
+      "g_tw": "反正什麼事都不會發生，肯定能證明沒有幽──",
+      "g_tw_cn": "反正什么事都不会发生，肯定能证明没有幽──",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;27;분명 아무 일도 없을 테니까, 유령이 없다는 걸 증명할 수 있을…….\\n#3;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 59,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 59,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Knock_Heavy_03"
+    }
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 60,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……！？",
+      "j_ko": "……?!",
+      "g_ja": "……！？",
+      "g_ko": "……?!",
+      "g_en": "...?!",
+      "g_th": "...?!",
+      "g_tw": "……！？\n\n",
+      "g_tw_cn": "……！？\n\n",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;15;……?!\\n#3;em;[?!]\\n#3;shake",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Surprise",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ななっ、なに……？",
+      "j_ko": "뭐, 뭐, 뭐야……?",
+      "g_ja": "ななっ、なに……？",
+      "g_ko": "뭐, 뭐, 뭐야……?",
+      "g_en": "Wh-Wh-What the...?",
+      "g_th": "อะ... อะ... อะไรน่ะ...?",
+      "g_tw": "什，什，什麼……？",
+      "g_tw_cn": "什，什，什么……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;06;뭐, 뭐, 뭐야……?\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 64,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Knock_Heavy_03"
+    }
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 65,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ひいっ……！！",
+      "j_ko": "히익……!!",
+      "g_ja": "ひいっ……！！",
+      "g_ko": "히익……!!",
+      "g_en": "Eek...!",
+      "g_th": "เฮือก...!!",
+      "g_tw": "噫噫……！！",
+      "g_tw_cn": "噫噫……！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;29;히익……!!\\n#3;em;[훌쩍]\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Tear",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 68,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Tampe_01"
+    }
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"真夜中の廊下に鳴り響く、窓を叩く音……！\"",
+      "j_ko": " \"심야에, 복도의 창문을 쿵쿵 두드리는 소리……!\"",
+      "g_ja": " \"真夜中の廊下に鳴り響く、窓を叩く音……！\"",
+      "g_ko": " \"심야에, 복도의 창문을 쿵쿵 두드리는 소리……!\"",
+      "g_en": " \"Loud knocking on the window! In the middle of the night...!\"",
+      "g_th": " \"เสียงเคาะหน้าต่างตรงทางเดินในยามดึก...!\"",
+      "g_tw": " 「在深夜敲打走廊窗戶的聲音……！」",
+      "g_tw_cn": " 「在深夜敲打走廊窗户的声音……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"심야에, 복도의 창문을 쿵쿵 두드리는 소리……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "わ、私たち以外に、誰かいるわけないじゃん！",
+      "j_ko": "부, 분명 우리 말곤 아무도 없을 텐데 누가 두드린다는 거야!",
+      "g_ja": "わ、私たち以外に、誰かいるわけないじゃん！",
+      "g_ko": "부, 분명 우리 말곤 아무도 없을 텐데 누가 두드린다는 거야!",
+      "g_en": "B-But we're the only ones here!",
+      "g_th": "ทะ... ที่นี่มีแค่พวกเราสองคนเท่านั้น แล้วใครไปเคาะหน้าต่างล่ะ!",
+      "g_tw": "除，除了我們之外應該沒有其他人才對，到底是誰在敲啊！？",
+      "g_tw_cn": "除，除了我们之外应该没有其他人才对，到底是谁在敲啊！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;16;부, 분명 우리 말곤 아무도 없을 텐데 누가 두드린다는 거야!\\n#3;closeup\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 71,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"確認してみようか。\"",
+      "j_ko": " \"가서 확인해 보자.\"",
+      "g_ja": " \"確認してみようか。\"",
+      "g_ko": " \"가서 확인해 보자.\"",
+      "g_en": " \"Let's check it out.\"",
+      "g_th": " \"เราไปดูกันเถอะ\"",
+      "g_tw": " 「去確認一下吧。」",
+      "g_tw_cn": " 「去确认一下吧。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"가서 확인해 보자.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……！！",
+      "j_ko": "……!!",
+      "g_ja": "……！！",
+      "g_ko": "……!!",
+      "g_en": "...!!",
+      "g_th": "...!!",
+      "g_tw": "……！！",
+      "g_tw_cn": "……！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;06;……!!\\n#3;closeup\\n#3;shake",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 73,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"心配しないで。\"",
+      "j_ko": " \"걱정하지 마.\"",
+      "g_ja": " \"心配しないで。\"",
+      "g_ko": " \"걱정하지 마.\"",
+      "g_en": " \"Don't worry.\"",
+      "g_th": " \"ไม่ต้องกลัวนะ ครูอยู่ตรงนี้แล้ว\"",
+      "g_tw": " 「別擔心。」",
+      "g_tw_cn": " 「别担心。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"걱정하지 마.\"\\n[s4] \"절대로 손 놓지 않을게.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 73,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"絶対手は離さないから。\"",
+      "j_ko": " \"절대로 손 놓지 않을게.\"",
+      "g_ja": " \"絶対手は離さないから。\"",
+      "g_ko": " \"절대로 손 놓지 않을게.\"",
+      "g_en": " \"I won't let go of your hand, no matter what.\"",
+      "g_th": " \"ไม่ต้องกลัวนะ ครูจะไม่ปล่อยมือเรนะเด็ดขาดเลย\"",
+      "g_tw": " 「我絕對不會放開手的。」",
+      "g_tw_cn": " 「我绝对不会放开手的。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"걱정하지 마.\"\\n[s4] \"절대로 손 놓지 않을게.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "だっ、誰がそんな心配……！！",
+      "j_ko": "누, 누가 걱정했다고!",
+      "g_ja": "だっ、誰がそんな心配……！！",
+      "g_ko": "누, 누가 걱정했다고!",
+      "g_en": "I-I wasn't worried!",
+      "g_th": "คะ... ใครบอกว่ากลัวกันล่ะ!",
+      "g_tw": "誰，誰擔心了啊！",
+      "g_tw_cn": "谁，谁担心了啊！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;09;누, 누가 걱정했다고!\\n#3;closeup\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 79,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_03"
+    }
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 81,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "と、とにかくい、行くわよ！",
+      "j_ko": "아, 아무튼 가, 가서 확인해 보자!",
+      "g_ja": "と、とにかくい、行くわよ！",
+      "g_ko": "아, 아무튼 가, 가서 확인해 보자!",
+      "g_en": "F-Fine! L-Let's go see!",
+      "g_th": "อะ... เอาเถอะ ระ... เราไปดูกันดีกว่า!",
+      "g_tw": "總，總之，去確認一下吧！",
+      "g_tw_cn": "总，总之，去确认一下吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;14;아, 아무튼 가, 가서 확인해 보자!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 84,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Knock_Heavy_03"
+    }
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 85,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07b"
+    }
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 86,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07c"
+    }
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 89,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Knock_Heavy_03"
+    }
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 90,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Bird_04"
+    }
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 90,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ガァッ！ガァァッ……！",
+      "j_ko": "까악! 까아아악……!",
+      "g_ja": "ガァッ！ガァァッ……！",
+      "g_ko": "까악! 까아아악……!",
+      "g_en": "Caw! Caaw...!",
+      "g_th": "กาา! กาาาา...!",
+      "g_tw": "嘎！嘎！嘎！嘎……！",
+      "g_tw_cn": "嘎！嘎！嘎！嘎……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 655426334,
+    "DataType": "speaker",
+    "Script": "3;레나;08\\n#na;까마귀;까악! 까아아악……!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 93,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_BirdFlapping_01"
+    }
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 94,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 186
+    }
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 94,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "なんだ、カラスじゃない……。",
+      "j_ko": "아, 뭐야? 까마귀였어?",
+      "g_ja": "なんだ、カラスじゃない……。",
+      "g_ko": "아, 뭐야? 까마귀였어?",
+      "g_en": "Huh, what? It was just a crow?",
+      "g_th": "อ่า อะไรกัน? นกกาหรอกเหรอ?",
+      "g_tw": "什麼嘛，原來是烏鴉啊……",
+      "g_tw_cn": "什么嘛，原来是乌鸦啊……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;24;아, 뭐야? 까마귀였어?\\n#3;em;[한숨]",
+    "BGMId": 186,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 95,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "なんで窓なんか突っついたのかしら。別に食べ物なんてないのに。",
+      "j_ko": "창문은 왜 쪼고 있었던 거야? 여긴 먹을 것도 없어 보이는데.",
+      "g_ja": "なんで窓なんか突っついたのかしら。別に食べ物なんてないのに。",
+      "g_ko": "창문은 왜 쪼고 있었던 거야? 여긴 먹을 것도 없어 보이는데.",
+      "g_en": "Why was it pecking at the window? It's not like there's any food in here.",
+      "g_th": "ทำไมถึงมาจิกหน้าต่างอยู่ล่ะ? ตรงนี้ก็ไม่เห็นจะมีของกินนี่นา",
+      "g_tw": "為什麼會啄窗戶呢？這裡看起來也沒有吃的啊。",
+      "g_tw_cn": "为什么会啄窗户呢？这里看起来也没有吃的啊。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;02;창문은 왜 쪼고 있었던 거야? 여긴 먹을 것도 없어 보이는데.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 96,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"カラスじゃなくて、本当に幽霊だったとか……？\"",
+      "j_ko": " \"혹시 까마귀가 아니라 진짜 유령이 있던 건……?\"",
+      "g_ja": " \"カラスじゃなくて、本当に幽霊だったとか……？\"",
+      "g_ko": " \"혹시 까마귀가 아니라 진짜 유령이 있던 건……?\"",
+      "g_en": " \"What if it wasn't the crow? What if it was actually a ghost...?!\"",
+      "g_th": " \"หรือว่าจะไม่ใช่ฝีมืออีกา แต่เป็นผีจริงๆ...?\"",
+      "g_tw": " 「難道不是烏鴉，而是真的有幽靈……？」",
+      "g_tw_cn": " 「难道不是乌鸦，而是真的有幽灵……？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"혹시 까마귀가 아니라 진짜 유령이 있던 건……?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 97,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 97,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "シャーッ！！そんなわけないでしょ！",
+      "j_ko": "샤아아악! 그럴 리가 없잖아!",
+      "g_ja": "シャーッ！！そんなわけないでしょ！",
+      "g_ko": "샤아아악! 그럴 리가 없잖아!",
+      "g_en": "Shyaah! No way!",
+      "g_th": "ว้ากกก! จะเป็นแบบนั้นไปได้ยังไง!",
+      "g_tw": "嚇啊──！怎麼可能！",
+      "g_tw_cn": "吓啊──！怎么可能！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;18;샤아아악! 그럴 리가 없잖아!\\n#3;m3\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 98,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まずは写真撮るよ！廊下の音はカラスだったって証拠を残さないと。",
+      "j_ko": "일단 사진부터 찍어두자. 복도의 쿵쿵 소리가 까마귀였다는 증거를 남겨야 해.",
+      "g_ja": "まずは写真撮るよ！廊下の音はカラスだったって証拠を残さないと。",
+      "g_ko": "일단 사진부터 찍어두자. 복도의 쿵쿵 소리가 까마귀였다는 증거를 남겨야 해.",
+      "g_en": "Let's take a photo. I need evidence that all this uproar was just a bored crow looking for snacks.",
+      "g_th": "เอาเป็นว่าถ่ายรูปไว้ก่อนแล้วกัน ต้องบันทึกหลักฐานไว้ให้ได้ว่าเสียงเคาะหน้าต่างมาจากอีกาพวกนี้",
+      "g_tw": "總之先拍照吧！<br/>得留下走廊的敲擊聲是烏鴉的證據才行。",
+      "g_tw_cn": "总之先拍照吧！<br/>得留下走廊的敲击声是乌鸦的证据才行。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;01;일단 사진부터 찍어두자. 복도의 쿵쿵 소리가 까마귀였다는 증거를 남겨야 해.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 101,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SnapPrepare_02"
+    }
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 102,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Snap_02"
+    }
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 104,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_01"
+    }
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 105,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "見て。よく撮れてるでしょ。変なものも写り込んでないし。",
+      "j_ko": "자. 여기 까마귀 사진 잘 찍혔지? 주변에 이상한 것도 없고.",
+      "g_ja": "見て。よく撮れてるでしょ。変なものも写り込んでないし。",
+      "g_ko": "자. 여기 까마귀 사진 잘 찍혔지? 주변에 이상한 것도 없고.",
+      "g_en": "Here. How's that look? I didn't mess it up or anything, right?",
+      "g_th": "เอาละ ถ่ายรูปอีกาไว้เรียบร้อย แล้วรอบๆ นี้ก็ไม่มีอะไรผิดปกติด้วย",
+      "g_tw": "你看，拍得很清楚吧？周圍也沒有奇怪的東西。",
+      "g_tw_cn": "你看，拍得很清楚吧？周围也没有奇怪的东西。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;02;자. 여기 까마귀 사진 잘 찍혔지? 주변에 이상한 것도 없고.\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 106,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "この調子で七不思議調査、続けるわよ！",
+      "j_ko": "이대로 계속 7대 불가사의를 확인해 보는 거야!",
+      "g_ja": "この調子で七不思議調査、続けるわよ！",
+      "g_ko": "이대로 계속 7대 불가사의를 확인해 보는 거야!",
+      "g_en": "One down. Let's keep it up and wrap up the alleged Seven Mysteries!",
+      "g_th": "งั้นก็ไปตรวจสอบเรื่องลึกลับทั้งเจ็ดต่อกันเลย!",
+      "g_tw": "就這樣繼續確認七大不可思議吧！",
+      "g_tw_cn": "就这样继续确认七大不可思议吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;03;이대로 계속 7대 불가사의를 확인해 보는 거야!\\n#3;closeup\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 108,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（張り切った声とは裏腹に、握った手は絶対に離さないレナだった）",
+      "j_ko": "(레나는 자신 있게 외쳤지만, 꼭 잡은 내 손을 절대 놓지 않았다…….)",
+      "g_ja": "（張り切った声とは裏腹に、握った手は絶対に離さないレナだった）",
+      "g_ko": "(레나는 자신 있게 외쳤지만, 꼭 잡은 내 손을 절대 놓지 않았다…….)",
+      "g_en": "Despite her enthusiasm, Rena never let go of my hand...",
+      "g_th": "(เรนะตะโกนอย่างมั่นใจ แต่ก็ยังจับมือของคุณครูไว้แน่นและไม่คิดจะปล่อยมือ...)",
+      "g_tw": "（雖然玲奈說得自信滿滿，緊握著的手卻完全沒有放開……）",
+      "g_tw_cn": "（虽然玲奈说得自信满满，紧握着的手却完全没有放开……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(레나는 자신 있게 외쳤지만, 꼭 잡은 내 손을 절대 놓지 않았다…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 110,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " （私も離さないように気をつけよう）",
+      "j_ko": " (나도 놓지 말아야지…….)",
+      "g_ja": " （私も離さないように気をつけよう）",
+      "g_ko": " (나도 놓지 말아야지…….)",
+      "g_en": " \"(I shouldn't let go of hers, either...)\"",
+      "g_th": " (เราก็ห้ามปล่อยมือเด็ดขาดเลย...)",
+      "g_tw": " （我也得注意不能放開手呢……）",
+      "g_tw_cn": " （我也得注意不能放开手呢……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] (나도 놓지 말아야지…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 96,
+    "AbsolutePos": 111,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 97,
+    "AbsolutePos": 112,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（そうしてレナと廃墟の調査を始めた）",
+      "j_ko": "(그렇게 레나와 폐교의 불가사의를 확인해 보기 시작했다.)",
+      "g_ja": "（そうしてレナと廃墟の調査を始めた）",
+      "g_ko": "(그렇게 레나와 폐교의 불가사의를 확인해 보기 시작했다.)",
+      "g_en": "Rena and I investigated all the mysteries.",
+      "g_th": "(แล้วคุณครูกับเรนะก็เริ่มสำรวจโรงเรียนร้างเพื่อตรวจสอบเรื่องลึกลับด้วยกัน)",
+      "g_tw": "（就這樣繼續和玲奈確認廢校的七大不可思議）",
+      "g_tw_cn": "（就这样继续和玲奈确认废校的七大不可思议）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 레나와 폐교의 불가사의를 확인해 보기 시작했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 98,
+    "AbsolutePos": 113,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4219378494
+    }
+  },
+  {
+    "ActualPos": 99,
+    "AbsolutePos": 114,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "人影があるという廊下",
+      "j_ko": "수상한 그림자가 보인다는 복도",
+      "g_ja": "人影があるという廊下",
+      "g_ko": "수상한 그림자가 보인다는 복도",
+      "g_en": "The suspicious shadow slinking around the hallway...",
+      "g_th": "ทางเดินที่ว่ากันว่ามีเงาปริศนา",
+      "g_tw": "據說能看到可疑影子的走廊",
+      "g_tw_cn": "据说能看到可疑影子的走廊",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "place",
+    "Script": "#place;수상한 그림자가 보인다는 복도",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 100,
+    "AbsolutePos": 116,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_BushRusting_01a"
+    }
+  },
+  {
+    "ActualPos": 101,
+    "AbsolutePos": 118,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cat_01"
+    }
+  },
+  {
+    "ActualPos": 102,
+    "AbsolutePos": 120,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1357278656
+    }
+  },
+  {
+    "ActualPos": 103,
+    "AbsolutePos": 121,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "血に染まった桜の木が見える場所",
+      "j_ko": "피에 물든 벚나무가 보인다는 교실",
+      "g_ja": "血に染まった桜の木が見える場所",
+      "g_ko": "피에 물든 벚나무가 보인다는 교실",
+      "g_en": "The classroom with \"so-called\" bloodied cherry blossoms...",
+      "g_th": "ห้องเรียนที่ว่ากันว่ามีต้นซากุระเปื้อนเลือดให้เห็น",
+      "g_tw": "據說能看到染血櫻花樹的教室",
+      "g_tw_cn": "据说能看到染血樱花树的教室",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "place",
+    "Script": "#place;피에 물든 벚나무가 보인다는 교실",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 104,
+    "AbsolutePos": 122,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07b"
+    }
+  },
+  {
+    "ActualPos": 105,
+    "AbsolutePos": 123,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07c"
+    }
+  },
+  {
+    "ActualPos": 106,
+    "AbsolutePos": 125,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2593875829
+    }
+  },
+  {
+    "ActualPos": 107,
+    "AbsolutePos": 126,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "泣き声がするという地下機械室",
+      "j_ko": "수상한 비명이 들린다는 지하 기계실",
+      "g_ja": "泣き声がするという地下機械室",
+      "g_ko": "수상한 비명이 들린다는 지하 기계실",
+      "g_en": "A scream-free basement mechanical room...",
+      "g_th": "ห้องควบคุมใต้ดินที่ว่ากันว่ามีเสียงกรีดร้องน่าสงสัย",
+      "g_tw": "據說能聽到可疑慘叫聲的地下機房",
+      "g_tw_cn": "据说能听到可疑惨叫声的地下机房",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "place",
+    "Script": "#place;수상한 비명이 들린다는 지하 기계실",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 108,
+    "AbsolutePos": 127,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_06b"
+    }
+  },
+  {
+    "ActualPos": 109,
+    "AbsolutePos": 129,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SnapPrepare_02"
+    }
+  },
+  {
+    "ActualPos": 110,
+    "AbsolutePos": 130,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Snap_02"
+    }
+  },
+  {
+    "ActualPos": 111,
+    "AbsolutePos": 132,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 112,
+    "AbsolutePos": 133,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Snap_02"
+    }
+  },
+  {
+    "ActualPos": 113,
+    "AbsolutePos": 134,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Snap_02"
+    }
+  },
+  {
+    "ActualPos": 114,
+    "AbsolutePos": 135,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Snap_02"
+    }
+  },
+  {
+    "ActualPos": 115,
+    "AbsolutePos": 136,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（七不思議と呼ばれる場所をすべて確認し、写真を撮った）",
+      "j_ko": "(7대 불가사의에 해당하는 장소를 전부 확인해 사진으로 남겼다.)",
+      "g_ja": "（七不思議と呼ばれる場所をすべて確認し、写真を撮った）",
+      "g_ko": "(7대 불가사의에 해당하는 장소를 전부 확인해 사진으로 남겼다.)",
+      "g_en": "We visited all the places mentioned in the Seven Mysteries and collected photographic evidence.",
+      "g_th": "(ทั้งสองคนไปตรวจสอบและถ่ายรูปจุดเกิดเหตุของเรื่องลึกลับ)",
+      "g_tw": "（確認了所有七大不可思議提及的地點，並拍下照片留證）",
+      "g_tw_cn": "（确认了所有七大不可思议提及的地点，并拍下照片留证）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(7대 불가사의에 해당하는 장소를 전부 확인해 사진으로 남겼다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 116,
+    "AbsolutePos": 137,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（結局、幽霊は現れなかった）",
+      "j_ko": "(역시나 유령은 나타나지 않았다…….)",
+      "g_ja": "（結局、幽霊は現れなかった）",
+      "g_ko": "(역시나 유령은 나타나지 않았다…….)",
+      "g_en": "As expected, not a single ghost appeared.",
+      "g_th": "(และไม่เจอผีอย่างที่คาดไว้...)",
+      "g_tw": "（果然幽靈並沒有出現……）",
+      "g_tw_cn": "（果然幽灵并没有出现……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(역시나 유령은 나타나지 않았다…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 117,
+    "AbsolutePos": 138,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2802318428
+    }
+  },
+  {
+    "ActualPos": 118,
+    "AbsolutePos": 139,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふう、やっぱり思った通り。<br/>幽霊なんているわけないじゃない。",
+      "j_ko": "후우, 그래. 유령 따윈 없었어.",
+      "g_ja": "ふう、やっぱり思った通り。<br/>幽霊なんているわけないじゃない。",
+      "g_ko": "후우, 그래. 유령 따윈 없었어.",
+      "g_en": "Phew, that's what I thought. I knew there were no such thing as ghosts.",
+      "g_th": "ฮู่ว เห็นมั้ยล่ะ? ผีเผออะไรไม่มีจริงหรอก",
+      "g_tw": "呼……我就說沒有什麼幽靈吧。",
+      "g_tw_cn": "呼……我就说没有什么幽灵吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;26;후우, 그래. 유령 따윈 없었어.\\n#3;em;[한숨]\\n#3;a",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 119,
+    "AbsolutePos": 140,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "全部動物とか建物の老朽化が原因だって。",
+      "j_ko": "전부 야생 동물이거나 낡은 시설 때문에 오해받은 거였잖아.",
+      "g_ja": "全部動物とか建物の老朽化が原因だって。",
+      "g_ko": "전부 야생 동물이거나 낡은 시설 때문에 오해받은 거였잖아.",
+      "g_en": "They were all misunderstandings originating from stray animals or run-down facilities.",
+      "g_th": "ทุกอย่างเป็นฝีมือของสัตว์ หรือไม่ก็ความเก่าแก่ของตัวอาคารเองต่างหาก เข้าใจผิดกันไปทั้งนั้น",
+      "g_tw": "全部都只是野生動物或設施老舊引發的誤會而已。",
+      "g_tw_cn": "全部都只是野生动物或设施老旧引发的误会而已。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;01;전부 야생 동물이거나 낡은 시설 때문에 오해받은 거였잖아.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 120,
+    "AbsolutePos": 141,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 121,
+    "AbsolutePos": 141,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "よし！証拠も撮ったし帰ろっか。<br/>先輩たちに見せないと。",
+      "j_ko": "자! 증거도 남겼으니까 이제 돌아가자. 얼른 선배들한테 보여줘야지.",
+      "g_ja": "よし！証拠も撮ったし帰ろっか。<br/>先輩たちに見せないと。",
+      "g_ko": "자! 증거도 남겼으니까 이제 돌아가자. 얼른 선배들한테 보여줘야지.",
+      "g_en": "Good! Since we have everything, we should head back. I can't wait to show my seniors!",
+      "g_th": "เอาละ! ในเมื่อได้รูปหลักฐานแล้ว งั้นเราก็กลับกันเถอะ ต้องรีบเอาไปให้พวกรุ่นพี่ดูให้ได้เลย",
+      "g_tw": "好！既然證據都蒐集好了，我們就回去吧。<br/>得趕快拿給前輩們看才行。",
+      "g_tw_cn": "好！既然证据都搜集好了，我们就回去吧。<br/>得赶快拿给前辈们看才行。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;03;자! 증거도 남겼으니까 이제 돌아가자. 얼른 선배들한테 보여줘야지.\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 122,
+    "AbsolutePos": 142,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"幽霊はいないって証明できたけど……。\"",
+      "j_ko": " \"유령이 없는 걸 증명했지만…….\"",
+      "g_ja": " \"幽霊はいないって証明できたけど……。\"",
+      "g_ko": " \"유령이 없는 걸 증명했지만…….\"",
+      "g_en": " \"So, even though we proved ghosts don't exist...\"",
+      "g_th": " \"พิสูจน์ได้แล้วว่าไม่มีผี แต่ยังจับมือครูแน่นเลยนะ\"",
+      "g_tw": " 「雖然已經證明沒有幽靈……」",
+      "g_tw_cn": " 「虽然已经证明没有幽灵……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"유령이 없는 걸 증명했지만…….\"\\n[s6] \"손은 계속 잡고 가는 게 좋겠지?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 123,
+    "AbsolutePos": 142,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"手はまだ繋いでいた方がいい？\"",
+      "j_ko": " \"손은 계속 잡고 가는 게 좋겠지?\"",
+      "g_ja": " \"手はまだ繋いでいた方がいい？\"",
+      "g_ko": " \"손은 계속 잡고 가는 게 좋겠지?\"",
+      "g_en": " \"You still want to hold hands?\"",
+      "g_th": " \"พิสูจน์ได้แล้วว่าไม่มีผี แต่ยังไม่ปล่อยมือครูเลยนะ\"",
+      "g_tw": " 「還是繼續牽著手比較好吧？」",
+      "g_tw_cn": " 「还是继续牵着手比较好吧？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"유령이 없는 걸 증명했지만…….\"\\n[s6] \"손은 계속 잡고 가는 게 좋겠지?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 124,
+    "AbsolutePos": 145,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そ、それは……。",
+      "j_ko": "그, 그건…….",
+      "g_ja": "そ、それは……。",
+      "g_ko": "그, 그건…….",
+      "g_en": "Th-That's...",
+      "g_th": "ระ... เรื่องนั้น...",
+      "g_tw": "那，那個……",
+      "g_tw_cn": "那，那个……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;09;그, 그건…….\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 125,
+    "AbsolutePos": 146,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "べ、別に、怖くて繋いでるわけじゃないから！",
+      "j_ko": "무, 무서워서 잡는 게 아니야!",
+      "g_ja": "べ、別に、怖くて繋いでるわけじゃないから！",
+      "g_ko": "무, 무서워서 잡는 게 아니야!",
+      "g_en": "...n-not because I'm scared, or anything!",
+      "g_th": "ฉะ... ฉันไม่ได้จับมือไว้เพราะกลัวสักหน่อย!",
+      "g_tw": "才，才不是因為害怕才牽的！",
+      "g_tw_cn": "才，才不是因为害怕才牵的！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;21;무, 무서워서 잡는 게 아니야!\\n#3;em;[///]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 126,
+    "AbsolutePos": 147,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "く、暗いし……転んだりしたら危ないでしょ！",
+      "j_ko": "어, 어두워서 혹시라도 넘어지면 안 되니까 그런 거지!",
+      "g_ja": "く、暗いし……転んだりしたら危ないでしょ！",
+      "g_ko": "어, 어두워서 혹시라도 넘어지면 안 되니까 그런 거지!",
+      "g_en": "I-It's to stop us from falling! It's dark in here! Someone could trip.",
+      "g_th": "กะ... ก็ทางมันมืด ฉันกลัวว่าเดินไม่ดีแล้วจะสะดุดล้มต่างหากล่ะ!",
+      "g_tw": "是，是因為這裡太暗的關係，萬一跌倒就糟糕了！",
+      "g_tw_cn": "是，是因为这里太暗的关系，万一跌倒就糟糕了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1293662705,
+    "DataType": "speaker",
+    "Script": "3;레나;20;어, 어두워서 혹시라도 넘어지면 안 되니까 그런 거지!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 127,
+    "AbsolutePos": 148,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"うんうん、危ないからね。\"",
+      "j_ko": " \"응. 넘어지면 위험하니까.\"",
+      "g_ja": " \"うんうん、危ないからね。\"",
+      "g_ko": " \"응. 넘어지면 위험하니까.\"",
+      "g_en": " \"Yeah. You wouldn't want to get injured here.\"",
+      "g_th": " \"อื้อ ถ้าหกล้มไปเดี๋ยวจะอันตรายเนอะ\"",
+      "g_tw": " 「嗯。跌倒會很危險。」",
+      "g_tw_cn": " 「嗯。跌倒会很危险。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"응. 넘어지면 위험하니까.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 128,
+    "AbsolutePos": 149,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 129,
+    "AbsolutePos": 150,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（レナをワイルドハントまで送ってあげた）",
+      "j_ko": "(이후 와일드헌트 학원까지 안전하게 레나를 바래다주었다.)",
+      "g_ja": "（レナをワイルドハントまで送ってあげた）",
+      "g_ko": "(이후 와일드헌트 학원까지 안전하게 레나를 바래다주었다.)",
+      "g_en": "I safely escorted Rena back to Wildhunt.",
+      "g_th": "(แล้วคุณครูก็พาเรนะไปส่งที่ไวลด์ฮันต์อย่างปลอดภัย)",
+      "g_tw": "（之後安全地把玲奈送到了狂獵學院）",
+      "g_tw_cn": "（之后安全地把玲奈送到了狂猎学院）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(이후 와일드헌트 학원까지 안전하게 레나를 바래다주었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 130,
+    "AbsolutePos": 151,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1723035452
+    }
+  },
+  {
+    "ActualPos": 131,
+    "AbsolutePos": 154,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 132,
+    "AbsolutePos": 155,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 133,
+    "AbsolutePos": 156,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 134,
+    "AbsolutePos": 156,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Fear_02"
+    }
+  },
+  {
+    "ActualPos": 135,
+    "AbsolutePos": 156,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（そうして廃墟探索は幕を閉じたと思ったものの……）",
+      "j_ko": "(이렇게 잘 끝나는가 했는데…….)",
+      "g_ja": "（そうして廃墟探索は幕を閉じたと思ったものの……）",
+      "g_ko": "(이렇게 잘 끝나는가 했는데…….)",
+      "g_en": "And, just as I thought things had wrapped up smoothly...",
+      "g_th": "(และคิดว่าทุกอย่างจบลงด้วยดีแล้ว...)",
+      "g_tw": "（本以為事情會就這樣順利結束，然而……）",
+      "g_tw_cn": "（本以为事情会就这样顺利结束，然而……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(이렇게 잘 끝나는가 했는데…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  }
+]

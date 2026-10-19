@@ -1,0 +1,1815 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1595568274
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">見送るキツネ</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">배웅하는 여우</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">見送るキツネ</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">배웅하는 여우</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">A Farewell Fox</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">จิ้งจอกผู้ไปส่ง</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">送行的狐狸</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">送行的狐狸</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;배웅하는 여우",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 1595568274,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（連邦生徒会の会議が長引いたある日）",
+      "j_ko": "(총학생회에서 주관한 오후 회의가 예정보다 길어진 어느 날.)",
+      "g_ja": "（連邦生徒会の会議が長引いたある日）",
+      "g_ko": "(총학생회에서 주관한 오후 회의가 예정보다 길어진 어느 날.)",
+      "g_en": "The General Student Council meeting ran a lot later than I expected that day.",
+      "g_th": "(การประชุมช่วงบ่ายในวันหนึ่งขององค์การนักเรียนใช้เวลามากกว่าที่กำหนดไว้)",
+      "g_tw": "（在某個下午，由聯邦學生會主辦的會議比預定時間拖得更晚的日子）",
+      "g_tw_cn": "（在某个下午，由联邦学生会主办的会议比预定时间拖得更晚的日子）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(총학생회에서 주관한 오후 회의가 예정보다 길어진 어느 날.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（駅を出てシャーレへ復帰する頃……）",
+      "j_ko": "(역에서 나와 샬레로 돌아가던 도중……)",
+      "g_ja": "（駅を出てシャーレへ復帰する頃……）",
+      "g_ko": "(역에서 나와 샬레로 돌아가던 도중……)",
+      "g_en": "I exited the station, finally on my way back to Schale.",
+      "g_th": "(ระหว่างเดินออกมาจากสถานีรถไฟและกำลังมุ่งหน้ากลับชาเล่ต์...)",
+      "g_tw": "（走出車站返回夏萊的途中……）",
+      "g_tw_cn": "（走出车站返回夏莱的途中……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(역에서 나와 샬레로 돌아가던 도중……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 5,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3614742901
+    }
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 5,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Electric_01"
+    }
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 7,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 134
+    }
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"街灯が……？\"",
+      "j_ko": " \"가로등이 고장났나……?\"",
+      "g_ja": " \"街灯が……？\"",
+      "g_ko": " \"가로등이 고장났나……?\"",
+      "g_en": " \"Is the streetlight broken?\"",
+      "g_th": " \"ไฟทางเสียเหรอเนี่ย...?\"",
+      "g_tw": " 「路燈壞了嗎……？」",
+      "g_tw_cn": " 「路灯坏了吗……？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] \"가로등이 고장났나……?\"\\n[ns2] \"……오늘따라 길이 어둡네.\"",
+    "BGMId": 134,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……道が暗い。\"",
+      "j_ko": " \"……오늘따라 길이 어둡네.\"",
+      "g_ja": " \"……道が暗い。\"",
+      "g_ko": " \"……오늘따라 길이 어둡네.\"",
+      "g_en": " \"...It's unusually dark today.\"",
+      "g_th": " \"วันนี้ถนนมืดเป็นพิเศษเลยแฮะ...\"",
+      "g_tw": " 「……今天這條路特別暗呢。」",
+      "g_tw_cn": " 「……今天这条路特别暗呢。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] \"가로등이 고장났나……?\"\\n[ns2] \"……오늘따라 길이 어둡네.\"",
+    "BGMId": 134,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 10,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Fall_03"
+    }
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"うわっ！？\"",
+      "j_ko": " \"우, 우왓?!\"",
+      "g_ja": " \"うわっ！？\"",
+      "g_ko": " \"우, 우왓?!\"",
+      "g_en": " \"Wh-Whoa!\"",
+      "g_th": " \"วะ... เหวอ?!\"",
+      "g_tw": " 「呃，哇啊！？」",
+      "g_tw_cn": " 「呃，哇啊！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"우, 우왓?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " （暗いから、転びそうになる）",
+      "j_ko": " (날이 어두워서 자꾸 자꾸 발을 헛디디네.)",
+      "g_ja": " （暗いから、転びそうになる）",
+      "g_ko": " (날이 어두워서 자꾸 자꾸 발을 헛디디네.)",
+      "g_en": " \"(It's too dark to see my own feet right now)\"",
+      "g_th": " (พอถนนหนทางมืดก็เดินสะดุดล้มบ่อยเลย)",
+      "g_tw": " （天色太暗看不到路，結果一直踩空）",
+      "g_tw_cn": " （天色太暗看不到路，结果一直踩空）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns3] (날이 어두워서 자꾸 자꾸 발을 헛디디네.)\\n[ns4] (게다가 지나다니는 사람도 거의 없어서……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " （ひとけがないし……）",
+      "j_ko": " (게다가 지나다니는 사람도 거의 없어서……)",
+      "g_ja": " （ひとけがないし……）",
+      "g_ko": " (게다가 지나다니는 사람도 거의 없어서……)",
+      "g_en": " \"(The streets are essentially empty too)\"",
+      "g_th": " (แถวนี้ก็แทบไม่มีใครเดินผ่านเลยด้วย...)",
+      "g_tw": " （而且路上幾乎沒有人經過……）",
+      "g_tw_cn": " （而且路上几乎没有人经过……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns3] (날이 어두워서 자꾸 자꾸 발을 헛디디네.)\\n[ns4] (게다가 지나다니는 사람도 거의 없어서……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 16,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1046815759
+    }
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 17,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Radio_01"
+    }
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "最近この街に強盗が現れたんだって。",
+      "j_ko": "최근 이 주변 골목에서 금품을 목적으로 한 강도가 나타나는 모양이야.",
+      "g_ja": "最近この街に強盗が現れたんだって。",
+      "g_ko": "최근 이 주변 골목에서 금품을 목적으로 한 강도가 나타나는 모양이야.",
+      "g_en": "A robber in the area has been lurking in alleys and stealing valuables from people.",
+      "g_th": "เหมือนว่าช่วงนี้จะมีโจรดักปล้นชิงทรัพย์โผล่มาตามซอยแถวนี้น่ะ",
+      "g_tw": "最近這一帶的巷子裡，好像出現了以財物為目標的強盜。",
+      "g_tw_cn": "最近这一带的巷子里，好像出现了以财物为目标的强盗。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;02;최근 이 주변 골목에서 금품을 목적으로 한 강도가 나타나는 모양이야.\\n#3;sig",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 18,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ひとけのない場所からあとをつけて財布とかを盗むらしいわ。",
+      "j_ko": "인적이 드문 어두운 골목길에서 몰래 뒤를 밟은 뒤에…… 뒤를 급습해서 쓰러트리고 주머니를 털어 간다나 봐.",
+      "g_ja": "ひとけのない場所からあとをつけて財布とかを盗むらしいわ。",
+      "g_ko": "인적이 드문 어두운 골목길에서 몰래 뒤를 밟은 뒤에…… 뒤를 급습해서 쓰러트리고 주머니를 털어 간다나 봐.",
+      "g_en": "They'll stalk you into a deserted area... Then ambush you from behind to empty your pockets.",
+      "g_th": "ได้ยินว่าโจรจะชอบเดินตามหลังเงียบๆ ในซอยที่เปลี่ยวและมืด... พอได้จังหวะก็พุ่งเข้าประชิดตัวจากข้างหลัง แล้วก็ฉกกระเป๋าไปเลยละ",
+      "g_tw": "會在人煙稀少的昏暗巷弄裡偷偷跟在後面……<br/>再從背後突襲將人擊倒，然後把財物洗劫一空的樣子。",
+      "g_tw_cn": "会在人烟稀少的昏暗巷弄里偷偷跟在后面……<br/>再从背后突袭将人击倒，然后把财物洗劫一空的样子。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;99;인적이 드문 어두운 골목길에서 몰래 뒤를 밟은 뒤에…… 뒤를 급습해서 쓰러트리고 주머니를 털어 간다나 봐.\\n#3;sig\\n#3;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 19,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3614742901
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"急がないと……。\"",
+      "j_ko": " \"조금 서둘러야 겠다……\"",
+      "g_ja": " \"急がないと……。\"",
+      "g_ko": " \"조금 서둘러야 겠다……\"",
+      "g_en": " \"I should hurry...\"",
+      "g_th": " \"ต้องรีบหน่อยแล้วละ...\"",
+      "g_tw": " 「得稍微加快腳步才行……」",
+      "g_tw_cn": " 「得稍微加快脚步才行……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"조금 서둘러야 겠다……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 22,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 22,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 23,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 23,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 24,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3614742901
+    }
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 25,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " （誰かにつけられてる……？）",
+      "j_ko": " (누군가 따라붙었어……?)",
+      "g_ja": " （誰かにつけられてる……？）",
+      "g_ko": " (누군가 따라붙었어……?)",
+      "g_en": " \"(Is someone following me?)\"",
+      "g_th": " (มีใครตามมาหรือเปล่านะ...?)",
+      "g_tw": " （有人跟上來了……？）",
+      "g_tw_cn": " （有人跟上来了……？）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] (누군가 따라붙었어……?)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 26,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 26,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 27,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 28,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3614742901
+    }
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 29,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"た、助けてください！\"",
+      "j_ko": " \"해, 해치지 마세요!\"",
+      "g_ja": " \"た、助けてください！\"",
+      "g_ko": " \"해, 해치지 마세요!\"",
+      "g_en": " \"D-Don't hurt me!\"",
+      "g_th": " \"ยะ... อย่าทำร้ายกันนะ!\"",
+      "g_tw": " 「請，請不要傷害我！」",
+      "g_tw_cn": " 「请，请不要伤害我！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns5] \"해, 해치지 마세요!\"\\n[ns6] \"제게 돈 될만한 물건은 아무것도 없어요!\"",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"か、金目のものはありません……！\"",
+      "j_ko": " \"제게 돈 될만한 물건은 아무것도 없어요!\"",
+      "g_ja": " \"か、金目のものはありません……！\"",
+      "g_ko": " \"제게 돈 될만한 물건은 아무것도 없어요!\"",
+      "g_en": " \"I don't have any money!\"",
+      "g_th": " \"ไม่มีของมีค่าให้ปล้นหรอก!\"",
+      "g_tw": " 「我身上沒有任何值錢的東西！」",
+      "g_tw_cn": " 「我身上没有任何值钱的东西！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns5] \"해, 해치지 마세요!\"\\n[ns6] \"제게 돈 될만한 물건은 아무것도 없어요!\"",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 32,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……なに言ってるの？",
+      "j_ko": "……그게 무슨 소리야?",
+      "g_ja": "……なに言ってるの？",
+      "g_ko": "……그게 무슨 소리야?",
+      "g_en": "What are you saying?",
+      "g_th": "หมายความว่ายังไงน่ะ...?",
+      "g_tw": "……你在說什麼啊？",
+      "g_tw_cn": "……你在说什么啊？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;01;……그게 무슨 소리야?\\n#3;closeup\\n#3;black\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 36,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 186
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 36,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まさか、私を強盗だと勘違いしてたの？",
+      "j_ko": "설마 나를 요새 소문이 자자한 그 강도로 착각한 거야?",
+      "g_ja": "まさか、私を強盗だと勘違いしてたの？",
+      "g_ko": "설마 나를 요새 소문이 자자한 그 강도로 착각한 거야?",
+      "g_en": "...Did you think I was that robber?",
+      "g_th": "เข้าใจผิดว่าฉันเป็นโจรที่คนเขาลือกันช่วงนี้งั้นเหรอ?",
+      "g_tw": "難道你把我誤認成最近傳得沸沸揚揚的那個強盜了嗎？",
+      "g_tw_cn": "难道你把我误认成最近传得沸沸扬扬的那个强盗了吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;06;설마 나를 요새 소문이 자자한 그 강도로 착각한 거야?\\n#3;closeup\\n#3;em;[?]",
+    "BGMId": 186,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 7,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"クルミか……よかった。\"",
+      "j_ko": " \"쿠루미였구나…… 다행이다.\"",
+      "g_ja": " \"クルミか……よかった。\"",
+      "g_ko": " \"쿠루미였구나…… 다행이다.\"",
+      "g_en": " \"It's you, Kurumi... What a relief.\"",
+      "g_th": " \"คุรุมิเองสินะ... โล่งอกไปที\"",
+      "g_tw": " 「原來是胡桃啊……太好了。」",
+      "g_tw_cn": " 「原来是胡桃啊……太好了。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"쿠루미였구나…… 다행이다.\"\\n[s8] \"……나쁜 사람이 따라오는 줄 알았어.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 8,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……尾行されたのかと思ったよ。\"",
+      "j_ko": " \"……나쁜 사람이 따라오는 줄 알았어.\"",
+      "g_ja": " \"……尾行されたのかと思ったよ。\"",
+      "g_ko": " \"……나쁜 사람이 따라오는 줄 알았어.\"",
+      "g_en": " \"...Yes. I thought you were the robber.\"",
+      "g_th": " \"ครูคิดว่ามีคนไม่ดีตามมาซะแล้ว...\"",
+      "g_tw": " 「……我還以為是壞人跟上來了。」",
+      "g_tw_cn": " 「……我还以为是坏人跟上来了。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"쿠루미였구나…… 다행이다.\"\\n[s8] \"……나쁜 사람이 따라오는 줄 알았어.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 40,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "コンビニ帰りに見かけたから追ってたけど……やっぱり先生だったのね。",
+      "j_ko": "잠깐 편의점에 다녀오는 길에 낯익은 뒷모습이 보여서 따라왔더니만…… 역시 선생님이었네.",
+      "g_ja": "コンビニ帰りに見かけたから追ってたけど……やっぱり先生だったのね。",
+      "g_ko": "잠깐 편의점에 다녀오는 길에 낯익은 뒷모습이 보여서 따라왔더니만…… 역시 선생님이었네.",
+      "g_en": "I thought I saw you on my way back from the convenience store. Turns out I was right.",
+      "g_th": "ฉันแวะไปซื้อของที่ร้านสะดวกซื้อ พอเห็นคนที่ดูคุ้นๆ ก็เลยเดินตามมา... แล้วก็เป็นคุณครูจริงๆ ด้วย",
+      "g_tw": "我剛去便利商店回來的路上，看到熟悉的背影就跟了過來……果然是老師呢。",
+      "g_tw_cn": "我刚去便利商店回来的路上，看到熟悉的背影就跟了过来……果然是老师呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;06;잠깐 편의점에 다녀오는 길에 낯익은 뒷모습이 보여서 따라왔더니만…… 역시 선생님이었네.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そこまで怯えるなら、なんでひとりで夜道を歩いてたの？",
+      "j_ko": "그보다 그렇게 겁을 먹으면서, 왜 홀로 밤 거리를 걷고 있었던 거야?",
+      "g_ja": "そこまで怯えるなら、なんでひとりで夜道を歩いてたの？",
+      "g_ko": "그보다 그렇게 겁을 먹으면서, 왜 홀로 밤 거리를 걷고 있었던 거야?",
+      "g_en": "If you're so scared, why are you walking around alone at night?",
+      "g_th": "แต่ที่สำคัญกว่านั้น ทำไมคุณครูถึงมาเดินทำท่าทีหวาดกลัวอยู่คนเดียวในเวลากลางคืนแบบนี้ล่ะ?",
+      "g_tw": "話說你都嚇成這樣了，為什麼還要一個人走夜路啊？",
+      "g_tw_cn": "话说你都吓成这样了，为什么还要一个人走夜路啊？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;02;그보다 그렇게 겁을 먹으면서, 왜 홀로 밤 거리를 걷고 있었던 거야?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……私に連絡していいって言ったでしょ。",
+      "j_ko": "다른 학생이나 호위…… 마땅치 않으면 내게 연락해도 괜찮다고 말했었는데.",
+      "g_ja": "……私に連絡していいって言ったでしょ。",
+      "g_ko": "다른 학생이나 호위…… 마땅치 않으면 내게 연락해도 괜찮다고 말했었는데.",
+      "g_en": "I told you, get one of the students to take you home...or even me.",
+      "g_th": "ฉันก็เคยบอกไว้แล้วไง... ว่าถ้าหานักเรียนหรือคนคุ้มกันคนอื่นไม่ได้ ก็ให้ติดต่อมาหาฉันน่ะ",
+      "g_tw": "不是跟你說過如果找不到其他學生或護衛的話……可以聯絡我嗎。",
+      "g_tw_cn": "不是跟你说过如果找不到其他学生或护卫的话……可以联系我吗。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;05;다른 학생이나 호위…… 마땅치 않으면 내게 연락해도 괜찮다고 말했었는데.\\n#3;em;[///]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"すぐ着くから大丈夫だと思って。\"",
+      "j_ko": " \"짧은 거리라 괜찮을 줄 알았어.\"",
+      "g_ja": " \"すぐ着くから大丈夫だと思って。\"",
+      "g_ko": " \"짧은 거리라 괜찮을 줄 알았어.\"",
+      "g_en": " \"I know, but it was such a short distance.\"",
+      "g_th": " \"มันไม่ได้ไกลมาก ครูเลยคิดว่าไม่เป็นไรน่ะ\"",
+      "g_tw": " 「我想說距離很短應該沒關係。」",
+      "g_tw_cn": " 「我想说距离很短应该没关系。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"짧은 거리라 괜찮을 줄 알았어.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "本当に甘いわね。",
+      "j_ko": "선생님은 정말 위기 의식이 부족하다니까.",
+      "g_ja": "本当に甘いわね。",
+      "g_ko": "선생님은 정말 위기 의식이 부족하다니까.",
+      "g_en": "You really lack a sense of awareness, Sensei.",
+      "g_th": "คุณครูเนี่ยนะ ไม่มีความรู้สึกตื่นตัวต่ออันตรายเลยจริงๆ",
+      "g_tw": "老師你真的很缺乏危機意識耶。",
+      "g_tw_cn": "老师你真的很缺乏危机意识耶。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;02;선생님은 정말 위기 의식이 부족하다니까.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そんなんじゃ、いつか悪い子に襲われちゃうわよ？",
+      "j_ko": "그러다 언젠가 나쁜 마음을 먹은 학생에게 덮쳐지더라도 할 말 없게 될 거야.",
+      "g_ja": "そんなんじゃ、いつか悪い子に襲われちゃうわよ？",
+      "g_ko": "그러다 언젠가 나쁜 마음을 먹은 학생에게 덮쳐지더라도 할 말 없게 될 거야.",
+      "g_en": "Are you still going to say the same thing when someone actually jumps you?",
+      "g_th": "ถ้าวันไหนโดนนักเรียนที่คิดไม่ซื่อมาจู่โจมขึ้นมา ถึงตอนนั้นจะมาโวยวายทีหลังไม่ได้นะ",
+      "g_tw": "這樣要是哪天被起了歹念的學生襲擊，也是你自找的哦。",
+      "g_tw_cn": "这样要是哪天被起了歹念的学生袭击，也是你自找的哦。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;12;그러다 언젠가 나쁜 마음을 먹은 학생에게 덮쳐지더라도 할 말 없게 될 거야.\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 9,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"それより、懐中電灯とか持ってる？\"",
+      "j_ko": " \"그보다, 혹시 지금 손전등 갖고 있어?\"",
+      "g_ja": " \"それより、懐中電灯とか持ってる？\"",
+      "g_ko": " \"그보다, 혹시 지금 손전등 갖고 있어?\"",
+      "g_en": " \"Yes, ma'am. Do you have a flashlight?\"",
+      "g_th": " \"จะว่าไป ตอนนี้คุรุมิมีไฟฉายติดตัวมาหรือเปล่า?\"",
+      "g_tw": " 「比起這個，你現在身上有手電筒嗎？」",
+      "g_tw_cn": " 「比起这个，你现在身上有手电筒吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s9] \"그보다, 혹시 지금 손전등 갖고 있어?\"\\n[s10] \"너무 어두워서 길이 잘 보이지 않아.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 10,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"暗すぎて道が見えなくて。\"",
+      "j_ko": " \"너무 어두워서 길이 잘 보이지 않아.\"",
+      "g_ja": " \"暗すぎて道が見えなくて。\"",
+      "g_ko": " \"너무 어두워서 길이 잘 보이지 않아.\"",
+      "g_en": " \"I can't see because it's so dark.\"",
+      "g_th": " \"ทางมันมืดจนมองไม่ค่อยเห็นเลย มีไฟฉายมามั้ย?\"",
+      "g_tw": " 「太暗了，路都看不太清楚。」",
+      "g_tw_cn": " 「太暗了，路都看不太清楚。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s9] \"그보다, 혹시 지금 손전등 갖고 있어?\"\\n[s10] \"너무 어두워서 길이 잘 보이지 않아.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "懐中電灯？今は持ってないけど。",
+      "j_ko": "손전등? 지금은 갖고 있지 않은데.",
+      "g_ja": "懐中電灯？今は持ってないけど。",
+      "g_ko": "손전등? 지금은 갖고 있지 않은데.",
+      "g_en": "A flashlight? Not right now.",
+      "g_th": "ไฟฉายเหรอ? ไม่ได้เอามาด้วยหรอก",
+      "g_tw": "手電筒？我現在沒帶。",
+      "g_tw_cn": "手电筒？我现在没带。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;02;손전등? 지금은 갖고 있지 않은데.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 50,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "スマホのライト機能なら……。",
+      "j_ko": "핸드폰의 플래시 기능도……",
+      "g_ja": "スマホのライト機能なら……。",
+      "g_ko": "핸드폰의 플래시 기능도……",
+      "g_en": "Here, I can use my phone's light...",
+      "g_th": "แต่โทรศัพท์มือถือก็มีไฟฉายนี่นา...",
+      "g_tw": "手機的手電筒也……",
+      "g_tw_cn": "手机的手电筒也……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;01;핸드폰의 플래시 기능도……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 53,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Answer_01"
+    }
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 54,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "げっ、バッテリーが残り10％しかないわ。",
+      "j_ko": "윽, 배터리가 10% 밖에 남지 않았네. 지금은 쓸 수 없겠어.",
+      "g_ja": "げっ、バッテリーが残り10％しかないわ。",
+      "g_ko": "윽, 배터리가 10% 밖에 남지 않았네. 지금은 쓸 수 없겠어.",
+      "g_en": "Ugh, I only have 10% battery left. It won't work.",
+      "g_th": "อึก แบตเตอรี่เหลือแค่ 10% เอง คงเปิดไฟฉายไม่ได้แล้วละ",
+      "g_tw": "唔，電池只剩10%了。現在沒辦法用。",
+      "g_tw_cn": "唔，电池只剩10%了。现在没办法用。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;06;윽, 배터리가 10% 밖에 남지 않았네. 지금은 쓸 수 없겠어.\\n#3;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Upset",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 55,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"クルミの閃光盾は？\"",
+      "j_ko": " \"쿠루미의 섬광 방패는?\"",
+      "g_ja": " \"クルミの閃光盾は？\"",
+      "g_ko": " \"쿠루미의 섬광 방패는?\"",
+      "g_en": " \"What about your Flash Shield?\"",
+      "g_th": " \"แล้วโล่แฟลชของคุรุมิล่ะ?\"",
+      "g_tw": " 「胡桃的閃光盾呢？」",
+      "g_tw_cn": " 「胡桃的闪光盾呢？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"쿠루미의 섬광 방패는?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "これは一時的に光を放つもので、道を照らすのには向いてないの。",
+      "j_ko": "이건 일시적으로 섬광을 터트리는 용도라, 길을 비추는 데에는 적합하지 않아.",
+      "g_ja": "これは一時的に光を放つもので、道を照らすのには向いてないの。",
+      "g_ko": "이건 일시적으로 섬광을 터트리는 용도라, 길을 비추는 데에는 적합하지 않아.",
+      "g_en": "That's for popping a blinding flash, not to light someone's way.",
+      "g_th": "โล่ของฉันออกแบบมาเพื่อปล่อยแสงวาบชั่วคราว มันไม่เหมาะมาใช้ส่องสว่างตรงทางเดินหรอก",
+      "g_tw": "這是用來瞬間釋放閃光的，不適合用來照明。",
+      "g_tw_cn": "这是用来瞬间释放闪光的，不适合用来照明。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;01;이건 일시적으로 섬광을 터트리는 용도라, 길을 비추는 데에는 적합하지 않아.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 57,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それに、こんな夜中にそんなことしたら近隣の迷惑になるでしょ？",
+      "j_ko": "게다가 이런 어두운 밤에 섬광 방패를 터트리면 주변 사람들에게 민폐가 되잖아?",
+      "g_ja": "それに、こんな夜中にそんなことしたら近隣の迷惑になるでしょ？",
+      "g_ko": "게다가 이런 어두운 밤에 섬광 방패를 터트리면 주변 사람들에게 민폐가 되잖아?",
+      "g_en": "If I were to use it now, when it's this dark, I'd be considered a public nuisance.",
+      "g_th": "และถ้ามาจุดแสงวาบจากโล่ในคืนมืดๆ แบบนี้ มันจะไปสร้างความเดือดร้อนให้กับคนรอบข้าง<br/>เอาเปล่าๆ ไม่ใช่เหรอ?",
+      "g_tw": "而且在這種漆黑的夜晚啟動閃光盾，會給周圍的人添麻煩吧？",
+      "g_tw_cn": "而且在这种漆黑的夜晚启动闪光盾，会给周围的人添麻烦吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;06;게다가 이런 어두운 밤에 섬광 방패를 터트리면 주변 사람들에게 민폐가 되잖아?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 58,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"おっしゃる通りです……。\"",
+      "j_ko": " \"……지당하신 말씀입니다.\"",
+      "g_ja": " \"おっしゃる通りです……。\"",
+      "g_ko": " \"……지당하신 말씀입니다.\"",
+      "g_en": " \"...I completely agree.\"",
+      "g_th": " \"ที่พูดมาก็ถูกเลยละ...\"",
+      "g_tw": " 「……您說得非常有道理。」",
+      "g_tw_cn": " 「……您说得非常有道理。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"……지당하신 말씀입니다.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 62,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03b"
+    }
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 63,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03c"
+    }
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 64,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ほら、私の手握って。",
+      "j_ko": "자, 내 손을 잡아.",
+      "g_ja": "ほら、私の手握って。",
+      "g_ko": "자, 내 손을 잡아.",
+      "g_en": "Here, grab my hand.",
+      "g_th": "เอาละ จับมือฉันไว้นะ",
+      "g_tw": "來，牽住我的手。",
+      "g_tw_cn": "来，牵住我的手。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;02;자, 내 손을 잡아.\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 65,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こう見えて夜目が利くから、私について来れば倒れることはないと思うわ。",
+      "j_ko": "이래뵈도 밤눈은 밝은 편이니까, 내 손을 잡고 그대로 따라오면 최소한 돌부리에 발을 부딪힐 일은 없을 거야.",
+      "g_ja": "こう見えて夜目が利くから、私について来れば倒れることはないと思うわ。",
+      "g_ko": "이래뵈도 밤눈은 밝은 편이니까, 내 손을 잡고 그대로 따라오면 최소한 돌부리에 발을 부딪힐 일은 없을 거야.",
+      "g_en": "I have good night vision. Just follow my lead, and you won't fall or stub your feet.",
+      "g_th": "เห็นแบบนี้ ฉันเป็นพวกสายตาดีในที่มืดนะ ถ้าจับมือฉันไว้แล้วเดินตามมาดีๆ รับรองได้เลยว่า<br/>อย่างน้อยก็ไม่เดินไปสะดุดก้อนหินหรอก",
+      "g_tw": "別看我這樣，我的夜視能力還算好。<br/>牽著我的手跟在後面，這樣至少不會被石頭絆到腳。",
+      "g_tw_cn": "别看我这样，我的夜视能力还算好。<br/>牵着我的手跟在后面，这样至少不会被石头绊到脚。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;99;이래뵈도 밤눈은 밝은 편이니까, 내 손을 잡고 그대로 따라오면 최소한 돌부리에 발을 부딪힐 일은 없을 거야.\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 66,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……手を握る必要はあるのかって？",
+      "j_ko": "……꼭 손을 잡아야 할 필요가 있냐고?",
+      "g_ja": "……手を握る必要はあるのかって？",
+      "g_ko": "……꼭 손을 잡아야 할 필요가 있냐고?",
+      "g_en": "...Is it \"really necessary to hold hands\"?",
+      "g_th": "จำเป็นต้องเดินจับมือกันจริงๆ หรือเปล่างั้นเหรอ...?",
+      "g_tw": "……你問一定得牽手嗎？",
+      "g_tw_cn": "……你问一定得牵手吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;06;……꼭 손을 잡아야 할 필요가 있냐고?\\n#3;closeup\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 67,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "べ、別に変な意味じゃないわよ！？これは実際よく使われる戦術なんだから！",
+      "j_ko": "무, 무슨 생각을 하는 거야! 이건 시야가 확보되지 않는 장소에서 퇴출할 때 자주 쓰는 전술 방법이거든?",
+      "g_ja": "べ、別に変な意味じゃないわよ！？これは実際よく使われる戦術なんだから！",
+      "g_ko": "무, 무슨 생각을 하는 거야! 이건 시야가 확보되지 않는 장소에서 퇴출할 때 자주 쓰는 전술 방법이거든?",
+      "g_en": "Wh-Why are YOU making it weird? It's an approved tactical method when traversing places with limited visibility!",
+      "g_th": "คะ... คิดอะไรอยู่น่ะ! นี่เป็นกลยุทธ์ที่ใช้เวลาอพยพออกจากสถานที่ที่มีทัศนวิสัยจำกัดนะ?",
+      "g_tw": "你，你在想什麼啊！<br/>這是從無法確保視野的地方撤離的時候經常使用的方法耶！？",
+      "g_tw_cn": "你，你在想什么啊！<br/>这是从无法确保视野的地方撤离的时候经常使用的方法耶！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;09;무, 무슨 생각을 하는 거야! 이건 시야가 확보되지 않는 장소에서 퇴출할 때 자주 쓰는 전술 방법이거든?\\n#3;hophop\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ご、誤解しないで！ほら、ちゃんと手握って！",
+      "j_ko": "오, 오해하지 말고 손이나 꽉 잡아. 놓치면 정말로 더 위험하니까.",
+      "g_ja": "ご、誤解しないで！ほら、ちゃんと手握って！",
+      "g_ko": "오, 오해하지 말고 손이나 꽉 잡아. 놓치면 정말로 더 위험하니까.",
+      "g_en": "D-Don't get the wrong idea, and hold my hand tightly. For tactical purposes.",
+      "g_th": "ละ... เลิกเข้าใจผิดแล้วจับมือฉันไว้ให้แน่นๆ ล่ะ ถ้าปล่อยมือขึ้นมาละก็ เดี๋ยวจะยิ่งอันตรายนะ",
+      "g_tw": "不，不要誤會，把手牽緊就對了。<br/>要是走散了反而會變得更危險。",
+      "g_tw_cn": "不，不要误会，把手牵紧就对了。<br/>要是走散了反而会变得更危险。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;09;오, 오해하지 말고 손이나 꽉 잡아. 놓치면 정말로 더 위험하니까.\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 69,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 70,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 71,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（クルミの手を握ったまま、暗い路地を歩いた）",
+      "j_ko": "(쿠루미의 손을 잡은 채, 어두운 골목길을 걸어 나갔다.)",
+      "g_ja": "（クルミの手を握ったまま、暗い路地を歩いた）",
+      "g_ko": "(쿠루미의 손을 잡은 채, 어두운 골목길을 걸어 나갔다.)",
+      "g_en": "I walked out of the dark alley, still holding Kurumi's hand.",
+      "g_th": "(คุณครูจับมือคุรุมิเดินออกไปตามตรอกมืด)",
+      "g_tw": "（就這樣牽著胡桃的手，走過昏暗的巷弄）",
+      "g_tw_cn": "（就这样牵着胡桃的手，走过昏暗的巷弄）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(쿠루미의 손을 잡은 채, 어두운 골목길을 걸어 나갔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 73,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3614742901
+    }
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 74,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"クルミは……こういう状況に慣れているんだね。\"",
+      "j_ko": " \"쿠루미는 이런 상황에…… 꽤 익숙한 느낌이네.\"",
+      "g_ja": " \"クルミは……こういう状況に慣れているんだね。\"",
+      "g_ko": " \"쿠루미는 이런 상황에…… 꽤 익숙한 느낌이네.\"",
+      "g_en": " \"You seem pretty used to situations like this, Kurumi.\"",
+      "g_th": " \"คุรุมิดูจะ... คุ้นเคยกับสถานการณ์แบบนี้เลยนะ\"",
+      "g_tw": " 「胡桃對這種狀況……感覺相當熟練呢。」",
+      "g_tw_cn": " 「胡桃对这种状况……感觉相当熟练呢。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"쿠루미는 이런 상황에…… 꽤 익숙한 느낌이네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "当然。ポイントマンは、隊を導くのが仕事だもの。",
+      "j_ko": "익숙할 수 밖에. 포인트맨이라는 말도 결국은 누군가를 선도한다는 뜻이니까.",
+      "g_ja": "当然。ポイントマンは、隊を導くのが仕事だもの。",
+      "g_ko": "익숙할 수 밖에. 포인트맨이라는 말도 결국은 누군가를 선도한다는 뜻이니까.",
+      "g_en": "Obviously. Point woman, remember?",
+      "g_th": "ก็ต้องคุ้นเคยสิ ก็พ็อยนต์แมนคือคนที่คอยนำทางให้กับคนอื่นอยู่แล้วนี่นา",
+      "g_tw": "那是當然的。<br/>所謂的尖兵，本來就有引導他人前進的意思。",
+      "g_tw_cn": "那是当然的。<br/>所谓的尖兵，本来就有引导他人前进的意思。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;02;익숙할 수 밖에. 포인트맨이라는 말도 결국은 누군가를 선도한다는 뜻이니까.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "暗い場所でも先頭に立って、道を照らす。いつものことよ。",
+      "j_ko": "나는 언제나 어두운 곳에 먼저 뛰어들어 길을 밝히고, 타인을 이끄는 데 익숙하거든.",
+      "g_ja": "暗い場所でも先頭に立って、道を照らす。いつものことよ。",
+      "g_ko": "나는 언제나 어두운 곳에 먼저 뛰어들어 길을 밝히고, 타인을 이끄는 데 익숙하거든.",
+      "g_en": "I'm used to jumping into dark places and lighting them up, and leading others.",
+      "g_th": "ฉันมักจะเป็นคนแรกที่กระโจนเข้าไปในความมืดเพื่อส่องสว่างและนำทางให้คนอื่นน่ะ",
+      "g_tw": "我總是率先衝進黑暗之中照亮道路、引領他人，所以早就習慣了。",
+      "g_tw_cn": "我总是率先冲进黑暗之中照亮道路、引领他人，所以早就习惯了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;01;나는 언제나 어두운 곳에 먼저 뛰어들어 길을 밝히고, 타인을 이끄는 데 익숙하거든.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 77,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でも気を緩めることはできないわ。",
+      "j_ko": "하지만 익숙하다 해서…… 마음이 늘 편한 건 아니야.",
+      "g_ja": "でも気を緩めることはできないわ。",
+      "g_ko": "하지만 익숙하다 해서…… 마음이 늘 편한 건 아니야.",
+      "g_en": "I'm used to it...but even I'm not completely comfortable.",
+      "g_th": "แต่ถึงปากจะบอกว่าคุ้นเคย... แต่ก็ไม่ได้หมายความว่าในใจฉันจะไม่กลัวหรอกนะ",
+      "g_tw": "但就算習慣了……心裡也不見得總是輕鬆。",
+      "g_tw_cn": "但就算习惯了……心里也不见得总是轻松。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;99;하지만 익숙하다 해서…… 마음이 늘 편한 건 아니야.\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 78,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "暗闇の中、私が進む道を間違ってしまったら……。",
+      "j_ko": "어둠 속에서 내가 향하고 있는 곳이, 함정으로 점철된 잘못된 방향이라면……",
+      "g_ja": "暗闇の中、私が進む道を間違ってしまったら……。",
+      "g_ko": "어둠 속에서 내가 향하고 있는 곳이, 함정으로 점철된 잘못된 방향이라면……",
+      "g_en": "If I choose the wrong path, and I take them into a trap or dangerous environment...",
+      "g_th": "ถ้าเกิดปลายทางที่ฉันมุ่งหน้าไปท่ามกลางความมืดมิด มันคือทิศทางที่ผิดมหันต์ และเต็มไปด้วยกับดักละก็...",
+      "g_tw": "要是我在黑暗中前往的，是布滿陷阱的錯誤方向……",
+      "g_tw_cn": "要是我在黑暗中前往的，是布满陷阱的错误方向……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;01;어둠 속에서 내가 향하고 있는 곳이, 함정으로 점철된 잘못된 방향이라면……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 79,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "みんなを危険にさらすことになっちゃうんだから。",
+      "j_ko": "모두를 위험에 빠트릴지도 모르니까.",
+      "g_ja": "みんなを危険にさらすことになっちゃうんだから。",
+      "g_ko": "모두를 위험에 빠트릴지도 모르니까.",
+      "g_en": "I could be putting my squad member's lives on the line.",
+      "g_th": "แบบนั้นทุกคนอาจตกอยู่ในอันตรายก็ได้",
+      "g_tw": "說不定會讓大家陷入危險。",
+      "g_tw_cn": "说不定会让大家陷入危险。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;00;모두를 위험에 빠트릴지도 모르니까.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 80,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "一歩進むたびに、恐怖が押し寄せてくるの。",
+      "j_ko": "매번 새로운 발을 내딛을 때마다 두려움이 조금씩 밀려와.",
+      "g_ja": "一歩進むたびに、恐怖が押し寄せてくるの。",
+      "g_ko": "매번 새로운 발을 내딛을 때마다 두려움이 조금씩 밀려와.",
+      "g_en": "Every time I take a new step, I feel a bit of fear and indecision.",
+      "g_th": "ทุกครั้งที่ฉันก้าวไปข้างหน้า ความกลัวจะค่อยๆ คืบคลานเข้ามาทีละนิด",
+      "g_tw": "每當踏出新的一步，恐懼就會一點一點地湧上來。",
+      "g_tw_cn": "每当踏出新的一步，恐惧就会一点一点地涌上来。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;01;매번 새로운 발을 내딛을 때마다 두려움이 조금씩 밀려와.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 81,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3052798916
+    }
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 82,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……私は、みんなを正しい方向へ導けているのかなって。",
+      "j_ko": "……나는 옳은 방향으로 소대를 선도하고 있을까?",
+      "g_ja": "……私は、みんなを正しい方向へ導けているのかなって。",
+      "g_ko": "……나는 옳은 방향으로 소대를 선도하고 있을까?",
+      "g_en": "...Am I leading everyone the right way?",
+      "g_th": "แล้วฉันก็จะถามตัวเองว่า ฉันกำลังนำทางที่ถูกต้องให้กับกองทหารอยู่หรือเปล่า?",
+      "g_tw": "……擔心自己到底有沒有把小隊帶往正確的方向。",
+      "g_tw_cn": "……担心自己到底有没有把小队带往正确的方向。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "#na;쿠루미;……나는 옳은 방향으로 소대를 선도하고 있을까?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 83,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 11,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"暗闇は、不安が大きくなるよね。\"",
+      "j_ko": " \"어둠이라는 건 언제나 불확실하지.\"",
+      "g_ja": " \"暗闇は、不安が大きくなるよね。\"",
+      "g_ko": " \"어둠이라는 건 언제나 불확실하지.\"",
+      "g_en": " \"Darkness is always uncertain.\"",
+      "g_th": " \"ในความมืดมิดไม่มีอะไรแน่นอนหรอก\"",
+      "g_tw": " 「所謂黑暗，總是充滿了不確定呢。」",
+      "g_tw_cn": " 「所谓黑暗，总是充满了不确定呢。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s11] \"어둠이라는 건 언제나 불확실하지.\"\\n[s12] \"내딛어 보기 전까지는 아무것도 알 수 없잖아.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 83,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 12,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"一歩踏み出さない限り、何も見えないからさ。\"",
+      "j_ko": " \"내딛어 보기 전까지는 아무것도 알 수 없잖아.\"",
+      "g_ja": " \"一歩踏み出さない限り、何も見えないからさ。\"",
+      "g_ko": " \"내딛어 보기 전까지는 아무것도 알 수 없잖아.\"",
+      "g_en": " \"You won't know until you take that step.\"",
+      "g_th": " \"เราไม่มีทางรู้อะไรเลย จนกว่าจะลองก้าวเดินดู\"",
+      "g_tw": " 「而且在踏出去之前，什麼都無法得知。」",
+      "g_tw_cn": " 「而且在踏出去之前，什么都无法得知。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s11] \"어둠이라는 건 언제나 불확실하지.\"\\n[s12] \"내딛어 보기 전까지는 아무것도 알 수 없잖아.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 86,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3614742901
+    }
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 87,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そう。それが私を不安にさせ――",
+      "j_ko": "맞아. 그게 나를 더 불안하게 만들—",
+      "g_ja": "そう。それが私を不安にさせ――",
+      "g_ko": "맞아. 그게 나를 더 불안하게 만들—",
+      "g_en": "Exactly. That's what makes me nervous...",
+      "g_th": "ใช่ แล้วนั่นก็ยิ่งทำให้ฉันกังวลมากขึ้น—",
+      "g_tw": "沒錯，那正是讓我更加不安的──",
+      "g_tw_cn": "没错，那正是让我更加不安的──",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;99;맞아. 그게 나를 더 불안하게 만들—\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 88,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"でも、今は私の手を握っているでしょう？\"",
+      "j_ko": " \"하지만 여전히 손을 쥐고 있잖아?\"",
+      "g_ja": " \"でも、今は私の手を握っているでしょう？\"",
+      "g_ko": " \"하지만 여전히 손을 쥐고 있잖아?\"",
+      "g_en": " \"But we're still holding hands!\"",
+      "g_th": " \"แต่ก็ยังจับมือกันอยู่ตลอดไม่ใช่เหรอ?\"",
+      "g_tw": " 「但你仍然緊握著我的手，不是嗎？」",
+      "g_tw_cn": " 「但你仍然紧握着我的手，不是吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"하지만 여전히 손을 쥐고 있잖아?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 89,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "…………。",
+      "j_ko": "……….",
+      "g_ja": "…………。",
+      "g_ko": "……….",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "…………",
+      "g_tw_cn": "…………",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;02;……….\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 90,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 13,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"クルミが足を踏み外しそうになったら、そのときは私が支える。\"",
+      "j_ko": " \"쿠루미가 발을 헛디디면, 그 때는 뒤에서 잡아당겨줄게.\"",
+      "g_ja": " \"クルミが足を踏み外しそうになったら、そのときは私が支える。\"",
+      "g_ko": " \"쿠루미가 발을 헛디디면, 그 때는 뒤에서 잡아당겨줄게.\"",
+      "g_en": " \"If you stumble, Kurumi, I'll pull you up from behind.\"",
+      "g_th": " \"ถ้าคุรุมิสะดุด ครูจะช่วยคว้าตัวจากข้างหลังให้เอง\"",
+      "g_tw": " 「如果胡桃踩空了，到時候我會從後面把你拉住的。」",
+      "g_tw_cn": " 「如果胡桃踩空了，到时候我会从后面把你拉住的。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s13] \"쿠루미가 발을 헛디디면, 그 때는 뒤에서 잡아당겨줄게.\"\\n[s14] \"그렇기에 소대에 백업이 존재하는 법이지.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 90,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 14,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"だからこそ、小隊には後ろ盾が存在するんだよ。\"",
+      "j_ko": " \"그렇기에 소대에 백업이 존재하는 법이지.\"",
+      "g_ja": " \"だからこそ、小隊には後ろ盾が存在するんだよ。\"",
+      "g_ko": " \"그렇기에 소대에 백업이 존재하는 법이지.\"",
+      "g_en": " \"That's why squads have backups, right?\"",
+      "g_th": " \"เพราะแบบนี้แหละ ในกองทหารถึงต้องมีคนคอยระวังหลังให้ไง\"",
+      "g_tw": " 「正是因為這樣，小隊才會有後援的存在。」",
+      "g_tw_cn": " 「正是因为这样，小队才会有后援的存在。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s13] \"쿠루미가 발을 헛디디면, 그 때는 뒤에서 잡아당겨줄게.\"\\n[s14] \"그렇기에 소대에 백업이 존재하는 법이지.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 93,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふふっ、先生も特殊部隊っぽいことを言うようになったわね。",
+      "j_ko": "함께 작전을 꽤 해서 그런지, 선생님도 어느새 특수부대 같은 소리를 하네.",
+      "g_ja": "ふふっ、先生も特殊部隊っぽいことを言うようになったわね。",
+      "g_ko": "함께 작전을 꽤 해서 그런지, 선생님도 어느새 특수부대 같은 소리를 하네.",
+      "g_en": "Maybe it's because you've been helping us with so many operations lately, but you sound like a proper special forces soldier, Sensei.",
+      "g_th": "นี่พวกเราออกปฏิบัติการด้วยกันบ่อยเกินไปหรือเปล่านะ... คุณครูถึงได้พูดจาเหมือนหน่วยรบพิเศษขึ้นมาอย่างนั้น",
+      "g_tw": "可能是一起作戰久了，老師也漸漸開始會說一些像是特殊部隊的話了呢。",
+      "g_tw_cn": "可能是一起作战久了，老师也渐渐开始会说一些像是特殊部队的话了呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;06;함께 작전을 꽤 해서 그런지, 선생님도 어느새 특수부대 같은 소리를 하네.\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 94,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ええ。繋いだ手は、相手を前へ導くためだけじゃない。",
+      "j_ko": "맞아. 이 움켜쥔 손은 꼭 상대를 앞으로만 이끄는 게 아니니까.",
+      "g_ja": "ええ。繋いだ手は、相手を前へ導くためだけじゃない。",
+      "g_ko": "맞아. 이 움켜쥔 손은 꼭 상대를 앞으로만 이끄는 게 아니니까.",
+      "g_en": "That's right. This clasped hand isn't just for leading someone forward.",
+      "g_th": "ใช่แล้วละ ก็มือที่กำแน่นแบบนี้ ไม่ได้หมายความว่าเรากำลังพาอีกฝ่ายไปข้างหน้าเสมอไปนี่นะ",
+      "g_tw": "沒錯。這隻緊握的手，並不一定只是把對方往前引導。",
+      "g_tw_cn": "没错。这只紧握的手，并不一定只是把对方往前引导。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;03;맞아. 이 움켜쥔 손은 꼭 상대를 앞으로만 이끄는 게 아니니까.\\n#3;closeup\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 95,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "だから、先生――",
+      "j_ko": "선생님. 그러니까……",
+      "g_ja": "だから、先生――",
+      "g_ko": "선생님. 그러니까……",
+      "g_en": "So, Sensei...",
+      "g_th": "คุณครู เพราะงั้น...",
+      "g_tw": "所以說……老師。",
+      "g_tw_cn": "所以说……老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;08;선생님. 그러니까……\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 99,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "絶対、この手を離しちゃダメよ。",
+      "j_ko": "절대, 절대 이 손을 놓으면 안 돼.",
+      "g_ja": "絶対、この手を離しちゃダメよ。",
+      "g_ko": "절대, 절대 이 손을 놓으면 안 돼.",
+      "g_en": "Don't let go.",
+      "g_th": "ห้ามปล่อยมือนี้เด็ดขาดเลยนะ",
+      "g_tw": "你絕對……絕對不可以放開這隻手哦。",
+      "g_tw_cn": "你绝对……绝对不可以放开这只手哦。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2801556242,
+    "DataType": "speaker",
+    "Script": "3;쿠루미;07;절대, 절대 이 손을 놓으면 안 돼.\\n#3;closeup\\n#3;em;[하트]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Heart",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 100,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 101,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（その後、クルミと手を握ったままシャーレへ帰ってきた）",
+      "j_ko": "(이후 쿠루미의 손을 잡은 채, 안전하게 샬레로 돌아왔다.)",
+      "g_ja": "（その後、クルミと手を握ったままシャーレへ帰ってきた）",
+      "g_ko": "(이후 쿠루미의 손을 잡은 채, 안전하게 샬레로 돌아왔다.)",
+      "g_en": "I held Kurumi's hand until we made our way safely back to Schale.",
+      "g_th": "(แล้วคุณครูก็เดินจับมือคุรุมิกลับชาเล่ต์อย่างปลอดภัย)",
+      "g_tw": "（之後就這樣牽著胡桃的手，安全地回到了夏萊）",
+      "g_tw_cn": "（之后就这样牵着胡桃的手，安全地回到了夏莱）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(이후 쿠루미의 손을 잡은 채, 안전하게 샬레로 돌아왔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

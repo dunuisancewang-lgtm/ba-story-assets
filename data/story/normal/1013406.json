@@ -1,0 +1,1031 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 457918234
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">魔法が始まる時間</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">마법이 시작되는 시간</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">魔法が始まる時間</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">마법이 시작되는 시간</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">When Magic Begins</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ช่วงเวลาที่เวทมนตร์เริ่มต้นขึ้น</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">魔法開始的時刻</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">魔法开始的时刻</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;마법이 시작되는 시간",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 457918234,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "――せ。",
+      "j_ko": "……님.",
+      "g_ja": "――せ。",
+      "g_ko": "……님.",
+      "g_en": "...sei.",
+      "g_th": "...ครู",
+      "g_tw": "……師。",
+      "g_tw_cn": "……师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2746145574,
+    "DataType": "speaker",
+    "Script": "#na;???;……님.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（……？）",
+      "j_ko": "(……?)",
+      "g_ja": "（……？）",
+      "g_ko": "(……?)",
+      "g_en": "...?",
+      "g_th": "(...?)",
+      "g_tw": "（……？）",
+      "g_tw_cn": "（……？）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(……?)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 3,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（どこからかアリスの声がする）",
+      "j_ko": "(어디선가 아리스의 목소리가 들리는 듯하다.)",
+      "g_ja": "（どこからかアリスの声がする）",
+      "g_ko": "(어디선가 아리스의 목소리가 들리는 듯하다.)",
+      "g_en": "I thought I heard Aris' voice from somewhere.",
+      "g_th": "(คุณครูเหมือนจะได้ยินเสียงของอาริสึจากที่ไหนสักแห่ง)",
+      "g_tw": "（好像從某處傳來愛麗絲的聲音）",
+      "g_tw_cn": "（好像从某处传来爱丽丝的声音）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(어디선가 아리스의 목소리가 들리는 듯하다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 6,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1697477894
+    }
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 6,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Confirm_01"
+    }
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "せ……せい。",
+      "j_ko": "……생님.",
+      "g_ja": "せ……せい。",
+      "g_ko": "……생님.",
+      "g_en": "...Sensei?",
+      "g_th": "คุณครู...",
+      "g_tw": "……師。",
+      "g_tw_cn": "……师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2714160656,
+    "DataType": "speaker",
+    "Script": "#na;아리스 결전;……생님.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 8,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（でも、アリスの姿はどこにもなかった）",
+      "j_ko": "(그렇지만 아리스의 모습은 어디에도 보이지 않는다.)",
+      "g_ja": "（でも、アリスの姿はどこにもなかった）",
+      "g_ko": "(그렇지만 아리스의 모습은 어디에도 보이지 않는다.)",
+      "g_en": "But I didn't see her anywhere.",
+      "g_th": "(แต่ก็ไม่รู้ว่าอาริสึอยู่ไหน)",
+      "g_tw": "（不過卻完全沒看見愛麗絲的身影）",
+      "g_tw_cn": "（不过却完全没看见爱丽丝的身影）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇지만 아리스의 모습은 어디에도 보이지 않는다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 11,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Knock_Soft_01"
+    }
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生！こっちです！",
+      "j_ko": "선생님! 여깁니다!",
+      "g_ja": "先生！こっちです！",
+      "g_ko": "선생님! 여깁니다!",
+      "g_en": "Sensei! Over here!",
+      "g_th": "คุณครู! ทางนี้ค่ะ!",
+      "g_tw": "老師！在這裡！",
+      "g_tw_cn": "老师！在这里！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2714160656,
+    "DataType": "speaker",
+    "Script": "#na;아리스 결전;선생님! 여깁니다!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " 声がした方を向く。",
+      "j_ko": " 목소리가 들린 방향을 바라본다.",
+      "g_ja": " 声がした方を向く。",
+      "g_ko": " 목소리가 들린 방향을 바라본다.",
+      "g_en": " Look in the direction of the voice.",
+      "g_th": " หันหน้าไปตามเสียง",
+      "g_tw": " 看向往聲音傳來的方向",
+      "g_tw_cn": " 看向往声音传来的方向",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] 목소리가 들린 방향을 바라본다.\\n[ns2] 창문을 바라본다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " 窓の外に目を向ける。",
+      "j_ko": " 창문을 바라본다.",
+      "g_ja": " 窓の外に目を向ける。",
+      "g_ko": " 창문을 바라본다.",
+      "g_en": " Look through the window.",
+      "g_th": " มองออกไปนอกหน้าต่าง",
+      "g_tw": " 看向窗戶",
+      "g_tw_cn": " 看向窗户",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] 목소리가 들린 방향을 바라본다.\\n[ns2] 창문을 바라본다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 16,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2685663233
+    }
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 16,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 298
+    }
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 18,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4201771870
+    }
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 18,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:900]― <cmd-char>아리스 결전</cmd-char>えへへ。[wa:1520]先生、[wa:1350]驚きましたか？",
+      "j_ko": "[wa:900]― <cmd-char>아리스 결전</cmd-char>에헤헤. [wa:1480]선생님, [wa:1270]놀랐습니까? ",
+      "g_ja": "[wa:900]― <cmd-char>아리스 결전</cmd-char>えへへ。[wa:1520]先生、[wa:1350]驚きましたか？",
+      "g_ko": "[wa:900]― <cmd-char>아리스 결전</cmd-char>에헤헤. [wa:1480]선생님, [wa:1270]놀랐습니까? ",
+      "g_en": "― <cmd-char>아리스 결전</cmd-char>Eheehee. Sensei, were you surprised? [wa:2850] ",
+      "g_th": "― <cmd-char>아리스 결전</cmd-char>แหะๆๆ คุณครู ตกใจเหรอคะ? [wa:3330] ",
+      "g_tw": "― <cmd-char>아리스 결전</cmd-char>耶嘿嘿。老師，嚇到你了嗎？[wa:3810] ",
+      "g_tw_cn": "― <cmd-char>아리스 결전</cmd-char>耶嘿嘿。老师，吓到你了吗？[wa:3810] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:900]― [log=아리스 결전]에헤헤. [wa:1480]선생님, [wa:1270]놀랐습니까? [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 4201771870,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 20,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>아리스 결전</cmd-char>先生と一緒に、[wa:1900]この夜空を見たくて……[wa:1880]呼んだんです。",
+      "j_ko": "― <cmd-char>아리스 결전</cmd-char>그저 선생님과 함께, [wa:1700]이 밤하늘을 보고 싶어서 [wa:1760]불러 봤습니다.",
+      "g_ja": "― <cmd-char>아리스 결전</cmd-char>先生と一緒に、[wa:1900]この夜空を見たくて……[wa:1880]呼んだんです。",
+      "g_ko": "― <cmd-char>아리스 결전</cmd-char>그저 선생님과 함께, [wa:1700]이 밤하늘을 보고 싶어서 [wa:1760]불러 봤습니다.",
+      "g_en": "― <cmd-char>아리스 결전</cmd-char>I called to you because I wanted you to see the night sky with me.[wa:2180] ",
+      "g_th": "― <cmd-char>아리스 결전</cmd-char>อาริสึแค่อยากดูท้องฟ้ายามค่ำคืนกับคุณครู ก็เลยลองเรียกดูค่ะ[wa:2460] ",
+      "g_tw": "― <cmd-char>아리스 결전</cmd-char>因為想和老師一起欣賞這片夜空……所以才會呼喚你。[wa:3860] ",
+      "g_tw_cn": "― <cmd-char>아리스 결전</cmd-char>因为想和老师一起欣赏这片夜空……所以才会呼唤你。[wa:3860] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=아리스 결전]그저 선생님과 함께, [wa:1700]이 밤하늘을 보고 싶어서 [wa:1760]불러 봤습니다.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 23,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2459818444
+    }
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2230]― <cmd-char>아리스 결전</cmd-char>とても……[wa:1630]綺麗ですね。",
+      "j_ko": "[wa:2230]― <cmd-char>아리스 결전</cmd-char>정말로, [wa:1630]아름답네요.",
+      "g_ja": "[wa:2230]― <cmd-char>아리스 결전</cmd-char>とても……[wa:1630]綺麗ですね。",
+      "g_ko": "[wa:2230]― <cmd-char>아리스 결전</cmd-char>정말로, [wa:1630]아름답네요.",
+      "g_en": "― <cmd-char>아리스 결전</cmd-char>Is it not beautiful?[wa:3500] ",
+      "g_th": "― <cmd-char>아리스 결전</cmd-char>สวยมากเลยใช่มั้ยล่ะคะ?[wa:3420] ",
+      "g_tw": "― <cmd-char>아리스 결전</cmd-char>相當……美麗呢。[wa:3980] ",
+      "g_tw_cn": "― <cmd-char>아리스 결전</cmd-char>相当……美丽呢。[wa:3980] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:2230]― [log=아리스 결전]정말로, [wa:1630]아름답네요.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 2459818444,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 26,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>아리스 결전</cmd-char>アリスの世界にも、",
+      "j_ko": "― <cmd-char>아리스 결전</cmd-char>아리스의 세계에는,",
+      "g_ja": "― <cmd-char>아리스 결전</cmd-char>アリスの世界にも、",
+      "g_ko": "― <cmd-char>아리스 결전</cmd-char>아리스의 세계에는,",
+      "g_en": "― <cmd-char>아리스 결전</cmd-char>I am sure that in this world,",
+      "g_th": "― <cmd-char>아리스 결전</cmd-char>ในโลกของอาริสึ",
+      "g_tw": "― <cmd-char>아리스 결전</cmd-char>在愛麗絲的世界，",
+      "g_tw_cn": "― <cmd-char>아리스 결전</cmd-char>在爱丽丝的世界，",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;― [log=아리스 결전]아리스의 세계에는,[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>아리스 결전</cmd-char>まだ行ったことのない世界にも……",
+      "j_ko": "― <cmd-char>아리스 결전</cmd-char>그리고 아직 가보지 못한 세계에도……",
+      "g_ja": "― <cmd-char>아리스 결전</cmd-char>まだ行ったことのない世界にも……",
+      "g_ko": "― <cmd-char>아리스 결전</cmd-char>그리고 아직 가보지 못한 세계에도……",
+      "g_en": "― <cmd-char>아리스 결전</cmd-char>and even in all the worlds I have yet to visit,",
+      "g_th": "― <cmd-char>아리스 결전</cmd-char>และโลกที่ยังไม่เคยไป...",
+      "g_tw": "― <cmd-char>아리스 결전</cmd-char>以及尚未去過的世界……",
+      "g_tw_cn": "― <cmd-char>아리스 결전</cmd-char>以及尚未去过的世界……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=아리스 결전]그리고 아직 가보지 못한 세계에도……[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 31,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>아리스 결전</cmd-char>きっと[wa:1140]こんな綺麗なものが",
+      "j_ko": "― <cmd-char>아리스 결전</cmd-char>분명, [wa:900]이런 아름다운 것들이",
+      "g_ja": "― <cmd-char>아리스 결전</cmd-char>きっと[wa:1140]こんな綺麗なものが",
+      "g_ko": "― <cmd-char>아리스 결전</cmd-char>분명, [wa:900]이런 아름다운 것들이",
+      "g_en": "― <cmd-char>아리스 결전</cmd-char>there must be plenty of[wa:580] ",
+      "g_th": "― <cmd-char>아리스 결전</cmd-char>คงมีสิ่งสวยงามแบบนี้[wa:700] ",
+      "g_tw": "― <cmd-char>아리스 결전</cmd-char>想必都有很多[wa:1260] ",
+      "g_tw_cn": "― <cmd-char>아리스 결전</cmd-char>想必都有很多[wa:1260] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;― [log=아리스 결전]분명, [wa:900]이런 아름다운 것들이[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 33,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>아리스 결전</cmd-char>たくさんあると思うんです。",
+      "j_ko": "― <cmd-char>아리스 결전</cmd-char>잔뜩 있을 테지요. ",
+      "g_ja": "― <cmd-char>아리스 결전</cmd-char>たくさんあると思うんです。",
+      "g_ko": "― <cmd-char>아리스 결전</cmd-char>잔뜩 있을 테지요. ",
+      "g_en": "― <cmd-char>아리스 결전</cmd-char>beautiful things, just like this.",
+      "g_th": "― <cmd-char>아리스 결전</cmd-char>อยู่เยอะเลยใช่มั้ยคะ",
+      "g_tw": "― <cmd-char>아리스 결전</cmd-char>這麼美麗的事物吧。",
+      "g_tw_cn": "― <cmd-char>아리스 결전</cmd-char>这么美丽的事物吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=아리스 결전]잔뜩 있을 테지요. [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 36,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1946608799
+    }
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 36,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2900]― <cmd-char>아리스 결전</cmd-char>でも……[wa:1430]不思議です。",
+      "j_ko": "[wa:2900]― <cmd-char>아리스 결전</cmd-char>하지만, [wa:1390]이상합니다.",
+      "g_ja": "[wa:2900]― <cmd-char>아리스 결전</cmd-char>でも……[wa:1430]不思議です。",
+      "g_ko": "[wa:2900]― <cmd-char>아리스 결전</cmd-char>하지만, [wa:1390]이상합니다.",
+      "g_en": "― <cmd-char>아리스 결전</cmd-char>That is why it is so strange.[wa:3570] ",
+      "g_th": "― <cmd-char>아리스 결전</cmd-char>แต่ก็แปลกนะคะ[wa:4210] ",
+      "g_tw": "― <cmd-char>아리스 결전</cmd-char>但是……很神奇。[wa:4410] ",
+      "g_tw_cn": "― <cmd-char>아리스 결전</cmd-char>但是……很神奇。[wa:4410] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:2900]― [log=아리스 결전]하지만, [wa:1390]이상합니다.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1946608799,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 39,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>아리스 결전</cmd-char>世界って、[wa:1790]こんなに綺麗なのに……",
+      "j_ko": "― <cmd-char>아리스 결전</cmd-char>세상은 [wa:1830]이토록 아름다운데……",
+      "g_ja": "― <cmd-char>아리스 결전</cmd-char>世界って、[wa:1790]こんなに綺麗なのに……",
+      "g_ko": "― <cmd-char>아리스 결전</cmd-char>세상은 [wa:1830]이토록 아름다운데……",
+      "g_en": "― <cmd-char>아리스 결전</cmd-char>When there is so much beauty in this world...[wa:630] ",
+      "g_th": "― <cmd-char>아리스 결전</cmd-char>โลกนี้สวยงามถึงเพียงนี้...[wa:1390] ",
+      "g_tw": "― <cmd-char>아리스 결전</cmd-char>世界明明這麼美麗……[wa:2030] ",
+      "g_tw_cn": "― <cmd-char>아리스 결전</cmd-char>世界明明这么美丽……[wa:2030] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;― [log=아리스 결전]세상은 [wa:1830]이토록 아름다운데……[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>아리스 결전</cmd-char>どうして人は争うんでしょう？",
+      "j_ko": "― <cmd-char>아리스 결전</cmd-char>사람들은 어째서 싸우는 걸까요?",
+      "g_ja": "― <cmd-char>아리스 결전</cmd-char>どうして人は争うんでしょう？",
+      "g_ko": "― <cmd-char>아리스 결전</cmd-char>사람들은 어째서 싸우는 걸까요?",
+      "g_en": "― <cmd-char>아리스 결전</cmd-char>Why do people choose to fight?",
+      "g_th": "― <cmd-char>아리스 결전</cmd-char>แต่ทำไมผู้คนถึงได้ทะเลาะกันล่ะคะ?",
+      "g_tw": "― <cmd-char>아리스 결전</cmd-char>為什麼人卻要爭鬥呢？",
+      "g_tw_cn": "― <cmd-char>아리스 결전</cmd-char>为什么人却要争斗呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=아리스 결전]사람들은 어째서 싸우는 걸까요?[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 44,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1804424542
+    }
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1740]― <cmd-char>아리스 결전</cmd-char>あの星空みたいに、",
+      "j_ko": "[wa:1740]― <cmd-char>아리스 결전</cmd-char>저 밤하늘의 별처럼,",
+      "g_ja": "[wa:1740]― <cmd-char>아리스 결전</cmd-char>あの星空みたいに、",
+      "g_ko": "[wa:1740]― <cmd-char>아리스 결전</cmd-char>저 밤하늘의 별처럼,",
+      "g_en": "― <cmd-char>아리스 결전</cmd-char>Just like the stars that speckle the night,[wa:460] ",
+      "g_th": "― <cmd-char>아리스 결전</cmd-char>โลกใบนี้มีสิ่งสวยงาม[wa:1380] ",
+      "g_tw": "― <cmd-char>아리스 결전</cmd-char>就像那片星空一樣，[wa:1820] ",
+      "g_tw_cn": "― <cmd-char>아리스 결전</cmd-char>就像那片星空一样，[wa:1820] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1740]― [log=아리스 결전]저 밤하늘의 별처럼,[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1804424542,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>아리스 결전</cmd-char>この世界は、",
+      "j_ko": "― <cmd-char>아리스 결전</cmd-char>이 세상에는",
+      "g_ja": "― <cmd-char>아리스 결전</cmd-char>この世界は、",
+      "g_ko": "― <cmd-char>아리스 결전</cmd-char>이 세상에는",
+      "g_en": "― <cmd-char>아리스 결전</cmd-char>I am sure the world",
+      "g_th": "― <cmd-char>아리스 결전</cmd-char>มากพอ",
+      "g_tw": "― <cmd-char>아리스 결전</cmd-char>這個世界，",
+      "g_tw_cn": "― <cmd-char>아리스 결전</cmd-char>这个世界，",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=아리스 결전]이 세상에는[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>아리스 결전</cmd-char>みんなで分け合っても",
+      "j_ko": "― <cmd-char>아리스 결전</cmd-char>모두가 나눠 가져도",
+      "g_ja": "― <cmd-char>아리스 결전</cmd-char>みんなで分け合っても",
+      "g_ko": "― <cmd-char>아리스 결전</cmd-char>모두가 나눠 가져도",
+      "g_en": "― <cmd-char>아리스 결전</cmd-char>is full of more than enough",
+      "g_th": "― <cmd-char>아리스 결전</cmd-char>ให้เราทุกคนแบ่งกันได้",
+      "g_tw": "― <cmd-char>아리스 결전</cmd-char>明明充滿著大家一起分享",
+      "g_tw_cn": "― <cmd-char>아리스 결전</cmd-char>明明充满着大家一起分享",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;― [log=아리스 결전]모두가 나눠 가져도[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>아리스 결전</cmd-char>大丈夫なくらい[wa:1840]美しいもので[wa:780]あふれているのに……。",
+      "j_ko": "― <cmd-char>아리스 결전</cmd-char>괜찮을 만큼 [wa:1760]아름다운 것들로 [wa:660]넘쳐날 텐데.[wa:120] ",
+      "g_ja": "― <cmd-char>아리스 결전</cmd-char>大丈夫なくらい[wa:1840]美しいもので[wa:780]あふれているのに……。",
+      "g_ko": "― <cmd-char>아리스 결전</cmd-char>괜찮을 만큼 [wa:1760]아름다운 것들로 [wa:660]넘쳐날 텐데.[wa:120] ",
+      "g_en": "― <cmd-char>아리스 결전</cmd-char>beautiful things for everyone to share.[wa:1940] ",
+      "g_th": "― <cmd-char>아리스 결전</cmd-char>เหมือนกับดวงดาวในท้องฟ้านั้นแท้ๆ [wa:2180] ",
+      "g_tw": "― <cmd-char>아리스 결전</cmd-char>也足夠的美麗事物才對……[wa:3020] ",
+      "g_tw_cn": "― <cmd-char>아리스 결전</cmd-char>也足够的美丽事物才对……[wa:3020] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=아리스 결전]괜찮을 만큼 [wa:1760]아름다운 것들로 [wa:660]넘쳐날 텐데.[wa:120] [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 54,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1561094396
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 54,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2640]― <cmd-char>아리스 결전</cmd-char>……やっぱり、[wa:1880]アリスにはまだわかりません。",
+      "j_ko": "[wa:2640]― <cmd-char>아리스 결전</cmd-char>……역시, [wa:1920]아리스는 아직 잘 모르겠습니다.",
+      "g_ja": "[wa:2640]― <cmd-char>아리스 결전</cmd-char>……やっぱり、[wa:1880]アリスにはまだわかりません。",
+      "g_ko": "[wa:2640]― <cmd-char>아리스 결전</cmd-char>……역시, [wa:1920]아리스는 아직 잘 모르겠습니다.",
+      "g_en": "― <cmd-char>아리스 결전</cmd-char>...It really is difficult for me to understand.[wa:3600] ",
+      "g_th": "― <cmd-char>아리스 결전</cmd-char>อาริสึ... ยังไม่ค่อยเข้าใจเรื่องแบบนี้จริงๆ ด้วยค่ะ[wa:3440] ",
+      "g_tw": "― <cmd-char>아리스 결전</cmd-char>……果然，愛麗絲還是不太明白。[wa:4880] ",
+      "g_tw_cn": "― <cmd-char>아리스 결전</cmd-char>……果然，爱丽丝还是不太明白。[wa:4880] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:2640]― [log=아리스 결전]……역시, [wa:1920]아리스는 아직 잘 모르겠습니다.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1561094396,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 56,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 57,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_DoorOpen_06"
+    }
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 58,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1697477894
+    }
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 59,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えへへ。アリス、戻りました。",
+      "j_ko": "에헤헤, 다녀왔습니다.",
+      "g_ja": "えへへ。アリス、戻りました。",
+      "g_ko": "에헤헤, 다녀왔습니다.",
+      "g_en": "Heehee, aaand I have returned.",
+      "g_th": "แหะๆๆ กลับมาแล้วค่ะ",
+      "g_tw": "耶嘿嘿，愛麗絲回來了。",
+      "g_tw_cn": "耶嘿嘿，爱丽丝回来了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2714160656,
+    "DataType": "speaker",
+    "Script": "3;아리스 결전;07;에헤헤, 다녀왔습니다.\\n#3;em;[재잘]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 60,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 60,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……っくしゅっ！",
+      "j_ko": "……엣취!",
+      "g_ja": "……っくしゅっ！",
+      "g_ko": "……엣취!",
+      "g_en": "...Achoo!",
+      "g_th": "ฮัดชิ่ว...!",
+      "g_tw": "……哈啾！",
+      "g_tw_cn": "……哈啾！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2714160656,
+    "DataType": "speaker",
+    "Script": "3;아리스 결전;08;……엣취!\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"大丈夫？身体冷やしちゃったんじゃない！？\"",
+      "j_ko": " \"아리스, 괜찮아?! 추워?!\"",
+      "g_ja": " \"大丈夫？身体冷やしちゃったんじゃない！？\"",
+      "g_ko": " \"아리스, 괜찮아?! 추워?!\"",
+      "g_en": " \"Aris, are you all right?! Are you cold?!\"",
+      "g_th": " \"อาริสึ เป็นยังไงบ้าง?! หนาวมั้ย?!\"",
+      "g_tw": " 「愛麗絲，你沒事吧！？有沒有著涼！？」",
+      "g_tw_cn": " 「爱丽丝，你没事吧！？有没有着凉！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"아리스, 괜찮아?! 추워?!\"\\n[s4] \"감기 걸린 거 아니야?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"風邪引いちゃったんじゃない！？\"",
+      "j_ko": " \"감기 걸린 거 아니야?!\"",
+      "g_ja": " \"風邪引いちゃったんじゃない！？\"",
+      "g_ko": " \"감기 걸린 거 아니야?!\"",
+      "g_en": " \"Did you catch a cold?!\"",
+      "g_th": " \"เป็นหวัดกลับมาหรือเปล่าน่ะ?!\"",
+      "g_tw": " 「是不是感冒了！？」",
+      "g_tw_cn": " 「是不是感冒了！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"아리스, 괜찮아?! 추워?!\"\\n[s4] \"감기 걸린 거 아니야?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 64,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "大丈夫です！アリスはまだ風邪を引いたことがありません！",
+      "j_ko": "괜찮습니다! 아리스, 아직까지 감기 걸려본 적 없습니다!",
+      "g_ja": "大丈夫です！アリスはまだ風邪を引いたことがありません！",
+      "g_ko": "괜찮습니다! 아리스, 아직까지 감기 걸려본 적 없습니다!",
+      "g_en": "Do not worry! I have never gotten a cold before!",
+      "g_th": "ไม่เป็นไรค่ะ! จนถึงตอนนี้ อาริสึยังไม่เคยเป็นหวัดเลยค่ะ!",
+      "g_tw": "沒事的！愛麗絲從來沒有感冒過！",
+      "g_tw_cn": "没事的！爱丽丝从来没有感冒过！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2714160656,
+    "DataType": "speaker",
+    "Script": "3;아리스 결전;19;괜찮습니다! 아리스, 아직까지 감기 걸려본 적 없습니다!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 65,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あっ、先生の手……。",
+      "j_ko": "아, 선생님 손.",
+      "g_ja": "あっ、先生の手……。",
+      "g_ko": "아, 선생님 손.",
+      "g_en": "Ah, Sensei's hand.",
+      "g_th": "อ๊ะ มือของคุณครู",
+      "g_tw": "啊，老師的手……",
+      "g_tw_cn": "啊，老师的手……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2714160656,
+    "DataType": "speaker",
+    "Script": "3;아리스 결전;03;아, 선생님 손.\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 68,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 69,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_01"
+    }
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "温かくて落ち着きます……。ふふっ。",
+      "j_ko": "따끈따끈해서 기분 좋습니다. 후후.",
+      "g_ja": "温かくて落ち着きます……。ふふっ。",
+      "g_ko": "따끈따끈해서 기분 좋습니다. 후후.",
+      "g_en": "It is so nice and warm. Heehee.",
+      "g_th": "อบอุ่นจนทำให้รู้สึกดีเลยนะคะ ฮุฮุ",
+      "g_tw": "暖暖的真舒服呢……呵呵。",
+      "g_tw_cn": "暖暖的真舒服呢……呵呵。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2714160656,
+    "DataType": "speaker",
+    "Script": "3;아리스 결전;20;따끈따끈해서 기분 좋습니다. 후후.\\n#3;em;[하트]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Heart",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 71,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（温めてあげていたら、そのままアリスは眠ってしまった）",
+      "j_ko": "(한동안 아리스의 몸이 따뜻해질 때까지 껴안아 주었다.)",
+      "g_ja": "（温めてあげていたら、そのままアリスは眠ってしまった）",
+      "g_ko": "(한동안 아리스의 몸이 따뜻해질 때까지 껴안아 주었다.)",
+      "g_en": "I hugged Aris until I felt her warm up, and she slowly fell asleep.",
+      "g_th": "(คุณครูกอดอาริสึไว้สักพักจนตัวของเธออบอุ่นขึ้น)",
+      "g_tw": "（就這樣抱著愛麗絲，直到他的身體變暖為止）",
+      "g_tw_cn": "（就这样抱着爱丽丝，直到他的身体变暖为止）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(한동안 아리스의 몸이 따뜻해질 때까지 껴안아 주었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 73,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（起こさないように、アリスを部屋まで運んであげた）",
+      "j_ko": "(……품속에서 잠든 아리스를 방 침대에 눕혀주고 돌아왔다.)",
+      "g_ja": "（起こさないように、アリスを部屋まで運んであげた）",
+      "g_ko": "(……품속에서 잠든 아리스를 방 침대에 눕혀주고 돌아왔다.)",
+      "g_en": "...Then, I carried her, fast asleep, back to her bed.",
+      "g_th": "(แต่กลายเป็นว่าอาริสึหลับไปในอ้อมกอด คุณครูจึงพาเธอไปนอน...)",
+      "g_tw": "（……把在懷中睡著的愛麗絲放回了房間的床上）",
+      "g_tw_cn": "（……把在怀中睡着的爱丽丝放回了房间的床上）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(……품속에서 잠든 아리스를 방 침대에 눕혀주고 돌아왔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

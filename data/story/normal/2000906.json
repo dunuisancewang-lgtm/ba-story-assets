@@ -1,0 +1,952 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2478421354
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 4
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">牛乳製の権威</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">우유로 만든 권위</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">牛乳製の権威</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">우유로 만든 권위</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Milk-Made Authority</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">อำนาจรสนม</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">牛奶製的權威</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">牛奶制的权威</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#Title;우유로 만든 권위",
+    "BGMId": 4,
+    "Sound": "",
+    "BGName": 2478421354,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "温泉から上がって、旅館の売店前に向かうと……。",
+      "j_ko": "(목욕을 마친 뒤, 료칸의 매점 앞에서 다시 체리노를 만났다.)",
+      "g_ja": "温泉から上がって、旅館の売店前に向かうと……。",
+      "g_ko": "(목욕을 마친 뒤, 료칸의 매점 앞에서 다시 체리노를 만났다.)",
+      "g_en": "I met Cherino again in front of the ryokan's stall after I finished bathing.",
+      "g_th": "(หลังแช่น้ำเสร็จแล้ว คุณครูก็มาเจอกับเชริโน่อีกครั้งที่ร้านค้าของที่พัก)",
+      "g_tw": "（泡完溫泉後，正走向旅館前的商店時……）",
+      "g_tw_cn": "（泡完温泉后，正走向旅馆前的商店时……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(목욕을 마친 뒤, 료칸의 매점 앞에서 다시 체리노를 만났다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "なるほど。頭の中がモヤモヤしている時に温泉に入るというのは、思ったより悪くないな。",
+      "j_ko": "후우. 머리가 복잡할 때 탕에 몸을 뉘고 있는 것도 생각보다 나쁘지는 않구나.",
+      "g_ja": "なるほど。頭の中がモヤモヤしている時に温泉に入るというのは、思ったより悪くないな。",
+      "g_ko": "후우. 머리가 복잡할 때 탕에 몸을 뉘고 있는 것도 생각보다 나쁘지는 않구나.",
+      "g_en": "*sigh* Soaking yourself in a bath when your head is preoccupied is better than I thought it'd be.",
+      "g_th": "ฮู่ว... ตอนที่ความคิดฟุ้งซ่าน การไปนอนแช่น้ำก็ไม่ใช่เรื่องแย่เท่าไรเลยนะ",
+      "g_tw": "原來如此。<br/>在思緒混亂的時候泡湯，比想像中還好呢。",
+      "g_tw_cn": "原来如此。<br/>在思绪混乱的时候泡汤，比想像中还好呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2521467177,
+    "DataType": "speaker",
+    "Script": "3;체리노 온천ND;S2_12;후우. 머리가 복잡할 때 탕에 몸을 뉘고 있는 것도 생각보다 나쁘지는 않구나.\\n#3;hophop\\n#3;em;[음표]\\n#3;a",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 3,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "モヤモヤが消えて、心が青空のように澄み渡る気持ちに……。",
+      "j_ko": "복잡한 생각이 사라지며 나른한 기분이 드는 것이…….",
+      "g_ja": "モヤモヤが消えて、心が青空のように澄み渡る気持ちに……。",
+      "g_ko": "복잡한 생각이 사라지며 나른한 기분이 드는 것이…….",
+      "g_en": "My complicated thoughts disappear, and I start to feel drowsy...",
+      "g_th": "พอความคิดฟุ้งซ่านหายไป เราก็รู้สึกง่วงขึ้นมา...",
+      "g_tw": "煩躁感一掃而空，心情就像蔚藍的天空般晴朗……",
+      "g_tw_cn": "烦躁感一扫而空，心情就像蔚蓝的天空般晴朗……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2521467177,
+    "DataType": "speaker",
+    "Script": "3;체리노 온천ND;S2_00;복잡한 생각이 사라지며 나른한 기분이 드는 것이…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 4,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "これが修行者たちが言う、「無我の境地」というものか。",
+      "j_ko": "설마, 이것이 수행자들이 말하는 무아정적의 경지라는 것인가?",
+      "g_ja": "これが修行者たちが言う、「無我の境地」というものか。",
+      "g_ko": "설마, 이것이 수행자들이 말하는 무아정적의 경지라는 것인가?",
+      "g_en": "Wait, could this be that state of so-called selflessness monks talk about?",
+      "g_th": "หรือว่านี่คือสภาวะการลืมตัวตนที่พวกผู้บำเพ็ญตนพูดถึงกันนะ?",
+      "g_tw": "這就是修行者們所說的「無我的境界」嗎。",
+      "g_tw_cn": "这就是修行者们所说的「无我的境界」吗。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2521467177,
+    "DataType": "speaker",
+    "Script": "3;체리노 온천ND;S2_02;설마, 이것이 수행자들이 말하는 무아정적의 경지라는 것인가?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "おいらは元々偉大だったが、まさか大人の階段を越えて聖者の階段まで一気に登ることになるとは……。",
+      "j_ko": "이 몸의 위대함은 익히 알고 있었지만, 설마 어른의 계단을 넘어 성인(聖人)의 계단까지 단숨에 오르게 되었을 줄이야…….",
+      "g_ja": "おいらは元々偉大だったが、まさか大人の階段を越えて聖者の階段まで一気に登ることになるとは……。",
+      "g_ko": "이 몸의 위대함은 익히 알고 있었지만, 설마 어른의 계단을 넘어 성인(聖人)의 계단까지 단숨에 오르게 되었을 줄이야…….",
+      "g_en": "I knew I was amazing, but I never thought I'd climb right over the stairs of adulthood and jump straight onto those of sainthood.",
+      "g_th": "ถึงเราจะรู้จักความยิ่งใหญ่ดีก็เถอะ แต่แบบนี้แสดงว่าเราจะก้าวข้ามผ่านหนทางของการเป็นผู้ใหญ่<br/>ไปสู่หนทางแห่งการเป็นนักปราชญ์เลยงั้นเหรอ...",
+      "g_tw": "雖然咱本來就很偉大，沒想到可以一口氣越過大人的階梯，直接到達聖人的境界……",
+      "g_tw_cn": "虽然咱本来就很伟大，没想到可以一口气越过大人的阶梯，直接到达圣人的境界……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2521467177,
+    "DataType": "speaker",
+    "Script": "3;체리노 온천ND;S2_09;이 몸의 위대함은 익히 알고 있었지만, 설마 어른의 계단을 넘어 성인(聖人)의 계단까지 단숨에 오르게 되었을 줄이야…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 6,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ものすごい速度の精神的成長、自分でも恐ろしいくらいだ。",
+      "j_ko": "엄청난 속도의 내적 성장에 스스로가 두려워질 정도로군.",
+      "g_ja": "ものすごい速度の精神的成長、自分でも恐ろしいくらいだ。",
+      "g_ko": "엄청난 속도의 내적 성장에 스스로가 두려워질 정도로군.",
+      "g_en": "I'm actually starting to get scared of the rapidity of my inner growth.",
+      "g_th": "เป็นการเติบโตอย่างก้าวกระโดดที่น่ากลัวจริงๆ",
+      "g_tw": "心靈的成長實在太快，連咱自己都覺得害怕啊。",
+      "g_tw_cn": "心灵的成长实在太快，连咱自己都觉得害怕啊。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2521467177,
+    "DataType": "speaker",
+    "Script": "3;체리노 온천ND;S2_12;엄청난 속도의 내적 성장에 스스로가 두려워질 정도로군.\\n#3;hophop\\n#3;em;[재잘]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"そしたらフルーツ牛乳はもう要らない？\"",
+      "j_ko": " \"그럼 후르츠 밀크는 마시지 않아도 괜찮아?\"",
+      "g_ja": " \"そしたらフルーツ牛乳はもう要らない？\"",
+      "g_ko": " \"그럼 후르츠 밀크는 마시지 않아도 괜찮아?\"",
+      "g_en": " \"Then are you okay with not drinking fruit milk?\"",
+      "g_th": " \"งั้นไม่ต้องดื่มนมรสผลไม้ก็ได้ใช่มั้ย?\"",
+      "g_tw": " 「所以不需要水果牛奶囉？」",
+      "g_tw_cn": " 「所以不需要水果牛奶啰？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그럼 후르츠 밀크는 마시지 않아도 괜찮아?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 8,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そんなわけあるか！",
+      "j_ko": "그럴 리가 없지 않느냐!",
+      "g_ja": "そんなわけあるか！",
+      "g_ko": "그럴 리가 없지 않느냐!",
+      "g_en": "Of course not!",
+      "g_th": "จะเป็นอย่างนั้นได้ไงกันน่ะ!",
+      "g_tw": "那怎麼可能呢！",
+      "g_tw_cn": "那怎么可能呢！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2521467177,
+    "DataType": "speaker",
+    "Script": "3;체리노 온천ND;S2_05;그럴 리가 없지 않느냐!\\n#3;em;[빠직]\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Angry",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "精神的な成長と、美味しいものが欲しいという気持ちは完全に別物！",
+      "j_ko": "성인의 경지에 다다르는 것과 맛있는 음식을 먹는 건 별개라고!",
+      "g_ja": "精神的な成長と、美味しいものが欲しいという気持ちは完全に別物！",
+      "g_ko": "성인의 경지에 다다르는 것과 맛있는 음식을 먹는 건 별개라고!",
+      "g_en": "Reaching sainthood and eating delicious food are entirely separate!",
+      "g_th": "การก้าวไปถึงหนทางสู่การเป็นนักปราชญ์กับการกินของอร่อยมันคนละเรื่องกันนะ!",
+      "g_tw": "心靈的成長和想要享受美食的心情完全是兩回事！",
+      "g_tw_cn": "心灵的成长和想要享受美食的心情完全是两回事！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2521467177,
+    "DataType": "speaker",
+    "Script": "3;체리노 온천ND;S2_09;성인의 경지에 다다르는 것과 맛있는 음식을 먹는 건 별개라고!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "早くそのフルーツ牛乳をくれ！",
+      "j_ko": "어서 그 후르츠 밀크를 이리 주게!",
+      "g_ja": "早くそのフルーツ牛乳をくれ！",
+      "g_ko": "어서 그 후르츠 밀크를 이리 주게!",
+      "g_en": "Give me that fruit milk right now!",
+      "g_th": "รีบส่งนมรสผลไม้มาให้เราเถอะน่า!",
+      "g_tw": "快把水果牛奶給咱！",
+      "g_tw_cn": "快把水果牛奶给咱！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2521467177,
+    "DataType": "speaker",
+    "Script": "3;체리노 온천ND;S2_01;어서 그 후르츠 밀크를 이리 주게!\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 13,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 16,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 16,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " チェリノにフルーツ牛乳を渡す。",
+      "j_ko": " 체리노에게 후르츠 밀크를 건넨다.",
+      "g_ja": " チェリノにフルーツ牛乳を渡す。",
+      "g_ko": " 체리노에게 후르츠 밀크를 건넨다.",
+      "g_en": " Hand Cherino a fruit milk.",
+      "g_th": " ยื่นนมรสผลไม้ให้เชริโน่",
+      "g_tw": " 把水果牛奶遞給潔莉諾",
+      "g_tw_cn": " 把水果牛奶递给洁莉诺",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] 체리노에게 후르츠 밀크를 건넨다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふむ。フルーツ牛乳とは普通の白い牛乳と違って、甘い香りがするものなんだな。",
+      "j_ko": "흐음. 평범한 흰 우유와는 달리 후르츠 밀크는 달콤한 향이 나는 것이 무척이나 먹음직스러워 보이는구나.",
+      "g_ja": "ふむ。フルーツ牛乳とは普通の白い牛乳と違って、甘い香りがするものなんだな。",
+      "g_ko": "흐음. 평범한 흰 우유와는 달리 후르츠 밀크는 달콤한 향이 나는 것이 무척이나 먹음직스러워 보이는구나.",
+      "g_en": "Hmm, unlike ordinary milk, fruit milk's sweet scent makes it appetizing.",
+      "g_th": "อื้มมม นมรสผลไม้นี่มีกลิ่นหอมหวานชวนให้ดื่มต่างกับนมทั่วๆ ไปเลยนะ",
+      "g_tw": "呼呣。水果牛奶和原味牛奶不一樣，散發著一股香甜的味道呢！",
+      "g_tw_cn": "呼呣。水果牛奶和原味牛奶不一样，散发着一股香甜的味道呢！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2521467177,
+    "DataType": "speaker",
+    "Script": "3;체리노 온천ND;S2_02;흐음. 평범한 흰 우유와는 달리 후르츠 밀크는 달콤한 향이 나는 것이 무척이나 먹음직스러워 보이는구나.\\n#3;em;[///]\\n#3;stiff\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 18,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "どれどれ……。",
+      "j_ko": "어디 한번…….",
+      "g_ja": "どれどれ……。",
+      "g_ko": "어디 한번…….",
+      "g_en": "Let me try it.",
+      "g_th": "ไหนขอดูหน่อยซิ...",
+      "g_tw": "趕緊來喝喝看……",
+      "g_tw_cn": "赶紧来喝喝看……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2521467177,
+    "DataType": "speaker",
+    "Script": "3;체리노 온천ND;S2_10;어디 한번…….\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 21,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 21,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 22,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 24,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1495334910
+    }
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 24,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 36
+    }
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 25,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:250]― <cmd-char>체리노 온천ND</cmd-char>んくっ、[wa:800]んくっ……[wa:640]ぷはぁ～！",
+      "j_ko": "[wa:250]― <cmd-char>체리노 온천ND</cmd-char>꿀꺽, [wa:800]꿀꺽…… [wa:640]캬아~",
+      "g_ja": "[wa:250]― <cmd-char>체리노 온천ND</cmd-char>んくっ、[wa:800]んくっ……[wa:640]ぷはぁ～！",
+      "g_ko": "[wa:250]― <cmd-char>체리노 온천ND</cmd-char>꿀꺽, [wa:800]꿀꺽…… [wa:640]캬아~",
+      "g_en": "― <cmd-char>체리노 온천ND</cmd-char>*gulp* *gulp* ...Wow![wa:1330] ",
+      "g_th": "― <cmd-char>체리노 온천ND</cmd-char>อึกๆ... อึกๆ... อ๊าาา~[wa:1290] ",
+      "g_tw": "― <cmd-char>체리노 온천ND</cmd-char>咕嚕，咕嚕…… 哈啊！[wa:1730] ",
+      "g_tw_cn": "― <cmd-char>체리노 온천ND</cmd-char>咕噜，咕噜…… 哈啊！[wa:1730] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:250]― [log=체리노 온천ND]꿀꺽, [wa:800]꿀꺽…… [wa:640]캬아~[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 29,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3057148148
+    }
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:500]― <cmd-char>체리노 온천ND</cmd-char>お風呂上がりの[wa:780]フルーツ牛乳……",
+      "j_ko": "[wa:500]― <cmd-char>체리노 온천ND</cmd-char>목욕 후의 [wa:780]후르츠 밀크……",
+      "g_ja": "[wa:500]― <cmd-char>체리노 온천ND</cmd-char>お風呂上がりの[wa:780]フルーツ牛乳……",
+      "g_ko": "[wa:500]― <cmd-char>체리노 온천ND</cmd-char>목욕 후의 [wa:780]후르츠 밀크……",
+      "g_en": "― <cmd-char>체리노 온천ND</cmd-char>Heehee. The taste of fruit milk after a bath...[wa:10] ",
+      "g_th": "― <cmd-char>체리노 온천ND</cmd-char>ได้ดื่มนมรสผลไม้ หลังจากแช่น้ำร้อน[wa:480] ",
+      "g_tw": "― <cmd-char>체리노 온천ND</cmd-char>泡完澡之後喝杯水果牛奶……[wa:1320] ",
+      "g_tw_cn": "― <cmd-char>체리노 온천ND</cmd-char>泡完澡之后喝杯水果牛奶……[wa:1320] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:500]― [log=체리노 온천ND]목욕 후의 [wa:780]후르츠 밀크……[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 3057148148,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 31,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>체리노 온천ND</cmd-char>これは素晴らしいな！",
+      "j_ko": "― <cmd-char>체리노 온천ND</cmd-char>이것은 정말 훌륭하군!",
+      "g_ja": "― <cmd-char>체리노 온천ND</cmd-char>これは素晴らしいな！",
+      "g_ko": "― <cmd-char>체리노 온천ND</cmd-char>이것은 정말 훌륭하군!",
+      "g_en": "― <cmd-char>체리노 온천ND</cmd-char>This is the absolute best!",
+      "g_th": "― <cmd-char>체리노 온천ND</cmd-char>แบบนี้มัน...ยอดเยี่ยมจริงๆ เลย",
+      "g_tw": "― <cmd-char>체리노 온천ND</cmd-char>這感覺真棒啊！",
+      "g_tw_cn": "― <cmd-char>체리노 온천ND</cmd-char>这感觉真棒啊！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=체리노 온천ND]이것은 정말 훌륭하군![/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 34,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1760939595
+    }
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:550]― <cmd-char>체리노 온천ND</cmd-char>うん？[wa:1000]どうかしたのか、[wa:710]カムラッド？",
+      "j_ko": "[wa:550]― <cmd-char>체리노 온천ND</cmd-char>응? [wa:1000]무슨 일 있는가, [wa:710]콤라드?",
+      "g_ja": "[wa:550]― <cmd-char>체리노 온천ND</cmd-char>うん？[wa:1000]どうかしたのか、[wa:710]カムラッド？",
+      "g_ko": "[wa:550]― <cmd-char>체리노 온천ND</cmd-char>응? [wa:1000]무슨 일 있는가, [wa:710]콤라드?",
+      "g_en": "― <cmd-char>체리노 온천ND</cmd-char>Hmm? Why are you looking at me like that, Comrade?[wa:940] ",
+      "g_th": "― <cmd-char>체리노 온천ND</cmd-char>หืม? ทำไมถึงจ้องเราแบบนั้นล่ะ สหาย?[wa:1540] ",
+      "g_tw": "― <cmd-char>체리노 온천ND</cmd-char>嗯？怎麼了嗎？同志？[wa:2540] ",
+      "g_tw_cn": "― <cmd-char>체리노 온천ND</cmd-char>嗯？怎么了吗？同志？[wa:2540] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:550]― [log=체리노 온천ND]응? [wa:1000]무슨 일 있는가, [wa:710]콤라드?[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1760939595,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 36,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>체리노 온천ND</cmd-char>おいらの顔に[wa:1260]何かついてるか？",
+      "j_ko": "― <cmd-char>체리노 온천ND</cmd-char>이 몸의 얼굴에 [wa:1260]뭔가 묻은 건가?",
+      "g_ja": "― <cmd-char>체리노 온천ND</cmd-char>おいらの顔に[wa:1260]何かついてるか？",
+      "g_ko": "― <cmd-char>체리노 온천ND</cmd-char>이 몸의 얼굴에 [wa:1260]뭔가 묻은 건가?",
+      "g_en": "― <cmd-char>체리노 온천ND</cmd-char>Is there something on my face?[wa:780] ",
+      "g_th": "― <cmd-char>체리노 온천ND</cmd-char>ที่หน้าของเรามีอะไรติดอยู่งั้นเหรอ?[wa:580] ",
+      "g_tw": "― <cmd-char>체리노 온천ND</cmd-char>咱的臉上沾到什麼東西了嗎？[wa:1460] ",
+      "g_tw_cn": "― <cmd-char>체리노 온천ND</cmd-char>咱的脸上沾到什么东西了吗？[wa:1460] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=체리노 온천ND]이 몸의 얼굴에 [wa:1260]뭔가 묻은 건가?[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 39,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 713058113
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 39,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:470]― <cmd-char>체리노 온천ND</cmd-char>……[wa:340]なに？[wa:1130]口の周りに[wa:1500]髭みたいな痕が……！？",
+      "j_ko": "[wa:470]― <cmd-char>체리노 온천ND</cmd-char>……[wa:340]뭐? [wa:1130]입 주변에 [wa:1500]수염같은 자국이……!?",
+      "g_ja": "[wa:470]― <cmd-char>체리노 온천ND</cmd-char>……[wa:340]なに？[wa:1130]口の周りに[wa:1500]髭みたいな痕が……！？",
+      "g_ko": "[wa:470]― <cmd-char>체리노 온천ND</cmd-char>……[wa:340]뭐? [wa:1130]입 주변에 [wa:1500]수염같은 자국이……!?",
+      "g_en": "― <cmd-char>체리노 온천ND</cmd-char>Huh? I have a mustache-shaped mark above my mouth?[wa:2360] ",
+      "g_th": "― <cmd-char>체리노 온천ND</cmd-char>...หืม? รอบๆ ปากของเรา... มีรอยนมเปื้อนรูปหนวดเหรอ?[wa:2320] ",
+      "g_tw": "― <cmd-char>체리노 온천ND</cmd-char>……什麼？嘴巴周圍有鬍子形狀的痕跡……！？[wa:3520] ",
+      "g_tw_cn": "― <cmd-char>체리노 온천ND</cmd-char>……什么？嘴巴周围有胡子形状的痕迹……！？[wa:3520] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:470]― [log=체리노 온천ND]……[wa:340]뭐? [wa:1130]입 주변에 [wa:1500]수염같은 자국이……!?[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 713058113,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 42,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1524210217
+    }
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:160]― <cmd-char>체리노 온천ND</cmd-char>うおぉ、[wa:610]本当だ！？",
+      "j_ko": "[wa:160]― <cmd-char>체리노 온천ND</cmd-char>우와, [wa:610]정말이잖아? ",
+      "g_ja": "[wa:160]― <cmd-char>체리노 온천ND</cmd-char>うおぉ、[wa:610]本当だ！？",
+      "g_ko": "[wa:160]― <cmd-char>체리노 온천ND</cmd-char>우와, [wa:610]정말이잖아? ",
+      "g_en": "― <cmd-char>체리노 온천ND</cmd-char>Woah, it's true![wa:570] ",
+      "g_th": "― <cmd-char>체리노 온천ND</cmd-char>ว้าว? จริงเหรอ?[wa:610] ",
+      "g_tw": "― <cmd-char>체리노 온천ND</cmd-char>哇，真的耶！？[wa:930] ",
+      "g_tw_cn": "― <cmd-char>체리노 온천ND</cmd-char>哇，真的耶！？[wa:930] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:160]― [log=체리노 온천ND]우와, [wa:610]정말이잖아? [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1524210217,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>체리노 온천ND</cmd-char>牛乳を飲んだだけなのに、[wa:1740]こんなに素晴らしい髭が！",
+      "j_ko": "― <cmd-char>체리노 온천ND</cmd-char>우유만 마셨을 뿐인데, [wa:1740]이렇게 멋진 수염이……!",
+      "g_ja": "― <cmd-char>체리노 온천ND</cmd-char>牛乳を飲んだだけなのに、[wa:1740]こんなに素晴らしい髭が！",
+      "g_ko": "― <cmd-char>체리노 온천ND</cmd-char>우유만 마셨을 뿐인데, [wa:1740]이렇게 멋진 수염이……!",
+      "g_en": "― <cmd-char>체리노 온천ND</cmd-char>All I did was drink milk, but now I have an awesome mustache![wa:340] ",
+      "g_th": "― <cmd-char>체리노 온천ND</cmd-char>เราแค่ดื่มนมเองนะ ก็ได้หนวดสุดเท่อันใหม่เลย![wa:1020] ",
+      "g_tw": "― <cmd-char>체리노 온천ND</cmd-char>只是喝個牛奶，就有這麼棒的鬍子！[wa:2140] ",
+      "g_tw_cn": "― <cmd-char>체리노 온천ND</cmd-char>只是喝个牛奶，就有这么棒的胡子！[wa:2140] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=체리노 온천ND]우유만 마셨을 뿐인데, [wa:1740]이렇게 멋진 수염이……![/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>체리노 온천ND</cmd-char>こんなに美味しい飲み物なのに、",
+      "j_ko": "― <cmd-char>체리노 온천ND</cmd-char>맛있는 음료를 마셨을 뿐인데,",
+      "g_ja": "― <cmd-char>체리노 온천ND</cmd-char>こんなに美味しい飲み物なのに、",
+      "g_ko": "― <cmd-char>체리노 온천ND</cmd-char>맛있는 음료를 마셨을 뿐인데,",
+      "g_en": "― <cmd-char>체리노 온천ND</cmd-char>I can enjoy yummy drinks",
+      "g_th": "― <cmd-char>체리노 온천ND</cmd-char>ได้ดื่มนมแสนอร่อย...",
+      "g_tw": "― <cmd-char>체리노 온천ND</cmd-char>喝著這麼美味的飲料，",
+      "g_tw_cn": "― <cmd-char>체리노 온천ND</cmd-char>喝着这么美味的饮料，",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;― [log=체리노 온천ND]맛있는 음료를 마셨을 뿐인데,[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>체리노 온천ND</cmd-char>新しい髭まで手に入るとは……",
+      "j_ko": "― <cmd-char>체리노 온천ND</cmd-char>새로운 수염까지 얻을 수 있다니……",
+      "g_ja": "― <cmd-char>체리노 온천ND</cmd-char>新しい髭まで手に入るとは……",
+      "g_ko": "― <cmd-char>체리노 온천ND</cmd-char>새로운 수염까지 얻을 수 있다니……",
+      "g_en": "― <cmd-char>체리노 온천ND</cmd-char>and get a new mustache as well?",
+      "g_th": "― <cmd-char>체리노 온천ND</cmd-char>แถมยังได้หนวดใหม่มาด้วยงั้นเหรอเนี่ย...",
+      "g_tw": "― <cmd-char>체리노 온천ND</cmd-char>竟然還能得到新的鬍子……",
+      "g_tw_cn": "― <cmd-char>체리노 온천ND</cmd-char>竟然还能得到新的胡子……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=체리노 온천ND]새로운 수염까지 얻을 수 있다니……[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 52,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3819358014
+    }
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:180]― <cmd-char>체리노 온천ND</cmd-char>素晴らしい！[wa:1160]カムラッド、[wa:730]もっとだ！",
+      "j_ko": "[wa:180]― <cmd-char>체리노 온천ND</cmd-char>굉장하군! [wa:1160]콤라드, [wa:730]좀 더 가져오게!",
+      "g_ja": "[wa:180]― <cmd-char>체리노 온천ND</cmd-char>素晴らしい！[wa:1160]カムラッド、[wa:730]もっとだ！",
+      "g_ko": "[wa:180]― <cmd-char>체리노 온천ND</cmd-char>굉장하군! [wa:1160]콤라드, [wa:730]좀 더 가져오게!",
+      "g_en": "― <cmd-char>체리노 온천ND</cmd-char>Amazing! Comrade, bring more fruit milk! Immediately![wa:750] ",
+      "g_th": "― <cmd-char>체리노 온천ND</cmd-char>สุดยอดเลย! สหาย! ไปเอามาให้เราอีกเร็วเข้า![wa:1190] ",
+      "g_tw": "― <cmd-char>체리노 온천ND</cmd-char>太棒了！同志，再給咱多一點！[wa:2310] ",
+      "g_tw_cn": "― <cmd-char>체리노 온천ND</cmd-char>太棒了！同志，再给咱多一点！[wa:2310] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:180]― [log=체리노 온천ND]굉장하군! [wa:1160]콤라드, [wa:730]좀 더 가져오게![/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 3819358014,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 54,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>체리노 온천ND</cmd-char>もっとこのフルーツ牛乳を[wa:1660]たくさん取ってきてくれ！",
+      "j_ko": "― <cmd-char>체리노 온천ND</cmd-char>좀 더 이 후르츠 밀크를 [wa:1660]잔뜩 가져오는 거야!",
+      "g_ja": "― <cmd-char>체리노 온천ND</cmd-char>もっとこのフルーツ牛乳を[wa:1660]たくさん取ってきてくれ！",
+      "g_ko": "― <cmd-char>체리노 온천ND</cmd-char>좀 더 이 후르츠 밀크를 [wa:1660]잔뜩 가져오는 거야!",
+      "g_en": "― <cmd-char>체리노 온천ND</cmd-char>I need a whole lot more of this fruit milk![wa:940] ",
+      "g_th": "― <cmd-char>체리노 온천ND</cmd-char> เราอยากได้นมรสผลไม้อีก![wa:1700] ",
+      "g_tw": "― <cmd-char>체리노 온천ND</cmd-char>再把更多的水果牛奶拿來給咱吧！[wa:2060] ",
+      "g_tw_cn": "― <cmd-char>체리노 온천ND</cmd-char>再把更多的水果牛奶拿来给咱吧！[wa:2060] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=체리노 온천ND]좀 더 이 후르츠 밀크를 [wa:1660]잔뜩 가져오는 거야![/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 56,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2478421354
+    }
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 57,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ん？あれ、髭が消えた……？",
+      "j_ko": "으응? 벌써 수염 자국이 사라졌잖아? ",
+      "g_ja": "ん？あれ、髭が消えた……？",
+      "g_ko": "으응? 벌써 수염 자국이 사라졌잖아? ",
+      "g_en": "What? The mustache already disappeared? ",
+      "g_th": "หืม? รอยรูปหนวดหายไปแล้วเหรอ?  ",
+      "g_tw": "嗯？咦，鬍子不見了……？",
+      "g_tw_cn": "嗯？咦，胡子不见了……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2521467177,
+    "DataType": "speaker",
+    "Script": "3;체리노 온천ND;S2_02;으응? 벌써 수염 자국이 사라졌잖아? \\n#3;a\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 58,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まあ良いか、どうやらフルーツ牛乳を飲むたびに新しくできるみたいだからな！",
+      "j_ko": "상관없지. 수염 자국은 후르츠 밀크를 마실 때마다 새로 생겨나니까.",
+      "g_ja": "まあ良いか、どうやらフルーツ牛乳を飲むたびに新しくできるみたいだからな！",
+      "g_ko": "상관없지. 수염 자국은 후르츠 밀크를 마실 때마다 새로 생겨나니까.",
+      "g_en": "It doesn't matter. I can get a new mustache every time I drink fruit milk.",
+      "g_th": "ไม่มีปัญหา รอยรูปหนวดน่ะ พอดื่มนมรสผลไม้อีกก็จะเกิดขึ้นใหม่เองนั่นล่ะ",
+      "g_tw": "算了，反正每次喝水果牛奶，都會長出現新的鬍子嘛！",
+      "g_tw_cn": "算了，反正每次喝水果牛奶，都会长出现新的胡子嘛！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2521467177,
+    "DataType": "speaker",
+    "Script": "3;체리노 온천ND;S2_09;상관없지. 수염 자국은 후르츠 밀크를 마실 때마다 새로 생겨나니까.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 59,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "これならば外れて落ちる心配も、汚す心配も無い……",
+      "j_ko": "이렇게 만든 수염은 몸에서 떨어질 염려도, 더러워질 염려도 없으니……",
+      "g_ja": "これならば外れて落ちる心配も、汚す心配も無い……",
+      "g_ko": "이렇게 만든 수염은 몸에서 떨어질 염려도, 더러워질 염려도 없으니……",
+      "g_en": "And I'll never have to worry about my mustache falling off or getting dirty...",
+      "g_th": "หนวดที่เกิดขึ้นจากรอยดื่มนมแบบนี้ ไม่ต้องกลัวว่าจะทำตก หรือว่าจะสกปรก...",
+      "g_tw": "這樣就不用擔心鬍子會脫落，也不用擔心會變髒了……",
+      "g_tw_cn": "这样就不用担心胡子会脱落，也不用担心会变脏了……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2521467177,
+    "DataType": "speaker",
+    "Script": "3;체리노 온천ND;S2_01;이렇게 만든 수염은 몸에서 떨어질 염려도, 더러워질 염려도 없으니……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 60,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "よし！これからはずっと、休まずフルーツ牛乳を飲み続けることにしよう！",
+      "j_ko": "앞으로는 수염 자국이 마르지 않도록 후르츠 밀크를 쉬지 않고 계속 마셔야겠어!",
+      "g_ja": "よし！これからはずっと、休まずフルーツ牛乳を飲み続けることにしよう！",
+      "g_ko": "앞으로는 수염 자국이 마르지 않도록 후르츠 밀크를 쉬지 않고 계속 마셔야겠어!",
+      "g_en": "I'll just keep drinking fruit milk so my mustache doesn't dry out!",
+      "g_th": "ต่อไปเราคงต้องดื่มนมรสผลไม้ต่อไปเรื่อยๆ เพื่อไม่ให้รอยรูปหนวดนี้หายไปแล้วล่ะ!",
+      "g_tw": "好！今後咱就一直不停地喝水果牛奶吧！",
+      "g_tw_cn": "好！今后咱就一直不停地喝水果牛奶吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2521467177,
+    "DataType": "speaker",
+    "Script": "3;체리노 온천ND;S2_12;앞으로는 수염 자국이 마르지 않도록 후르츠 밀크를 쉬지 않고 계속 마셔야겠어!\\n#3;em;[재잘]\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 61,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 62,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "その後チェリノは、10本以上のフルーツ牛乳を飲んでお腹を壊してしまったのだった。",
+      "j_ko": "(이후, 체리노는 열 병이 넘는 후르츠 밀크를 마시고 배탈이 나 밤새도록 고생을 했다고 한다.)",
+      "g_ja": "その後チェリノは、10本以上のフルーツ牛乳を飲んでお腹を壊してしまったのだった。",
+      "g_ko": "(이후, 체리노는 열 병이 넘는 후르츠 밀크를 마시고 배탈이 나 밤새도록 고생을 했다고 한다.)",
+      "g_en": "Cherino suffered from a stomachache all night long, having drunk more than ten bottles of fruit milk.",
+      "g_th": "(หลังจากนั้น เชริโน่ก็ตั้งอกตั้งใจดื่มนมรสผลไม้จนท้องเสียตลอดทั้งคืน)",
+      "g_tw": "（之後，潔莉諾喝了十瓶以上的水果牛奶，把肚子搞壞了）",
+      "g_tw_cn": "（之后，洁莉诺喝了十瓶以上的水果牛奶，把肚子搞坏了）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(이후, 체리노는 열 병이 넘는 후르츠 밀크를 마시고 배탈이 나 밤새도록 고생을 했다고 한다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

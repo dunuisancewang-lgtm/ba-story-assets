@@ -1,0 +1,1555 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 10
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">水着と防御力</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">수영복과 방어력</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">水着と防御力</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">수영복과 방어력</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Swimsuits and Defense</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ชุดว่ายน้ำกับพลังป้องกัน</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">泳裝與防禦力</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">泳装与防御力</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;수영복과 방어력",
+    "BGMId": 10,
+    "Sound": "",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 2,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SandRun_01"
+    }
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 3,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（レンゲが水着姿で山に行くと聞き、慌てて駆けつけた）",
+      "j_ko": "(렌게가 수영복을 입고 산에 간다고 해서 허겁지겁 따라왔다.)",
+      "g_ja": "（レンゲが水着姿で山に行くと聞き、慌てて駆けつけた）",
+      "g_ko": "(렌게가 수영복을 입고 산에 간다고 해서 허겁지겁 따라왔다.)",
+      "g_en": "After Renge told me she was going to the mountains in her swimsuit, I rushed over to meet her.",
+      "g_th": "(พอรู้ว่าเรนเกะจะใส่ชุดว่ายน้ำเข้าไปในภูเขา คุณครูก็รีบตามไป)",
+      "g_tw": "（聽說蓮華打算穿泳裝到山上去，於是慌慌張張地跟了過來）",
+      "g_tw_cn": "（听说莲华打算穿泳装到山上去，于是慌慌张张地跟了过来）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(렌게가 수영복을 입고 산에 간다고 해서 허겁지겁 따라왔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 4,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1589928418
+    }
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 7,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "お、早いね師匠。",
+      "j_ko": "오, 스승님? 생각보다 빨리 왔네?",
+      "g_ja": "お、早いね師匠。",
+      "g_ko": "오, 스승님? 생각보다 빨리 왔네?",
+      "g_en": "Oh, Mentor? You're here early.",
+      "g_th": "โอ้ ท่านอาจารย์? มาเร็วกว่าที่คิดอีกแฮะ?",
+      "g_tw": "哦，師父？你來得比我想像中還快耶？",
+      "g_tw_cn": "哦，师父？你来得比我想像中还快耶？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1024869994,
+    "DataType": "speaker",
+    "Script": "4;렌게;00;오, 스승님? 생각보다 빨리 왔네?\\n#4;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 8,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"滝壺に行くってことだったんだね。\"",
+      "j_ko": " \"폭포에 간다는 이야기였구나.\"",
+      "g_ja": " \"滝壺に行くってことだったんだね。\"",
+      "g_ko": " \"폭포에 간다는 이야기였구나.\"",
+      "g_en": " \"Ah. You wanted to go to a waterfall.\"",
+      "g_th": " \"หมายถึงจะมาน้ำตกนี่เองสินะ\"",
+      "g_tw": "「原來你的意思是要去瀑布啊。」",
+      "g_tw_cn": "「原来你的意思是要去瀑布啊。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"폭포에 간다는 이야기였구나.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "水着を活かせる場所だからね。",
+      "j_ko": "수영복을 입을 수 있는 장소니까.",
+      "g_ja": "水着を活かせる場所だからね。",
+      "g_ko": "수영복을 입을 수 있는 장소니까.",
+      "g_en": "Why else would I wear my swimsuit?",
+      "g_th": "ก็มันเป็นที่ที่ใส่ชุดว่ายน้ำได้นี่นา",
+      "g_tw": "畢竟是需要穿泳裝的地方嘛。",
+      "g_tw_cn": "毕竟是需要穿泳装的地方嘛。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1024869994,
+    "DataType": "speaker",
+    "Script": "4;렌게;02;수영복을 입을 수 있는 장소니까.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あと、アタシにも常識くらいはあるからな！",
+      "j_ko": "그리고, 나도 상식 정도는 있다고!",
+      "g_ja": "あと、アタシにも常識くらいはあるからな！",
+      "g_ko": "그리고, 나도 상식 정도는 있다고!",
+      "g_en": "I do have some amount of common sense, you know!",
+      "g_th": "เห็นอย่างนี้ฉันก็มีสามัญสำนึกกับเขาเหมือนกันนะ!",
+      "g_tw": "而且我還是有基本常識的好嗎！",
+      "g_tw_cn": "而且我还是有基本常识的好吗！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1024869994,
+    "DataType": "speaker",
+    "Script": "4;렌게;11;그리고, 나도 상식 정도는 있다고!\\n#4;em;[///]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……てっきり、水着姿で登山するのかなって。",
+      "j_ko": " \"나는 렌게가 수영복을 입고 등산을 하려는 줄 알았어.\"",
+      "g_ja": " \"……てっきり、水着姿で登山するのかなって。",
+      "g_ko": " \"나는 렌게가 수영복을 입고 등산을 하려는 줄 알았어.\"",
+      "g_en": " \"I really thought you wanted to climb the mountain in your swimsuit.\"",
+      "g_th": " \"ครูคิดว่าเรนเกะจะมาเดินป่าในชุดว่ายน้ำเสียอีก\"",
+      "g_tw": "「我還以為蓮華打算穿泳裝爬山呢。」",
+      "g_tw_cn": "「我还以为莲华打算穿泳装爬山呢。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"나는 렌게가 수영복을 입고 등산을 하려는 줄 알았어.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ええっと……。",
+      "j_ko": "으, 으으음…….",
+      "g_ja": "ええっと……。",
+      "g_ko": "으, 으으음…….",
+      "g_en": "U-Umm... Well...",
+      "g_th": "อะ... อืมม...",
+      "g_tw": "呃，這個嘛……",
+      "g_tw_cn": "呃，这个嘛……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1024869994,
+    "DataType": "speaker",
+    "Script": "4;렌게;14;으, 으으음…….\\n#4;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まぁ……それもやったけど。",
+      "j_ko": "사실…… 수영복 차림으로 등산을 한 건 맞긴 한데 말이야.",
+      "g_ja": "まぁ……それもやったけど。",
+      "g_ko": "사실…… 수영복 차림으로 등산을 한 건 맞긴 한데 말이야.",
+      "g_en": "Technically, I kind of did.",
+      "g_th": "ที่จริง... ฉันก็เดินป่าในชุดว่ายน้ำมาแล้วเหมือนกัน",
+      "g_tw": "其實……我確實是穿著泳裝爬山沒錯。",
+      "g_tw_cn": "其实……我确实是穿着泳装爬山没错。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1024869994,
+    "DataType": "speaker",
+    "Script": "4;렌게;06;사실…… 수영복 차림으로 등산을 한 건 맞긴 한데 말이야.\\n#4;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 14,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"嘘でしょ！？\"",
+      "j_ko": " \"정말로 했었다고?!\"",
+      "g_ja": " \"嘘でしょ！？\"",
+      "g_ko": " \"정말로 했었다고?!\"",
+      "g_en": " \"Seriously?!\"",
+      "g_th": " \"จริงเหรอ?!\"",
+      "g_tw": "「你還真的這麼做了！？」",
+      "g_tw_cn": "「你还真的这么做了！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"정말로 했었다고?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いや、制服の下に……着てただけだから……！",
+      "j_ko": "교복 안에…… 수영복을 미리 입고 있었으니까.",
+      "g_ja": "いや、制服の下に……着てただけだから……！",
+      "g_ko": "교복 안에…… 수영복을 미리 입고 있었으니까.",
+      "g_en": "I'm...wearing my swimsuit underneath my uniform right now.",
+      "g_th": "ก็ฉัน... ใส่ชุดว่ายน้ำไว้ในชุดนักเรียนอีกทีน่ะ",
+      "g_tw": "因為我在制服裡……事先穿好泳裝了。",
+      "g_tw_cn": "因为我在制服里……事先穿好泳装了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1024869994,
+    "DataType": "speaker",
+    "Script": "4;렌게;11;교복 안에…… 수영복을 미리 입고 있었으니까.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 16,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"な、なるほど！\"",
+      "j_ko": " \"……!!\"",
+      "g_ja": " \"な、なるほど！\"",
+      "g_ko": " \"……!!\"",
+      "g_en": " \"...!\"",
+      "g_th": " \"...!!\"",
+      "g_tw": "「……！！」",
+      "g_tw_cn": "「……！！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"……!!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 19,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 19,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 20,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 22,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 24,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_02"
+    }
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 25,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1589928418
+    }
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 27,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 262
+    }
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 27,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ど、どうかな？ちょっと恥ずかしいけど……これも青春かなって……。",
+      "j_ko": "어, 어때? 조금 부끄럽긴 하지만…… 이것도 청춘이려나 해서…….",
+      "g_ja": "ど、どうかな？ちょっと恥ずかしいけど……これも青春かなって……。",
+      "g_ko": "어, 어때? 조금 부끄럽긴 하지만…… 이것도 청춘이려나 해서…….",
+      "g_en": "Wh-What do you think? I guess embarrassing things like this are a part of someone's youth too...",
+      "g_th": "ทะ... ทำไมเหรอ? ถึงมันจะน่าเขินอยู่บ้าง... แต่ฉันก็คิดว่ามันคือการผจญภัยของวัยรุ่น...",
+      "g_tw": "怎，怎麼樣呢？<br/>雖然有點害羞……但我覺得這也是青春的一部分……",
+      "g_tw_cn": "怎，怎么样呢？<br/>虽然有点害羞……但我觉得这也是青春的一部分……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "3;렌게 수영복;24;어, 어때? 조금 부끄럽긴 하지만…… 이것도 청춘이려나 해서…….\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "師匠も……服の下は水着か？",
+      "j_ko": "혹시…… 스승님도 옷 안에 수영복 입고 왔어?",
+      "g_ja": "師匠も……服の下は水着か？",
+      "g_ko": "혹시…… 스승님도 옷 안에 수영복 입고 왔어?",
+      "g_en": "Is there any chance you wore your swimsuit under your clothes too, Mentor?",
+      "g_th": "ว่าแต่ท่านอาจารย์... ใส่ชุดว่ายน้ำมาข้างในด้วยหรือเปล่า?",
+      "g_tw": "師父你……該不會也在衣服裡穿了泳裝吧？",
+      "g_tw_cn": "师父你……该不会也在衣服里穿了泳装吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "3;렌게 수영복;02;혹시…… 스승님도 옷 안에 수영복 입고 왔어?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……うん。\"",
+      "j_ko": " \"……응.\"",
+      "g_ja": " \"……うん。\"",
+      "g_ko": " \"……응.\"",
+      "g_en": " \"...Yes, I did.\"",
+      "g_th": " \"อื้อ... แค่พกมาด้วยน่ะ\"",
+      "g_tw": "「……嗯。」",
+      "g_tw_cn": "「……嗯。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"……응.\"\\n[s2] \"안 입었지만, 일단 가져왔어!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "#4EA24E"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"着てないけど、一応持ってきたよ！\"",
+      "j_ko": " \"안 입었지만, 일단 가져왔어!\"",
+      "g_ja": " \"着てないけど、一応持ってきたよ！\"",
+      "g_ko": " \"안 입었지만, 일단 가져왔어!\"",
+      "g_en": " \"I'm not wearing one, but I did bring it!\"",
+      "g_th": " \"ครูยังไม่ได้ใส่ แต่ก็เตรียมมาแล้วนะ!\"",
+      "g_tw": "「雖然沒穿著，但我有帶來！」",
+      "g_tw_cn": "「虽然没穿着，但我有带来！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"……응.\"\\n[s2] \"안 입었지만, 일단 가져왔어!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "#59ADF8"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 31,
+    "SelectionGroup": 1,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "さすが、師匠！気が合うね！",
+      "j_ko": "역시 스승님! 나와 마음이 잘 맞네!",
+      "g_ja": "さすが、師匠！気が合うね！",
+      "g_ko": "역시 스승님! 나와 마음이 잘 맞네!",
+      "g_en": "Haha! We really do think alike, Mentor!",
+      "g_th": "สมแล้วที่เป็นท่านอาจารย์! ใจตรงกับฉันที่สุดเลย!",
+      "g_tw": "不愧是師父！我們真的很合得來耶！",
+      "g_tw_cn": "不愧是师父！我们真的很合得来耶！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "3;렌게 수영복;03;역시 스승님! 나와 마음이 잘 맞네!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "#4EA24E"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 32,
+    "SelectionGroup": 2,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふふ、まあ急だったからね。",
+      "j_ko": "후후, 뭐 갑작스럽긴 했으니까.",
+      "g_ja": "ふふ、まあ急だったからね。",
+      "g_ko": "후후, 뭐 갑작스럽긴 했으니까.",
+      "g_en": "Fufu. I did spring this on you out of nowhere.",
+      "g_th": "ฮุฮุ ถึงมันจะกะทันหันไปหน่อยก็เถอะนะ",
+      "g_tw": "呵呵，畢竟實在有點突然嘛。",
+      "g_tw_cn": "呵呵，毕竟实在有点突然嘛。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "3;렌게 수영복;99;후후, 뭐 갑작스럽긴 했으니까.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "#59ADF8"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 35,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 36,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "じゃあ、早速水着修練を始めよう。",
+      "j_ko": "그럼 어서 수영복 수련을 시작하자.",
+      "g_ja": "じゃあ、早速水着修練を始めよう。",
+      "g_ko": "그럼 어서 수영복 수련을 시작하자.",
+      "g_en": "Preparations are complete! Let's begin our swimsuit training!",
+      "g_th": "งั้นเรามาเริ่มฝึกในชุดว่ายน้ำกันเถอะ",
+      "g_tw": "那我們就趕緊開始泳裝修煉吧。",
+      "g_tw_cn": "那我们就赶紧开始泳装修炼吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "3;렌게 수영복;07;그럼 어서 수영복 수련을 시작하자.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "師弟での…<ruby>…滝行だ<rp>(</rp><rt>たきぎょう</rt><rp>)</rp></ruby>！",
+      "j_ko": "사제가 함께…… 폭포 수련이다!",
+      "g_ja": "師弟での…<ruby>…滝行だ<rp>(</rp><rt>たきぎょう</rt><rp>)</rp></ruby>！",
+      "g_ko": "사제가 함께…… 폭포 수련이다!",
+      "g_en": "It's a waterfall episode, featuring the mentor and disciple!",
+      "g_th": "นี่คือการฝึกในน้ำตก... ของท่านอาจารย์กับลูกศิษย์!",
+      "g_tw": "師徒一起……來場瀑布修煉！",
+      "g_tw_cn": "师徒一起……来场瀑布修炼！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "3;렌게 수영복;09;사제가 함께…… 폭포 수련이다!\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 40,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 41,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（レンゲと一緒に水着姿で滝の下に立った）",
+      "j_ko": "(결국 렌게와 같이 수영복을 입고 폭포 아래에 섰다.)",
+      "g_ja": "（レンゲと一緒に水着姿で滝の下に立った）",
+      "g_ko": "(결국 렌게와 같이 수영복을 입고 폭포 아래에 섰다.)",
+      "g_en": "Renge and I stood underneath the waterfall together.",
+      "g_th": "(แล้วคุณครูก็ใส่ชุดว่ายน้ำไปยืนใต้น้ำตกกับเรนเกะ)",
+      "g_tw": "（於是和蓮華一起穿著泳裝站在瀑布下）",
+      "g_tw_cn": "（于是和莲华一起穿着泳装站在瀑布下）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(결국 렌게와 같이 수영복을 입고 폭포 아래에 섰다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 44,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1589928418
+    }
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 44,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterFall_01"
+    }
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "くぅーっ！目が覚めるな！師匠はどうだ！？",
+      "j_ko": "크으! 정신이 번쩍 들어! 스승님은 어때!?",
+      "g_ja": "くぅーっ！目が覚めるな！師匠はどうだ！？",
+      "g_ko": "크으! 정신이 번쩍 들어! 스승님은 어때!?",
+      "g_en": "Wow, I feel alive! How are you doing, Mentor?!",
+      "g_th": "โห! เย็นฉ่ำจนฉันตื่นเลย! ท่านอาจารย์ล่ะเป็นยังไงบ้าง!?",
+      "g_tw": "哇！整個人都清醒了耶！<br/>師父你覺得怎麼樣！？",
+      "g_tw_cn": "哇！整个人都清醒了耶！<br/>师父你觉得怎么样！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "#zmc;instant;-316,111;1300\\n3;렌게 수영복;18;크으! 정신이 번쩍 들어! 스승님은 어때!?\\n#3;em;[음표]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 48,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"う、うわあぁぁぁ……！冷たくて頭がキンキンする！！\"",
+      "j_ko": " \"우, 우와아아아……! 차가워서 머리가 지끈거려!!\"",
+      "g_ja": " \"う、うわあぁぁぁ……！冷たくて頭がキンキンする！！\"",
+      "g_ko": " \"우, 우와아아아……! 차가워서 머리가 지끈거려!!\"",
+      "g_en": " \"C-C-Cold! I'm getting a brain freeze!\"",
+      "g_th": " \"วะ... เหวออออ...! เย็นจนปวดหัวเลย!!\"",
+      "g_tw": "「唔，唔哇啊啊啊……！冷到我的頭都快裂開了！！」",
+      "g_tw_cn": "「唔，唔哇啊啊啊……！冷到我的头都快裂开了！！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "#zmc;instant;-316,111;1300\\n[s] \"우, 우와아아아……! 차가워서 머리가 지끈거려!!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふふ、大げさだなあ。",
+      "j_ko": "후후, 엄살이네.",
+      "g_ja": "ふふ、大げさだなあ。",
+      "g_ko": "후후, 엄살이네.",
+      "g_en": "Fufu. You're being dramatic!",
+      "g_th": "ฮุฮุ แสดงเก่งใช้ได้เลยนะเนี่ย",
+      "g_tw": "呵呵，叫得還真誇張。",
+      "g_tw_cn": "呵呵，叫得还真夸张。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "#zmc;instant;-316,111;1300\\n3;렌게 수영복;01;후후, 엄살이네.\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 53,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そういえば、水着で防御力が上がった感じする？",
+      "j_ko": "그러고 보니, 수영복을 입으니까 방어력이 올라간 느낌이 들어?",
+      "g_ja": "そういえば、水着で防御力が上がった感じする？",
+      "g_ko": "그러고 보니, 수영복을 입으니까 방어력이 올라간 느낌이 들어?",
+      "g_en": "Doesn't wearing a swimsuit feel like it raises your defenses?",
+      "g_th": "จะว่าไป พอใส่ชุดว่ายน้ำแล้วท่านอาจารย์รู้สึกว่าพลังป้องกันเพิ่มขึ้นหรือเปล่า?",
+      "g_tw": "話說回來，穿上泳裝之後，感覺防禦力好像變高了耶？",
+      "g_tw_cn": "话说回来，穿上泳装之后，感觉防御力好像变高了耶？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "#zmc;instant;-316,111;1300\\n3;렌게 수영복;11;그러고 보니, 수영복을 입으니까 방어력이 올라간 느낌이 들어?\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 54,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "アタシは……効果があるような気がしてる。",
+      "j_ko": "그…… 나는 뭐랄까…… 왠지 그 말이 진짜인 것 같아.",
+      "g_ja": "アタシは……効果があるような気がしてる。",
+      "g_ko": "그…… 나는 뭐랄까…… 왠지 그 말이 진짜인 것 같아.",
+      "g_en": "Ah. Um. How do I explain?",
+      "g_th": "อืม... สำหรับฉัน... รู้สึกเหมือนคำพูดนั้นเป็นเรื่องจริงเลยละ",
+      "g_tw": "總覺得……好像真有那麼一回事。",
+      "g_tw_cn": "总觉得……好像真有那么一回事。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "#zmc;instant;-316,111;1300\\n3;렌게 수영복;06;그…… 나는 뭐랄까…… 왠지 그 말이 진짜인 것 같아.\\n#3;em;[///]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 55,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "水着に合った振る舞いをしなきゃって、気が引き締まるし……。",
+      "j_ko": "수영복에 맞게 행동해야 한다는 생각에, 정신을 차리게 되고…….",
+      "g_ja": "水着に合った振る舞いをしなきゃって、気が引き締まるし……。",
+      "g_ko": "수영복에 맞게 행동해야 한다는 생각에, 정신을 차리게 되고…….",
+      "g_en": "I feel like I need to act appropriately to how I'm dressed, so it sharpens my mind.",
+      "g_th": "พอคิดว่าต้องทำพฤติกรรมให้เข้ากับชุดว่ายน้ำ ฉันก็ได้สติขึ้นมา... ",
+      "g_tw": "因為穿上泳裝就會想表現出該有的樣子，能讓人更集中精神……",
+      "g_tw_cn": "因为穿上泳装就会想表现出该有的样子，能让人更集中精神……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "#zmc;instant;-316,111;1300\\n3;렌게 수영복;11;수영복에 맞게 행동해야 한다는 생각에, 정신을 차리게 되고…….\\n#3;stiff\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "体じゃなくて、心の防御力が上がる感じっていうか……。",
+      "j_ko": "몸이 아니라, 마음의 방어력이 올라간 느낌이라고 해야 하나…….",
+      "g_ja": "体じゃなくて、心の防御力が上がる感じっていうか……。",
+      "g_ko": "몸이 아니라, 마음의 방어력이 올라간 느낌이라고 해야 하나…….",
+      "g_en": "So not my physical defenses, but my mental ones...",
+      "g_th": "แต่พลังป้องกันที่เพิ่มขึ้นมา มันดูจะเป็นพลังป้องกันทางใจมากกว่าทางกายนะ...",
+      "g_tw": "應該說是心靈上的防禦力變高了吧……",
+      "g_tw_cn": "应该说是心灵上的防御力变高了吧……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "#zmc;instant;-316,111;1300\\n3;렌게 수영복;02;몸이 아니라, 마음의 방어력이 올라간 느낌이라고 해야 하나…….\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 57,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "師匠は？",
+      "j_ko": "스승님은 어떻게 생각해?",
+      "g_ja": "師匠は？",
+      "g_ko": "스승님은 어떻게 생각해?",
+      "g_en": "Do you know what I mean, Mentor?",
+      "g_th": "แล้วท่านอาจารย์ล่ะคิดยังไง?",
+      "g_tw": "師父你覺得呢？",
+      "g_tw_cn": "师父你觉得呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "#zmc;instant;-316,111;1300\\n3;렌게 수영복;05;스승님은 어떻게 생각해?\\n#3;em;[?]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 58,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"滝の勢いが凄くて……！\"",
+      "j_ko": " \"폭포가 너무 세…….\"",
+      "g_ja": " \"滝の勢いが凄くて……！\"",
+      "g_ko": " \"폭포가 너무 세…….\"",
+      "g_en": " \"This waterfall is too strong...\"",
+      "g_th": " \"น้ำตกไหลแรงมากเลย...\"",
+      "g_tw": "「瀑布太強了……」",
+      "g_tw_cn": "「瀑布太强了……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "#zmc;instant;-316,111;1300\\n[s3] \"폭포가 너무 세…….\"\\n[s4] \"버, 벗겨질 것 같아……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 58,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ぬ、脱げそう……！\"",
+      "j_ko": " \"버, 벗겨질 것 같아……!\"",
+      "g_ja": " \"ぬ、脱げそう……！\"",
+      "g_ko": " \"버, 벗겨질 것 같아……!\"",
+      "g_en": " \"I-It might fall off...!\"",
+      "g_th": " \"มะ... เหมือนชุดจะหลุดเลย...!\"",
+      "g_tw": "「要，要被沖走了……！」",
+      "g_tw_cn": "「要，要被冲走了……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "#zmc;instant;-316,111;1300\\n[s3] \"폭포가 너무 세…….\"\\n[s4] \"버, 벗겨질 것 같아……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そこに精神の防御力が求められるんだ。",
+      "j_ko": "음. 그런 점도 포함해서 정신의 방어력이 올라간 느낌인 거지.",
+      "g_ja": "そこに精神の防御力が求められるんだ。",
+      "g_ko": "음. 그런 점도 포함해서 정신의 방어력이 올라간 느낌인 거지.",
+      "g_en": "Exactly! And so it raises my mental defenses!",
+      "g_th": "อืม เพราะอย่างนี้ละฉันถึงได้รู้สึกว่าพลังป้องกันทางใจสูงขึ้น",
+      "g_tw": "嗯，這種感覺也是精神防禦力提升的一部分。",
+      "g_tw_cn": "嗯，这种感觉也是精神防御力提升的一部分。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "#zmc;instant;-316,111;1300\\n3;렌게 수영복;00;음. 그런 점도 포함해서 정신의 방어력이 올라간 느낌인 거지.\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 62,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "気合を入れ続けないと、ほんとに脱げちゃうからな。",
+      "j_ko": "계속 기합을 넣고 있지 않으면 수영복이 벗겨질 테니까.",
+      "g_ja": "気合を入れ続けないと、ほんとに脱げちゃうからな。",
+      "g_ko": "계속 기합을 넣고 있지 않으면 수영복이 벗겨질 테니까.",
+      "g_en": "You have to keep your spirits high, otherwise your swimsuit will fall off.",
+      "g_th": "ถ้าเราไม่ตั้งสมาธิเอาไว้ ชุดว่ายน้ำก็จะหลุดได้ยังไงล่ะ",
+      "g_tw": "如果不一直集中精神的話，泳裝就會被沖走嘛。",
+      "g_tw_cn": "如果不一直集中精神的话，泳装就会被冲走嘛。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "#zmc;instant;-316,111;1300\\n3;렌게 수영복;99;계속 기합을 넣고 있지 않으면 수영복이 벗겨질 테니까.\\n#3;em;[반짝]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 63,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"それって気合の問題！？\"",
+      "j_ko": " \"그게 기합으로 해결되는 거였어?!\"",
+      "g_ja": " \"それって気合の問題！？\"",
+      "g_ko": " \"그게 기합으로 해결되는 거였어?!\"",
+      "g_en": " \"How are those two things correlated?!\"",
+      "g_th": " \"ใช้สมาธิควบคุมชุดที่จะหลุดได้งั้นเหรอ?!\"",
+      "g_tw": "「這種事靠集中精神就能解決嗎！？」",
+      "g_tw_cn": "「这种事靠集中精神就能解决吗！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "#zmc;instant;-316,111;1300\\n[s] \"그게 기합으로 해결되는 거였어?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 64,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ほら、アタシの水着は大丈夫だろ？師匠は……。",
+      "j_ko": "자, 보라고. 나는 정신을 집중하고 있으니까 괜찮잖아? 스승님은…….",
+      "g_ja": "ほら、アタシの水着は大丈夫だろ？師匠は……。",
+      "g_ko": "자, 보라고. 나는 정신을 집중하고 있으니까 괜찮잖아? 스승님은…….",
+      "g_en": "Take a look. My sharpened state of mind ensures my safety, while for you, Mentor...",
+      "g_th": "ไม่เชื่อก็ดูฉันสิ ฉันตั้งสมาธิเอาไว้ ก็เลยยังไม่สะทกสะท้านอยู่แบบนี้ไง ส่วนท่านอาจารย์น่ะ...",
+      "g_tw": "你看我現在很專注，所以就沒問題啊？<br/>師父你……",
+      "g_tw_cn": "你看我现在很专注，所以就没问题啊？<br/>师父你……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "#zmc;instant;-316,111;1300\\n3;렌게 수영복;03;자, 보라고. 나는 정신을 집중하고 있으니까 괜찮잖아? 스승님은…….\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 67,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……！？",
+      "j_ko": "……?!",
+      "g_ja": "……！？",
+      "g_ko": "……?!",
+      "g_en": "...?!",
+      "g_th": "...?!",
+      "g_tw": "……！？",
+      "g_tw_cn": "……！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "#zmc;instant;-316,111;1300\\n3;렌게 수영복;22;……?!\\n#3;em;[?!]\\n#3;shake\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Surprise",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"なんだかスースーするような……。\"",
+      "j_ko": " \"……뭔가 허전한데?\"",
+      "g_ja": " \"なんだかスースーするような……。\"",
+      "g_ko": " \"……뭔가 허전한데?\"",
+      "g_en": " \"...Does it feel a little breezy all of a sudden?\"",
+      "g_th": " \"ทำไมรู้สึกว่างเปล่าแปลกๆ...?\"",
+      "g_tw": "「……好像有點涼颼颼的？」",
+      "g_tw_cn": "「……好像有点凉飕飕的？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "#zmc;instant;-316,111;1300\\n[s5] \"……뭔가 허전한데?\"\\n[s6] \"내 수영복이 어디 갔지……?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"水着が……ない！\"",
+      "j_ko": " \"내 수영복이 어디 갔지……?\"",
+      "g_ja": " \"水着が……ない！\"",
+      "g_ko": " \"내 수영복이 어디 갔지……?\"",
+      "g_en": " \"Where did my swimsuit go...?\"",
+      "g_th": " \"ชุดว่ายน้ำครูหายไปไหนแล้ว...?\"",
+      "g_tw": "「我的泳裝去哪了……？」",
+      "g_tw_cn": "「我的泳装去哪了……？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "#zmc;instant;-316,111;1300\\n[s5] \"……뭔가 허전한데?\"\\n[s6] \"내 수영복이 어디 갔지……?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 74,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 233
+    }
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 75,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 76,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "な、なんだって！？すぐ見つけるよ！",
+      "j_ko": "거, 거기서 기다려! 내가 찾아올 테니까!",
+      "g_ja": "な、なんだって！？すぐ見つけるよ！",
+      "g_ko": "거, 거기서 기다려! 내가 찾아올 테니까!",
+      "g_en": "D-Don't move an inch! I'll find it!",
+      "g_th": "ระ... รออยู่ตรงนั้นนะ! ฉันจะไปหามาให้เอง!",
+      "g_tw": "等，等我一下！我去幫你找回來！",
+      "g_tw_cn": "等，等我一下！我去帮你找回来！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "#na;렌게 수영복;거, 거기서 기다려! 내가 찾아올 테니까!\\n#fontsize;80",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 79,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Water_In_01"
+    }
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 80,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterRun_01"
+    }
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 81,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（しばらくして……）",
+      "j_ko": "(그렇게 잠시 후…….)",
+      "g_ja": "（しばらくして……）",
+      "g_ko": "(그렇게 잠시 후…….)",
+      "g_en": "A little while later...",
+      "g_th": "(ครู่ต่อมา...)",
+      "g_tw": "（過了一會……）",
+      "g_tw_cn": "（过了一会……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 잠시 후…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 82,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1589928418
+    }
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 84,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterFootStep_01"
+    }
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 85,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あっ！見つけたぞ師匠ー！",
+      "j_ko": "아! 찾았다! 여기 있어, 여기!",
+      "g_ja": "あっ！見つけたぞ師匠ー！",
+      "g_ko": "아! 찾았다! 여기 있어, 여기!",
+      "g_en": "Aha! Found it! Here you go!",
+      "g_th": "อ๊ะ! เจอแล้ว! อยู่ตรงนี้ไง ตรงนี้!",
+      "g_tw": "啊！找到了！在這裡！",
+      "g_tw_cn": "啊！找到了！在这里！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "3;렌게 수영복;09;아! 찾았다! 여기 있어, 여기!\\n#3;em;[반짝]\\n#3;hophop\\n#3;a",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 86,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 7,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ありがとう。でも……。\"",
+      "j_ko": " \"차, 찾아준 건 고맙지만……!\"",
+      "g_ja": " \"ありがとう。でも……。\"",
+      "g_ko": " \"차, 찾아준 건 고맙지만……!\"",
+      "g_en": " \"Th-Thank you for finding it...!\"",
+      "g_th": " \"ขะ... ขอบใจที่ช่วยหาให้นะ แต่อย่ามองมันได้มั้ย...!\"",
+      "g_tw": "「雖，雖然很謝謝你幫我找回來……！」",
+      "g_tw_cn": "「虽，虽然很谢谢你帮我找回来……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"차, 찾아준 건 고맙지만……!\"\\n[s8] \"그렇게 해맑게 웃으면서 남의 수영복을 흔들지 마……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 86,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 8,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"そ、そんな笑顔で人の水着を振らないで……！\"",
+      "j_ko": " \"그렇게 해맑게 웃으면서 남의 수영복을 흔들지 마……!\"",
+      "g_ja": " \"そ、そんな笑顔で人の水着を振らないで……！\"",
+      "g_ko": " \"그렇게 해맑게 웃으면서 남의 수영복을 흔들지 마……!\"",
+      "g_en": " \"Please stop swinging it around!\"",
+      "g_th": " \"อย่าถือชุดว่ายน้ำของครูแล้วยิ้มแฉ่งแบบนั้นสิ...!\"",
+      "g_tw": "「但是別帶著燦爛的笑容揮舞別人的泳裝好嗎……！」",
+      "g_tw_cn": "「但是别带着灿烂的笑容挥舞别人的泳装好吗……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"차, 찾아준 건 고맙지만……!\"\\n[s8] \"그렇게 해맑게 웃으면서 남의 수영복을 흔들지 마……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 90,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "目つぶってるから、早く来てくれ！",
+      "j_ko": "눈 감고 있으니까, 빨리 와!",
+      "g_ja": "目つぶってるから、早く来てくれ！",
+      "g_ko": "눈 감고 있으니까, 빨리 와!",
+      "g_en": "My eyes are closed, so hurry and grab it!",
+      "g_th": "ฉันหลับตาให้อยู่นี่ไง รีบมารับไปสิ!",
+      "g_tw": "我閉上眼睛了，快過來吧！",
+      "g_tw_cn": "我闭上眼睛了，快过来吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "3;렌게 수영복;17;눈 감고 있으니까, 빨리 와!\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 91,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "アタシは何も見てないから。",
+      "j_ko": "난 아무것도 못 봤으니까.",
+      "g_ja": "アタシは何も見てないから。",
+      "g_ko": "난 아무것도 못 봤으니까.",
+      "g_en": "I promise I didn't see anything.",
+      "g_th": "ฉันไม่เห็นอะไรเลย",
+      "g_tw": "什麼都不會看到的哦。",
+      "g_tw_cn": "什么都不会看到的哦。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "3;렌게 수영복;99;난 아무것도 못 봤으니까.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 92,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ふふ、これも青春っぽいな。",
+      "j_ko": "후후, 뭔가 이런 것도 청춘 같아서 재미있네.",
+      "g_ja": "……ふふ、これも青春っぽいな。",
+      "g_ko": "후후, 뭔가 이런 것도 청춘 같아서 재미있네.",
+      "g_en": "Fufu, this is fun. I think this is a part of \"youth\" as well.",
+      "g_th": "ฮุฮุ แบบนี้ก็เป็นกิจกรรมของวัยรุ่นที่สนุกเหมือนกันแฮะ",
+      "g_tw": "呵呵，這種事也挺青春有趣的呢。",
+      "g_tw_cn": "呵呵，这种事也挺青春有趣的呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "3;렌게 수영복;17;후후, 뭔가 이런 것도 청춘 같아서 재미있네.\\n#3;em;[///]\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 95,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_BoomEffect_01"
+    }
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 96,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 97,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 97,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"あちらを向いていただけると……！\"",
+      "j_ko": " \"눈만 감지 말고 고개를 돌려주세요……!\"",
+      "g_ja": " \"あちらを向いていただけると……！\"",
+      "g_ko": " \"눈만 감지 말고 고개를 돌려주세요……!\"",
+      "g_en": " \"Stop! Turn around completely! Right now!\"",
+      "g_th": " \"หลับตาแล้วก็หันไปข้างหลังด้วย...!\"",
+      "g_tw": "「除了閉眼之外，也麻煩你把頭轉過去……！」",
+      "g_tw_cn": "「除了闭眼之外，也麻烦你把头转过去……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"눈만 감지 말고 고개를 돌려주세요……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 100,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1589928418
+    }
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 101,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、ごめん！へへ！",
+      "j_ko": "아, 미안! 헤헤!",
+      "g_ja": "あ、ごめん！へへ！",
+      "g_ko": "아, 미안! 헤헤!",
+      "g_en": "Ah, sorry! Heehee!",
+      "g_th": "อ๊ะ ขอโทษที! แหะๆ!",
+      "g_tw": "啊，抱歉！嘿嘿！",
+      "g_tw_cn": "啊，抱歉！嘿嘿！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 514367288,
+    "DataType": "speaker",
+    "Script": "3;렌게 수영복;26;아, 미안! 헤헤!\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 102,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 103,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（……その後もずっとレンゲと一緒に滝の下で修練をした）",
+      "j_ko": "(……이후로도 계속 렌게와 폭포 아래에서 수련을 했다.)",
+      "g_ja": "（……その後もずっとレンゲと一緒に滝の下で修練をした）",
+      "g_ko": "(……이후로도 계속 렌게와 폭포 아래에서 수련을 했다.)",
+      "g_en": "...After the swimsuit debacle, I was much more focused for the remainder of our waterfall training.",
+      "g_th": "(หลังจากนั้นคุณครูกับเรนเกะก็ฝึกฝนใต้น้ำตกกันต่อ)",
+      "g_tw": "（……之後又繼續和蓮華在瀑布下修煉）",
+      "g_tw_cn": "（……之后又继续和莲华在瀑布下修炼）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(……이후로도 계속 렌게와 폭포 아래에서 수련을 했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

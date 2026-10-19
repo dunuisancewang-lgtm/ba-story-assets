@@ -1,0 +1,1676 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3491937726
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">2時間目「課外授業：芸術」</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">외부 견학: 예술과 팝콘</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">2時間目「課外授業：芸術」</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">외부 견학: 예술과 팝콘</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Field Trip: Art and Popcorn</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">การเรียนนอกสถานที่: ศิลปะและป๊อปคอร์น</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">校外見習：藝術與爆米花</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">校外见习：艺术与爆米花</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;외부 견학: 예술과 팝콘",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 3491937726,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_01"
+    }
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 3,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2679974606
+    }
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 3,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_01"
+    }
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 4,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 5,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1189606028
+    }
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 6,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_01"
+    }
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 8,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 36
+    }
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 8,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "やぁやぁ先生、待ってたよ。",
+      "j_ko": "후후, 오늘은 내가 조금 더 일찍 나왔지.",
+      "g_ja": "やぁやぁ先生、待ってたよ。",
+      "g_ko": "후후, 오늘은 내가 조금 더 일찍 나왔지.",
+      "g_en": "Don't worry. I just came here early, Sensei.",
+      "g_th": "ฮุฮุ วันนี้ฉันเป็นฝ่ายออกมาเร็วกว่าสินะ",
+      "g_tw": "呵呵，今天我可是有提早出門哦。",
+      "g_tw_cn": "呵呵，今天我可是有提早出门哦。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;08;후후, 오늘은 내가 조금 더 일찍 나왔지.\\n#3;em;[반짝]",
+    "BGMId": 36,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "どうしていきなり映画かって？",
+      "j_ko": "음? 그런데 웬일로 영화냐고?",
+      "g_ja": "どうしていきなり映画かって？",
+      "g_ko": "음? 그런데 웬일로 영화냐고?",
+      "g_en": "Oh, you're curious about the movie?",
+      "g_th": "หืม? ทำไมถึงมาดูหนังงั้นเหรอ?",
+      "g_tw": "嗯？問我為什麼突然想看電影？",
+      "g_tw_cn": "嗯？问我为什么突然想看电影？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;00;음? 그런데 웬일로 영화냐고?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ちょっとドラムの練習が行き詰っちゃっててね……。",
+      "j_ko": "선생님도 알다시피, 난 드럼을 연주하는 경험이 이번이 처음이야.",
+      "g_ja": "ちょっとドラムの練習が行き詰っちゃっててね……。",
+      "g_ko": "선생님도 알다시피, 난 드럼을 연주하는 경험이 이번이 처음이야.",
+      "g_en": "Sensei, as you know, I've recently started learning the drums.",
+      "g_th": "อย่างที่คุณครูรู้นั่นแหละว่านี่เป็นครั้งแรกที่ฉันได้ตีกลอง",
+      "g_tw": "老師你也知道，這是我第一次接觸打鼓……",
+      "g_tw_cn": "老师你也知道，这是我第一次接触打鼓……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;01;선생님도 알다시피, 난 드럼을 연주하는 경험이 이번이 처음이야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ドラムの演奏は初めてだし。<br/>ずっと向き合ってるとインスピレーションも湧かなくって……。",
+      "j_ko": "그래서 드럼에 대한 레퍼런스가 부족하다고 할까, 영감이 부족하다고 할까……",
+      "g_ja": "ドラムの演奏は初めてだし。<br/>ずっと向き合ってるとインスピレーションも湧かなくって……。",
+      "g_ko": "그래서 드럼에 대한 레퍼런스가 부족하다고 할까, 영감이 부족하다고 할까……",
+      "g_en": "And there's a lack of reference materials…and inspiration.",
+      "g_th": "เพราะงั้นจะเรียกว่าขาดแรงจูงใจกับเรฟภาพในใจดีมั้ยนะ...",
+      "g_tw": "所以有點缺乏參考資料，或者說是缺乏靈感……",
+      "g_tw_cn": "所以有点缺乏参考数据，或者说是缺乏灵感……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;99;그래서 드럼에 대한 레퍼런스가 부족하다고 할까, 영감이 부족하다고 할까……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "新しい刺激を探してたら、『ゼッション』がリバイバル上映されるって話を聞いたの。",
+      "j_ko": "그런데 마침, 오래된 명작인 '힙플래시'가 재개봉을 한다는 소식이 들려온 거야.",
+      "g_ja": "新しい刺激を探してたら、『ゼッション』がリバイバル上映されるって話を聞いたの。",
+      "g_ko": "그런데 마침, 오래된 명작인 '힙플래시'가 재개봉을 한다는 소식이 들려온 거야.",
+      "g_en": "But then I heard that this brilliant film called \"Hiplash\" was being re-released for its anniversary.",
+      "g_th": "แล้วจู่ๆ ก็บังเอิญไปได้ยินมาว่าหนังดังเรื่อง 'ฮิปแฟลช' จะกลับมาฉายใหม่น่ะ ",
+      "g_tw": "結果就在這時，我聽說經典名作《進擊鼓手》要重新上映。",
+      "g_tw_cn": "结果就在这时，我听说经典名作《进击鼓手》要重新上映。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;01;그런데 마침, 오래된 명작인 '힙플래시'가 재개봉을 한다는 소식이 들려온 거야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 13,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あの不朽の名作だよ？",
+      "j_ko": "드럼에 막 입문한 여고생 앞에, 드럼 영화의 고전이 재개봉한다고? ",
+      "g_ja": "あの不朽の名作だよ？",
+      "g_ko": "드럼에 막 입문한 여고생 앞에, 드럼 영화의 고전이 재개봉한다고? ",
+      "g_en": "And it seemed fated, almost serendipitous, that it would release just as I needed inspiration! ",
+      "g_th": "หนังเกี่ยวกับการตีกลองที่นำกลับมาฉายใหม่ในช่วงเวลาที่เด็กหญิงม.ปลายกำลังหัดตีกลองเลยนะ ",
+      "g_tw": "剛開始學鼓的女高中生，居然碰巧遇上鼓樂電影的經典重映？",
+      "g_tw_cn": "刚开始学鼓的女高中生，居然碰巧遇上鼓乐电影的经典重映？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;05;드럼에 막 입문한 여고생 앞에, 드럼 영화의 고전이 재개봉한다고? \\n#3;a\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 14,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 14,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "しかも、私はまだ観たことがない。",
+      "j_ko": "그것도 아직 보지도 않은 영화가?",
+      "g_ja": "しかも、私はまだ観たことがない。",
+      "g_ko": "그것도 아직 보지도 않은 영화가?",
+      "g_en": "Furthermore, it will be a new experience! I've never seen it!",
+      "g_th": "คุณครูยังไม่ได้ดูหนังเรื่องนี้ใช่มั้ย?",
+      "g_tw": "而且還是我從沒看過的作品？",
+      "g_tw_cn": "而且还是我从没看过的作品？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;05;그것도 아직 보지도 않은 영화가?\\n#3;closeup\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "これは観るしかないよね。",
+      "j_ko": "이 절묘한 우연을 어떻게 외면할 수 있겠어?",
+      "g_ja": "これは観るしかないよね。",
+      "g_ko": "이 절묘한 우연을 어떻게 외면할 수 있겠어?",
+      "g_en": "Fate rarely hands us such clear signs, Sensei.",
+      "g_th": "เราจะมองข้ามความบังเอิญที่แสนพิเศษแบบนี้ไปได้ยังไงกันล่ะ",
+      "g_tw": "這種絕妙的巧合，我怎麼能錯過呢。",
+      "g_tw_cn": "这种绝妙的巧合，我怎么能错过呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;08;이 절묘한 우연을 어떻게 외면할 수 있겠어?\\n#3;a\\n#3;greeting\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 16,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そこで用意したのが……このチケット。<br/>はい、これは先生の分。",
+      "j_ko": "그래서 내가 미리 와서 티켓을 구매할 수밖에 없었던 거야.",
+      "g_ja": "そこで用意したのが……このチケット。<br/>はい、これは先生の分。",
+      "g_ko": "그래서 내가 미리 와서 티켓을 구매할 수밖에 없었던 거야.",
+      "g_en": "So I was drawn to the romance, the opportunity! I had no choice to come here early and secure tickets.",
+      "g_th": "ฉันเลยรีบมาซื้อตั๋วเอาไว้ก่อน",
+      "g_tw": "因此我才會提前過來買票。",
+      "g_tw_cn": "因此我才会提前过来买票。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;08;그래서 내가 미리 와서 티켓을 구매할 수밖에 없었던 거야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"たしかに……これは見逃せないね。\"",
+      "j_ko": " \"확실히… 그건 참을 수 없지.\"",
+      "g_ja": " \"たしかに……これは見逃せないね。\"",
+      "g_ko": " \"확실히… 그건 참을 수 없지.\"",
+      "g_en": " \"Yeah... It is irresistible.\"",
+      "g_th": " \"ก็นะ... คงอดใจไม่ไหวจริงๆ นั่นแหละ\"",
+      "g_tw": "「確實……是個很難抗拒的誘惑呢。」",
+      "g_tw_cn": "「确实……是个很难抗拒的诱惑呢。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"확실히… 그건 참을 수 없지.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 18,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "にひ、でしょでしょ？",
+      "j_ko": "그렇지? 역시 선생님도 로망을 이해하는 사람이라니까.",
+      "g_ja": "にひ、でしょでしょ？",
+      "g_ko": "그렇지? 역시 선생님도 로망을 이해하는 사람이라니까.",
+      "g_en": "Right? I knew you would also understand the romance of it.",
+      "g_th": "ใช่มั้ยล่ะ? คิดแล้วเชียวว่าคุณครูเป็นคนที่เข้าใจความโรแมนซ์จริงๆ",
+      "g_tw": "對吧？果然老師也是懂浪漫的人。",
+      "g_tw_cn": "对吧？果然老师也是懂浪漫的人。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;03;그렇지? 역시 선생님도 로망을 이해하는 사람이라니까.\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 19,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そして、映画館に来たら――",
+      "j_ko": "하지만 말이야, 우리는 오늘 이곳에 영화만 보러 온 것은 아니야.",
+      "g_ja": "そして、映画館に来たら――",
+      "g_ko": "하지만 말이야, 우리는 오늘 이곳에 영화만 보러 온 것은 아니야.",
+      "g_en": "However, I don't come here just for the movies.",
+      "g_th": "แต่ว่าวันนี้เราไม่ได้มาแค่ดูหนังหรอกนะ",
+      "g_tw": "不過我們今天來這裡，可不只是為了看電影哦？",
+      "g_tw_cn": "不过我们今天来这里，可不只是为了看电影哦？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;99;하지만 말이야, 우리는 오늘 이곳에 영화만 보러 온 것은 아니야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 20,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "忘れちゃいけないお菓子がある。",
+      "j_ko": "비록 카페는 아니지만, 이런 곳에도 훌륭한 디저트가 존재하거든.",
+      "g_ja": "忘れちゃいけないお菓子がある。",
+      "g_ko": "비록 카페는 아니지만, 이런 곳에도 훌륭한 디저트가 존재하거든.",
+      "g_en": "I discovered this place when I was looking for desserts!",
+      "g_th": "ถึงที่นี่จะไม่ใช่คาเฟ่ แต่ที่นี่ก็มีขนมหวานขายด้วย",
+      "g_tw": "雖然這裡並不是咖啡廳，但同樣也有絕佳的甜點。",
+      "g_tw_cn": "虽然这里并不是咖啡厅，但同样也有绝佳的甜点。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;02;비록 카페는 아니지만, 이런 곳에도 훌륭한 디저트가 존재하거든.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それは、ここでしか味わえないお菓子。",
+      "j_ko": "아니, 오히려 이곳이 아니면 제대로 즐길 수 없는 디저트가 있지.",
+      "g_ja": "それは、ここでしか味わえないお菓子。",
+      "g_ko": "아니, 오히려 이곳이 아니면 제대로 즐길 수 없는 디저트가 있지.",
+      "g_en": "These treats come with a topping you'll find hard to replicate anywhere else...",
+      "g_th": "ไม่สิ ต้องบอกว่ามีของหวานที่จะกินได้เฉพาะที่นี่อยู่ด้วย",
+      "g_tw": "不，應該說是只有在這裡才能享受的甜點。",
+      "g_tw_cn": "不，应该说是只有在这里才能享受的甜点。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;05;아니, 오히려 이곳이 아니면 제대로 즐길 수 없는 디저트가 있지.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それは、映画とのマリアージュで完成されるお菓子。",
+      "j_ko": "영화라는 토핑이 얹어져야만 완성되는 디저트……",
+      "g_ja": "それは、映画とのマリアージュで完成されるお菓子。",
+      "g_ko": "영화라는 토핑이 얹어져야만 완성되는 디저트……",
+      "g_en": "...A dessert that can only be enjoyed when topped with movies!",
+      "g_th": "ของหวานที่จะสมบูรณ์แบบได้เมื่อท็อปปิ้งด้วยการดูภาพยนตร์...",
+      "g_tw": "必須搭配電影這個配料才能完成的甜點……",
+      "g_tw_cn": "必须搭配电影这个配料才能完成的甜点……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;99;영화라는 토핑이 얹어져야만 완성되는 디저트……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "――「ポップコーン」。",
+      "j_ko": "……바로 '팝콘' 말이야.",
+      "g_ja": "――「ポップコーン」。",
+      "g_ko": "……바로 '팝콘' 말이야.",
+      "g_en": "...That is, popcorn.",
+      "g_th": "ก็คือ 'ป๊อปคอร์น' ไงล่ะ",
+      "g_tw": "……也就是「爆米花」。",
+      "g_tw_cn": "……也就是「爆米花」。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;05;……바로 '팝콘' 말이야.\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 24,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "え、買ってくれるの？<br/>……チケットのお礼？",
+      "j_ko": "응? 팝콘은 선생님이 사겠다고? 티켓은 내가 샀으니까?",
+      "g_ja": "え、買ってくれるの？<br/>……チケットのお礼？",
+      "g_ko": "응? 팝콘은 선생님이 사겠다고? 티켓은 내가 샀으니까?",
+      "g_en": "Oh? You'll buy the popcorn because I purchased the tickets?",
+      "g_th": "หืม? คุณครูจะเป็นคนซื้อป๊อปคอร์นให้เพราะฉันซื้อตั๋วไปแล้วงั้นเหรอ?",
+      "g_tw": "嗯？老師說爆米花要你請？<br/>因為票是我買的？",
+      "g_tw_cn": "嗯？老师说爆米花要你请？<br/>因为票是我买的？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;02;응? 팝콘은 선생님이 사겠다고? 티켓은 내가 샀으니까?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 25,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "おぉ……じゃあお言葉に甘えて……。",
+      "j_ko": "후후, 그렇다면 감사하면서……",
+      "g_ja": "おぉ……じゃあお言葉に甘えて……。",
+      "g_ko": "후후, 그렇다면 감사하면서……",
+      "g_en": "Then I thank you kindly, Sensei.",
+      "g_th": "ฮุฮุ ขอบคุณนะ...",
+      "g_tw": "呵呵，那我就不跟老師客氣……",
+      "g_tw_cn": "呵呵，那我就不跟老师客气……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;08;후후, 그렇다면 감사하면서……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 26,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ちょっと贅沢してもいい……？",
+      "j_ko": "안심하고, 맛을 골라볼까?",
+      "g_ja": "ちょっと贅沢してもいい……？",
+      "g_ko": "안심하고, 맛을 골라볼까?",
+      "g_en": "Shall we pick out some flavors?",
+      "g_th": "งั้นไปเลือกรสป๊อปคอร์นกันเลยมั้ย?",
+      "g_tw": "放心選我喜歡的口味囉？",
+      "g_tw_cn": "放心选我喜欢的口味啰？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;03;안심하고, 맛을 골라볼까?\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 27,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（そうしてナツは、キャラメル味、イチゴ味、エクレア味、<br/>クロテッドクリーム味の4種類が楽しめるポップコーンを選んだ）",
+      "j_ko": "(그렇게 카라멜 맛, 딸기 맛, 에클레어 맛, 클로티드 크림 맛, 4종 합본 팝콘 한 통을 구매했다.)",
+      "g_ja": "（そうしてナツは、キャラメル味、イチゴ味、エクレア味、<br/>クロテッドクリーム味の4種類が楽しめるポップコーンを選んだ）",
+      "g_ko": "(그렇게 카라멜 맛, 딸기 맛, 에클레어 맛, 클로티드 크림 맛, 4종 합본 팝콘 한 통을 구매했다.)",
+      "g_en": "And so I bought caramel, strawberry, eclair, and clotted cream popcorn.",
+      "g_th": "(หลังจากนั้นทั้งสองคนก็ไปซื้อป๊อปคอร์นมา 4 รสคือรสคาราเมล รสสตรอว์เบอร์รี่ รสเอแคลร์ และรสคล็อตเตดครีม)",
+      "g_tw": "（於是買了一桶焦糖、草莓、閃電泡芙、濃厚奶油，四種口味混合的爆米花）",
+      "g_tw_cn": "（于是买了一桶焦糖、草莓、闪电泡芙、浓厚奶油，四种口味混合的爆米花）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 카라멜 맛, 딸기 맛, 에클레어 맛, 클로티드 크림 맛, 4종 합본 팝콘 한 통을 구매했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 32,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 33,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（シアターに入ると、席はガラガラだった）",
+      "j_ko": "(그리고 들어온 상영관은, 어쩐지 이상할 정도로 텅텅 비어 있었다.)",
+      "g_ja": "（シアターに入ると、席はガラガラだった）",
+      "g_ko": "(그리고 들어온 상영관은, 어쩐지 이상할 정도로 텅텅 비어 있었다.)",
+      "g_en": "The theater was surprisingly empty...",
+      "g_th": "(พอเข้าไปในโรงหนังก็พบว่าที่นั่งว่างมาก)",
+      "g_tw": "（進入的影廳內空得異常）",
+      "g_tw_cn": "（进入的影厅内空得异常）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그리고 들어온 상영관은, 어쩐지 이상할 정도로 텅텅 비어 있었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 34,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2290860992
+    }
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 34,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 36,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 6
+    }
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 36,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふふ、計画通り。",
+      "j_ko": "후후, 계획대로군.",
+      "g_ja": "ふふ、計画通り。",
+      "g_ko": "후후, 계획대로군.",
+      "g_en": "...Just as I planned.",
+      "g_th": "ฮุฮุ เป็นไปตามแผนเลย",
+      "g_tw": "呵呵，一切都在計畫之中。",
+      "g_tw_cn": "呵呵，一切都在计划之中。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;08;후후, 계획대로군.\\n#3;em;[반짝]",
+    "BGMId": 6,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"計画……？\"",
+      "j_ko": " \"계획……?\"",
+      "g_ja": " \"計画……？\"",
+      "g_ko": " \"계획……?\"",
+      "g_en": " \"Plan...?\"",
+      "g_th": " \"แผนเหรอ...?\"",
+      "g_tw": "「計畫……？」",
+      "g_tw_cn": "「计划……？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"계획……?\"\\n[s2] \"무슨 음모를 꾸민 거지!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"なにかの罠！？\"",
+      "j_ko": " \"무슨 음모를 꾸민 거지!\"",
+      "g_ja": " \"なにかの罠！？\"",
+      "g_ko": " \"무슨 음모를 꾸민 거지!\"",
+      "g_en": " \"Natsu, what do you mean?\"",
+      "g_th": " \"วางแผนลับอะไรอยู่น่ะ!\"",
+      "g_tw": "「你又在策劃什麼陰謀！」 ",
+      "g_tw_cn": "「你又在策划什么阴谋！」 ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"계획……?\"\\n[s2] \"무슨 음모를 꾸민 거지!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 40,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "考えてみて、先生。",
+      "j_ko": "생각해 봐, 선생님.",
+      "g_ja": "考えてみて、先生。",
+      "g_ko": "생각해 봐, 선생님.",
+      "g_en": "Think, Sensei.",
+      "g_th": "ก็ลองคิดดูสิ คุณครู",
+      "g_tw": "你想想看，老師。",
+      "g_tw_cn": "你想想看，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;99;생각해 봐, 선생님.\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "どうやったら映画を最高に楽しめるか。",
+      "j_ko": "우리는 영화를 보러 온 게 아니야.",
+      "g_ja": "どうやったら映画を最高に楽しめるか。",
+      "g_ko": "우리는 영화를 보러 온 게 아니야.",
+      "g_en": "This is not simply a movie.",
+      "g_th": "เราไม่ได้มาเพื่อดูหนังนะ",
+      "g_tw": "我們不是來看普通的電影……",
+      "g_tw_cn": "我们不是来看普通的电影……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;01;우리는 영화를 보러 온 게 아니야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "なぜ映画館にまで来るのか。",
+      "j_ko": "'드럼' 영화를 보러 온 거라고.",
+      "g_ja": "なぜ映画館にまで来るのか。",
+      "g_ko": "'드럼' 영화를 보러 온 거라고.",
+      "g_en": "This is a DRUM movie. One filled with resonance and beats that touch your soul.",
+      "g_th": "เรามาเพื่อดูหนัง 'กลอง' ต่างหาก",
+      "g_tw": "而是來看「鼓樂」電影的。",
+      "g_tw_cn": "而是来看「鼓乐」电影的。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;05;'드럼' 영화를 보러 온 거라고.\\n#fontsize;80",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "大画面と、迫力のサウンド――",
+      "j_ko": "즉 드럼의 생생한 사운드를 즐기려면,",
+      "g_ja": "大画面と、迫力のサウンド――",
+      "g_ko": "즉 드럼의 생생한 사운드를 즐기려면,",
+      "g_en": "And the way things turned out is positively ideal! This is the essence of music. Imagine it...",
+      "g_th": "หรือพูดอีกอย่างหนึ่งก็คือเรามาเพื่อดื่มด่ำกับเสียงกลองสุดแสนไพเราะมากกว่า",
+      "g_tw": "既然要享受鼓聲的震撼……",
+      "g_tw_cn": "既然要享受鼓声的震撼……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;99;즉 드럼의 생생한 사운드를 즐기려면,",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それを独り占めできたら……？",
+      "j_ko": "당연히 극장에 사람이 적을수록 좋은 게 아니겠어?",
+      "g_ja": "それを独り占めできたら……？",
+      "g_ko": "당연히 극장에 사람이 적을수록 좋은 게 아니겠어?",
+      "g_en": "...The sounds of drums hitting us, unabated by the presence of others!",
+      "g_th": "แน่นอนว่ายิ่งในโรงมีคนน้อยเท่าไรก็ยิ่งดีใช่มั้ยล่ะ?",
+      "g_tw": "觀眾自然越少越好，不是嗎？",
+      "g_tw_cn": "观众自然越少越好，不是吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;05;당연히 극장에 사람이 적을수록 좋은 게 아니겠어?\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"た、たしかに……。\"",
+      "j_ko": " \"설득력이……\"",
+      "g_ja": " \"た、たしかに……。\"",
+      "g_ko": " \"설득력이……\"",
+      "g_en": " \"That is...\"",
+      "g_th": " \"ความสามารถในการโน้มน้าวใจของเธอนี่...\"",
+      "g_tw": "「這個說法……」",
+      "g_tw_cn": "「这个说法……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"설득력이……\"\\n[s4] \"있어!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"妙に説得力が……！\"",
+      "j_ko": " \"있어!\"",
+      "g_ja": " \"妙に説得力が……！\"",
+      "g_ko": " \"있어!\"",
+      "g_en": " \"...Compelling!\"",
+      "g_th": " \"พูดจูงใจได้เก่งนะ...\"",
+      "g_tw": "「還挺有道理的！」 ",
+      "g_tw_cn": "「还挺有道理的！」 ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"설득력이……\"\\n[s4] \"있어!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 48,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "にひ。",
+      "j_ko": "바로 그거야.",
+      "g_ja": "にひ。",
+      "g_ko": "바로 그거야.",
+      "g_en": "Exactly.",
+      "g_th": "ก็นั่นละ",
+      "g_tw": "對吧？",
+      "g_tw_cn": "对吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;08;바로 그거야.\\n#3;em;[반짝]\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "だからわざわざ空いている時間帯を選んだわけだよ。",
+      "j_ko": "그래서 일부러 사람들이 잘 오지 않는 애매한 시간대로 예매했지.",
+      "g_ja": "だからわざわざ空いている時間帯を選んだわけだよ。",
+      "g_ko": "그래서 일부러 사람들이 잘 오지 않는 애매한 시간대로 예매했지.",
+      "g_en": "That's why I bought matinee tickets...",
+      "g_th": "เพราะงั้นฉันเลยตั้งใจจองตั๋วรอบเวลาที่คนไม่เยอะไงล่ะ",
+      "g_tw": "所以我特地選了這種冷門的時段。",
+      "g_tw_cn": "所以我特地选了这种冷门的时段。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;99;그래서 일부러 사람들이 잘 오지 않는 애매한 시간대로 예매했지.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 50,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "大ヒットしてる映画と上映時間が被ってるのもチェック済み。",
+      "j_ko": "인기 영화와 상영시간이 겹치는 것도 확인했고.",
+      "g_ja": "大ヒットしてる映画と上映時間が被ってるのもチェック済み。",
+      "g_ko": "인기 영화와 상영시간이 겹치는 것도 확인했고.",
+      "g_en": "...during the opening weekend of some action movie everyone else likes.",
+      "g_th": "ฉันเช็กมาแล้วด้วยว่าเวลาฉายหนังมันซ้อนกับหนังที่กำลังฮิตอยู่",
+      "g_tw": "也確認過正好是跟熱門電影重疊的場次了。",
+      "g_tw_cn": "也确认过正好是跟热门电影重叠的场次了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;08;인기 영화와 상영시간이 겹치는 것도 확인했고.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 51,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（上映時間になりシアターが暗くなった）",
+      "j_ko": "(잠시 뒤, 극장의 조명이 점점 어두워졌다.)",
+      "g_ja": "（上映時間になりシアターが暗くなった）",
+      "g_ko": "(잠시 뒤, 극장의 조명이 점점 어두워졌다.)",
+      "g_en": "Soon, the theater lights dimmed.",
+      "g_th": "(ผ่านไปสักพักแสงไฟในโรงหนังก็ค่อยๆ หรี่ลง)",
+      "g_tw": "（不久後，電影院的燈光漸漸暗下）",
+      "g_tw_cn": "（不久后，电影院的灯光渐渐暗下）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(잠시 뒤, 극장의 조명이 점점 어두워졌다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 53,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "イッツショータイム……！",
+      "j_ko": "좋아, 그럼 한 번 오붓하게 관람해 볼까!",
+      "g_ja": "イッツショータイム……！",
+      "g_ko": "좋아, 그럼 한 번 오붓하게 관람해 볼까!",
+      "g_en": "Make sure to savor this, Sensei!",
+      "g_th": "ดีละ ถ้างั้นก็มานั่งดูกันแบบสบายๆ เลยดีกว่า!",
+      "g_tw": "好，那就來場兩人獨享的觀影吧！",
+      "g_tw_cn": "好，那就来场两人独享的观影吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "#na;나츠 밴드;좋아, 그럼 한 번 오붓하게 관람해 볼까!",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 56,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clock_03a"
+    }
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 57,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clock_03a"
+    }
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 58,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clock_03a"
+    }
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 59,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clock_03a"
+    }
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 60,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（集中していたらあっという間に終わってしまった）",
+      "j_ko": "(그렇게 영화 관람이 끝난 뒤……)",
+      "g_ja": "（集中していたらあっという間に終わってしまった）",
+      "g_ko": "(그렇게 영화 관람이 끝난 뒤……)",
+      "g_en": "And then the credits rolled.",
+      "g_th": "(หลังจากที่ดูหนังจบ...)",
+      "g_tw": "（電影結束後……）",
+      "g_tw_cn": "（电影结束后……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 영화 관람이 끝난 뒤……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 61,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1189606028
+    }
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 61,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 62,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 13
+    }
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 62,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……うん。",
+      "j_ko": "……와.",
+      "g_ja": "……うん。",
+      "g_ko": "……와.",
+      "g_en": "...Compelling.",
+      "g_th": "ว้าว...",
+      "g_tw": "……哇。",
+      "g_tw_cn": "……哇。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;04;……와.\\n#3;a\\n#3;em;…",
+    "BGMId": 13,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 63,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "想像以上だったね。",
+      "j_ko": "상상 이상의 반전이었어, 선생님.",
+      "g_ja": "想像以上だったね。",
+      "g_ko": "상상 이상의 반전이었어, 선생님.",
+      "g_en": "What a plot twist, Sensei!",
+      "g_th": "หักมุมสุดๆ เลยเนอะคุณครู",
+      "g_tw": "老師，真是個超乎想像的反轉耶。",
+      "g_tw_cn": "老师，真是个超乎想像的反转耶。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;05;상상 이상의 반전이었어, 선생님.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 64,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "主人公が15年も監禁されて、スイーツだけ食べさせられてたのも驚きだったけど……<br/>まさかその犯人が、主人公の師匠だったなんて……。",
+      "j_ko": "주인공을 15년 동안 가둬 놓고 디저트만 먹였던 범인이 사실 주인공의 스승이었다니……",
+      "g_ja": "主人公が15年も監禁されて、スイーツだけ食べさせられてたのも驚きだったけど……<br/>まさかその犯人が、主人公の師匠だったなんて……。",
+      "g_ko": "주인공을 15년 동안 가둬 놓고 디저트만 먹였던 범인이 사실 주인공의 스승이었다니……",
+      "g_en": "The protagonist's teacher was the culprit! They locked them up for 15 years and only fed them desserts! What madness!",
+      "g_th": "เรื่องที่คนร้ายที่ขังตัวเอกเอาไว้ตลอด 15 ปีและให้กินแต่ของหวาน แท้จริงแล้วคือครูของตัวเอก...",
+      "g_tw": "將主角監禁15年，只讓他吃甜點的犯人竟然是主角的老師……",
+      "g_tw_cn": "将主角监禁15年，只让他吃甜点的犯人竟然是主角的老师……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;99;주인공을 15년 동안 가둬 놓고 디저트만 먹였던 범인이 사실 주인공의 스승이었다니……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 65,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "この私が、ポップコーンを忘れて映画に見入ってしまった……。",
+      "j_ko": "그나저나 너무 몰입하는 바람에 팝콘은 거의 먹지도 않았네.",
+      "g_ja": "この私が、ポップコーンを忘れて映画に見入ってしまった……。",
+      "g_ko": "그나저나 너무 몰입하는 바람에 팝콘은 거의 먹지도 않았네.",
+      "g_en": "Oh my... I was so excited that I barely ate any popcorn.",
+      "g_th": "ฉันมัวแต่ดูหนังเพลินจนลืมกินป๊อปคอร์นเลยแฮะ",
+      "g_tw": "不過話說回來，因為太專心看電影的關係，爆米花都沒怎麼吃呢。",
+      "g_tw_cn": "不过话说回来，因为太专心看电影的关系，爆米花都没怎么吃呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;06;그나저나 너무 몰입하는 바람에 팝콘은 거의 먹지도 않았네.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 66,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "このまま持って帰りたいけど……。",
+      "j_ko": "심혈을 기울여 맛있는 것들로만 골라 담은 건데……",
+      "g_ja": "このまま持って帰りたいけど……。",
+      "g_ko": "심혈을 기울여 맛있는 것들로만 골라 담은 건데……",
+      "g_en": "And I worked so hard to curate the flavor profile...",
+      "g_th": "อุตส่าห์เลือกแต่รสอร่อยๆ ที่น่าลองทั้งนั้น...",
+      "g_tw": "明明精挑細選了這麼多口味……",
+      "g_tw_cn": "明明精挑细选了这么多口味……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;06;심혈을 기울여 맛있는 것들로만 골라 담은 건데……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うーん……。",
+      "j_ko": "음……",
+      "g_ja": "うーん……。",
+      "g_ko": "음……",
+      "g_en": "Hm...",
+      "g_th": "อืม...",
+      "g_tw": "唔嗯……",
+      "g_tw_cn": "唔嗯……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;01;음……\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生、まだシャーレの仕事残ってる？",
+      "j_ko": "선생님, 그러고 보니 샬레로 돌아가서 처리해야 할 업무가 꽤 있지?",
+      "g_ja": "先生、まだシャーレの仕事残ってる？",
+      "g_ko": "선생님, 그러고 보니 샬레로 돌아가서 처리해야 할 업무가 꽤 있지?",
+      "g_en": "Sensei, you have lots of work waiting for you at Schale, right?",
+      "g_th": "คุณครู... มีงานที่ต้องกลับไปทำที่ชาเล่ต์เยอะเลยใช่มั้ย?",
+      "g_tw": "老師，你回夏萊之後還有不少工作要處理對吧？",
+      "g_tw_cn": "老师，你回夏莱之后还有不少工作要处理对吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;02;선생님, 그러고 보니 샬레로 돌아가서 처리해야 할 업무가 꽤 있지?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"うっ、せっかく忘れてたのに……。\"",
+      "j_ko": " \"잊고 있던 현실을 굳이 깨우쳐 주다니…….\"",
+      "g_ja": " \"うっ、せっかく忘れてたのに……。\"",
+      "g_ko": " \"잊고 있던 현실을 굳이 깨우쳐 주다니…….\"",
+      "g_en": " \"Oh, don't remind me...\"",
+      "g_th": " \"จู่ๆ ก็ปลุกครูให้ตื่นจากฝันมาเจอความจริงซะงั้น...\"",
+      "g_tw": "「你為什麼要讓我想起現實……」",
+      "g_tw_cn": "「你为什么要让我想起现实……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"잊고 있던 현실을 굳이 깨우쳐 주다니…….\"\\n[s6] \"슬프다…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"悲しくなってきちゃった……。\"",
+      "j_ko": " \"슬프다…….\"",
+      "g_ja": " \"悲しくなってきちゃった……。\"",
+      "g_ko": " \"슬프다…….\"",
+      "g_en": " \"You're bumming me out...\"",
+      "g_th": " \"ชีวิตมันน่าเศร้าแท้...\"",
+      "g_tw": "「好過分……」",
+      "g_tw_cn": "「好过分……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"잊고 있던 현실을 굳이 깨우쳐 주다니…….\"\\n[s6] \"슬프다…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 72,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そっかそっかー。分かった。",
+      "j_ko": "그럼, 자.",
+      "g_ja": "そっかそっかー。分かった。",
+      "g_ko": "그럼, 자.",
+      "g_en": "In that case...",
+      "g_th": "เอ้านี่",
+      "g_tw": "那麼，來。",
+      "g_tw_cn": "那么，来。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;01;그럼, 자.\\n#3;a\\n#3;greeting\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 73,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ポップコーンは先生にあげよう。",
+      "j_ko": "이 팝콘, 선생님이 가져가.",
+      "g_ja": "ポップコーンは先生にあげよう。",
+      "g_ko": "이 팝콘, 선생님이 가져가.",
+      "g_en": "Sensei, take this popcorn.",
+      "g_th": "เอาป๊อปคอร์นนี่ไปสิ",
+      "g_tw": "這桶爆米花給你。",
+      "g_tw_cn": "这桶爆米花给你。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;02;이 팝콘, 선생님이 가져가.\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 74,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 74,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "疲れると甘いものが欲しくなる。",
+      "j_ko": "오랫동안 앉아서 머리를 쓰려면, 당분이 꼭 필요하잖아?",
+      "g_ja": "疲れると甘いものが欲しくなる。",
+      "g_ko": "오랫동안 앉아서 머리를 쓰려면, 당분이 꼭 필요하잖아?",
+      "g_en": "It's as I told you—a little sugar is the perfect antidote to stress.",
+      "g_th": "ถ้านั่งทำงานใช้ความคิดนานๆ อาจต้องเติมน้ำตาลนะ",
+      "g_tw": "長時間坐著動腦，可是不能缺少糖分的。",
+      "g_tw_cn": "长时间坐着动脑，可是不能缺少糖分的。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;00;오랫동안 앉아서 머리를 쓰려면, 당분이 꼭 필요하잖아?\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "この子たちが先生の力になってくれるはずだ。",
+      "j_ko": "과로는 혼자서 상대하기에 위험하니까, 이 아이들을 데려가라고.",
+      "g_ja": "この子たちが先生の力になってくれるはずだ。",
+      "g_ko": "과로는 혼자서 상대하기에 위험하니까, 이 아이들을 데려가라고.",
+      "g_en": "Don't go working overtime underprepared!",
+      "g_th": "นั่งทำงานหนักคนเดียวมันอันตราย เพราะงั้นพาเด็กๆ พวกนี้ไปด้วยเถอะ",
+      "g_tw": "一個人應付過勞很危險，就讓這些小傢伙陪著你吧。",
+      "g_tw_cn": "一个人应付过劳很危险，就让这些小家伙陪着你吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;08;과로는 혼자서 상대하기에 위험하니까, 이 아이들을 데려가라고.\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ありがとう。いただくね。\"",
+      "j_ko": " \"고마워, 잘 먹을게.\"",
+      "g_ja": " \"ありがとう。いただくね。\"",
+      "g_ko": " \"고마워, 잘 먹을게.\"",
+      "g_en": " \"It does look tasty...\"",
+      "g_th": " \"ขอบใจนะ ครูจะกินให้เรียบเลย\"",
+      "g_tw": "「謝啦，我會好好享用的。」",
+      "g_tw_cn": "「谢啦，我会好好享用的。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"고마워, 잘 먹을게.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 77,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 78,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Eat_02"
+    }
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 78,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（シャーレに戻ったあと、ポップコーンを食べながら残りの仕事を片付けた）",
+      "j_ko": "(샬레로 돌아온 뒤, 달달한 팝콘과 함께 남은 업무들을 처리했다.)",
+      "g_ja": "（シャーレに戻ったあと、ポップコーンを食べながら残りの仕事を片付けた）",
+      "g_ko": "(샬레로 돌아온 뒤, 달달한 팝콘과 함께 남은 업무들을 처리했다.)",
+      "g_en": "After returning to Schale, I finished my tasks while sampling the sweet popcorn.",
+      "g_th": "(หลังจากกลับมาที่ชาเล่ต์ คุณครูก็นั่งกินป๊อปคอร์นไประหว่างจัดการงานที่เหลือให้เสร็จ)",
+      "g_tw": "（回到夏萊後，一邊吃著甜甜的爆米花，一邊處理剩下的工作）",
+      "g_tw_cn": "（回到夏莱后，一边吃着甜甜的爆米花，一边处理剩下的工作）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(샬레로 돌아온 뒤, 달달한 팝콘과 함께 남은 업무들을 처리했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 79,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（……強烈な甘さが、眠気覚ましに最適だった）",
+      "j_ko": "(……확실히 엄청나게 달아서, 잠이 끼어들 틈이 없었다.)",
+      "g_ja": "（……強烈な甘さが、眠気覚ましに最適だった）",
+      "g_ko": "(……확실히 엄청나게 달아서, 잠이 끼어들 틈이 없었다.)",
+      "g_en": "It was so sweet that I never felt drowsy.",
+      "g_th": "(และป๊อปคอร์นค่อนข้างหวานมาก จนทำให้ไม่ง่วงนอนเลย)",
+      "g_tw": "（……強烈的甜味確實讓人完全不會想睡）",
+      "g_tw_cn": "（……强烈的甜味确实让人完全不会想睡）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(……확실히 엄청나게 달아서, 잠이 끼어들 틈이 없었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

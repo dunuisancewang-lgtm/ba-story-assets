@@ -1,0 +1,1658 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">探し物は</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">잃어버린 핸드폰</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">探し物は</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">잃어버린 핸드폰</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Lost Cellphone</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">โทรศัพท์ที่หายไป</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">遺失的手機</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">遗失的手机</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;잃어버린 핸드폰",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（急に連絡が途絶え心配になり、心当たりがある公園に向かった）",
+      "j_ko": "(답장이 없는 아스나가 걱정되어 마지막으로 말했던 곳으로 향했다.)",
+      "g_ja": "（急に連絡が途絶え心配になり、心当たりがある公園に向かった）",
+      "g_ko": "(답장이 없는 아스나가 걱정되어 마지막으로 말했던 곳으로 향했다.)",
+      "g_en": "I was worried after not getting a response from Asuna, so I headed to the last location she mentioned.",
+      "g_th": "(คุณครูเป็นห่วงอาสึนะที่ไม่ตอบข้อความ จึงมุ่งหน้าไปยังสถานที่ที่เธออยู่)",
+      "g_tw": "（因為擔心沒有回覆的明日奈，於是前往了他最後提到的地方）",
+      "g_tw_cn": "（因为担心没有回复的明日奈，于是前往了他最后提到的地方）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(답장이 없는 아스나가 걱정되어 마지막으로 말했던 곳으로 향했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 644119520
+    }
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 4,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cricket_02"
+    }
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " （もう大分暗いけど、まだいるかな……）",
+      "j_ko": " (이미 꽤 어두워졌는데…… 이쪽에 있으려나……)",
+      "g_ja": " （もう大分暗いけど、まだいるかな……）",
+      "g_ko": " (이미 꽤 어두워졌는데…… 이쪽에 있으려나……)",
+      "g_en": " \"(It's already pretty late. I wonder if she's still here...)\"",
+      "g_th": " (นี่ก็มืดค่ำแล้ว... อยู่ตรงนี้หรือเปล่านะ...)",
+      "g_tw": "（天色已經很暗了……會在這裡嗎……）",
+      "g_tw_cn": "（天色已经很暗了……会在这里吗……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] (이미 꽤 어두워졌는데…… 이쪽에 있으려나……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 8,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（あれは……）",
+      "j_ko": "(저쪽에 누군가 엎드려 있다……)",
+      "g_ja": "（あれは……）",
+      "g_ko": "(저쪽에 누군가 엎드려 있다……)",
+      "g_en": "I saw someone lying on the ground.",
+      "g_th": "(มีคนนอนคว่ำอยู่ทางด้านโน้น...)",
+      "g_tw": "（有人趴在那裡……）",
+      "g_tw_cn": "（有人趴在那里……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(저쪽에 누군가 엎드려 있다……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"アスナ、何してるの？\"",
+      "j_ko": " \"아스나?\"",
+      "g_ja": " \"アスナ、何してるの？\"",
+      "g_ko": " \"아스나?\"",
+      "g_en": " \"Asuna?\"",
+      "g_th": " \"อาสึนะ?\"",
+      "g_tw": "「明日奈？」",
+      "g_tw_cn": "「明日奈？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"아스나?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 14,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 15,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 16,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 644119520
+    }
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 18,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 20,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、せんせ～！",
+      "j_ko": "아! 선생님~!!",
+      "g_ja": "あ、せんせ～！",
+      "g_ko": "아! 선생님~!!",
+      "g_en": "Ah! Sensei!!",
+      "g_th": "อ๊ะ! คุณครู~!!",
+      "g_tw": "啊！老師～！！",
+      "g_tw_cn": "啊！老师～！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "4;아스나 교복;08;아! 선생님~!!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 21,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "どうしてここにいるって分かったの？",
+      "j_ko": "뭐야, 뭐야? 아스나 여기 있는 거 어떻게 알았어?",
+      "g_ja": "どうしてここにいるって分かったの？",
+      "g_ko": "뭐야, 뭐야? 아스나 여기 있는 거 어떻게 알았어?",
+      "g_en": "What's up? How'd you know I was here?",
+      "g_th": "อะไรเนี่ย? รู้ได้ยังไงน่ะว่าอาสึนะอยู่ที่นี่? แล้วมาทำไมเหรอ?",
+      "g_tw": "什麼什麼？你怎麼知道明日奈在這裡？",
+      "g_tw_cn": "什么什么？你怎么知道明日奈在这里？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "4;아스나 교복;00;뭐야, 뭐야? 아스나 여기 있는 거 어떻게 알았어?\\n#4;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 22,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 22
+    }
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"返事がなかったから、探しに来たんだ。\"",
+      "j_ko": " \"모모톡 답장이 없어서 찾으러 왔어.\"",
+      "g_ja": " \"返事がなかったから、探しに来たんだ。\"",
+      "g_ko": " \"모모톡 답장이 없어서 찾으러 왔어.\"",
+      "g_en": " \"You didn't message me back on MomoTalk, so I came to find you.\"",
+      "g_th": " \"เห็นว่าไม่ตอบ MOMOTALK ครูเลยออกมาตามหาน่ะ\"",
+      "g_tw": "「因為你沒有回MomoTalk，所以就來找你了。」",
+      "g_tw_cn": "「因为你没有回MomoTalk，所以就来找你了。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"모모톡 답장이 없어서 찾으러 왔어.\"",
+    "BGMId": 22,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 26,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"前みたいなことになってたら大変だから。\"",
+      "j_ko": " \"혹시 예전처럼 고장 난 상태라면 위험하니까.\"",
+      "g_ja": " \"前みたいなことになってたら大変だから。\"",
+      "g_ko": " \"혹시 예전처럼 고장 난 상태라면 위험하니까.\"",
+      "g_en": " \"I thought maybe your phone was broken, and you might be in danger.\"",
+      "g_th": " \"เพราะถ้าเกิดเรื่องเหมือนเมื่อก่อนมันจะอันตรายเอา\"",
+      "g_tw": "「如果跟以前一樣故障的話，我擔心會有危險。」",
+      "g_tw_cn": "「如果跟以前一样故障的话，我担心会有危险。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"혹시 예전처럼 고장 난 상태라면 위험하니까.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それなら大丈夫だよ！",
+      "j_ko": "아, 지금은 괜찮아! 하핫.",
+      "g_ja": "それなら大丈夫だよ！",
+      "g_ko": "아, 지금은 괜찮아! 하핫.",
+      "g_en": "Ah, I'm okay! Haha.",
+      "g_th": "อ้อ ตอนนี้อาสึนะไม่เป็นไร! ฮะฮ่า",
+      "g_tw": "啊，我現在沒事的哦！哈哈。",
+      "g_tw_cn": "啊，我现在没事的哦！哈哈。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "4;아스나 교복;00;아, 지금은 괜찮아! 하핫.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ほら、ちゃんと無事だし！",
+      "j_ko": "몸에 힘이 안 들어간다거나 하지 않으니까~!",
+      "g_ja": "ほら、ちゃんと無事だし！",
+      "g_ko": "몸에 힘이 안 들어간다거나 하지 않으니까~!",
+      "g_en": "It's not like I can't take care of myself or anything!",
+      "g_th": "ไม่ใช่ว่ามานอนอยู่เพราะร่างกายไม่มีแรงหรอก~!",
+      "g_tw": "身體也能正常使力的唷～！",
+      "g_tw_cn": "身体也能正常使力的唷～！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "4;아스나 교복;08;몸에 힘이 안 들어간다거나 하지 않으니까~!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"安心したよ。\"",
+      "j_ko": " \"그건 다행이네.\"",
+      "g_ja": " \"安心したよ。\"",
+      "g_ko": " \"그건 다행이네.\"",
+      "g_en": " \"That's a relief.\"",
+      "g_th": " \"งั้นก็ค่อยยังชั่วหน่อย\"",
+      "g_tw": "「那就好。」",
+      "g_tw_cn": "「那就好。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그건 다행이네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "退屈だと、力が抜けちゃうんだと思う。",
+      "j_ko": "응! 그건 재미있는 일이 없을 때 그러는 거 같아.",
+      "g_ja": "退屈だと、力が抜けちゃうんだと思う。",
+      "g_ko": "응! 그건 재미있는 일이 없을 때 그러는 거 같아.",
+      "g_en": "Yup! See, sometimes when there isn't anything fun to do...",
+      "g_th": "อื้อ! ที่อาสึนะเป็นอย่างนี้ น่าจะเพราะไม่มีเรื่องสนุกๆ ให้ทำน่ะ",
+      "g_tw": "嗯！好像要很無聊的時候才會變成那樣。",
+      "g_tw_cn": "嗯！好像要很无聊的时候才会变成那样。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "4;아스나 교복;03;응! 그건 재미있는 일이 없을 때 그러는 거 같아.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 31,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あと、大好きな人に会えなかったりした時とか？",
+      "j_ko": "아니면 좋아하는 사람들을 자주 못 만난다거나?",
+      "g_ja": "あと、大好きな人に会えなかったりした時とか？",
+      "g_ko": "아니면 좋아하는 사람들을 자주 못 만난다거나?",
+      "g_en": "...or I can't hang out with the people I like...",
+      "g_th": "หรือไม่ก็เพราะไม่ได้เจอคนที่ชอบบ่อยๆ?",
+      "g_tw": "或者沒辦法常常看到喜歡的人之類的？",
+      "g_tw_cn": "或者没办法常常看到喜欢的人之类的？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "4;아스나 교복;02;아니면 좋아하는 사람들을 자주 못 만난다거나?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 32,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "充電式みたいだね、あははっ！",
+      "j_ko": "맞아. 그럴 때 종종 힘이 빠지고 그래. 아하하. 아스나는 충전식일지도!",
+      "g_ja": "充電式みたいだね、あははっ！",
+      "g_ko": "맞아. 그럴 때 종종 힘이 빠지고 그래. 아하하. 아스나는 충전식일지도!",
+      "g_en": "...Yeah. I feel down sometimes when it's like that. Ahaha. Like my battery needs a recharge.",
+      "g_th": "จริงสินะ ถ้าเป็นอย่างนั้น บางครั้งอาสึนะก็จะไม่ค่อยมีเรี่ยวแรงน่ะ อะฮ่าฮ่า การได้เจอผู้คนอาจจะเป็น<br/>การชาร์จแบตของอาสึนะก็ได้!",
+      "g_tw": "嗯嗯，那種時候經常會覺得全身無力呢。<br/>啊哈哈，說不定明日奈其實是充電式的哦！",
+      "g_tw_cn": "嗯嗯，那种时候经常会觉得全身无力呢。<br/>啊哈哈，说不定明日奈其实是充电式的哦！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "4;아스나 교복;03;맞아. 그럴 때 종종 힘이 빠지고 그래. 아하하. 아스나는 충전식일지도!\\n#4;em;[재잘]\\n#4;hophop",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 33,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"最近は大丈夫なの？\"",
+      "j_ko": " \"요즘은 괜찮은 거야?\"",
+      "g_ja": " \"最近は大丈夫なの？\"",
+      "g_ko": " \"요즘은 괜찮은 거야?\"",
+      "g_en": " \"Have you been feeling all right lately?\"",
+      "g_th": " \"แต่ช่วงนี้โอเคอยู่ใช่มั้ย?\"",
+      "g_tw": "「你最近還好嗎？」",
+      "g_tw_cn": "「你最近还好吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"요즘은 괜찮은 거야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うん、毎日楽しいからね！",
+      "j_ko": "응응! 왜냐면 요즘은 꽤 재미있구~",
+      "g_ja": "うん、毎日楽しいからね！",
+      "g_ko": "응응! 왜냐면 요즘은 꽤 재미있구~",
+      "g_en": "Yup, yup! I've been having lots of fun.",
+      "g_th": "อื้อๆ! ก็เพราะช่วงนี้มีเรื่องสนุกให้ทำ~",
+      "g_tw": "嗯嗯！因為最近過得很有趣～",
+      "g_tw_cn": "嗯嗯！因为最近过得很有趣～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "4;아스나 교복;08;응응! 왜냐면 요즘은 꽤 재미있구~",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 35,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生にもよく会うから、だからすごく元気だよ！",
+      "j_ko": "선생님도 자주 마주치니까! 그러니까 아주 좋아!!",
+      "g_ja": "先生にもよく会うから、だからすごく元気だよ！",
+      "g_ko": "선생님도 자주 마주치니까! 그러니까 아주 좋아!!",
+      "g_en": "Plus I run into you all the time! So yup, things are going great!",
+      "g_th": "แล้วก็ได้เจอคุณครูบ่อยๆ ด้วย! เพราะงั้นก็เลยดีมากเลยละ!!",
+      "g_tw": "而且又常常碰到老師！所以我很開心！！",
+      "g_tw_cn": "而且又常常碰到老师！所以我很开心！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "4;아스나 교복;03;선생님도 자주 마주치니까! 그러니까 아주 좋아!!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 36,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"アスナが元気で良かったよ。\"",
+      "j_ko": " \"그렇다면 괜찮겠지만……\"",
+      "g_ja": " \"アスナが元気で良かったよ。\"",
+      "g_ko": " \"그렇다면 괜찮겠지만……\"",
+      "g_en": " \"Well, sounds good, then...\"",
+      "g_th": " \"ถ้างั้นก็ดีอยู่หรอก ว่าแต่มาทำอะไรอยู่ที่นี่ล่ะ...?\"",
+      "g_tw": "「那真是太好了……」",
+      "g_tw_cn": "「那真是太好了……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"그렇다면 괜찮겠지만……\"\\n[s2] \"여기서 뭘 하고 있었던 거야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 36,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"それで、今は何をしてるの？\"",
+      "j_ko": " \"여기서 뭘 하고 있었던 거야?\"",
+      "g_ja": " \"それで、今は何をしてるの？\"",
+      "g_ko": " \"여기서 뭘 하고 있었던 거야?\"",
+      "g_en": " \"But what were you doing here?\"",
+      "g_th": " \"ได้ยินอย่างนั้นก็ดีแล้ว ว่าแต่มาทำอะไรอยู่ที่นี่เหรอ...?\"",
+      "g_tw": "「話說你在這裡做什麼呢？」",
+      "g_tw_cn": "「话说你在这里做什么呢？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"그렇다면 괜찮겠지만……\"\\n[s2] \"여기서 뭘 하고 있었던 거야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 40,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、そうだ！",
+      "j_ko": "아, 맞다!",
+      "g_ja": "あ、そうだ！",
+      "g_ko": "아, 맞다!",
+      "g_en": "Ah, right!",
+      "g_th": "อ๊ะ จริงด้วย!",
+      "g_tw": "啊，對了！",
+      "g_tw_cn": "啊，对了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "4;아스나 교복;02;아, 맞다!\\n#4;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "実はスマホを落としちゃって！",
+      "j_ko": "나 핸드폰 잃어버렸거든!!",
+      "g_ja": "実はスマホを落としちゃって！",
+      "g_ko": "나 핸드폰 잃어버렸거든!!",
+      "g_en": "I lost my phone!",
+      "g_th": "พอดีฉันทำโทรศัพท์หายน่ะสิ!!",
+      "g_tw": "我的手機不見了！！",
+      "g_tw_cn": "我的手机不见了！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "4;아스나 교복;00;나 핸드폰 잃어버렸거든!!\\n#4;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"全然大丈夫じゃなかったね！？\"",
+      "j_ko": " \"뭐어?\"",
+      "g_ja": " \"全然大丈夫じゃなかったね！？\"",
+      "g_ko": " \"뭐어?\"",
+      "g_en": " \"What?\"",
+      "g_th": " \"ว่าไงนะ?\"",
+      "g_tw": "「什麼？」",
+      "g_tw_cn": "「什么？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"뭐어?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ほかのことに気を取られてたら、落としちゃってたみたい。",
+      "j_ko": "선생님한테 답장하려다가 다른 데에 정신팔렸는데, 그 사이에 어딘가로 사라진 것 같아.",
+      "g_ja": "ほかのことに気を取られてたら、落としちゃってたみたい。",
+      "g_ko": "선생님한테 답장하려다가 다른 데에 정신팔렸는데, 그 사이에 어딘가로 사라진 것 같아.",
+      "g_en": "I was trying to reply to you, but I got distracted, and now I don't know where my phone is.",
+      "g_th": "ฉันว่าจะตอบข้อความของคุณครู แต่ระหว่างนั้นก็มัวแต่ไปคิดเรื่องอื่น แล้วพอรู้ตัวอีกที โทรศัพท์ก็หายไปแล้ว",
+      "g_tw": "我剛才本來想回老師訊息的，結果卻被其他東西吸引，等我回過神來手機就不見了。",
+      "g_tw_cn": "我刚才本来想回老师消息的，结果却被其他东西吸引，等我回过神来手机就不见了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "4;아스나 교복;08;선생님한테 답장하려다가 다른 데에 정신팔렸는데, 그 사이에 어딘가로 사라진 것 같아.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "だから返事ができなかったの。<br/>ごめんね、先生。",
+      "j_ko": "그래서 모모톡 답장을 못 했어. 미안해, 선생님.",
+      "g_ja": "だから返事ができなかったの。<br/>ごめんね、先生。",
+      "g_ko": "그래서 모모톡 답장을 못 했어. 미안해, 선생님.",
+      "g_en": "Which is why I couldn't reply to your MomoTalk. Sorry about that, Sensei.",
+      "g_th": "ก็เลยตอบ MOMOTALK ไม่ได้น่ะ ขอโทษนะคุณครู",
+      "g_tw": "就是因為這樣才沒有回MomoTalk。<br/>對不起，老師。",
+      "g_tw_cn": "就是因为这样才没有回MomoTalk。<br/>对不起，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "4;아스나 교복;00;그래서 모모톡 답장을 못 했어. 미안해, 선생님.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"一緒に探そうか。\"",
+      "j_ko": " \"그럼 같이 찾아볼까?\"",
+      "g_ja": " \"一緒に探そうか。\"",
+      "g_ko": " \"그럼 같이 찾아볼까?\"",
+      "g_en": " \"You want to look for it together?\"",
+      "g_th": " \"งั้นไปหาโทรศัพท์ด้วยกันมั้ย?\"",
+      "g_tw": "「那我們一起找找看吧？」",
+      "g_tw_cn": "「那我们一起找找看吧？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그럼 같이 찾아볼까?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えへへっ、ありがとう！",
+      "j_ko": "선생님이랑 같이? 응! 그럴래! 헤헤.",
+      "g_ja": "えへへっ、ありがとう！",
+      "g_ko": "선생님이랑 같이? 응! 그럴래! 헤헤.",
+      "g_en": "With you, Sensei? Yup! We can do that! Heehee.",
+      "g_th": "ไปหากับคุณครูเหรอ? อื้อ! เอาสิ! แหะๆ",
+      "g_tw": "和老師一起找嗎？嗯！當然好！<br/>嘿嘿。",
+      "g_tw_cn": "和老师一起找吗？嗯！当然好！<br/>嘿嘿。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "4;아스나 교복;00;선생님이랑 같이? 응! 그럴래! 헤헤.\\n#4;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 50,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 50,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "この辺りで落としたはずなんだけど、<br/>全然見つからなくってさ～。",
+      "j_ko": "이쯤 어딘가에서 잃어버린 것 같은데, 계속 찾아봐도 안 보여~!",
+      "g_ja": "この辺りで落としたはずなんだけど、<br/>全然見つからなくってさ～。",
+      "g_ko": "이쯤 어딘가에서 잃어버린 것 같은데, 계속 찾아봐도 안 보여~!",
+      "g_en": "I think I lost it somewhere around here, but I can't find it!",
+      "g_th": "น่าจะทำหายแถวๆ นี้นะ แต่หาเท่าไรก็ไม่เจอเลย~!",
+      "g_tw": "好像是在這附近弄丟的，可是我怎麼找都找不到～！",
+      "g_tw_cn": "好像是在这附近弄丢的，可是我怎么找都找不到～！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "4;아스나 교복;08;이쯤 어딘가에서 잃어버린 것 같은데, 계속 찾아봐도 안 보여~!\\n#4;m2",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"来た道を戻りながら探してみよう。\"",
+      "j_ko": " \"아스나가 왔던 길을 되돌아가면서 찾아보자.\"",
+      "g_ja": " \"来た道を戻りながら探してみよう。\"",
+      "g_ko": " \"아스나가 왔던 길을 되돌아가면서 찾아보자.\"",
+      "g_en": " \"Let's retrace your steps and keep our eyes open.\"",
+      "g_th": " \"ย้อนกลับไปหาตามทางที่อาสึนะมาดีกว่า\"",
+      "g_tw": "「在明日奈走過的路上找找看吧。」",
+      "g_tw_cn": "「在明日奈走过的路上找找看吧。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"아스나가 왔던 길을 되돌아가면서 찾아보자.\"\\n[s4] \"내가 계속 전화해 볼게.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"アスナのスマホに電話をかけてみるよ。\"",
+      "j_ko": " \"내가 계속 전화해 볼게.\"",
+      "g_ja": " \"アスナのスマホに電話をかけてみるよ。\"",
+      "g_ko": " \"내가 계속 전화해 볼게.\"",
+      "g_en": " \"I'll keep calling your phone.\"",
+      "g_th": " \"ครูจะโทรเข้าเครื่องอาสึนะเรื่อยๆ นะ\"",
+      "g_tw": "「我會繼續打電話看看。」",
+      "g_tw_cn": "「我会继续打电话看看。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"아스나가 왔던 길을 되돌아가면서 찾아보자.\"\\n[s4] \"내가 계속 전화해 볼게.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 54,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "マナーモードにしてるけど、振動で分かるはず！",
+      "j_ko": "응! 진동 모드라 웅~ 할 거야. 그러면 어디 있는지 알 수 있어!",
+      "g_ja": "マナーモードにしてるけど、振動で分かるはず！",
+      "g_ko": "응! 진동 모드라 웅~ 할 거야. 그러면 어디 있는지 알 수 있어!",
+      "g_en": "Yup! It's on vibrate, so it's going to buzz. That'll help us find it for sure!",
+      "g_th": "อื้อ! มันปิดเสียงไว้ แต่ก็น่าจะสั่นตืดตืด~ ให้ได้ยินอยู่ แบบนั้นก็น่าจะรู้ได้ว่าอยู่ที่ไหนนะ!",
+      "g_tw": "嗯！只要聽震動模式的嗡嗡聲，就能知道手機在哪了！",
+      "g_tw_cn": "嗯！只要听震动模式的嗡嗡声，就能知道手机在哪了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "4;아스나 교복;03;응! 진동 모드라 웅~ 할 거야. 그러면 어디 있는지 알 수 있어!\\n#4;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 55,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（アスナのスマホに電話をかけ続けながら、辺りを一緒に探した）",
+      "j_ko": "(그렇게 아스나의 핸드폰에 계속 전화를 걸며 함께 주변을 수색했다.)",
+      "g_ja": "（アスナのスマホに電話をかけ続けながら、辺りを一緒に探した）",
+      "g_ko": "(그렇게 아스나의 핸드폰에 계속 전화를 걸며 함께 주변을 수색했다.)",
+      "g_en": "I kept calling Asuna's number while we searched the area.",
+      "g_th": "(คุณครูกับอาสึนะเดินหาโทรศัพท์มือถือในบริเวณนั้นต่อ)",
+      "g_tw": "（就這樣不斷撥電話給明日奈，一起在附近尋找手機的下落）",
+      "g_tw_cn": "（就这样不断拨电话给明日奈，一起在附近寻找手机的下落）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 아스나의 핸드폰에 계속 전화를 걸며 함께 주변을 수색했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 57,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 644119520
+    }
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 57,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 59,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（しばらくして……）",
+      "j_ko": "(얼마 뒤……)",
+      "g_ja": "（しばらくして……）",
+      "g_ko": "(얼마 뒤……)",
+      "g_en": "After a few minutes...",
+      "g_th": "(ไม่นานหลังจากนั้น...)",
+      "g_tw": "（不久後……）",
+      "g_tw_cn": "（不久后……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(얼마 뒤……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 62,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Vibration_03"
+    }
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 63,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Vibration_03"
+    }
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 65,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"今のは……？\"",
+      "j_ko": " \"방금……\"",
+      "g_ja": " \"今のは……？\"",
+      "g_ko": " \"방금……\"",
+      "g_en": " \"Was that...?\"",
+      "g_th": " \"เมื่อกี้มัน...\"",
+      "g_tw": "「剛才……」",
+      "g_tw_cn": "「刚才……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"방금……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 66,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生も聞こえた？<br/>近くにあるみたい！",
+      "j_ko": "선생님도 들었어? 이 근처에 있는 것 같아!",
+      "g_ja": "先生も聞こえた？<br/>近くにあるみたい！",
+      "g_ko": "선생님도 들었어? 이 근처에 있는 것 같아!",
+      "g_en": "Sensei, do you hear that? I think it's right around here!",
+      "g_th": "คุณครูก็ได้ยินเหมือนกันใช่มั้ย? มันน่าจะอยู่แถวๆ นี้นะ!",
+      "g_tw": "老師也聽到了嗎？好像在這附近！",
+      "g_tw_cn": "老师也听到了吗？好像在这附近！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;00;선생님도 들었어? 이 근처에 있는 것 같아!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 69,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Vibration_03"
+    }
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 70,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Vibration_03"
+    }
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 71,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あっちだよ！",
+      "j_ko": "아! 저쪽이다!!",
+      "g_ja": "あっちだよ！",
+      "g_ko": "아! 저쪽이다!!",
+      "g_en": "Ah! Over there!!",
+      "g_th": "อ๊ะ! นั่นไง!!",
+      "g_tw": "啊！在那邊！！",
+      "g_tw_cn": "啊！在那边！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;03;아! 저쪽이다!!\\n#3;em;[반응]\\n#3;m2",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 74,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 75,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 76,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 77,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生、見つけたよ！",
+      "j_ko": "찾았어, 선생님!!",
+      "g_ja": "先生、見つけたよ！",
+      "g_ko": "찾았어, 선생님!!",
+      "g_en": "Found it, Sensei!",
+      "g_th": "เจอแล้ว คุณครู!!",
+      "g_tw": "找到了，老師！！",
+      "g_tw_cn": "找到了，老师！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "#na;아스나 교복;찾았어, 선생님!!",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 78,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 644119520
+    }
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 80,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 228
+    }
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 80,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 81,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あははっ、さっき座ってたベンチに置き忘れてたみたい。",
+      "j_ko": "아하하, 아까 앉았던 벤치에 그대로 두고 왔었나 봐.",
+      "g_ja": "あははっ、さっき座ってたベンチに置き忘れてたみたい。",
+      "g_ko": "아하하, 아까 앉았던 벤치에 그대로 두고 왔었나 봐.",
+      "g_en": "Ahaha, I must've left it on the bench when I sat down.",
+      "g_th": "อะฮ่าฮ่า สงสัยจะเผลอวางไว้ที่ม้านั่งที่อาสึนะมานั่งอยู่เมื่อกี้น่ะ",
+      "g_tw": "啊哈哈，我好像放在剛才坐過的長椅上了。",
+      "g_tw_cn": "啊哈哈，我好像放在刚才坐过的长椅上了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;03;아하하, 아까 앉았던 벤치에 그대로 두고 왔었나 봐.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 82,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "最初に探しておけば良かったね！",
+      "j_ko": "이런 줄 알았으면 갔던 곳부터 찾을 걸 그랬어~",
+      "g_ja": "最初に探しておけば良かったね！",
+      "g_ko": "이런 줄 알았으면 갔던 곳부터 찾을 걸 그랬어~",
+      "g_en": "I should've started by searching the places I knew I'd already been.",
+      "g_th": "รู้งี้มาหาในที่ที่ตัวเองไปตั้งแต่แรกก็ดี~",
+      "g_tw": "早知道我就先從去過的地方開始找了～",
+      "g_tw_cn": "早知道我就先从去过的地方开始找了～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;08;이런 줄 알았으면 갔던 곳부터 찾을 걸 그랬어~",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 83,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"こういう時もあるよ。\"",
+      "j_ko": " \"원래 머물렀던 곳을 거슬러 올라가면 금방 발견하니까.\"",
+      "g_ja": " \"こういう時もあるよ。\"",
+      "g_ko": " \"원래 머물렀던 곳을 거슬러 올라가면 금방 발견하니까.\"",
+      "g_en": " \"That's a good method for finding things in general.\"",
+      "g_th": " \"ถ้าย้อนกลับไปที่ที่เคยอยู่ ไม่นานก็หาเจอแบบนี้ละ\"",
+      "g_tw": "「從待過的地方開始找的話，很快就會發現的。」",
+      "g_tw_cn": "「从待过的地方开始找的话，很快就会发现的。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"원래 머물렀던 곳을 거슬러 올라가면 금방 발견하니까.\"\\n[s6] \"어쨌든 다시 찾아서 다행이야, 아스나.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 83,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"見つかって良かったね、アスナ。\"",
+      "j_ko": " \"어쨌든 다시 찾아서 다행이야, 아스나.\"",
+      "g_ja": " \"見つかって良かったね、アスナ。\"",
+      "g_ko": " \"어쨌든 다시 찾아서 다행이야, 아스나.\"",
+      "g_en": " \"I'm glad you found it, Asuna.\"",
+      "g_th": " \"ค่อยโล่งใจหน่อยนะที่หาเจอ อาสึนะ\"",
+      "g_tw": "「總之能找回來真是太好了，明日奈。」",
+      "g_tw_cn": "「总之能找回来真是太好了，明日奈。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"원래 머물렀던 곳을 거슬러 올라가면 금방 발견하니까.\"\\n[s6] \"어쨌든 다시 찾아서 다행이야, 아스나.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 86,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うん！<br/>先生のおかげだよ！",
+      "j_ko": "응!! 선생님이 아니었으면 꼼짝없이 잃어버렸을 거야.",
+      "g_ja": "うん！<br/>先生のおかげだよ！",
+      "g_ko": "응!! 선생님이 아니었으면 꼼짝없이 잃어버렸을 거야.",
+      "g_en": "Yeah!! I would've lost it for sure if not for your help.",
+      "g_th": "อื้อ!! ถ้าไม่ได้คุณครู ป่านนี้อาสึนะคงยังหาไม่เจอแน่ๆ",
+      "g_tw": "嗯！！要不是有老師在，我肯定沒辦法把手機找回來。",
+      "g_tw_cn": "嗯！！要不是有老师在，我肯定没办法把手机找回来。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;00;응!! 선생님이 아니었으면 꼼짝없이 잃어버렸을 거야.\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 87,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ありがとう、先生。<br/>いつもアスナのこと助けてくれて！",
+      "j_ko": "고마워, 선생님!! 항상 아스나를 도와줘서!",
+      "g_ja": "ありがとう、先生。<br/>いつもアスナのこと助けてくれて！",
+      "g_ko": "고마워, 선생님!! 항상 아스나를 도와줘서!",
+      "g_en": "Thank you, Sensei!! For always being there for me!",
+      "g_th": "ขอบคุณที่ช่วยเหลืออาสึนะเสมอเลยนะคุณครู!",
+      "g_tw": "謝謝你，老師！！謝謝你總是幫助明日奈！",
+      "g_tw_cn": "谢谢你，老师！！谢谢你总是帮助明日奈！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;03;고마워, 선생님!! 항상 아스나를 도와줘서!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 90,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Confirm_01"
+    }
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 92,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あっ、見て！",
+      "j_ko": "아, 이거 봐! 선생님.",
+      "g_ja": "あっ、見て！",
+      "g_ko": "아, 이거 봐! 선생님.",
+      "g_en": "...Oh, look at this!",
+      "g_th": "อ๊ะ ดูนี่สิ! คุณครู",
+      "g_tw": "啊，你看這個！老師。",
+      "g_tw_cn": "啊，你看这个！老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;00;아, 이거 봐! 선생님.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 93,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 7,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"着信履歴がすごい……。\"",
+      "j_ko": " \"내 부재중 통화 엄청 찍혀있네.\"",
+      "g_ja": " \"着信履歴がすごい……。\"",
+      "g_ko": " \"내 부재중 통화 엄청 찍혀있네.\"",
+      "g_en": " \"It's got lots of missed calls from me.\"",
+      "g_th": " \"มีสายโทรเข้าจากครูหลายครั้งเลยนะ\"",
+      "g_tw": "「都是我打的未接來電呢。」",
+      "g_tw_cn": "「都是我打的未接来电呢。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"내 부재중 통화 엄청 찍혀있네.\"\\n[s8] \"찾는다고 계속 전화를 걸었으니……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 93,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 8,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ずっとかけてたからね……\"",
+      "j_ko": " \"찾는다고 계속 전화를 걸었으니……\"",
+      "g_ja": " \"ずっとかけてたからね……\"",
+      "g_ko": " \"찾는다고 계속 전화를 걸었으니……\"",
+      "g_en": " \"I did keep calling to find the phone...\"",
+      "g_th": " \"ระหว่างนี้ครูโทรหาขนาดนี้เลยเหรอเนี่ย...\"",
+      "g_tw": "「因為我不斷在撥電話……」",
+      "g_tw_cn": "「因为我不断在拨电话……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"내 부재중 통화 엄청 찍혀있네.\"\\n[s8] \"찾는다고 계속 전화를 걸었으니……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 96,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あははっ、14件も！<br/>C&Cのみんなからも、こんなに来たことないのに～！",
+      "j_ko": "아하하, 14통이나 와있어! 부원들한테도 이렇게는 안 받아봤는데!",
+      "g_ja": "あははっ、14件も！<br/>C&Cのみんなからも、こんなに来たことないのに～！",
+      "g_ko": "아하하, 14통이나 와있어! 부원들한테도 이렇게는 안 받아봤는데!",
+      "g_en": "Ahaha, there's 14 of them! I never even get this many calls from the club members!",
+      "g_th": "อะฮ่าฮ่า ตั้ง 14 สายที่ไม่ได้รับ! ปกติสมาชิกในชมรมยังไม่เคยโทรตามฉันขนาดนี้เลยด้วย!",
+      "g_tw": "啊哈哈，有十四通耶！就連社團的大家也沒有這麼常打給我的說！",
+      "g_tw_cn": "啊哈哈，有十四通耶！就连社团的大家也没有这么常打给我的说！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;03;아하하, 14통이나 와있어! 부원들한테도 이렇게는 안 받아봤는데!\\n#3;em;[재잘]\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 97,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ちょっと、嬉しいかも。",
+      "j_ko": "응, 이거 왠지 기분이 묘하네.",
+      "g_ja": "ちょっと、嬉しいかも。",
+      "g_ko": "응, 이거 왠지 기분이 묘하네.",
+      "g_en": "Yeah, it feels kind of weird.",
+      "g_th": "อืม รู้สึกแปลกๆ นิดหน่อยแฮะ",
+      "g_tw": "嗯，有種神奇的感覺。",
+      "g_tw_cn": "嗯，有种神奇的感觉。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;00;응, 이거 왠지 기분이 묘하네.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 102,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 105,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生に求められてるみたい、えへへ。",
+      "j_ko": "선생님이 아스나를 엄~청 애타게 찾는 것 같아. 아하하!",
+      "g_ja": "先生に求められてるみたい、えへへ。",
+      "g_ko": "선생님이 아스나를 엄~청 애타게 찾는 것 같아. 아하하!",
+      "g_en": "It's like you're suuuper desperate to talk to me. Ahaha!",
+      "g_th": "ดูเหมือนว่าคุณครูจะใส่ใจกับอาสึนะมากๆ เลยนะ~ อะฮ่าฮ่า!",
+      "g_tw": "看來老師非～常著急地在找明日奈呢。啊哈哈！",
+      "g_tw_cn": "看来老师非～常着急地在找明日奈呢。啊哈哈！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;00;선생님이 아스나를 엄~청 애타게 찾는 것 같아. 아하하!\\n#3;em;[음표]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 106,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私のこと、大切な存在だと思ってくれてるのかな？",
+      "j_ko": "막 아스나가 선생님한테 진짜 진짜 중요한 사람이 된 것 같은 느낌?",
+      "g_ja": "私のこと、大切な存在だと思ってくれてるのかな？",
+      "g_ko": "막 아스나가 선생님한테 진짜 진짜 중요한 사람이 된 것 같은 느낌?",
+      "g_en": "...Like I'm that important to you.",
+      "g_th": "รู้สึกเหมือนอาสึนะเป็นคนสำคัญมากๆ ของคุณครูเลยละ",
+      "g_tw": "就好像明日奈對老師來說……真的真的很重要一樣？",
+      "g_tw_cn": "就好像明日奈对老师来说……真的真的很重要一样？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;03;막 아스나가 선생님한테 진짜 진짜 중요한 사람이 된 것 같은 느낌?\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 107,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ま、間違ってはないけど……。\"",
+      "j_ko": " \"뭐…… 틀린 말은 아니긴 한데……\"",
+      "g_ja": " \"ま、間違ってはないけど……。\"",
+      "g_ko": " \"뭐…… 틀린 말은 아니긴 한데……\"",
+      "g_en": " \"Well...you're not wrong about that...\"",
+      "g_th": " \"ก็... ที่พูดมามันก็ไม่ผิดหรอก...\"",
+      "g_tw": "「這個嘛……要這麼說也沒錯……」",
+      "g_tw_cn": "「这个嘛……要这么说也没错……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"뭐…… 틀린 말은 아니긴 한데……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 108,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "キュンキュンしちゃった！",
+      "j_ko": "후후, 뭔가 간질간질해!!",
+      "g_ja": "キュンキュンしちゃった！",
+      "g_ko": "후후, 뭔가 간질간질해!!",
+      "g_en": "Fufu, something feels all tingly inside me!",
+      "g_th": "ฮุฮุ รู้สึกจั๊กจี้หัวใจจัง!!",
+      "g_tw": "呵呵，感覺心癢癢的！！",
+      "g_tw_cn": "呵呵，感觉心痒痒的！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;00;후후, 뭔가 간질간질해!!\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 109,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "これ、スクショしとこ～！<br/>アスナの宝物！",
+      "j_ko": "이거 캡처해 둬야지~! 엄청 귀중한 기록이야!!",
+      "g_ja": "これ、スクショしとこ～！<br/>アスナの宝物！",
+      "g_ko": "이거 캡처해 둬야지~! 엄청 귀중한 기록이야!!",
+      "g_en": "I should take a screenshot of this! It's a very important record!!",
+      "g_th": "ต้องแคปหน้าจอไว้แล้วละ~! เป็นสายเรียกเข้าที่น่าจดจำมากๆ เลย!!",
+      "g_tw": "我要擷圖存下來～！這是很珍貴的紀錄！！",
+      "g_tw_cn": "我要撷图存下来～！这是很珍贵的纪录！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;03;이거 캡처해 둬야지~! 엄청 귀중한 기록이야!!\\n#3;em;[재잘]\\n#3;hophop\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 110,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 111,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ご機嫌なアスナと一緒に、家へ帰った……）",
+      "j_ko": "(텐션이 올라간 아스나와 함께 무사히 귀가했다……)",
+      "g_ja": "（ご機嫌なアスナと一緒に、家へ帰った……）",
+      "g_ko": "(텐션이 올라간 아스나와 함께 무사히 귀가했다……)",
+      "g_en": "I returned safely, with the very excited Asuna.",
+      "g_th": "(แล้วคุณครูก็เดินทางกลับพร้อมกับอาสึนะที่ยิ่งอารมณ์ดีมากกว่าเดิม)",
+      "g_tw": "（於是和興致高漲的明日奈一起回了家……）",
+      "g_tw_cn": "（于是和兴致高涨的明日奈一起回了家……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(텐션이 올라간 아스나와 함께 무사히 귀가했다……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

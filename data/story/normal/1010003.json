@@ -1,0 +1,1903 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1877730755
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 201
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">変わったもの、変わらないもの</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">같은 것과 다른 것</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">変わったもの、変わらないもの</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">같은 것과 다른 것</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Similar and Different</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">สิ่งที่เหมือนกับสิ่งที่แตกต่าง</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">相同與不同</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">相同与不同</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;같은 것과 다른 것",
+    "BGMId": 201,
+    "Sound": "",
+    "BGName": 1877730755,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_02"
+    }
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"つまり、向こう側で知った宝くじの番号で……。\"",
+      "j_ko": " \"……즉, 이미 알고 있는 복권 당첨 번호로,\"",
+      "g_ja": " \"つまり、向こう側で知った宝くじの番号で……。\"",
+      "g_ko": " \"……즉, 이미 알고 있는 복권 당첨 번호로,\"",
+      "g_en": " \"In other words, you want to buy a lottery ticket...\"",
+      "g_th": " \"หมายความว่ารู้เลขลอตเตอรี่ที่จะถูกรางวัลแล้ว?\"",
+      "g_tw": "「也就是說，你打算按照你記得的中獎號碼去買彩券……」",
+      "g_tw_cn": "「也就是说，你打算按照你记得的中奖号码去买彩券……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] \"……즉, 이미 알고 있는 복권 당첨 번호로,\"\\n[ns2] \"복권을 사서 당첨금을 노리겠다는 거……!?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"当選金を狙うってこと……！？\"",
+      "j_ko": " \"복권을 사서 당첨금을 노리겠다는 거……!?\"",
+      "g_ja": " \"当選金を狙うってこと……！？\"",
+      "g_ko": " \"복권을 사서 당첨금을 노리겠다는 거……!?\"",
+      "g_en": " \"...with numbers you remember from your world, to win the jackpot?!\"",
+      "g_th": " \"ซื้อลอตเตอรี่หวังเงินรางวัลเหรอ...!?\"",
+      "g_tw": "「看看能不能賺到獎金嗎……！？」",
+      "g_tw_cn": "「看看能不能赚到奖金吗……！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] \"……즉, 이미 알고 있는 복권 당첨 번호로,\"\\n[ns2] \"복권을 사서 당첨금을 노리겠다는 거……!?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ん。<br/>ちょうど覚えてる番号が、次の抽選で当たる。",
+      "j_ko": "응. 기억하고 있는 복권 번호가 있었는데, 그게 바로 이번 회차에서 당첨되거든.",
+      "g_ja": "ん。<br/>ちょうど覚えてる番号が、次の抽選で当たる。",
+      "g_ko": "응. 기억하고 있는 복권 번호가 있었는데, 그게 바로 이번 회차에서 당첨되거든.",
+      "g_en": "Yes. I remember the winning numbers.",
+      "g_th": "อื้อ มีเลขลอตเตอรี่ที่ฉันจำได้อยู่ และเลขนั้นก็เป็นเลขที่จะถูกรางวัลในรอบนี้น่ะ",
+      "g_tw": "嗯，我剛好記得這期彩券的頭獎號碼。",
+      "g_tw_cn": "嗯，我刚好记得这期彩券的头奖号码。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;00;응. 기억하고 있는 복권 번호가 있었는데, 그게 바로 이번 회차에서 당첨되거든.\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 6,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"うーん。\"",
+      "j_ko": " \"으으으음…… 그건 그럴 수도 있지만…….\"",
+      "g_ja": " \"うーん。\"",
+      "g_ko": " \"으으으음…… 그건 그럴 수도 있지만…….\"",
+      "g_en": " \"Um... I could see how that'd work, but...\"",
+      "g_th": " \"อืมมม... ก็อาจเป็นแบบนั้นได้อยู่เหมือนกัน...\"",
+      "g_tw": "「嗯……雖然你的確是可以這麼做……」",
+      "g_tw_cn": "「嗯……虽然你的确是可以这么做……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"으으으음…… 그건 그럴 수도 있지만…….\"\\n[s4] \"괜찮은 건가, 이 방법…… 여러 가지로…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 6,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"でも、それは……。\"",
+      "j_ko": " \"괜찮은 건가, 이 방법…… 여러 가지로…….\"",
+      "g_ja": " \"でも、それは……。\"",
+      "g_ko": " \"괜찮은 건가, 이 방법…… 여러 가지로…….\"",
+      "g_en": " \"...Is this morally correct? No matter how you look at it.\"",
+      "g_th": " \"วิธีนี้จะไม่เป็นไรใช่มั้ยนะ... ในหลายๆ เรื่องนะ\"",
+      "g_tw": "「但這樣真的好嗎？這個方法……從某些角度來看……」",
+      "g_tw_cn": "「但这样真的好吗？这个方法……从某些角度来看……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"으으으음…… 그건 그럴 수도 있지만…….\"\\n[s4] \"괜찮은 건가, 이 방법…… 여러 가지로…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ん、私にしかできない方法。<br/>何でも挑戦でしょ？",
+      "j_ko": "이 방법은 오직 키보토스에서 나만 가능할 거야. 이 아이디어를 깨달은 이상, 실행해 보지 않으면 안 돼.",
+      "g_ja": "ん、私にしかできない方法。<br/>何でも挑戦でしょ？",
+      "g_ko": "이 방법은 오직 키보토스에서 나만 가능할 거야. 이 아이디어를 깨달은 이상, 실행해 보지 않으면 안 돼.",
+      "g_en": "I'm the only person in all of Kivotos capable of implementing this method. And now that I've thought of it, I must see it through.",
+      "g_th": "คนที่ใช้วิธีนี้ได้ในคิโวทอสมีแค่ฉันคนเดียวเท่านั้น ในเมื่อคุณครูรู้ไอเดียนี้แล้ว ต้องเอาไปลองดูนะ",
+      "g_tw": "這是整個奇普托斯只有我能辦到的方法。當然得試試看才行。",
+      "g_tw_cn": "这是整个奇普托斯只有我能办到的方法。当然得试试看才行。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;99;이 방법은 오직 키보토스에서 나만 가능할 거야. 이 아이디어를 깨달은 이상, 실행해 보지 않으면 안 돼.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"挑戦は大事だけど……。\"",
+      "j_ko": " \"시도해 보는 것 자체는 여러 가지로 의미 있을 것 같은데…….\"",
+      "g_ja": " \"挑戦は大事だけど……。\"",
+      "g_ko": " \"시도해 보는 것 자체는 여러 가지로 의미 있을 것 같은데…….\"",
+      "g_en": " \"It'll be interesting, in a lot of different ways...\"",
+      "g_th": " \"ครูว่าการได้ลองดูก็มีความหมายในหลายๆ นัยยะนะ...\"",
+      "g_tw": "「嘗試這件事本身的確有許多意義沒錯……」",
+      "g_tw_cn": "「尝试这件事本身的确有许多意义没错……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"시도해 보는 것 자체는 여러 가지로 의미 있을 것 같은데…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"色々と、大丈夫なのかな……。\"",
+      "j_ko": " \"하지만 괜찮은 건가……\"",
+      "g_ja": " \"色々と、大丈夫なのかな……。\"",
+      "g_ko": " \"하지만 괜찮은 건가……\"",
+      "g_en": " \"But is this really okay? Are we breaking some universal balance?\"",
+      "g_th": " \"มันจะไม่เป็นไรแน่เหรอ...\"",
+      "g_tw": "「不過這樣真的好嗎……」",
+      "g_tw_cn": "「不过这样真的好吗……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns5] \"하지만 괜찮은 건가……\"\\n[ns6] \"우주의 균형이라던가 교육자로서의 자세라던가…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"教育者としては……。\"",
+      "j_ko": " \"우주의 균형이라던가 교육자로서의 자세라던가…….\"",
+      "g_ja": " \"教育者としては……。\"",
+      "g_ko": " \"우주의 균형이라던가 교육자로서의 자세라던가…….\"",
+      "g_en": " \"And what about my ethics as an educator?!\"",
+      "g_th": " \"จะไม่เป็นไรแน่เหรอทั้งในเรื่องสมดุลของจักรวาลกับในฐานะครู...\"",
+      "g_tw": "「不管從維持宇宙秩序，還是身為教育者的層面來看……」",
+      "g_tw_cn": "「不管从维持宇宙秩序，还是身为教育者的层面来看……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns5] \"하지만 괜찮은 건가……\"\\n[ns6] \"우주의 균형이라던가 교육자로서의 자세라던가…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 7,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……これはシロコのため！\"",
+      "j_ko": " \"하지만, 여기서 물러설 수 없지! 간다!!\"",
+      "g_ja": " \"……これはシロコのため！\"",
+      "g_ko": " \"하지만, 여기서 물러설 수 없지! 간다!!\"",
+      "g_en": " \"Well, I can't back out now! Let's do it!\"",
+      "g_th": " \"คงจะถอยไม่ได้แล้ว ลองดูก็ได้!!\"",
+      "g_tw": "「但是不能在這種時候退縮！上吧！！」",
+      "g_tw_cn": "「但是不能在这种时候退缩！上吧！！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns7] \"하지만, 여기서 물러설 수 없지! 간다!!\"\\n[ns8] 복권을 구매한다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 8,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " 宝くじを購入する。",
+      "j_ko": " 복권을 구매한다.",
+      "g_ja": " 宝くじを購入する。",
+      "g_ko": " 복권을 구매한다.",
+      "g_en": " Buy a lottery ticket.",
+      "g_th": " ซื้อลอตเตอรี่",
+      "g_tw": " 購買彩券",
+      "g_tw_cn": " 购买彩券",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns7] \"하지만, 여기서 물러설 수 없지! 간다!!\"\\n[ns8] 복권을 구매한다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 21,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 22,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 23,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Write_01"
+    }
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 24,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4208600133
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 25,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（後日、結果を確認したが、シロコが覚えていた番号とは異なっていた）",
+      "j_ko": "하지만 방송 결과, 당첨 번호는 시로코가 기억하는 것과 전혀 다른 것이었다.",
+      "g_ja": "（後日、結果を確認したが、シロコが覚えていた番号とは異なっていた）",
+      "g_ko": "하지만 방송 결과, 당첨 번호는 시로코가 기억하는 것과 전혀 다른 것이었다.",
+      "g_en": "But the winning numbers were completely different from the ones Shiroko remembered.",
+      "g_th": "(ผลลัพธ์คือ หมายเลขที่ถูกรางวัลแตกต่างจากเลขที่ชิโรโกะจำได้อย่างสิ้นเชิง)",
+      "g_tw": "（然而根據電視播報的結果，這期的中獎號碼跟白子記憶中的號碼並不相同）",
+      "g_tw_cn": "（然而根据电视播报的结果，这期的中奖号码跟白子记忆中的号码并不相同）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;하지만 방송 결과, 당첨 번호는 시로코가 기억하는 것과 전혀 다른 것이었다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 29,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3052798916
+    }
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3614742901
+    }
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 32,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 34,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 22
+    }
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ごめん、先生。<br/>私のせいでお金を無駄に……。",
+      "j_ko": "……미안. 선생님. 나 때문에 300엔 낭비해 버려서.",
+      "g_ja": "……ごめん、先生。<br/>私のせいでお金を無駄に……。",
+      "g_ko": "……미안. 선생님. 나 때문에 300엔 낭비해 버려서.",
+      "g_en": "I apologize, Sensei. I wasted your 300 yen.",
+      "g_th": "ขอโทษนะ คุณครู... ต้องเสียเงิน 300 เยนไปเปล่าๆ เพราะฉันเลย",
+      "g_tw": "……抱歉，老師。<br/>是我害你浪費了300元。",
+      "g_tw_cn": "……抱歉，老师。<br/>是我害你浪费了300元。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;99;……미안. 선생님. 나 때문에 300엔 낭비해 버려서.\\n#3;em;[땀]\\n#3;a",
+    "BGMId": 22,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 35,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"大丈夫だよ、結果を待つ時間は楽しかったから。\"",
+      "j_ko": " \"음, 아냐. 사실은 결과가 궁금했었어.\"",
+      "g_ja": " \"大丈夫だよ、結果を待つ時間は楽しかったから。\"",
+      "g_ko": " \"음, 아냐. 사실은 결과가 궁금했었어.\"",
+      "g_en": " \"Don't worry. I was really intrigued by the whole thing.\"",
+      "g_th": " \"ไม่หรอกๆ ครูลองเพราะอยากรู้เหมือนกัน\"",
+      "g_tw": "「沒關係，畢竟我自己也很想知道結果。」",
+      "g_tw_cn": "「没关系，毕竟我自己也很想知道结果。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"음, 아냐. 사실은 결과가 궁금했었어.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 36,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ん。<br/>やっぱり、ここは私が知ってる世界と少し違うのかも。",
+      "j_ko": "……응. 역시 이곳은 내가 알던 세계와 미묘하게 다를지도 모르겠어.",
+      "g_ja": "……ん。<br/>やっぱり、ここは私が知ってる世界と少し違うのかも。",
+      "g_ko": "……응. 역시 이곳은 내가 알던 세계와 미묘하게 다를지도 모르겠어.",
+      "g_en": "Yes. I'm realizing this world has subtle differences from mine.",
+      "g_th": "อื้อ... คิดแล้วเชียวว่าที่นี่มันอาจแตกต่างจากโลกที่ฉันรู้จัก",
+      "g_tw": "……嗯。看來這裡和我所認識的世界還是有些微的不同。",
+      "g_tw_cn": "……嗯。看来这里和我所认识的世界还是有些微的不同。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;02;……응. 역시 이곳은 내가 알던 세계와 미묘하게 다를지도 모르겠어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"たとえば、どの辺が？\"",
+      "j_ko": " \"어떤 게 달라?\"",
+      "g_ja": " \"たとえば、どの辺が？\"",
+      "g_ko": " \"어떤 게 달라?\"",
+      "g_en": " \"Like what?\"",
+      "g_th": " \"อะไรที่แตกต่างเหรอ?\"",
+      "g_tw": "「怎麼說呢？」",
+      "g_tw_cn": "「怎么说呢？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"어떤 게 달라?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 38,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……なんて言ったら良いんだろう。",
+      "j_ko": "잘 모르겠어. 사실은 많은 것들이 잘 기억나지 않거든. ",
+      "g_ja": "……なんて言ったら良いんだろう。",
+      "g_ko": "잘 모르겠어. 사실은 많은 것들이 잘 기억나지 않거든. ",
+      "g_en": "It's difficult to delineate the exact differences...and my memories are...hazy... ",
+      "g_th": "ฉันเองก็ไม่รู้ ที่จริงมีหลายอย่างเลยที่ฉันจำไม่ค่อยได้น่ะ ",
+      "g_tw": "因為記得的東西不多，我其實也不太清楚。",
+      "g_tw_cn": "因为记得的东西不多，我其实也不太清楚。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;04;잘 모르겠어. 사실은 많은 것들이 잘 기억나지 않거든. \\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 39,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そこまで細かい記憶がなくって。",
+      "j_ko": "어느 순간 정신을 차려보니…… 모든 게 끝나 있었다? 그런 느낌이라고 해야 할까. 내 몸이지만 내가 아닌 타인을 보는 느낌이랄까…….",
+      "g_ja": "そこまで細かい記憶がなくって。",
+      "g_ko": "어느 순간 정신을 차려보니…… 모든 게 끝나 있었다? 그런 느낌이라고 해야 할까. 내 몸이지만 내가 아닌 타인을 보는 느낌이랄까…….",
+      "g_en": "As if I woke up from a murky dream...and everything as I knew it had ceased to be. Now I view even my own body through the lens of stranger.",
+      "g_th": "รู้สึกเหมือนกับว่า... จู่ๆ พอรู้ตัวอีกที... ทุกอย่างก็จบลงแล้วน่ะ  ถึงนี่จะเป็นร่างกายของฉัน แต่มันรู้สึกเหมือนกำลังมองคนอื่นอยู่...",
+      "g_tw": "就像某天回過神來，一切就結束了……大概就是那樣的感覺。<br/>雖然這是我的身體，但我卻一直有種像是在看著別人的感覺……",
+      "g_tw_cn": "就像某天回过神来，一切就结束了……大概就是那样的感觉。<br/>虽然这是我的身体，但我却一直有种像是在看着别人的感觉……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;04;어느 순간 정신을 차려보니…… 모든 게 끝나 있었다? 그런 느낌이라고 해야 할까. 내 몸이지만 내가 아닌 타인을 보는 느낌이랄까…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 40,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……うまく説明できない、ごめん。",
+      "j_ko": "……잘 설명하기 힘드네. 미안.",
+      "g_ja": "……うまく説明できない、ごめん。",
+      "g_ko": "……잘 설명하기 힘드네. 미안.",
+      "g_en": "...I'm not articulating this correctly. I'm sorry.",
+      "g_th": "อธิบายยากจัง... ขอโทษนะ",
+      "g_tw": "……這件事情解釋起來有點複雜，抱歉。",
+      "g_tw_cn": "……这件事情解释起来有点复杂，抱歉。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;06;……잘 설명하기 힘드네. 미안.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……私は、昔の私じゃないし、<br/>この世界<ruby>の砂狼シ<rp>(</rp><rt>すなおおかみ</rt><rp>)</rp></ruby>ロコでもない。",
+      "j_ko": "……나는 예전의 내가 아니고, 여기에 있는 시로코도 아니야.",
+      "g_ja": "……私は、昔の私じゃないし、<br/>この世界<ruby>の砂狼シ<rp>(</rp><rt>すなおおかみ</rt><rp>)</rp></ruby>ロコでもない。",
+      "g_ko": "……나는 예전의 내가 아니고, 여기에 있는 시로코도 아니야.",
+      "g_en": "I'm neither the Shiroko of my world, nor the Shiroko of this one.",
+      "g_th": "ฉันไม่ใช่คนเดิมที่เคยเป็น... และไม่ใช่ชิโรโกะที่อยู่ที่โลกนี้",
+      "g_tw": "……我既不是以前的自己，也不是這裡的白子。",
+      "g_tw_cn": "……我既不是以前的自己，也不是这里的白子。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;04;……나는 예전의 내가 아니고, 여기에 있는 시로코도 아니야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "宝くじの番号みたいに、色々なものが違うのかもしれない。",
+      "j_ko": "저 복권 번호처럼, 다른 것은 다를 수밖에 없는 것 같아.",
+      "g_ja": "宝くじの番号みたいに、色々なものが違うのかもしれない。",
+      "g_ko": "저 복권 번호처럼, 다른 것은 다를 수밖에 없는 것 같아.",
+      "g_en": "The differences...are simply the differences. Just as the lottery numbers were not the same.",
+      "g_th": "ดูเหมือนว่าทุกอย่างจะต่างออกไป... เหมือนกับเลขลอตเตอรี่นั่น",
+      "g_tw": "所以就像彩券的號碼一樣，不同的東西就是不同。",
+      "g_tw_cn": "所以就像彩券的号码一样，不同的东西就是不同。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;04;저 복권 번호처럼, 다른 것은 다를 수밖에 없는 것 같아.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"でも、変わらないものもあるよ。\"",
+      "j_ko": " \"하지만 여전히 그대로인 것도 있잖아.\"",
+      "g_ja": " \"でも、変わらないものもあるよ。\"",
+      "g_ko": " \"하지만 여전히 그대로인 것도 있잖아.\"",
+      "g_en": " \"Some things are still the same.\"",
+      "g_th": " \"แต่ก็มีสิ่งที่ไม่เปลี่ยนไปอยู่ด้วยนี่นา\"",
+      "g_tw": "「不過應該還是有沒變的東西吧？」",
+      "g_tw_cn": "「不过应该还是有没变的东西吧？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"하지만 여전히 그대로인 것도 있잖아.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ん、そうだね。<br/>不思議だけど……先生だけは、変わらない。",
+      "j_ko": "응. 그렇지. 선생님은 그래. 신기한 느낌이지만…… 선생님만은 언제나 그대로인 것 같아.",
+      "g_ja": "ん、そうだね。<br/>不思議だけど……先生だけは、変わらない。",
+      "g_ko": "응. 그렇지. 선생님은 그래. 신기한 느낌이지만…… 선생님만은 언제나 그대로인 것 같아.",
+      "g_en": "Yes. Some things are. Like you, Sensei. It's peculiar, but you remain a constant, Sensei.",
+      "g_th": "อื้อ ใช่แล้ว คุณครูพูดถูก ถึงจะรู้สึกแปลกนิดหน่อย... แต่ฉันคิดว่ามีแค่คุณครูน่ะ ที่ไม่เปลี่ยนไปเลย",
+      "g_tw": "嗯，沒錯，就像老師你一樣。<br/>雖然很不可思議……不過好像只有老師永遠都不會變。",
+      "g_tw_cn": "嗯，没错，就像老师你一样。<br/>虽然很不可思议……不过好像只有老师永远都不会变。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;00;응. 그렇지. 선생님은 그래. 신기한 느낌이지만…… 선생님만은 언제나 그대로인 것 같아.\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"シロコがライディングを好きなところも、ね。\"",
+      "j_ko": " \"자전거 타는 걸 좋아하는 시로코도 그래.\"",
+      "g_ja": " \"シロコがライディングを好きなところも、ね。\"",
+      "g_ko": " \"자전거 타는 걸 좋아하는 시로코도 그래.\"",
+      "g_en": " \"And the fact that you love riding bicycles is the same too.\"",
+      "g_th": " \"ชิโรโกะที่ชอบปั่นจักรยานก็เหมือนกันนั่นแหละ\"",
+      "g_tw": "「我認為喜歡騎自行車的白子，也一樣不會變的哦。」",
+      "g_tw_cn": "「我认为喜欢骑自行车的白子，也一样不会变的哦。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"자전거 타는 걸 좋아하는 시로코도 그래.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "…….",
+      "g_ja": "……。",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "......",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;02;…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"どうして辞めちゃったのか、聞かせてくれる？\"",
+      "j_ko": " \"시로코. 어째서 자전거 타는 걸 그만둔 거야?\"",
+      "g_ja": " \"どうして辞めちゃったのか、聞かせてくれる？\"",
+      "g_ko": " \"시로코. 어째서 자전거 타는 걸 그만둔 거야?\"",
+      "g_en": " \"Shiroko, why did you stop riding?\"",
+      "g_th": " \"ชิโรโกะ ทำไมถึงเลิกปั่นจักรยานล่ะ?\"",
+      "g_tw": "「白子，你為什麼不再騎自行車了呢？」",
+      "g_tw_cn": "「白子，你为什么不再骑自行车了呢？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"시로코. 어째서 자전거 타는 걸 그만둔 거야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 9,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"自転車を漕いで発電するくらいなのに。\"",
+      "j_ko": " \"방 안에 자전거 공방도 만들어뒀으면서?\"",
+      "g_ja": " \"自転車を漕いで発電するくらいなのに。\"",
+      "g_ko": " \"방 안에 자전거 공방도 만들어뒀으면서?\"",
+      "g_en": " \"You even made a bicycle workshop in the house.\"",
+      "g_th": " \"ทั้งที่ทำห้องซ่อมจักรยานไว้ในบ้านแท้ๆ...?\"",
+      "g_tw": "「你不是特別在家裡建了一間自行車工作坊嗎？」",
+      "g_tw_cn": "「你不是特别在家里建了一间自行车工作坊吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns9] \"방 안에 자전거 공방도 만들어뒀으면서?\"\\n[ns10] \"자전거 발전기도 있으면서?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 10,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"部屋には自転車用のガレージまであるのに。\"",
+      "j_ko": " \"자전거 발전기도 있으면서?\"",
+      "g_ja": " \"部屋には自転車用のガレージまであるのに。\"",
+      "g_ko": " \"자전거 발전기도 있으면서?\"",
+      "g_en": " \"You even have a bicycle generator.\"",
+      "g_th": " \"ทั้งที่มีเครื่องปั่นไฟด้วยจักรยานแท้ๆ...?\"",
+      "g_tw": "「甚至連自行車發電機都有。」",
+      "g_tw_cn": "「甚至连自行车发电机都有。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns9] \"방 안에 자전거 공방도 만들어뒀으면서?\"\\n[ns10] \"자전거 발전기도 있으면서?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ん……。",
+      "j_ko": "응…….",
+      "g_ja": "ん……。",
+      "g_ko": "응…….",
+      "g_en": "Well...",
+      "g_th": "อืม...",
+      "g_tw": "嗯……",
+      "g_tw_cn": "嗯……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;04;응…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 53,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "特別な理由はないよ。<br/>ただ、しばらく乗ってなかったから。",
+      "j_ko": "딱히 특별한 이유 같은 건 없었어. 그냥…… 안탄지 너무 오래되어서.",
+      "g_ja": "特別な理由はないよ。<br/>ただ、しばらく乗ってなかったから。",
+      "g_ko": "딱히 특별한 이유 같은 건 없었어. 그냥…… 안탄지 너무 오래되어서.",
+      "g_en": "There is no deeper meaning to it. It's simply...been a very long time.",
+      "g_th": "ไม่มีเหตุผลอะไรเป็นพิเศษหรอก ก็แค่... ไม่ได้ปั่นมานานแล้วน่ะ",
+      "g_tw": "其實也沒什麼特別的理由。<br/>我只是……太久沒騎了而已。",
+      "g_tw_cn": "其实也没什么特别的理由。<br/>我只是……太久没骑了而已。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;06;딱히 특별한 이유 같은 건 없었어. 그냥…… 안탄지 너무 오래되어서.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 54,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "昔は数千kmくらい、軽く走ってたけど……。",
+      "j_ko": "예전엔 몇천 킬로 정도는 쉽게 다녔는데…… 이제 다시 그렇게 탈 수 있을지 자신이 없어서…….",
+      "g_ja": "昔は数千kmくらい、軽く走ってたけど……。",
+      "g_ko": "예전엔 몇천 킬로 정도는 쉽게 다녔는데…… 이제 다시 그렇게 탈 수 있을지 자신이 없어서…….",
+      "g_en": "I could bike for several thousand kilometers easily before. I may...not be capable of that anymore.",
+      "g_th": "เมื่อก่อนปั่นได้เป็นพันกิโลเมตรสบายๆ... แต่ตอนนี้ฉันไม่แน่ใจเลยว่าจะปั่นแบบนั้นได้หรือเปล่า...",
+      "g_tw": "以前騎幾千km都不是什麼難事……<br/>但我現在實在沒自信能騎得跟過去一樣……",
+      "g_tw_cn": "以前骑几千km都不是什么难事……<br/>但我现在实在没自信能骑得跟过去一样……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;04;예전엔 몇천 킬로 정도는 쉽게 다녔는데…… 이제 다시 그렇게 탈 수 있을지 자신이 없어서…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 55,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "走りきれる自信は、もうないし……。",
+      "j_ko": "다시 타도 되는 걸까…… 만약 예전만큼 잘 타지 못하면 어쩌지……",
+      "g_ja": "走りきれる自信は、もうないし……。",
+      "g_ko": "다시 타도 되는 걸까…… 만약 예전만큼 잘 타지 못하면 어쩌지……",
+      "g_en": "Would I truly...be able to ride again? What if my abilities have diminished?",
+      "g_th": "จะปั่นได้อีกครั้งหรือเปล่า... แล้วถ้าปั่นได้ไม่ดีเหมือนเดิมจะทำยังไง...",
+      "g_tw": "現在的我還能騎自行車嗎……<br/>如果騎得不像以前那麼好的話……",
+      "g_tw_cn": "现在的我还能骑自行车吗……<br/>如果骑得不像以前那么好的话……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;04;다시 타도 되는 걸까…… 만약 예전만큼 잘 타지 못하면 어쩌지……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ペダルを踏んでも、昔みたいに戻れないと気づいちゃったら……。",
+      "j_ko": "자전거를 타 봤자 두 번 다시 예전으론 돌아갈 수 없다는 사실을 깨닫게 될 뿐이라면…….",
+      "g_ja": "ペダルを踏んでも、昔みたいに戻れないと気づいちゃったら……。",
+      "g_ko": "자전거를 타 봤자 두 번 다시 예전으론 돌아갈 수 없다는 사실을 깨닫게 될 뿐이라면…….",
+      "g_en": "What if I do ride my bicycle, and it only solidifies that I'll never be able to return to things as they were?",
+      "g_th": "ถ้าการกลับไปปั่นจักรยานจะทำให้รู้ความจริงที่ว่าไม่สามารถย้อนกลับไปเป็นเหมือนเมื่อก่อนได้แล้ว จะทำยังไง...",
+      "g_tw": "如果重新開始騎自行車，卻只是更清楚地意識到自己無法回到從前的事實……",
+      "g_tw_cn": "如果重新开始骑自行车，却只是更清楚地意识到自己无法回到从前的事实……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;99;자전거를 타 봤자 두 번 다시 예전으론 돌아갈 수 없다는 사실을 깨닫게 될 뿐이라면…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 57,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"どうしてそう思ったの？\"",
+      "j_ko": " \"어째서 그렇게 생각하는 거야?\"",
+      "g_ja": " \"どうしてそう思ったの？\"",
+      "g_ko": " \"어째서 그렇게 생각하는 거야?\"",
+      "g_en": " \"What makes you say that?\"",
+      "g_th": " \"ทำไมถึงคิดแบบนั้นล่ะ?\"",
+      "g_tw": "「為什麼會那麼想呢？」",
+      "g_tw_cn": "「为什么会那么想呢？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"어째서 그렇게 생각하는 거야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 58,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……怖いの。",
+      "j_ko": "또다시 정신을 차렸을 때, 여기가 아비도스가 아니거나, 선생님이 없다면……?",
+      "g_ja": "……怖いの。",
+      "g_ko": "또다시 정신을 차렸을 때, 여기가 아비도스가 아니거나, 선생님이 없다면……?",
+      "g_en": "What happens if I awaken from this haze and discover that this isn't Abydos, that you were never here?",
+      "g_th": "ถ้าเกิดรู้สึกตัวอีกทีแล้วรู้ว่าที่นี่ก็ไม่ใช่อะบิดอส และไม่มีคุณครูอยู่ล่ะ...?",
+      "g_tw": "要是下次回過神來，眼前就不再是阿拜多斯，或者連老師都消失的話該怎麼辦……？",
+      "g_tw_cn": "要是下次回过神来，眼前就不再是阿拜多斯，或者连老师都消失的话该怎么办……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;04;또다시 정신을 차렸을 때, 여기가 아비도스가 아니거나, 선생님이 없다면……?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 59,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私がアビドスにいるのも、先生と一緒にいるのも……<br/>全部、夢だとしたら。",
+      "j_ko": "……이 모든 것들이 전부 꿈이었다면?",
+      "g_ja": "私がアビドスにいるのも、先生と一緒にいるのも……<br/>全部、夢だとしたら。",
+      "g_ko": "……이 모든 것들이 전부 꿈이었다면?",
+      "g_en": "...What if it truly was just a dream?",
+      "g_th": "ได้รู้ว่าเรื่องทั้งหมดนี่เป็นแค่ความฝันล่ะ...?",
+      "g_tw": "……如果這一切全都是場夢呢？",
+      "g_tw_cn": "……如果这一切全都是场梦呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;04;……이 모든 것들이 전부 꿈이었다면?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 63,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ごめん、先生。<br/>また変なこと言って。",
+      "j_ko": "미안. 선생님. 이상한 소리만 하고 있네.",
+      "g_ja": "ごめん、先生。<br/>また変なこと言って。",
+      "g_ko": "미안. 선생님. 이상한 소리만 하고 있네.",
+      "g_en": "I'm rambling, aren't I? I apologize, Sensei.",
+      "g_th": "ขอโทษนะ คุณครู ดันพูดอะไรแปลกๆ ไปซะแล้ว",
+      "g_tw": "抱歉，老師。我又說了一些奇怪的話。",
+      "g_tw_cn": "抱歉，老师。我又说了一些奇怪的话。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;06;미안. 선생님. 이상한 소리만 하고 있네.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 66,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"私は夢じゃないよ、シロコ。\"",
+      "j_ko": " \"나는 꿈이 아니야. 시로코.\"",
+      "g_ja": " \"私は夢じゃないよ、シロコ。\"",
+      "g_ko": " \"나는 꿈이 아니야. 시로코.\"",
+      "g_en": " \"I'm not a dream, Shiroko.\"",
+      "g_th": " \"ครูไม่ใช่ความฝันหรอกนะ ชิโรโกะ\"",
+      "g_tw": "「我不是你夢境中的人哦，白子。」",
+      "g_tw_cn": "「我不是你梦境中的人哦，白子。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"나는 꿈이 아니야. 시로코.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 73,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ずっとシロコのそばにいるよ。\"",
+      "j_ko": " \"나는 어디론가 사라지지 않아. 아직은 여기 네 앞에 있어.\"",
+      "g_ja": " \"ずっとシロコのそばにいるよ。\"",
+      "g_ko": " \"나는 어디론가 사라지지 않아. 아직은 여기 네 앞에 있어.\"",
+      "g_en": " \"I'm right here in front of you. I won't disappear.\"",
+      "g_th": " \"ครูไม่หายไปไหนหรอก ยังอยู่ข้างๆ ชิโรโกะนี่ไง\"",
+      "g_tw": "「所以並不會消失，現在也確實在你身邊。」",
+      "g_tw_cn": "「所以并不会消失，现在也确实在你身边。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"나는 어디론가 사라지지 않아. 아직은 여기 네 앞에 있어.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 74,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ち、ちょっと近い。",
+      "j_ko": "조금, 가까워.",
+      "g_ja": "……ち、ちょっと近い。",
+      "g_ko": "조금, 가까워.",
+      "g_en": "...So close.",
+      "g_th": "ใกล้...เกินไปนะ",
+      "g_tw": "有，有點太近了。",
+      "g_tw_cn": "有，有点太近了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;04;조금, 가까워.\\n#3;em;[///]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 77,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 78,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ん、分かってる。<br/><ruby>先生<rp>(</rp><rt>・   ・</rt><rp>)</rp></ruby>は、いつも隣にいてくれた。",
+      "j_ko": "……. 그 정도는 알고 있어. 선생님은 언제나 내 곁에 있었으니까.",
+      "g_ja": "……ん、分かってる。<br/><ruby>先生<rp>(</rp><rt>・   ・</rt><rp>)</rp></ruby>は、いつも隣にいてくれた。",
+      "g_ko": "……. 그 정도는 알고 있어. 선생님은 언제나 내 곁에 있었으니까.",
+      "g_en": "...I know that much. You've always been a steadfast presence, Sensei.",
+      "g_th": "เรื่องนั้นฉันรู้ดี เพราะคุณครูคอยอยู่เคียงข้างฉันเสมอ",
+      "g_tw": "……這件事我也很清楚。因為老師一直都在我的身邊。",
+      "g_tw_cn": "……这件事我也很清楚。因为老师一直都在我的身边。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;06;……. 그 정도는 알고 있어. 선생님은 언제나 내 곁에 있었으니까.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 79,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "変わらないものは、ちゃんとある。",
+      "j_ko": "여전히 변하지 않은 것들이…… 그래도 이곳에 남아있다는 건…… 알고 있어.",
+      "g_ja": "変わらないものは、ちゃんとある。",
+      "g_ko": "여전히 변하지 않은 것들이…… 그래도 이곳에 남아있다는 건…… 알고 있어.",
+      "g_en": "I do understand...things unchanged...still exist...",
+      "g_th": "สิ่งที่ยังไม่เปลี่ยนไป... และสิ่งที่ยังคงหลงเหลืออยู่ที่นี่... ฉันรู้ดี",
+      "g_tw": "我明白……有些事物自始至終都不曾改變。",
+      "g_tw_cn": "我明白……有些事物自始至终都不曾改变。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;00;여전히 변하지 않은 것들이…… 그래도 이곳에 남아있다는 건…… 알고 있어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 80,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2982495655
+    }
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 82,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 83,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 85,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "この道も覚えてるよ。",
+      "j_ko": "이 길 기억나.",
+      "g_ja": "この道も覚えてるよ。",
+      "g_ko": "이 길 기억나.",
+      "g_en": "This path is familiar.",
+      "g_th": "ฉันจำถนนเส้นนี้ได้",
+      "g_tw": "我記得這條路。",
+      "g_tw_cn": "我记得这条路。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;01;이 길 기억나.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 86,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "キヴォトス縦断の初日に通った場所。",
+      "j_ko": "키보토스 종단일주를 떠나는 첫날에 달렸던 코스야.",
+      "g_ja": "キヴォトス縦断の初日に通った場所。",
+      "g_ko": "키보토스 종단일주를 떠나는 첫날에 달렸던 코스야.",
+      "g_en": "I went this way when I embarked on my ride around Kivotos.",
+      "g_th": "นี่เป็นเส้นทางที่ฉันใช้ในวันแรกตอนปั่นจักรยานรอบคิโวทอส",
+      "g_tw": "是我環遊奇普托斯之旅的第一天經過的地方。",
+      "g_tw_cn": "是我环游奇普托斯之旅的第一天经过的地方。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;01;키보토스 종단일주를 떠나는 첫날에 달렸던 코스야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 87,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……そこの信号機で捕まって、先生にモモトークを送った。",
+      "j_ko": "……. 이 앞 신호등에서 멈춰서서 모모톡을 보냈었고…….",
+      "g_ja": "……そこの信号機で捕まって、先生にモモトークを送った。",
+      "g_ko": "……. 이 앞 신호등에서 멈춰서서 모모톡을 보냈었고…….",
+      "g_en": "I paused at this light to send a MomoTalk...",
+      "g_th": "ฉันหยุดที่ตรงไฟแดงข้างหน้าแล้วก็ส่ง MOMOTALK...",
+      "g_tw": "我還曾經在這前面的紅綠燈前停下來，然後傳MomoTalk……",
+      "g_tw_cn": "我还曾经在这前面的红绿灯前停下来，然后传MomoTalk……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;99;……. 이 앞 신호등에서 멈춰서서 모모톡을 보냈었고…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 90,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 91,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ん。<br/>全部、記憶にある。",
+      "j_ko": "그러네. 이 거리 전부 기억 나.",
+      "g_ja": "……ん。<br/>全部、記憶にある。",
+      "g_ko": "그러네. 이 거리 전부 기억 나.",
+      "g_en": "I see... I remember even the minute details of this street...",
+      "g_th": "ใช่แล้วละ ฉันจำถนนเส้นนี้ได้ทั้งสาย",
+      "g_tw": "沒錯，這條路我記得很清楚。",
+      "g_tw_cn": "没错，这条路我记得很清楚。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;00;그러네. 이 거리 전부 기억 나.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 94,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 95,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生、こっち。",
+      "j_ko": "응, 선생님. 이쪽.",
+      "g_ja": "先生、こっち。",
+      "g_ko": "응, 선생님. 이쪽.",
+      "g_en": "Yes, Sensei. This way.",
+      "g_th": "อื้อ คุณครู ทางนี้...",
+      "g_tw": "嗯，老師，這邊。",
+      "g_tw_cn": "嗯，老师，这边。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "#na;시로코 테러 무소속;응, 선생님. 이쪽.",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 96,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"し、シロコ？\"",
+      "j_ko": " \"기다려, 시로코!\"",
+      "g_ja": " \"し、シロコ？\"",
+      "g_ko": " \"기다려, 시로코!\"",
+      "g_en": " \"Wait for me, Shiroko!\"",
+      "g_th": " \"รอครูด้วย ชิโรโกะ!\"",
+      "g_tw": "「等等我，白子！」",
+      "g_tw_cn": "「等等我，白子！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"기다려, 시로코!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 99,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 100,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 102,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 798372778
+    }
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 104,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 106,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ここからなら、一望できる。",
+      "j_ko": "이쪽이야. 선생님. 여기서 이 거리가 제일 잘 보여.",
+      "g_ja": "ここからなら、一望できる。",
+      "g_ko": "이쪽이야. 선생님. 여기서 이 거리가 제일 잘 보여.",
+      "g_en": "Here, Sensei. This is the best vantage point to view the street below.",
+      "g_th": "ทางนี้ คุณครู ตรงนี้เป็นจุดที่มองเห็นถนนได้ดีที่สุด",
+      "g_tw": "就是這邊，老師。<br/>這裡是最能看清楚這條路的地方。",
+      "g_tw_cn": "就是这边，老师。<br/>这里是最能看清楚这条路的地方。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;00;이쪽이야. 선생님. 여기서 이 거리가 제일 잘 보여.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 109,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 110,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 11,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ま、待って……シロコ。\"",
+      "j_ko": " \"기다려 줘…… 시로코…… 체력이…….\"",
+      "g_ja": " \"ま、待って……シロコ。\"",
+      "g_ko": " \"기다려 줘…… 시로코…… 체력이…….\"",
+      "g_en": " \"Wait for me... Shiroko... I can't keep up...\"",
+      "g_th": " \"รอด้วย... ชิโรโกะ... ครูไม่มีแรงวิ่ง...\"",
+      "g_tw": "「等我一下……白子……我的體力……」",
+      "g_tw_cn": "「等我一下……白子……我的体力……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns11] \"기다려 줘…… 시로코…… 체력이…….\"\\n[ns12] \"세상에 왜 저렇게 빨라…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 110,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 12,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"はぁ……はぁ、もう体力が。\"",
+      "j_ko": " \"세상에 왜 저렇게 빨라…….\"",
+      "g_ja": " \"はぁ……はぁ、もう体力が。\"",
+      "g_ko": " \"세상에 왜 저렇게 빨라…….\"",
+      "g_en": " \"My god, how are you so fast...?\"",
+      "g_th": " \"ทำไมถึงวิ่งเร็วอะไรขนาดนั้นนะ...\"",
+      "g_tw": "「我的天，他也跑太快了吧……」",
+      "g_tw_cn": "「我的天，他也跑太快了吧……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns11] \"기다려 줘…… 시로코…… 체력이…….\"\\n[ns12] \"세상에 왜 저렇게 빨라…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 113,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " シロコが立っている場所に並ぶ。",
+      "j_ko": " 시로코가 있는 곳으로 간다.",
+      "g_ja": " シロコが立っている場所に並ぶ。",
+      "g_ko": " 시로코가 있는 곳으로 간다.",
+      "g_en": " Follow Shiroko.",
+      "g_th": " เดินไปตรงที่ที่ชิโรโกะอยู่",
+      "g_tw": " 前往白子的身邊",
+      "g_tw_cn": " 前往白子的身边",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] 시로코가 있는 곳으로 간다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 114,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 798372778
+    }
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 114,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 115,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 117,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 384812588
+    }
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 117,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 228
+    }
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 119,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1135080632
+    }
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 119,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1800]― <cmd-char>시로코 테러 무소속</cmd-char>……いつも通りだね、[wa:1230]ここは。",
+      "j_ko": "[wa:1800]― <cmd-char>시로코 테러 무소속</cmd-char>[wa:80]여전하네, [wa:1310]여기는. ",
+      "g_ja": "[wa:1800]― <cmd-char>시로코 테러 무소속</cmd-char>……いつも通りだね、[wa:1230]ここは。",
+      "g_ko": "[wa:1800]― <cmd-char>시로코 테러 무소속</cmd-char>[wa:80]여전하네, [wa:1310]여기는. ",
+      "g_en": "― <cmd-char>시로코 테러 무소속</cmd-char>Yes... This place is the same. [wa:2390] ",
+      "g_th": "― <cmd-char>시로코 테러 무소속</cmd-char>อื้อ เหมือนเดิมเลยนะ ที่นี่น่ะ[wa:2430] ",
+      "g_tw": "― <cmd-char>시로코 테러 무소속</cmd-char>……一如既往呢，這裡。[wa:3190] ",
+      "g_tw_cn": "― <cmd-char>시로코 테러 무소속</cmd-char>……一如既往呢，这里。[wa:3190] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1800]― [log=시로코 테러 무소속][wa:80]여전하네, [wa:1310]여기는. [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1135080632,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 120,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:3260]― <cmd-char>시로코 테러 무소속</cmd-char>変わったのは、[wa:1190]私だけか。",
+      "j_ko": "[wa:3260]― <cmd-char>시로코 테러 무소속</cmd-char>변한 건 [wa:1270]나 혼자만일지도.",
+      "g_ja": "[wa:3260]― <cmd-char>시로코 테러 무소속</cmd-char>変わったのは、[wa:1190]私だけか。",
+      "g_ko": "[wa:3260]― <cmd-char>시로코 테러 무소속</cmd-char>변한 건 [wa:1270]나 혼자만일지도.",
+      "g_en": "― <cmd-char>시로코 테러 무소속</cmd-char>Perhaps the only thing that has changed is me.[wa:3250] ",
+      "g_th": "― <cmd-char>시로코 테러 무소속</cmd-char>สิ่งที่เปลี่ยนไป อาจมีแค่ตัวฉันอย่างเดียวก็ได้[wa:3250] ",
+      "g_tw": "― <cmd-char>시로코 테러 무소속</cmd-char>發生改變的，只有我自己嗎。[wa:4570] ",
+      "g_tw_cn": "― <cmd-char>시로코 테러 무소속</cmd-char>发生改变的，只有我自己吗。[wa:4570] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:3260]― [log=시로코 테러 무소속]변한 건 [wa:1270]나 혼자만일지도.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 123,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 200160754
+    }
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 123,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:550]― <cmd-char>시로코 테러 무소속</cmd-char>ん……[wa:1140]でも、[wa:860]変わってないものもあって、[wa:1630]少し安心した。",
+      "j_ko": "[wa:550]― <cmd-char>시로코 테러 무소속</cmd-char>응…… [wa:1100]그치만 [wa:820]변하지 않은 것도 있어서, [wa:1550]조금 안심했어.",
+      "g_ja": "[wa:550]― <cmd-char>시로코 테러 무소속</cmd-char>ん……[wa:1140]でも、[wa:860]変わってないものもあって、[wa:1630]少し安心した。",
+      "g_ko": "[wa:550]― <cmd-char>시로코 테러 무소속</cmd-char>응…… [wa:1100]그치만 [wa:820]변하지 않은 것도 있어서, [wa:1550]조금 안심했어.",
+      "g_en": "― <cmd-char>시로코 테러 무소속</cmd-char>Yes... Despite that, some things remain constant. That gives me comfort.[wa:2380] ",
+      "g_th": "― <cmd-char>시로코 테러 무소속</cmd-char>อื้อ... แต่ว่ามันก็มีบางสิ่งที่ไม่เปลี่ยนไปด้วยเลยรู้สึกอุ่นใจนิดหน่อย[wa:2460] ",
+      "g_tw": "― <cmd-char>시로코 테러 무소속</cmd-char>嗯……不過，看見這些沒有改變的事物之後，稍微安心了。[wa:4220] ",
+      "g_tw_cn": "― <cmd-char>시로코 테러 무소속</cmd-char>嗯……不过，看见这些没有改变的事物之后，稍微安心了。[wa:4220] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:550]― [log=시로코 테러 무소속]응…… [wa:1100]그치만 [wa:820]변하지 않은 것도 있어서, [wa:1550]조금 안심했어.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 200160754,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 126,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4013340709
+    }
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 126,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1540]― <cmd-char>시로코 테러 무소속</cmd-char>先生、[wa:1560]私、[wa:1280]また自転車に乗ってみたいと思う。",
+      "j_ko": "[wa:1540]― <cmd-char>시로코 테러 무소속</cmd-char>선생님, [wa:1480]나, [wa:1240]자전거 다시 타볼까 해.",
+      "g_ja": "[wa:1540]― <cmd-char>시로코 테러 무소속</cmd-char>先生、[wa:1560]私、[wa:1280]また自転車に乗ってみたいと思う。",
+      "g_ko": "[wa:1540]― <cmd-char>시로코 테러 무소속</cmd-char>선생님, [wa:1480]나, [wa:1240]자전거 다시 타볼까 해.",
+      "g_en": "― <cmd-char>시로코 테러 무소속</cmd-char>Sensei, I believe I'll try cycling again.[wa:3460] ",
+      "g_th": "― <cmd-char>시로코 테러 무소속</cmd-char>คุณครู ฉันน่ะ...คิดว่าจะปั่นจักรยานอีกครั้งละ[wa:3300] ",
+      "g_tw": "― <cmd-char>시로코 테러 무소속</cmd-char>老師，我……想重新嘗試騎自行車。[wa:4460] ",
+      "g_tw_cn": "― <cmd-char>시로코 테러 무소속</cmd-char>老师，我……想重新尝试骑自行车。[wa:4460] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1540]― [log=시로코 테러 무소속]선생님, [wa:1480]나, [wa:1240]자전거 다시 타볼까 해.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 4013340709,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 129,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3325741516
+    }
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 129,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1170]― <cmd-char>시로코 테러 무소속</cmd-char>色々と壁はあるかもしれないけど……",
+      "j_ko": "[wa:1170]― <cmd-char>시로코 테러 무소속</cmd-char>이런저런 어려움이 있을지도 모르지만……",
+      "g_ja": "[wa:1170]― <cmd-char>시로코 테러 무소속</cmd-char>色々と壁はあるかもしれないけど……",
+      "g_ko": "[wa:1170]― <cmd-char>시로코 테러 무소속</cmd-char>이런저런 어려움이 있을지도 모르지만……",
+      "g_en": "― <cmd-char>시로코 테러 무소속</cmd-char>I expect there'll be many obstacles along the way, but...[wa:10] ",
+      "g_th": "― <cmd-char>시로코 테러 무소속</cmd-char>อาจมีเรื่องยากลำบากต่างๆ เกิดขึ้นมากมายแต่ว่า...[wa:90] ",
+      "g_tw": "― <cmd-char>시로코 테러 무소속</cmd-char>雖然可能會遇到許多困難……[wa:1490] ",
+      "g_tw_cn": "― <cmd-char>시로코 테러 무소속</cmd-char>虽然可能会遇到许多困难……[wa:1490] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1170]― [log=시로코 테러 무소속]이런저런 어려움이 있을지도 모르지만……[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 3325741516,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 130,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:3720]― <cmd-char>시로코 테러 무소속</cmd-char>でも、[wa:940]先生が居てくれたら……[wa:2250]できる気がするの。",
+      "j_ko": "[wa:3560]― <cmd-char>시로코 테러 무소속</cmd-char>선생님이 있어 준다면…… [wa:3190]할 수 있을 것 같아.",
+      "g_ja": "[wa:3720]― <cmd-char>시로코 테러 무소속</cmd-char>でも、[wa:940]先生が居てくれたら……[wa:2250]できる気がするの。",
+      "g_ko": "[wa:3560]― <cmd-char>시로코 테러 무소속</cmd-char>선생님이 있어 준다면…… [wa:3190]할 수 있을 것 같아.",
+      "g_en": "― <cmd-char>시로코 테러 무소속</cmd-char>I think I'll be able to...as long as you are with me, Sensei.[wa:5350] ",
+      "g_th": "― <cmd-char>시로코 테러 무소속</cmd-char>ถ้ามีคุณครูอยู่ด้วย... ฉันคิดว่าคงทำได้น่ะ[wa:6110] ",
+      "g_tw": "― <cmd-char>시로코 테러 무소속</cmd-char>但是，只要老師能陪著我……感覺應該能做到。[wa:6950] ",
+      "g_tw_cn": "― <cmd-char>시로코 테러 무소속</cmd-char>但是，只要老师能陪着我……感觉应该能做到。[wa:6950] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:3560]― [log=시로코 테러 무소속]선생님이 있어 준다면…… [wa:3190]할 수 있을 것 같아.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 133,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"うん。応援してるよ、シロコ。\"",
+      "j_ko": " \"다행이야. 응원할게, 시로코!\"",
+      "g_ja": " \"うん。応援してるよ、シロコ。\"",
+      "g_ko": " \"다행이야. 응원할게, 시로코!\"",
+      "g_en": " \"I'm glad. I'll cheer you on, Shiroko!\"",
+      "g_th": " \"ดีจังเลย ครูจะเป็นกำลังใจให้นะ ชิโรโกะ!\"",
+      "g_tw": "「那真是太好了。我會為你加油哦，白子！」",
+      "g_tw_cn": "「那真是太好了。我会为你加油哦，白子！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"다행이야. 응원할게, 시로코!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 134,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 676461738
+    }
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 134,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:820]― <cmd-char>시로코 테러 무소속</cmd-char>ん、[wa:1110]ありがとう。[wa:990]先生。",
+      "j_ko": "[wa:820]― <cmd-char>시로코 테러 무소속</cmd-char>응. [wa:1070]고마워. [wa:1030]선생님.",
+      "g_ja": "[wa:820]― <cmd-char>시로코 테러 무소속</cmd-char>ん、[wa:1110]ありがとう。[wa:990]先生。",
+      "g_ko": "[wa:820]― <cmd-char>시로코 테러 무소속</cmd-char>응. [wa:1070]고마워. [wa:1030]선생님.",
+      "g_en": "― <cmd-char>시로코 테러 무소속</cmd-char>Yes. Thank you, Sensei.[wa:2480] ",
+      "g_th": "― <cmd-char>시로코 테러 무소속</cmd-char>อื้อ ขอบคุณนะ คุณครู [wa:2560] ",
+      "g_tw": "― <cmd-char>시로코 테러 무소속</cmd-char>嗯，謝謝你。老師。[wa:3040] ",
+      "g_tw_cn": "― <cmd-char>시로코 테러 무소속</cmd-char>嗯，谢谢你。老师。[wa:3040] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:820]― [log=시로코 테러 무소속]응. [wa:1070]고마워. [wa:1030]선생님.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 676461738,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,2026 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2698047655
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 262
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">ガール・オン・アンド・アドベンチャー </span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">걸 온 앤 어드벤처</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">ガール・オン・アンド・アドベンチャー </span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">걸 온 앤 어드벤처</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Girl on an Adventure</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">Girl on an Adventure</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">Girl on an Adventure</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">Girl on an Adventure</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;걸 온 앤 어드벤처",
+    "BGMId": 262,
+    "Sound": "",
+    "BGName": 2698047655,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（とりあえずヒカリが居るという場所に向かった）",
+      "j_ko": "(일단 히카리가 있다는 곳으로 향했다.)",
+      "g_ja": "（とりあえずヒカリが居るという場所に向かった）",
+      "g_ko": "(일단 히카리가 있다는 곳으로 향했다.)",
+      "g_en": "I headed out to where Hikari was.",
+      "g_th": "(คุณครูมุ่งหน้าไปยังที่ที่ฮิคาริอยู่)",
+      "g_tw": "（前往了光所在的地方）",
+      "g_tw_cn": "（前往了光所在的地方）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(일단 히카리가 있다는 곳으로 향했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 4,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 5,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 6,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Appear_02a"
+    }
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"今日は何してるの？\"",
+      "j_ko": " \"오늘은 뭐 하고 있어, 히카리?\"",
+      "g_ja": " \"今日は何してるの？\"",
+      "g_ko": " \"오늘은 뭐 하고 있어, 히카리?\"",
+      "g_en": " \"Hey, Hikari, what are you up to today?\"",
+      "g_th": " \"วันนี้ทำอะไรเหรอ ฮิคาริ?\"",
+      "g_tw": "「你今天在做什麼，光？」",
+      "g_tw_cn": "「你今天在做什么，光？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"오늘은 뭐 하고 있어, 히카리?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生、ヒカリ今ちょーぴんち。",
+      "j_ko": "선생님- 히카리 지금 왕 위험-",
+      "g_ja": "先生、ヒカリ今ちょーぴんち。",
+      "g_ko": "선생님- 히카리 지금 왕 위험-",
+      "g_en": "Trouble. Big, big trouble...",
+      "g_th": "คุณครู ตอนนี้ฮิคาริกำลัง ตก อยู่ ใน อันตราย",
+      "g_tw": "老師～光現在超危險的～",
+      "g_tw_cn": "老师～光现在超危险的～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "1;히카리;05;선생님- 히카리 지금 왕 위험-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"周りには何もないけど……？\"",
+      "j_ko": " \"하지만 주변에 아무것도 없는데……\"",
+      "g_ja": " \"周りには何もないけど……？\"",
+      "g_ko": " \"하지만 주변에 아무것도 없는데……\"",
+      "g_en": " \"But there's nothing around here...\"",
+      "g_th": " \"แต่แถวๆ นี้ก็ไม่มีอะไรเลยนะ...\"",
+      "g_tw": "「周圍明明什麼都沒有……」",
+      "g_tw_cn": "「周围明明什么都没有……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"하지만 주변에 아무것도 없는데……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 14,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 14,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ここ、全部マグマー。",
+      "j_ko": "선생님- 여기는 지금 용암지대야-",
+      "g_ja": "ここ、全部マグマー。",
+      "g_ko": "선생님- 여기는 지금 용암지대야-",
+      "g_en": "Look, Sensei. Look down. The floor is lava.",
+      "g_th": "คุณครู ตรงนี้เป็นเขตลาวา",
+      "g_tw": "老師～現在這邊是岩漿地帶～",
+      "g_tw_cn": "老师～现在这边是岩浆地带～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "1;히카리;02;선생님- 여기는 지금 용암지대야-\\n#1;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "白いとこは岩場。安全地帯ー。",
+      "j_ko": "하얀색 부분은 바위- 안전 구역-",
+      "g_ja": "白いとこは岩場。安全地帯ー。",
+      "g_ko": "하얀색 부분은 바위- 안전 구역-",
+      "g_en": "White means rock. It's safe.",
+      "g_th": "ตรงสีขาวคือก้อนหิน ตรงนั้นปลอดภัย",
+      "g_tw": "白色是石頭～安全區域～",
+      "g_tw_cn": "白色是石头～安全区域～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "1;히카리;05;하얀색 부분은 바위- 안전 구역-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 16,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "マグマに落ちたらおわりー。",
+      "j_ko": "나머지는 전부 용암- 빠지면 사망-",
+      "g_ja": "マグマに落ちたらおわりー。",
+      "g_ko": "나머지는 전부 용암- 빠지면 사망-",
+      "g_en": "Everything else is lava. You fall, you're dead.",
+      "g_th": "ส่วนที่เหลือเป็นลาวาหมดเลย ตกไปละตายแน่",
+      "g_tw": "其他全部是岩漿～掉下去會死掉哦～",
+      "g_tw_cn": "其他全部是岩浆～掉下去会死掉哦～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "1;히카리;00;나머지는 전부 용암- 빠지면 사망-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 20,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ああっ……！\"",
+      "j_ko": " \"아앗……!\"",
+      "g_ja": " \"ああっ……！\"",
+      "g_ko": " \"아앗……!\"",
+      "g_en": " \"Ah...!\"",
+      "g_th": " \"อ๊ะ...!\"",
+      "g_tw": "「哦哦……！」",
+      "g_tw_cn": "「哦哦……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] \"아앗……!\"\\n[ns2] \"그러고 보니, 나도 이러고 놀았었던 기억이……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 20,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"私もこうやって遊んだ記憶が……。\"",
+      "j_ko": " \"그러고 보니, 나도 이러고 놀았었던 기억이……!\"",
+      "g_ja": " \"私もこうやって遊んだ記憶が……。\"",
+      "g_ko": " \"그러고 보니, 나도 이러고 놀았었던 기억이……!\"",
+      "g_en": " \"Oh, I remember this game!\"",
+      "g_th": " \"จะว่าไป เหมือนครูก็เคยเล่นแบบนี้เหมือนกัน...!\"",
+      "g_tw": "「我記得以前也玩過這種遊戲……！」",
+      "g_tw_cn": "「我记得以前也玩过这种游戏……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] \"아앗……!\"\\n[ns2] \"그러고 보니, 나도 이러고 놀았었던 기억이……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生、そこマグマ。",
+      "j_ko": "선생님- 거기 지금 용암.",
+      "g_ja": "先生、そこマグマ。",
+      "g_ko": "선생님- 거기 지금 용암.",
+      "g_en": "You're STANDING IN LAVA.",
+      "g_th": "คุณครู ตรงนั้นเป็นลาวา",
+      "g_tw": "老師～你那邊現在是岩漿。",
+      "g_tw_cn": "老师～你那边现在是岩浆。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "1;히카리;02;선생님- 거기 지금 용암.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 24,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "逃げてー。",
+      "j_ko": "빨리 대피해야 해-",
+      "g_ja": "逃げてー。",
+      "g_ko": "빨리 대피해야 해-",
+      "g_en": "Get outta there! Jumpy-jumpy!",
+      "g_th": "ต้องรีบอพยพ",
+      "g_tw": "快逃哇～",
+      "g_tw_cn": "快逃哇～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "1;히카리;06;빨리 대피해야 해-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 25,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 26,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ヒカリに言われた通り、白のタイルに移動した）",
+      "j_ko": "(히카리의 말을 듣고 황급히 하얀 보도블록 위로 올라왔다.)",
+      "g_ja": "（ヒカリに言われた通り、白のタイルに移動した）",
+      "g_ko": "(히카리의 말을 듣고 황급히 하얀 보도블록 위로 올라왔다.)",
+      "g_en": "I jumped onto the nearest white block.",
+      "g_th": "(หลังจากฟังคำของฮิคาริ คุณครูก็รีบปีนขึ้นไปบนบล็อกทางเท้าสีขาว)",
+      "g_tw": "（於是如光所說，趕緊跳到了白色的磚道上）",
+      "g_tw_cn": "（于是如光所说，赶紧跳到了白色的砖道上）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(히카리의 말을 듣고 황급히 하얀 보도블록 위로 올라왔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 28,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2698047655
+    }
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "よくやったー。 ",
+      "j_ko": "잘했어- 목숨을 건졌어-",
+      "g_ja": "よくやったー。 ",
+      "g_ko": "잘했어- 목숨을 건졌어-",
+      "g_en": "Annnd safe!",
+      "g_th": "ดีมาก รอดแล้ว",
+      "g_tw": "做得好～撿回一命～",
+      "g_tw_cn": "做得好～捡回一命～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;03;잘했어- 목숨을 건졌어-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あっちの交差点まで生き残ろー。",
+      "j_ko": "이제 저쪽 사거리까지 살아남아야 해- 알았지-?",
+      "g_ja": "あっちの交差点まで生き残ろー。",
+      "g_ko": "이제 저쪽 사거리까지 살아남아야 해- 알았지-?",
+      "g_en": "Go that way now! No fall! You fall, you die!",
+      "g_th": "ทีนี้ก็ต้องอยู่รอดไปจนถึงสี่แยกตรงนั้น เข้าใจมั้ย?",
+      "g_tw": "現在要活著抵達那個十字路口～知道了嗎～？",
+      "g_tw_cn": "现在要活着抵达那个十字路口～知道了吗～？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;08;이제 저쪽 사거리까지 살아남아야 해- 알았지-?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 31,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"よし、やってみる。\"",
+      "j_ko": " \"좋아. 한번 해보자고.\"",
+      "g_ja": " \"よし、やってみる。\"",
+      "g_ko": " \"좋아. 한번 해보자고.\"",
+      "g_en": " \"Okay. Let's do this.\"",
+      "g_th": " \"อื้อ มาลองกันสักตั้งเลย\"",
+      "g_tw": "「好，我挑戰看看。」",
+      "g_tw_cn": "「好，我挑战看看。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"좋아. 한번 해보자고.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 34,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 35,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 36,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3331277370
+    }
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 38,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "赤いとこは浮島でセーフー。",
+      "j_ko": "빨간 곳은 하늘섬이니까 세이프-",
+      "g_ja": "赤いとこは浮島でセーフー。",
+      "g_ko": "빨간 곳은 하늘섬이니까 세이프-",
+      "g_en": "Find a red thing! Those are flying islands!",
+      "g_th": "ตรงสีแดงเป็นเกาะลอยฟ้า ตรงนั้นปลอดภัย",
+      "g_tw": "紅色的地方是安全的浮島～",
+      "g_tw_cn": "红色的地方是安全的浮岛～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;02;빨간 곳은 하늘섬이니까 세이프-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 39,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "落ちたらアウトー。",
+      "j_ko": "떨어지면 아웃-",
+      "g_ja": "落ちたらアウトー。",
+      "g_ko": "떨어지면 아웃-",
+      "g_en": "Don't fall! No toasties!",
+      "g_th": "แต่ถ้าตกไปก็ตายนะ",
+      "g_tw": "掉下去就出局囉～",
+      "g_tw_cn": "掉下去就出局啰～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;00;떨어지면 아웃-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 42,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"まずい……赤いタイルがない……！\"",
+      "j_ko": " \"큭, 여기에는 빨간 블록이 없는데……!\"",
+      "g_ja": " \"まずい……赤いタイルがない……！\"",
+      "g_ko": " \"큭, 여기에는 빨간 블록이 없는데……!\"",
+      "g_en": " \"There's nothing red anywhere near me!\"",
+      "g_th": " \"อึก แต่ตรงนี้ไม่มีบล็อกสีแดงนะ...!\"",
+      "g_tw": "「糟糕，這裡沒有紅色的磚塊……！」",
+      "g_tw_cn": "「糟糕，这里没有红色的砖块……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"큭, 여기에는 빨간 블록이 없는데……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 44,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あの店の前、赤いじゅうたんあるよー。",
+      "j_ko": "저 가게 앞에- 빨간 양탄자 보여-?",
+      "g_ja": "あの店の前、赤いじゅうたんあるよー。",
+      "g_ko": "저 가게 앞에- 빨간 양탄자 보여-?",
+      "g_en": "That store! Red carpet!",
+      "g_th": "เห็นพรมสีแดงหน้าร้านนั้นมั้ย?",
+      "g_tw": "那間店前面～有紅色的地毯哦～？",
+      "g_tw_cn": "那间店前面～有红色的地毯哦～？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;02;저 가게 앞에- 빨간 양탄자 보여-?\\n#3;jump\\n#3;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あそこ安全地帯ー。",
+      "j_ko": "저기 밟으면 생존-",
+      "g_ja": "あそこ安全地帯ー。",
+      "g_ko": "저기 밟으면 생존-",
+      "g_en": "Jumpy-jumpy, hurry!",
+      "g_th": "ถ้าไปเหยียบตรงนั้นก็รอด",
+      "g_tw": "踩那邊就能活下來～",
+      "g_tw_cn": "踩那边就能活下来～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;03;저기 밟으면 생존-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"あそこまで飛べるかな……？\"",
+      "j_ko": " \"내가 저기까지 뛸 수 있을까?\"",
+      "g_ja": " \"あそこまで飛べるかな……？\"",
+      "g_ko": " \"내가 저기까지 뛸 수 있을까?\"",
+      "g_en": " \"You think I can make that jump?\"",
+      "g_th": " \"ครูจะโดดไปถึงตรงนั้นเหรอ?\"",
+      "g_tw": "「我跳得過去嗎？」",
+      "g_tw_cn": "「我跳得过去吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"내가 저기까지 뛸 수 있을까?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 47,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "無理なら先生の冒険は終わりー。",
+      "j_ko": "선생님- 못 뛰면 끝이야-",
+      "g_ja": "無理なら先生の冒険は終わりー。",
+      "g_ko": "선생님- 못 뛰면 끝이야-",
+      "g_en": "You're choiceless! Go!",
+      "g_th": "คุณครู ถ้าไม่โดดก็จบเห่เลยนะ",
+      "g_tw": "老師～跳不過去就完蛋囉～",
+      "g_tw_cn": "老师～跳不过去就完蛋啰～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;05;선생님- 못 뛰면 끝이야-\\n#3;jump\\n#3;m4",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 48,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ぐぬぬ……やってみるよ！\"",
+      "j_ko": " \"큭……! 해주겠어!!\"",
+      "g_ja": " \"ぐぬぬ……やってみるよ！\"",
+      "g_ko": " \"큭……! 해주겠어!!\"",
+      "g_en": " \"Tch...! Fine, I'll do it!!\"",
+      "g_th": " \"อึก...! งั้นก็ลุยเลย!!\"",
+      "g_tw": "「唔……！我一定要跳過去！！」",
+      "g_tw_cn": "「唔……！我一定要跳过去！！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"큭……! 해주겠어!!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 51,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 52,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Tampe_02"
+    }
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 53,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Bell_02"
+    }
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 54,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3331277370
+    }
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 54,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07c"
+    }
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 55,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07d"
+    }
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"あっ！\"",
+      "j_ko": " \"우, 우왓!\"",
+      "g_ja": " \"あっ！\"",
+      "g_ko": " \"우, 우왓!\"",
+      "g_en": " \"W-Whoa!\"",
+      "g_th": " \"วะ... เหวอ!\"",
+      "g_tw": "「嗚，嗚哇！」",
+      "g_tw_cn": "「呜，呜哇！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"우, 우왓!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 59,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Fall_01"
+    }
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 60,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "おわーっ！？",
+      "j_ko": "어이쿠!",
+      "g_ja": "おわーっ！？",
+      "g_ko": "어이쿠!",
+      "g_en": "Oh, dear!",
+      "g_th": "โธ่!",
+      "g_tw": "哎喲！",
+      "g_tw_cn": "哎哟！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1752666353,
+    "DataType": "speaker",
+    "Script": "5;코기 시민 1;00;어이쿠!\\n#5;shake\\n#5;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"す、すみません……！！\"",
+      "j_ko": " \"죄, 죄송합니다……!!\"",
+      "g_ja": " \"す、すみません……！！\"",
+      "g_ko": " \"죄, 죄송합니다……!!\"",
+      "g_en": " \"I... I am so sorry.\"",
+      "g_th": " \"คะ.. ครูผิดไปแล้ว...!!\"",
+      "g_tw": "「對，對不起……！！」",
+      "g_tw_cn": "「对，对不起……！！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"죄, 죄송합니다……!!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 62,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "い、一体何を……？",
+      "j_ko": "뭐, 뭐 하시는 거예요……? 들어가시려고요?",
+      "g_ja": "い、一体何を……？",
+      "g_ko": "뭐, 뭐 하시는 거예요……? 들어가시려고요?",
+      "g_en": "Wh-What are you doing...? Are you trying to go in?",
+      "g_th": "ทะ... ทำอะไรเหรอครับ? จะเข้าไปข้างในเหรอ?",
+      "g_tw": "你，你在做什麼……？<br/>要進這間店嗎？",
+      "g_tw_cn": "你，你在做什么……？<br/>要进这间店吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1752666353,
+    "DataType": "speaker",
+    "Script": "5;코기 시민 1;00;뭐, 뭐 하시는 거예요……? 들어가시려고요?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 63,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"いやっ、その……。\"",
+      "j_ko": " \"아…… 아뇨, 그게……\"",
+      "g_ja": " \"いやっ、その……。\"",
+      "g_ko": " \"아…… 아뇨, 그게……\"",
+      "g_en": " \"N-No, see, the thing is...\"",
+      "g_th": " \"ปะ... เปล่าหรอก คือว่า...\"",
+      "g_tw": "「啊……不是，那個……」",
+      "g_tw_cn": "「啊……不是，那个……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"아…… 아뇨, 그게……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 66,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 67,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "赤ー。",
+      "j_ko": "빨간색-",
+      "g_ja": "赤ー。",
+      "g_ko": "빨간색-",
+      "g_en": "Red.",
+      "g_th": "สีแดง",
+      "g_tw": "紅色～",
+      "g_tw_cn": "红色～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "1;히카리;02;빨간색-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "赤踏まないとアウトー。",
+      "j_ko": "빨간색 안 밟으면 죽어-",
+      "g_ja": "赤踏まないとアウトー。",
+      "g_ko": "빨간색 안 밟으면 죽어-",
+      "g_en": "Red OR DIE.",
+      "g_th": "ถ้าไม่เหยียบสีแดงก็ ม่อง เท่ง นะ",
+      "g_tw": "沒踩到紅色就出局了～",
+      "g_tw_cn": "没踩到红色就出局了～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "1;히카리;08;빨간색 안 밟으면 죽어-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 73,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "この島の上じゃないと生きられないー。",
+      "j_ko": "여기는 하늘섬이야- 빨간색만 밟아야 살 수 있어-",
+      "g_ja": "この島の上じゃないと生きられないー。",
+      "g_ko": "여기는 하늘섬이야- 빨간색만 밟아야 살 수 있어-",
+      "g_en": "Flying islands are life! Lava's not!",
+      "g_th": "ตรงนี้คือเกาะลอยฟ้า ถ้าอยากรอดก็ต้องเหยียบสีแดงเท่านั้น",
+      "g_tw": "這裡是浮島～踩到紅色才能存活～",
+      "g_tw_cn": "这里是浮岛～踩到红色才能存活～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "1;히카리;02;여기는 하늘섬이야- 빨간색만 밟아야 살 수 있어-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 74,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えっ？",
+      "j_ko": "엑?",
+      "g_ja": "えっ？",
+      "g_ko": "엑?",
+      "g_en": "Eh?",
+      "g_th": "เอ๋?",
+      "g_tw": "咦？",
+      "g_tw_cn": "咦？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1752666353,
+    "DataType": "speaker",
+    "Script": "5;코기 시민 1;00;엑?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ああ！",
+      "j_ko": "아……",
+      "g_ja": "……ああ！",
+      "g_ko": "아……",
+      "g_en": "Ah...",
+      "g_th": "อ๋อ...",
+      "g_tw": "啊……",
+      "g_tw_cn": "啊……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1752666353,
+    "DataType": "speaker",
+    "Script": "5;코기 시민 1;00;아……\\n#5;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "懐かしいね。",
+      "j_ko": "아하, 뭔지 알겠구만.",
+      "g_ja": "懐かしいね。",
+      "g_ko": "아하, 뭔지 알겠구만.",
+      "g_en": "Aha, I see what's going on.",
+      "g_th": "พอจะรู้แล้วว่าคืออะไร",
+      "g_tw": "哈哈，我知道了。",
+      "g_tw_cn": "哈哈，我知道了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1752666353,
+    "DataType": "speaker",
+    "Script": "5;코기 시민 1;00;아하, 뭔지 알겠구만.\\n#5;em;[재잘]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 77,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "冒険ごっこか、私も小さい頃はよくやったもんだ。",
+      "j_ko": "나도 어릴 때 많이 했었지. 모험 놀이.",
+      "g_ja": "冒険ごっこか、私も小さい頃はよくやったもんだ。",
+      "g_ko": "나도 어릴 때 많이 했었지. 모험 놀이.",
+      "g_en": "I used to play that when I was a kid.",
+      "g_th": "สมัยเด็กๆ ฉันก็เล่นบ่อยๆ เหมือนกัน เล่นผจญภัยน่ะ",
+      "g_tw": "我小時候也常玩冒險遊戲呢。",
+      "g_tw_cn": "我小时候也常玩冒险游戏呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1752666353,
+    "DataType": "speaker",
+    "Script": "5;코기 시민 1;00;나도 어릴 때 많이 했었지. 모험 놀이.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 78,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ははっ、旅の無事を祈ってるよ。",
+      "j_ko": "허허, 그럼 떨어지지 않게 조심해요~",
+      "g_ja": "ははっ、旅の無事を祈ってるよ。",
+      "g_ko": "허허, 그럼 떨어지지 않게 조심해요~",
+      "g_en": "Haha, be careful to not fall, then!",
+      "g_th": "ฮ่าๆ งั้นก็ระวังอย่าให้ร่วงล่ะครับ~",
+      "g_tw": "呵呵，請小心不要掉下去囉～",
+      "g_tw_cn": "呵呵，请小心不要掉下去啰～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1752666353,
+    "DataType": "speaker",
+    "Script": "5;코기 시민 1;00;허허, 그럼 떨어지지 않게 조심해요~\\n#5;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 81,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 83,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ちょっと恥ずかしい……。\"",
+      "j_ko": " \"……부, 부끄러워졌어……\"",
+      "g_ja": " \"ちょっと恥ずかしい……。\"",
+      "g_ko": " \"……부, 부끄러워졌어……\"",
+      "g_en": " \"...Th-That was embarrassing...\"",
+      "g_th": " \"นะ... น่าอายจังเลย...\"",
+      "g_tw": "「好，好丟臉……」",
+      "g_tw_cn": "「好，好丢脸……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"……부, 부끄러워졌어……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 84,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "恥はいっしゅーん。",
+      "j_ko": "선생님- 부끄러움은 한순간-",
+      "g_ja": "恥はいっしゅーん。",
+      "g_ko": "선생님- 부끄러움은 한순간-",
+      "g_en": "Shame goes away!",
+      "g_th": "คุณครู เก็บความอายไว้ก่อน",
+      "g_tw": "老師～丟臉只是一時的～",
+      "g_tw_cn": "老师～丢脸只是一时的～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "1;히카리;05;선생님- 부끄러움은 한순간-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 85,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "命のほうが大事ー。",
+      "j_ko": "생존이 더 중요해-",
+      "g_ja": "命のほうが大事ー。",
+      "g_ko": "생존이 더 중요해-",
+      "g_en": "Death doesn't!",
+      "g_th": "ชีวิตสำคัญกว่านะ",
+      "g_tw": "活下去比較重要～",
+      "g_tw_cn": "活下去比较重要～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "1;히카리;08;생존이 더 중요해-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 86,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"そ、そうだね……！\"",
+      "j_ko": " \"그건 그렇긴 한데……\"",
+      "g_ja": " \"そ、そうだね……！\"",
+      "g_ko": " \"그건 그렇긴 한데……\"",
+      "g_en": " \"Fair point, but...\"",
+      "g_th": " \"มันก็จริงอยู่หรอกนะ...\"",
+      "g_tw": "「是，是沒錯啦……」",
+      "g_tw_cn": "「是，是没错啦……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그건 그렇긴 한데……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 90,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"くっ……こうなったら最後まで行くぞ！\"",
+      "j_ko": " \"에잇, 모르겠다. 쭉 가보자!\"",
+      "g_ja": " \"くっ……こうなったら最後まで行くぞ！\"",
+      "g_ko": " \"에잇, 모르겠다. 쭉 가보자!\"",
+      "g_en": " \"Eh, whatever. Let's just run with it!\"",
+      "g_th": " \"เฮ้อ งั้นก็ไม่อายแล้ว ไปให้สุดเลย!\"",
+      "g_tw": "「算了，不管那麼多了。繼續走到底吧！」",
+      "g_tw_cn": "「算了，不管那么多了。继续走到底吧！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"에잇, 모르겠다. 쭉 가보자!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 91,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 91,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いくぞー。",
+      "j_ko": "점프- 점프-",
+      "g_ja": "いくぞー。",
+      "g_ko": "점프- 점프-",
+      "g_en": "Jumpy-jumpy...",
+      "g_th": "จัมพ์ จัมพ์",
+      "g_tw": "Jump～Jump～",
+      "g_tw_cn": "Jump～Jump～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "1;히카리;03;점프- 점프-\\n#1;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 92,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2001821444
+    }
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 93,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 94,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 95,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 97,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 106177673
+    }
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 98,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 99,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 100,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 101,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 102,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 103,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 104,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 105,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ヒカリとの過酷な冒険の旅を経て、シャーレに戻ってきた）",
+      "j_ko": "(그렇게 동심으로 돌아가, 히카리와 한참 동안 모험을 즐기며 샬레 앞까지 도달했다.)",
+      "g_ja": "（ヒカリとの過酷な冒険の旅を経て、シャーレに戻ってきた）",
+      "g_ko": "(그렇게 동심으로 돌아가, 히카리와 한참 동안 모험을 즐기며 샬레 앞까지 도달했다.)",
+      "g_en": "And so, I took a nostalgia trip, and enjoyed my adventure with Hikari for a good while. Eventually, we arrived at Schale.",
+      "g_th": "(แล้วคุณครูก็หวนคืนสู่วัยเด็กและสนุกไปกับการผจญภัยกับฮิคาริ จนมาถึงที่หน้าชาเล่ต์)",
+      "g_tw": "（就這樣找回童心，和光一路冒險到了夏萊門口）",
+      "g_tw_cn": "（就这样找回童心，和光一路冒险到了夏莱门口）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 동심으로 돌아가, 히카리와 한참 동안 모험을 즐기며 샬레 앞까지 도달했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 106,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2407788261
+    }
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 107,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今日は最長記録達成ー！はいすこあー。",
+      "j_ko": "후- 오늘 최고 오래 생존했어- 뉴 레코드-",
+      "g_ja": "今日は最長記録達成ー！はいすこあー。",
+      "g_ko": "후- 오늘 최고 오래 생존했어- 뉴 레코드-",
+      "g_en": "Phew. New record. Longest time alive.",
+      "g_th": "ฮู่ว วันนี้อยู่รอดได้นานที่สุด เป็นสถิติใหม่เลยละ",
+      "g_tw": "呼～今天生存的時長～創下了新紀錄～",
+      "g_tw_cn": "呼～今天生存的时长～创下了新纪录～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;03;후- 오늘 최고 오래 생존했어- 뉴 레코드-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 108,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"楽しかったよ……そろそろ仕事に戻ろうかな。\"",
+      "j_ko": " \"재밌었다…… 이제 사무실로 돌아가야지.\"",
+      "g_ja": " \"楽しかったよ……そろそろ仕事に戻ろうかな。\"",
+      "g_ko": " \"재밌었다…… 이제 사무실로 돌아가야지.\"",
+      "g_en": " \"That was fun. I should get back to work.\"",
+      "g_th": " \"สนุกดีนะ... ว่าแต่เมื่อกี้ฮิคาริตั้งใจจะไปไหนเหรอ?\"",
+      "g_tw": "「真好玩啊……不過我現在該回辦公室了。」",
+      "g_tw_cn": "「真好玩啊……不过我现在该回办公室了。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"재밌었다…… 이제 사무실로 돌아가야지.\"\\n[s4] \"그러고 보니 히카리는 어디 가던 길이었어?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 108,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"そういえば、ヒカリはどこに行こうとしてたの？\"",
+      "j_ko": " \"그러고 보니 히카리는 어디 가던 길이었어?\"",
+      "g_ja": " \"そういえば、ヒカリはどこに行こうとしてたの？\"",
+      "g_ko": " \"그러고 보니 히카리는 어디 가던 길이었어?\"",
+      "g_en": " \"By the way, where were you headed, Hikari?\"",
+      "g_th": " \"จะว่าไป เมื่อกี้ฮิคาริตั้งใจจะไปไหนเหรอ?\"",
+      "g_tw": "「話說回來，光剛才原本要去哪裡呢？」",
+      "g_tw_cn": "「话说回来，光刚才原本要去哪里呢？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"재밌었다…… 이제 사무실로 돌아가야지.\"\\n[s4] \"그러고 보니 히카리는 어디 가던 길이었어?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 114,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "わすれたー。",
+      "j_ko": "몰라- 까먹었어-",
+      "g_ja": "わすれたー。",
+      "g_ko": "몰라- 까먹었어-",
+      "g_en": "Dunno. Forgot.",
+      "g_th": "ไม่รู้สิ ลืมไปแล้ว",
+      "g_tw": "不知道～我忘記了～",
+      "g_tw_cn": "不知道～我忘记了～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;05;몰라- 까먹었어-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 115,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"い、いいのかなそれで……。\"",
+      "j_ko": " \"그래도 되는 건가……\"",
+      "g_ja": " \"い、いいのかなそれで……。\"",
+      "g_ko": " \"그래도 되는 건가……\"",
+      "g_en": " \"I hope I didn't make you miss anything important.\"",
+      "g_th": " \"แบบนี้ก็ได้เหรอ...\"",
+      "g_tw": "「這樣真的沒問題嗎……」",
+      "g_tw_cn": "「这样真的没问题吗……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그래도 되는 건가……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 116,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いいのー。ノーデスでクリアできたからー。",
+      "j_ko": "응- 노데스 클리어로 만족-",
+      "g_ja": "いいのー。ノーデスでクリアできたからー。",
+      "g_ko": "응- 노데스 클리어로 만족-",
+      "g_en": "Nah. I got a no-death clear. Good enough for me.",
+      "g_th": "อื้อ แค่ไม่ตายก็พอใจแล้ว",
+      "g_tw": "嗯～無死通關，光超滿意～",
+      "g_tw_cn": "嗯～无死通关，光超满意～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;08;응- 노데스 클리어로 만족-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 117,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生は8回落ちたけど、初挑戦なら悪くないー。 ",
+      "j_ko": "선생님은 여덟 번 사망- 처음 치곤 잘했어-",
+      "g_ja": "先生は8回落ちたけど、初挑戦なら悪くないー。 ",
+      "g_ko": "선생님은 여덟 번 사망- 처음 치곤 잘했어-",
+      "g_en": "You died eight times, Sensei. Good first try.",
+      "g_th": "คุณครูตายไป 8 ครั้ง แต่มือใหม่ก็เป็นงี้แหละ",
+      "g_tw": "老師死掉了八次～以第一次來說表現很好哦～",
+      "g_tw_cn": "老师死掉了八次～以第一次来说表现很好哦～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;03;선생님은 여덟 번 사망- 처음 치곤 잘했어-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 118,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"よかった……大昔にやってたからね。\"",
+      "j_ko": " \"고맙습니다. 처음은 아니지만요.\"",
+      "g_ja": " \"よかった……大昔にやってたからね。\"",
+      "g_ko": " \"고맙습니다. 처음은 아니지만요.\"",
+      "g_en": " \"Thank you. Although it wasn't my first try.\"",
+      "g_th": " \"ขอบใจนะ ถึงครูจะไม่ใช่มือใหม่ก็เถอะ\"",
+      "g_tw": "「謝謝你，雖然這已經不是第一次了。」",
+      "g_tw_cn": "「谢谢你，虽然这已经不是第一次了。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"고맙습니다. 처음은 아니지만요.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 119,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ……。",
+      "j_ko": "……",
+      "g_ja": "あ……。",
+      "g_ko": "……",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;15;……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 120,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ヒカリ、動けない。",
+      "j_ko": "하지만 히카리 더 못 움직여-",
+      "g_ja": "ヒカリ、動けない。",
+      "g_ko": "하지만 히카리 더 못 움직여-",
+      "g_en": "Oh. Can't move.",
+      "g_th": "แต่ตอนนี้ฮิคาริไปต่อไม่ได้แล้ว",
+      "g_tw": "可是光不能再移動了～",
+      "g_tw_cn": "可是光不能再移动了～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;05;하지만 히카리 더 못 움직여-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 121,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ここ、安全地帯なさすぎー。",
+      "j_ko": "길 끊겼어- 이동 불가.",
+      "g_ja": "ここ、安全地帯なさすぎー。",
+      "g_ko": "길 끊겼어- 이동 불가.",
+      "g_en": "Dead end.",
+      "g_th": "แมพสิ้นสุดแค่นี้ ไปต่อไม่ได้",
+      "g_tw": "路斷掉了～沒辦法行動。",
+      "g_tw_cn": "路断掉了～没办法行动。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;09;길 끊겼어- 이동 불가.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 122,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"そういえば……\"",
+      "j_ko": " \"그러고 보니……\"",
+      "g_ja": " \"そういえば……\"",
+      "g_ko": " \"그러고 보니……\"",
+      "g_en": " \"Yeah, about that...\"",
+      "g_th": " \"นั่นสินะ ข้างหน้ามีบล็อกสีเดียวแฮะ...\"",
+      "g_tw": "「這麼說來……」",
+      "g_tw_cn": "「这么说来……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"그러고 보니……\"\\n[s6] \"이 앞으로는 같은 색의 보도블럭 뿐이네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 122,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ここから先は、同じ色のタイルしかないね。\"",
+      "j_ko": " \"이 앞으로는 같은 색의 보도블럭 뿐이네.\"",
+      "g_ja": " \"ここから先は、同じ色のタイルしかないね。\"",
+      "g_ko": " \"이 앞으로는 같은 색의 보도블럭 뿐이네.\"",
+      "g_en": " \"All the blocks are the same color from here on.\"",
+      "g_th": " \"นั่นสินะ ทางข้างหน้ามีแค่บล็อกสีเดียวกันหมดเลย\"",
+      "g_tw": "「前面只有同一種顏色的地磚呢。」",
+      "g_tw_cn": "「前面只有同一种颜色的地砖呢。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"그러고 보니……\"\\n[s6] \"이 앞으로는 같은 색의 보도블럭 뿐이네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 96,
+    "AbsolutePos": 125,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ヒカリ死亡フラグー。",
+      "j_ko": "히카리 꼼짝 못 해- 사망 확정.",
+      "g_ja": "ヒカリ死亡フラグー。",
+      "g_ko": "히카리 꼼짝 못 해- 사망 확정.",
+      "g_en": "Omni-directional death. Nowhere to go.",
+      "g_th": "ฮิคาริขยับไม่ได้ งั้นก็ ตาย แหง แก๋",
+      "g_tw": "光動彈不得～確定死亡。",
+      "g_tw_cn": "光动弹不得～确定死亡。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;09;히카리 꼼짝 못 해- 사망 확정.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 97,
+    "AbsolutePos": 126,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いままで楽しかったー。あとはまかせるー。",
+      "j_ko": "지금까지 즐거웠어- 뒤는 맡길게-",
+      "g_ja": "いままで楽しかったー。あとはまかせるー。",
+      "g_ko": "지금까지 즐거웠어- 뒤는 맡길게-",
+      "g_en": "It's been fun, Sensei. You do the rest.",
+      "g_th": "ที่ผ่านมาสนุกมาก ฝากที่เหลือด้วยนะ",
+      "g_tw": "這輩子過得很開心～剩下的就拜託你了～",
+      "g_tw_cn": "这辈子过得很开心～剩下的就拜托你了～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;10;지금까지 즐거웠어- 뒤는 맡길게-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 98,
+    "AbsolutePos": 127,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ヒカリのこと、忘れないでねー。",
+      "j_ko": "하지만 히카리를 잊지 말아줘-",
+      "g_ja": "ヒカリのこと、忘れないでねー。",
+      "g_ko": "하지만 히카리를 잊지 말아줘-",
+      "g_en": "No forgetty.",
+      "g_th": "แต่อย่าลืมฮิคาริล่ะ",
+      "g_tw": "不要忘記光哦～",
+      "g_tw_cn": "不要忘记光哦～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "3;히카리;09;하지만 히카리를 잊지 말아줘-",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 99,
+    "AbsolutePos": 131,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ヒカリは私が助ける！\"",
+      "j_ko": " \"히카리는 내가 구한다!\"",
+      "g_ja": " \"ヒカリは私が助ける！\"",
+      "g_ko": " \"히카리는 내가 구한다!\"",
+      "g_en": " \"Forget THAT. I'm going to save you!\"",
+      "g_th": " \"ครูจะช่วยฮิคาริเอง!\"",
+      "g_tw": "「光就由我來拯救！」",
+      "g_tw_cn": "「光就由我来拯救！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"히카리는 내가 구한다!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 100,
+    "AbsolutePos": 133,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（動けずにいるヒカリを抱きかかえて、オフィスに向かった）",
+      "j_ko": "(움직이지 못하는 히카리를 안아 들고 사무실로 향했다.)",
+      "g_ja": "（動けずにいるヒカリを抱きかかえて、オフィスに向かった）",
+      "g_ko": "(움직이지 못하는 히카리를 안아 들고 사무실로 향했다.)",
+      "g_en": "I picked up Hikari and carried her into the office.",
+      "g_th": "(คุณครูเข้าไปอุ้มฮิคาริที่เดินต่อไม่ได้แล้วพาไปที่สำนักงานชาเล่ต์)",
+      "g_tw": "（抱起無法移動的光，前往了辦公室）",
+      "g_tw_cn": "（抱起无法移动的光，前往了办公室）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(움직이지 못하는 히카리를 안아 들고 사무실로 향했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 101,
+    "AbsolutePos": 134,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うぉー、たのもしー。",
+      "j_ko": "우와- 왕 든든-",
+      "g_ja": "うぉー、たのもしー。",
+      "g_ko": "우와- 왕 든든-",
+      "g_en": "Whoa! My hero!",
+      "g_th": "ว้าว มีคนมาช่วยด้วย",
+      "g_tw": "哇～真可靠～",
+      "g_tw_cn": "哇～真可靠～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4254046605,
+    "DataType": "speaker",
+    "Script": "#na;히카리;우와- 왕 든든-",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 102,
+    "AbsolutePos": 135,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 103,
+    "AbsolutePos": 136,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ヒカリはシャーレで楽しそうに遊ぶと帰っていった）",
+      "j_ko": "(히카리는 그렇게 샬레에서 또 한참 동안 놀다가 돌아갔다.)",
+      "g_ja": "（ヒカリはシャーレで楽しそうに遊ぶと帰っていった）",
+      "g_ko": "(히카리는 그렇게 샬레에서 또 한참 동안 놀다가 돌아갔다.)",
+      "g_en": "Hikari enjoyed her stay at Schale for a long while before returning home.",
+      "g_th": "(ฮิคาริเล่นสนุกอยู่ที่อีกสักพักแล้วจึงกลับไป)",
+      "g_tw": "（後來光又在夏萊玩了很久才回去）",
+      "g_tw_cn": "（后来光又在夏莱玩了很久才回去）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(히카리는 그렇게 샬레에서 또 한참 동안 놀다가 돌아갔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

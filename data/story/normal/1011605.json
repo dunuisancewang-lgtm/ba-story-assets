@@ -1,0 +1,1955 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">お礼</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">은혜 갚기</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">お礼</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">은혜 갚기</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Returning the Favor</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ตอบแทนบุญคุณ</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">報恩</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">报恩</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;은혜 갚기",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_01"
+    }
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（サオリと会うべく飲食街に向かった）",
+      "j_ko": "(사오리를 만나러 식당 거리에 나왔다.)",
+      "g_ja": "（サオリと会うべく飲食街に向かった）",
+      "g_ko": "(사오리를 만나러 식당 거리에 나왔다.)",
+      "g_en": "I went out to meet Saori.",
+      "g_th": "(คุณครูออกมาที่ถนนร้านอาหารเพื่อเจอซาโอริ)",
+      "g_tw": "（為了見沙織而前往了美食街）",
+      "g_tw_cn": "（为了见沙织而前往了美食街）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(사오리를 만나러 식당 거리에 나왔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（……ところが）",
+      "j_ko": "(그런데…….)",
+      "g_ja": "（……ところが）",
+      "g_ko": "(그런데…….)",
+      "g_en": "But...",
+      "g_th": "(แต่ว่า...)",
+      "g_tw": "（然而……）",
+      "g_tw_cn": "（然而……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그런데…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 3,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1996246696
+    }
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 4,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 5,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_01"
+    }
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "…….",
+      "g_ja": "……。",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "4;사오리 드레스 비무장;00;…….\\n#4;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 8,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 3
+    }
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 8,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"あ、あのー……サオリさん？\"",
+      "j_ko": " \"저, 저기……. 사오리 씨?\"",
+      "g_ja": " \"あ、あのー……サオリさん？\"",
+      "g_ko": " \"저, 저기……. 사오리 씨?\"",
+      "g_en": " \"U-Um... Saori?\"",
+      "g_th": " \"อะ... เอ่อ... คุณซาโอริ?\"",
+      "g_tw": "「那，那個……沙織同學？」",
+      "g_tw_cn": "「那，那个……沙织同学？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"저, 저기……. 사오리 씨?\"",
+    "BGMId": 3,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 12,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07a"
+    }
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ああ、先生。待っていた。",
+      "j_ko": "아, 선생. 기다리고 있었다.",
+      "g_ja": "ああ、先生。待っていた。",
+      "g_ko": "아, 선생. 기다리고 있었다.",
+      "g_en": "Ah, Sensei. I was waiting for you.",
+      "g_th": "อ๊ะ ครู ฉันกำลังรออยู่เลย",
+      "g_tw": "啊，老師。我正在等你呢。",
+      "g_tw_cn": "啊，老师。我正在等你呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "4;사오리 드레스 비무장;01;아, 선생. 기다리고 있었다.\\n#4;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "すぐ店に向かおう。どこがいいだろうか。",
+      "j_ko": "그럼 바로 이동하지. 어느 가게가 좋은가?",
+      "g_ja": "すぐ店に向かおう。どこがいいだろうか。",
+      "g_ko": "그럼 바로 이동하지. 어느 가게가 좋은가?",
+      "g_en": "Let's get moving. Where do you want to go?",
+      "g_th": "งั้นเราก็ไปกันเถอะ ไปร้านไหนดีล่ะ?",
+      "g_tw": "我們走吧。老師想去哪間店？",
+      "g_tw_cn": "我们走吧。老师想去哪间店？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "4;사오리 드레스 비무장;11;그럼 바로 이동하지. 어느 가게가 좋은가?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 14,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ま、待って！\"",
+      "j_ko": " \"자, 잠깐만!\"",
+      "g_ja": " \"ま、待って！\"",
+      "g_ko": " \"자, 잠깐만!\"",
+      "g_en": " \"H-Hold on!\"",
+      "g_th": " \"ดะ... เดี๋ยวก่อน!\"",
+      "g_tw": "「先，先等一下！」",
+      "g_tw_cn": "「先，先等一下！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"자, 잠깐만!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 16,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"もしかして、ずっとその格好だったの？\"",
+      "j_ko": " \"설마 그 차림으로 계속 기다렸던 거야?\"",
+      "g_ja": " \"もしかして、ずっとその格好だったの？\"",
+      "g_ko": " \"설마 그 차림으로 계속 기다렸던 거야?\"",
+      "g_en": " \"You were waiting around like...this?\"",
+      "g_th": " \"ออกมายืนรอครูในชุดนี้เลยเหรอ?\"",
+      "g_tw": "「你等我的時候一直穿著那套衣服嗎？」",
+      "g_tw_cn": "「你等我的时候一直穿着那套衣服吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"설마 그 차림으로 계속 기다렸던 거야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "大切な席には、ドレスを纏って行くものだと聞いたが……。",
+      "j_ko": "중요한 자리엔 최대한 차려입고 가야 한다 들어서 그랬다만…….",
+      "g_ja": "大切な席には、ドレスを纏って行くものだと聞いたが……。",
+      "g_ko": "중요한 자리엔 최대한 차려입고 가야 한다 들어서 그랬다만…….",
+      "g_en": "I heard that one is supposed to dress up for special occasions...",
+      "g_th": "ฉันได้ยินมาว่าในการนัดหมายที่สำคัญควรแต่งตัวให้เกียรติฝ่ายตรงข้าม ก็เลย...",
+      "g_tw": "我聽說出席重要場合的時候，要盡量打扮得體……",
+      "g_tw_cn": "我听说出席重要场合的时候，要尽量打扮得体……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "4;사오리 드레스 비무장;02;중요한 자리엔 최대한 차려입고 가야 한다 들어서 그랬다만…….\\n#4;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 21,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_01"
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ドレス……？どこかのお嬢さまかな？",
+      "j_ko": "오…… 새하얀 드레스? 어디 높은 사람의 자제분인가?",
+      "g_ja": "ドレス……？どこかのお嬢さまかな？",
+      "g_ko": "오…… 새하얀 드레스? 어디 높은 사람의 자제분인가?",
+      "g_en": "Ooh... Such an elegant dress. Does she come from money?",
+      "g_th": "โอ้... ใส่เดรสสีขาวมาเลยเหรอ? เป็นลูกสาวของคนระดับสูงหรือเปล่านะ?",
+      "g_tw": "哦……純白色禮服？是哪位豪門千金嗎？",
+      "g_tw_cn": "哦……纯白色礼服？是哪位豪门千金吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 653747109,
+    "DataType": "speaker",
+    "Script": "3;식당가 상인;00;오…… 새하얀 드레스? 어디 높은 사람의 자제분인가?\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こんなところで何してるんだろ？",
+      "j_ko": "저런 분이 여기는 무슨 일로 오신 걸까?",
+      "g_ja": "こんなところで何してるんだろ？",
+      "g_ko": "저런 분이 여기는 무슨 일로 오신 걸까?",
+      "g_en": "Is she lost?",
+      "g_th": "คนสูงศักดิ์ขนาดนั้นมีธุระอะไรที่นี่งั้นเหรอ?",
+      "g_tw": "這麼高貴的小姐怎麼會來這裡呢？",
+      "g_tw_cn": "这么高贵的小姐怎么会来这里呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1435316379,
+    "DataType": "speaker",
+    "Script": "1;식당가 손님;00;저런 분이 여기는 무슨 일로 오신 걸까?\\n#1;a\\n#1;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "綺麗な人……写真撮っていいか聞いてみようかな？",
+      "j_ko": "오오, 아름다워……. 사진 찍어도 되냐고 물어볼까?",
+      "g_ja": "綺麗な人……写真撮っていいか聞いてみようかな？",
+      "g_ko": "오오, 아름다워……. 사진 찍어도 되냐고 물어볼까?",
+      "g_en": "She's gorgeous... Should I ask to take her photo?",
+      "g_th": "โห สวยจัง... ไปขอถ่ายรูปดีมั้ยนะ?",
+      "g_tw": "哦哦，真美啊……好想問他可不可以拍照！",
+      "g_tw_cn": "哦哦，真美啊……好想问他可不可以拍照！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3458513467,
+    "DataType": "speaker",
+    "Script": "5;식당가 행인;00;오오, 아름다워……. 사진 찍어도 되냐고 물어볼까?\\n#5;a\\n#5;em;[하트]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Heart",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 28,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_01"
+    }
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……先生。なにやら視線を感じるのだが。",
+      "j_ko": "……선생. 그러고 보니 사람들이 계속 날 보며 수군거리는 것 같은데, 무슨 문제가 있는 건가?",
+      "g_ja": "……先生。なにやら視線を感じるのだが。",
+      "g_ko": "……선생. 그러고 보니 사람들이 계속 날 보며 수군거리는 것 같은데, 무슨 문제가 있는 건가?",
+      "g_en": "Sensei... Are we being watched? Is there a problem?",
+      "g_th": "ครู... จะว่าไป คนที่ผ่านไปผ่านมาก็เอาแต่มองฉันและกระซิบกระซาบอะไรกันก็ไม่รู้ ฉันทำอะไรผิดงั้นเหรอ?",
+      "g_tw": "……老師。大家好像一直在看著我竊竊私語，發生什麼事了嗎？",
+      "g_tw_cn": "……老师。大家好像一直在看着我窃窃私语，发生什么事了吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;04;……선생. 그러고 보니 사람들이 계속 날 보며 수군거리는 것 같은데, 무슨 문제가 있는 건가?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ま、まずは場所を変えよう！\"",
+      "j_ko": " \"이, 일단 다른 장소로 이동하자!\"",
+      "g_ja": " \"ま、まずは場所を変えよう！\"",
+      "g_ko": " \"이, 일단 다른 장소로 이동하자!\"",
+      "g_en": " \"L-Let's get out of here!\"",
+      "g_th": " \"คะ... ครูว่าเราย้ายที่กันก่อนดีกว่า!\"",
+      "g_tw": "「先，先換個地方吧！」",
+      "g_tw_cn": "「先，先换个地方吧！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] \"이, 일단 다른 장소로 이동하자!\"\\n[ns2] \"여기는 보는 눈이 너무 많아!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ここは人目につくから……！\"",
+      "j_ko": " \"여기는 보는 눈이 너무 많아!\"",
+      "g_ja": " \"ここは人目につくから……！\"",
+      "g_ko": " \"여기는 보는 눈이 너무 많아!\"",
+      "g_en": " \"This place is a zoo!\"",
+      "g_th": " \"ตรงนี้มีสายตาจับจ้องเยอะ เราไปที่อื่นกันเถอะ!\"",
+      "g_tw": "「待在這裡太引人注目了！」",
+      "g_tw_cn": "「待在这里太引人注目了！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] \"이, 일단 다른 장소로 이동하자!\"\\n[ns2] \"여기는 보는 눈이 너무 많아!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 34,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07a"
+    }
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 35,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ちょっ……先生？",
+      "j_ko": "응? 잠깐. 선생……?",
+      "g_ja": "ちょっ……先生？",
+      "g_ko": "응? 잠깐. 선생……?",
+      "g_en": "Hm? Hold on. Sensei...?",
+      "g_th": "หืม? เดี๋ยวสิ ครู...?",
+      "g_tw": "嗯？等等，老師……？",
+      "g_tw_cn": "嗯？等等，老师……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;13;응? 잠깐. 선생……?\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 38,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_03"
+    }
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 39,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 40,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 41,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（そうして私たちがたどり着いたのは……）",
+      "j_ko": "(결국 우리가 도착한 곳은……)",
+      "g_ja": "（そうして私たちがたどり着いたのは……）",
+      "g_ko": "(결국 우리가 도착한 곳은……)",
+      "g_en": "Once we got away...",
+      "g_th": "(ในที่สุดคุณครูกับซาโอริก็มาที่อื่น...)",
+      "g_tw": "（於是之後來到的地方是……）",
+      "g_tw_cn": "（于是之后来到的地方是……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(결국 우리가 도착한 곳은……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 43,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3036173266
+    }
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 43,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 44,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 13
+    }
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（サオリに周囲の視線の理由を説明した）",
+      "j_ko": "(열심히 사오리에게 상황을 설명했다.)",
+      "g_ja": "（サオリに周囲の視線の理由を説明した）",
+      "g_ko": "(열심히 사오리에게 상황을 설명했다.)",
+      "g_en": "I explained the situation to Saori.",
+      "g_th": "(แล้วคุณครูก็พยายามอธิบายสถานการณ์ให้ซาโอริฟัง)",
+      "g_tw": "（努力向沙織說明了情況）",
+      "g_tw_cn": "（努力向沙织说明了情况）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(열심히 사오리에게 상황을 설명했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……場違いな服を選んでしまっていたとはな。",
+      "j_ko": "……그런가? 아무래도 내가 지나치게 화려한 옷을 입었던 모양이군.",
+      "g_ja": "……場違いな服を選んでしまっていたとはな。",
+      "g_ko": "……그런가? 아무래도 내가 지나치게 화려한 옷을 입었던 모양이군.",
+      "g_en": "...Is that so? This is my fault.",
+      "g_th": "งั้นเหรอ...? ฉันคงใส่เสื้อผ้าออกมาเวอร์เกินไปสินะ",
+      "g_tw": "……是嗎？看來是我穿得過於華麗了。",
+      "g_tw_cn": "……是吗？看来是我穿得过于华丽了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;06;……그런가? 아무래도 내가 지나치게 화려한 옷을 입었던 모양이군.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 53,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あのままでは、いい晒し者になるところだった。",
+      "j_ko": "그대로 있었다간, 구경거리가 될 뻔했다.",
+      "g_ja": "あのままでは、いい晒し者になるところだった。",
+      "g_ko": "그대로 있었다간, 구경거리가 될 뻔했다.",
+      "g_en": "I would've been a joke if we stayed.",
+      "g_th": "ขืนยังอยู่ตรงนั้น ฉันคงตกเป็นเป้าสายตาไปแล้ว",
+      "g_tw": "繼續待在那裡的話，可能會變成眾人圍觀的對象。",
+      "g_tw_cn": "继续待在那里的话，可能会变成众人围观的对象。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;05;그대로 있었다간, 구경거리가 될 뻔했다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 54,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生に嫌な思いをさせるつもりはなかったんだ……。",
+      "j_ko": "선생을 불편하게 하려고 한 것은 아니었다만…….",
+      "g_ja": "先生に嫌な思いをさせるつもりはなかったんだ……。",
+      "g_ko": "선생을 불편하게 하려고 한 것은 아니었다만…….",
+      "g_en": "How awkward. I embarrassed you.",
+      "g_th": "ฉันไม่ได้ตั้งใจจะทำให้ครูไม่สบายใจเลย...",
+      "g_tw": "我無意讓老師感到為難……",
+      "g_tw_cn": "我无意让老师感到为难……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;04;선생을 불편하게 하려고 한 것은 아니었다만…….\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 55,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "すまない。せっかくお礼をしようと思っていたのに。",
+      "j_ko": "미안하다. 모처럼 답례를 하고 싶었는데.",
+      "g_ja": "すまない。せっかくお礼をしようと思っていたのに。",
+      "g_ko": "미안하다. 모처럼 답례를 하고 싶었는데.",
+      "g_en": "I'm sorry. I wanted to repay you for your help.",
+      "g_th": "ขอโทษนะ ฉันอยากมาเลี้ยงข้าวตอบแทนแท้ๆ",
+      "g_tw": "抱歉，明明是想答謝老師的……",
+      "g_tw_cn": "抱歉，明明是想答谢老师的……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;06;미안하다. 모처럼 답례를 하고 싶었는데.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "これでは台無しだ。",
+      "j_ko": "아무래도 망친 것 같다.",
+      "g_ja": "これでは台無しだ。",
+      "g_ko": "아무래도 망친 것 같다.",
+      "g_en": "But it seems I ruined the outing.",
+      "g_th": "วันนี้ฉันคงทำพลาดแล้วละ",
+      "g_tw": "結果好像搞砸了。",
+      "g_tw_cn": "结果好像搞砸了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;05;아무래도 망친 것 같다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 57,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "すぐに着替えてこよう。少し待って――",
+      "j_ko": "당장 갈아입고 올 테니 조금만 기다려 주면…….",
+      "g_ja": "すぐに着替えてこよう。少し待って――",
+      "g_ko": "당장 갈아입고 올 테니 조금만 기다려 주면…….",
+      "g_en": "I'll change, if you'll give me a moment...",
+      "g_th": "ฉันจะรีบไปเปลี่ยนชุดใหม่มา ช่วยรอตรงนี้...",
+      "g_tw": "我馬上去換件衣服再回來，請稍等……",
+      "g_tw_cn": "我马上去换件衣服再回来，请稍等……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;07;당장 갈아입고 올 테니 조금만 기다려 주면…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……この服のままでいい？どういうことだ？",
+      "j_ko": "……응? 오히려 지금이 더 좋다고? 무슨 뜻이지?",
+      "g_ja": "……この服のままでいい？どういうことだ？",
+      "g_ko": "……응? 오히려 지금이 더 좋다고? 무슨 뜻이지?",
+      "g_en": "...Hm? You prefer this? Why?",
+      "g_th": "หืม...? แบบนี้ดีแล้วงั้นเหรอ? หมายความว่ายังไงน่ะ?",
+      "g_tw": "……嗯？現在這樣反而更好？<br/>這是什麼意思？",
+      "g_tw_cn": "……嗯？现在这样反而更好？<br/>这是什么意思？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;04;……응? 오히려 지금이 더 좋다고? 무슨 뜻이지?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 62,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ドレス姿にサオリの本気を感じたから！\"",
+      "j_ko": " \"날 위한 사오리의 마음이 느껴졌으니까!\"",
+      "g_ja": " \"ドレス姿にサオリの本気を感じたから！\"",
+      "g_ko": " \"날 위한 사오리의 마음이 느껴졌으니까!\"",
+      "g_en": " \"Because you wore it for me!\"",
+      "g_th": " \"ก็ครูสัมผัสได้ถึงความตั้งใจของซาโอริยังไงล่ะ!\"",
+      "g_tw": "「我感覺得到沙織為我打扮的用心！」",
+      "g_tw_cn": "「我感觉得到沙织为我打扮的用心！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"날 위한 사오리의 마음이 느껴졌으니까!\"\\n[s4] \"열심히 꾸민 사오리의 노력을 헛되게 할 순 없으니까!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 62,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"その想いを無駄にできないよ！\"",
+      "j_ko": " \"열심히 꾸민 사오리의 노력을 헛되게 할 순 없으니까!\"",
+      "g_ja": " \"その想いを無駄にできないよ！\"",
+      "g_ko": " \"열심히 꾸민 사오리의 노력을 헛되게 할 순 없으니까!\"",
+      "g_en": " \"I can't let your efforts go to waste!\"",
+      "g_th": " \"ครูจะไม่ทำให้ความตั้งใจของซาโอริสูญเปล่าหรอก!\"",
+      "g_tw": "「沙織這麼認真打扮，我不能讓你的努力白費！」",
+      "g_tw_cn": "「沙织这么认真打扮，我不能让你的努力白费！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"날 위한 사오리의 마음이 느껴졌으니까!\"\\n[s4] \"열심히 꾸민 사오리의 노력을 헛되게 할 순 없으니까!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 65,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "っ……！",
+      "j_ko": "큭……!",
+      "g_ja": "くっ……",
+      "g_ko": "……큭!",
+      "g_en": "...Tch!",
+      "g_th": "อึก...!",
+      "g_tw": "……唔！",
+      "g_tw_cn": "……唔！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;13;……큭!\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 66,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "で、でもこの格好でお店には……。",
+      "j_ko": "하, 하지만 이런 모습으로는 선생이 좋아하는 가게에 갈 수가…….",
+      "g_ja": "で、でもこの格好でお店には……。",
+      "g_ko": "하, 하지만 이런 모습으로는 선생이 좋아하는 가게에 갈 수가…….",
+      "g_en": "B-But I can't eat out with you while dressed like this...",
+      "g_th": "ตะ... แต่ว่าถ้าฉันแต่งตัวแบบนี้เข้าไปในร้านอาหารที่ครูชอบ...",
+      "g_tw": "可，可是這副打扮沒辦法去老師喜歡的店……",
+      "g_tw_cn": "可，可是这副打扮没办法去老师喜欢的店……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;14;하, 하지만 이런 모습으로는 선생이 좋아하는 가게에 갈 수가…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……先生が料理を作る？",
+      "j_ko": "……뭐? 선생이 직접 만들어 주겠다고? 어째서?",
+      "g_ja": "……先生が料理を作る？",
+      "g_ko": "……뭐? 선생이 직접 만들어 주겠다고? 어째서?",
+      "g_en": "...What? You'll make dinner yourself? Why?",
+      "g_th": "ว่าไงนะ...? ครูจะทำอาหารให้เองงั้นเหรอ? ไหงเป็นงี้ล่ะ?",
+      "g_tw": "……什麼？老師要親自煮飯給我吃？為什麼呢？",
+      "g_tw_cn": "……什么？老师要亲自煮饭给我吃？为什么呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;02;……뭐? 선생이 직접 만들어 주겠다고? 어째서?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"私ばかり貰っている気がしたからね。\"",
+      "j_ko": " \"이대로 있으면 내가 신세를 지는 것 같아서?\"",
+      "g_ja": " \"私ばかり貰っている気がしたからね。\"",
+      "g_ko": " \"이대로 있으면 내가 신세를 지는 것 같아서?\"",
+      "g_en": " \"Because I want to repay you.\"",
+      "g_th": " \"แบบนี้เหมือนว่าครูจะเป็นหนี้บุญคุณมากกว่าน่ะ\"",
+      "g_tw": "「既然沙織這麼為我著想……」",
+      "g_tw_cn": "「既然沙织这么为我着想……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"이대로 있으면 내가 신세를 지는 것 같아서?\"\\n[s6] \"사오리도 노력했으니까 보답을 받아야지.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"サオリも頑張ったんだから、ご褒美がないと！\"",
+      "j_ko": " \"사오리도 노력했으니까 보답을 받아야지.\"",
+      "g_ja": " \"サオリも頑張ったんだから、ご褒美がないと！\"",
+      "g_ko": " \"사오리도 노력했으니까 보답을 받아야지.\"",
+      "g_en": " \"You worked hard, Saori, so you should be rewarded.\"",
+      "g_th": " \"ซาโอริต้องได้รับสิ่งตอบแทนจากความพยายามสิ\"",
+      "g_tw": "「你的努力也應該要得到回報。」",
+      "g_tw_cn": "「你的努力也应该要得到回报。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"이대로 있으면 내가 신세를 지는 것 같아서?\"\\n[s6] \"사오리도 노력했으니까 보답을 받아야지.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 71,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そ、そうか……。",
+      "j_ko": "그, 그렇게 나오겠다는 건가.",
+      "g_ja": "そ、そうか……。",
+      "g_ko": "그, 그렇게 나오겠다는 건가.",
+      "g_en": "S-So that's how you see it...",
+      "g_th": "ทะ... ทำไมถึงออกมาเป็นอย่างนี้ล่ะ",
+      "g_tw": "老，老師是這麼想的嗎。",
+      "g_tw_cn": "老，老师是这么想的吗。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;13;그, 그렇게 나오겠다는 건가.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "わかった。言う通りにしよう。",
+      "j_ko": "……알겠다. 선생의 요구에 따르지.",
+      "g_ja": "わかった。言う通りにしよう。",
+      "g_ko": "……알겠다. 선생의 요구에 따르지.",
+      "g_en": "...Very well. I'll do as you say.",
+      "g_th": "เข้าใจแล้ว... เอาตามที่ครูต้องการแล้วกัน",
+      "g_tw": "……我知道了。那就聽從老師的安排吧。",
+      "g_tw_cn": "……我知道了。那就听从老师的安排吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;99;……알겠다. 선생의 요구에 따르지.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 73,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それに、先生の手作り料理には興味がある。",
+      "j_ko": "선생이 만들어주는 음식에 흥미가 있기도 하고.",
+      "g_ja": "それに、先生の手作り料理には興味がある。",
+      "g_ko": "선생이 만들어주는 음식에 흥미가 있기도 하고.",
+      "g_en": "I'm also curious about your cooking.",
+      "g_th": "ฉันก็อยากเห็นอาหารที่ครูทำเหมือนกัน",
+      "g_tw": "我對老師的料理手藝也確實有點興趣。",
+      "g_tw_cn": "我对老师的料理手艺也确实有点兴趣。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;01;선생이 만들어주는 음식에 흥미가 있기도 하고.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 74,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"今日は特別な日になりそう！\"",
+      "j_ko": " \"오늘은 뭔가 기념할 만한 날이 될 것 같네.\"",
+      "g_ja": " \"今日は特別な日になりそう！\"",
+      "g_ko": " \"오늘은 뭔가 기념할 만한 날이 될 것 같네.\"",
+      "g_en": " \"Now, that's cause for celebration.\"",
+      "g_th": " \"ดูเหมือนวันนี้จะเป็นวันที่น่าจดจำเลยนะ\"",
+      "g_tw": "「今天好像會是值得紀念的一天呢。」",
+      "g_tw_cn": "「今天好像会是值得纪念的一天呢。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"오늘은 뭔가 기념할 만한 날이 될 것 같네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"こういう時こそ、写真に残したいんだけど……。\"",
+      "j_ko": " \"이럴 땐 사진을 찍어야 하는데!\"",
+      "g_ja": " \"こういう時こそ、写真に残したいんだけど……。\"",
+      "g_ko": " \"이럴 땐 사진을 찍어야 하는데!\"",
+      "g_en": " \"Let's take a photo!\"",
+      "g_th": " \"แบบนี้ต้องถ่ายรูปเก็บไว้แล้ว!\"",
+      "g_tw": "「這種時候應該要拍張照片！」",
+      "g_tw_cn": "「这种时候应该要拍张照片！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"이럴 땐 사진을 찍어야 하는데!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 77,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "写真？そうか……。",
+      "j_ko": "사진이라…….",
+      "g_ja": "写真？そうか……。",
+      "g_ko": "사진이라…….",
+      "g_en": "A photo...",
+      "g_th": "ถ่ายรูป...",
+      "g_tw": "照片……",
+      "g_tw_cn": "照片……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;99;사진이라…….\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 78,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "わかった。",
+      "j_ko": "알겠다.",
+      "g_ja": "わかった。",
+      "g_ko": "알겠다.",
+      "g_en": "Very well.",
+      "g_th": "เข้าใจแล้ว",
+      "g_tw": "我知道了。",
+      "g_tw_cn": "我知道了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;03;알겠다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 79,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"えっ、いいの？\"",
+      "j_ko": " \"응? 허락해 주는 거야? 정말로?\"",
+      "g_ja": " \"えっ、いいの？\"",
+      "g_ko": " \"응? 허락해 주는 거야? 정말로?\"",
+      "g_en": " \"Hm? You'll let me? Really?\"",
+      "g_th": " \"หืม? อนุญาตให้ถ่ายได้เหรอ? จริงเหรอ?\"",
+      "g_tw": "「嗯？你答應了？真的嗎？」",
+      "g_tw_cn": "「嗯？你答应了？真的吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"응? 허락해 주는 거야? 정말로?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 80,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "モデルとして撮られることにもすっかり慣れたからな。これも先生のおかげだ。",
+      "j_ko": "선생 덕분에 모델 아르바이트도 익숙해졌으니, 이제 사진 정도는 어렵지 않아.",
+      "g_ja": "モデルとして撮られることにもすっかり慣れたからな。これも先生のおかげだ。",
+      "g_ko": "선생 덕분에 모델 아르바이트도 익숙해졌으니, 이제 사진 정도는 어렵지 않아.",
+      "g_en": "You've helped me learn how to pose. One more photo won't hurt.",
+      "g_th": "ครูช่วยให้ฉันทำงานพาร์ทไทม์เป็นนางแบบได้สำเร็จและออกมาดีด้วย ตอนนี้การถ่ายรูปไม่ใช่เรื่องยาก<br/>สำหรับฉันหรอก",
+      "g_tw": "託老師的福，我也慢慢熟悉模特兒的工作，現在拍照已經不成問題了。",
+      "g_tw_cn": "托老师的福，我也慢慢熟悉模特儿的工作，现在拍照已经不成问题了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;11;선생 덕분에 모델 아르바이트도 익숙해졌으니, 이제 사진 정도는 어렵지 않아.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 81,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……そうだ、先生に渡そうと思っていたものがある。",
+      "j_ko": "……그런 의미에서 선생에게 줄 게 있다.",
+      "g_ja": "……そうだ、先生に渡そうと思っていたものがある。",
+      "g_ko": "……그런 의미에서 선생에게 줄 게 있다.",
+      "g_en": "...That said, I have something for you.",
+      "g_th": "เพราะงั้น... ฉันก็เลยมีบางอย่างจะให้ครู",
+      "g_tw": "……所以，我有個東西要交給老師。",
+      "g_tw_cn": "……所以，我有个东西要交给老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;99;……그런 의미에서 선생에게 줄 게 있다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 82,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "受け取ってくれ。",
+      "j_ko": "받아라.",
+      "g_ja": "受け取ってくれ。",
+      "g_ko": "받아라.",
+      "g_en": "Here.",
+      "g_th": "รับไปสิ",
+      "g_tw": "請收下吧。",
+      "g_tw_cn": "请收下吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;11;받아라.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 85,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 87,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 88,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07a"
+    }
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 91,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "popup",
+      "Id": "popup239"
+    }
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 92,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup239",
+    "Message": {
+      "j_ja": "私の写真が載ったファッション誌だ。",
+      "j_ko": "내 사진이 실린 패션잡지다.",
+      "g_ja": "私の写真が載ったファッション誌だ。",
+      "g_ko": "내 사진이 실린 패션잡지다.",
+      "g_en": "It's a fashion magazine...with my photo.",
+      "g_th": "นี่คือนิตยสารแฟชั่นที่มีรูปถ่ายของฉัน",
+      "g_tw": "這是有我的照片的時尚雜誌。",
+      "g_tw_cn": "这是有我的照片的时尚杂志。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;11;내 사진이 실린 패션잡지다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 93,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup239",
+    "Message": {
+      "j_ja": "気がつけば、表紙モデルにも選ばれていてな。",
+      "j_ko": "어쩌다 보니 표지 모델도 하게 됐군.",
+      "g_ja": "気がつけば、表紙モデルにも選ばれていてな。",
+      "g_ko": "어쩌다 보니 표지 모델도 하게 됐군.",
+      "g_en": "With your help, I became the...cover girl.",
+      "g_th": "ไม่คิดเลยนะว่าจะได้ขึ้นปกนิตยสารกับคนอื่นเขาด้วย",
+      "g_tw": "看來我似乎默默成為了封面模特兒呢。",
+      "g_tw_cn": "看来我似乎默默成为了封面模特儿呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;99;어쩌다 보니 표지 모델도 하게 됐군.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 94,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup239",
+    "Message": {
+      "j_ja": "今後も依頼をすると言われている。",
+      "j_ko": "다음에 기회가 된다면 다시 모델을 해달라는 요청도 받았다.",
+      "g_ja": "今後も依頼をすると言われている。",
+      "g_ko": "다음에 기회가 된다면 다시 모델을 해달라는 요청도 받았다.",
+      "g_en": "They were so impressed. They said they'll call me for more work.",
+      "g_th": "ทางนั้นมาขอให้ฉันเป็นนางแบบอีกรอบถ้ามีโอกาสด้วยนะ",
+      "g_tw": "對方也邀請我之後有機會再繼續合作。",
+      "g_tw_cn": "对方也邀请我之后有机会再继续合作。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;03;다음에 기회가 된다면 다시 모델을 해달라는 요청도 받았다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 95,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup239",
+    "Message": {
+      "j_ja": "バイト代はもちろん、ドレスまで貰ってしまった。",
+      "j_ko": "덕분에 보수는 물론, 촬영 때 입었던 드레스도 받을 수 있었지.",
+      "g_ja": "バイト代はもちろん、ドレスまで貰ってしまった。",
+      "g_ko": "덕분에 보수는 물론, 촬영 때 입었던 드레스도 받을 수 있었지.",
+      "g_en": "So not only was I paid, but they let me keep the dress afterward.",
+      "g_th": "นอกจากค่าจ้างแล้ว ฉันก็ได้ชุดที่ใส่ตอนถ่ายแบบมาด้วย",
+      "g_tw": "除了酬勞之外，就連攝影穿的禮服也送給我了。",
+      "g_tw_cn": "除了酬劳之外，就连摄影穿的礼服也送给我了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;11;덕분에 보수는 물론, 촬영 때 입었던 드레스도 받을 수 있었지.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 96,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup239",
+    "Message": {
+      "j_ja": "……すべて先生のおかげだ。だからこれはまず先生に受け取――",
+      "j_ko": "모두 선생 덕분이다. 그러니 누구보다 먼저 선생에게도 이 잡지를 주고 싶었……",
+      "g_ja": "……すべて先生のおかげだ。だからこれはまず先生に受け取――",
+      "g_ko": "모두 선생 덕분이다. 그러니 누구보다 먼저 선생에게도 이 잡지를 주고 싶었……",
+      "g_en": "It's all thanks to you. So I wanted to give you this magazine before anyone else saw...",
+      "g_th": "ทั้งหมดเป็นเพราะได้ครูช่วยฉันไว้น่ะ ฉันก็เลยอยากเอานิตยสารนี้มาให้ครูเป็นคนแรก...",
+      "g_tw": "這全都多虧了老師。<br/>所以一拿到這本雜誌，我第一個就想送給老師……",
+      "g_tw_cn": "这全都多亏了老师。<br/>所以一拿到这本杂志，我第一个就想送给老师……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;01;모두 선생 덕분이다. 그러니 누구보다 먼저 선생에게도 이 잡지를 주고 싶었……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 97,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_02"
+    }
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 97,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"なんと……！これが！\"",
+      "j_ko": " \"오오, 이것이 바로……!\"",
+      "g_ja": " \"なんと……！これが！\"",
+      "g_ko": " \"오오, 이것이 바로……!\"",
+      "g_en": " \"Ooh, so this is a feature story?\"",
+      "g_th": " \"โอ้ว นี่คือ...!\"",
+      "g_tw": "「哦哦，這就是……！」",
+      "g_tw_cn": "「哦哦，这就是……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"오오, 이것이 바로……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 98,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_02"
+    }
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 99,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_02"
+    }
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 100,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "は、速い！？ 先生、今ここで見るのか！？",
+      "j_ko": "자, 잠깐! 선생! 그걸 내가 보는 앞에서 펼쳐보는 건가!",
+      "g_ja": "は、速い！？ 先生、今ここで見るのか！？",
+      "g_ko": "자, 잠깐! 선생! 그걸 내가 보는 앞에서 펼쳐보는 건가!",
+      "g_en": "W-Wait! Sensei! You're going to read that right in front of me?",
+      "g_th": "ดะ... เดี๋ยว! ครู! จะเปิดดูต่อหน้าฉันเลยเหรอ!?",
+      "g_tw": "等，等等！老師！<br/>你要在我面前翻開來看嗎！",
+      "g_tw_cn": "等，等等！老师！<br/>你要在我面前翻开来看吗！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;13;자, 잠깐! 선생! 그걸 내가 보는 앞에서 펼쳐보는 건가!\\n#3;m3\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 101,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 7,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"サオリ、こんな立派に……！先生、すごく嬉しいよ！\"",
+      "j_ko": " \"훌륭하게 자랐구나, 사오리! 이 선생님은 정말 기뻐!\"",
+      "g_ja": " \"サオリ、こんな立派に……！先生、すごく嬉しいよ！\"",
+      "g_ko": " \"훌륭하게 자랐구나, 사오리! 이 선생님은 정말 기뻐!\"",
+      "g_en": " \"You've done well, Saori! I'm so proud!\"",
+      "g_th": " \"เก่งมาก ซาโอริ! นักเรียนของครูน่าภูมิใจที่สุดเลย!",
+      "g_tw": "「你真的長大了呢，沙織！老師看了好感動！」",
+      "g_tw_cn": "「你真的长大了呢，沙织！老师看了好感动！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns7] \"훌륭하게 자랐구나, 사오리! 이 선생님은 정말 기뻐!\"\\n[ns8] \"보기만 해도 가슴이 웅장해진다……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 101,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 8,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"見てるだけでも私、胸がいっぱいで……！\"",
+      "j_ko": " \"보기만 해도 가슴이 웅장해진다……!\"",
+      "g_ja": " \"見てるだけでも私、胸がいっぱいで……！\"",
+      "g_ko": " \"보기만 해도 가슴이 웅장해진다……!\"",
+      "g_en": " \"My, so mature and elegant!\"",
+      "g_th": " \"แค่ได้เห็นรูป ครูก็หัวใจพองโตเลยละ...!\"",
+      "g_tw": "「光是看著就心潮澎湃……！」",
+      "g_tw_cn": "「光是看着就心潮澎湃……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns7] \"훌륭하게 자랐구나, 사오리! 이 선생님은 정말 기뻐!\"\\n[ns8] \"보기만 해도 가슴이 웅장해진다……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 105,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_02"
+    }
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 106,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_02"
+    }
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 107,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_02"
+    }
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 108,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_02"
+    }
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 109,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 109,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "わ、分かったから！写真と見比べるのはやめてくれ……！",
+      "j_ko": "아, 알겠으니 잡지랑 나를 비교하면서 보는 건 그만둬!",
+      "g_ja": "わ、分かったから！写真と見比べるのはやめてくれ……！",
+      "g_ko": "아, 알겠으니 잡지랑 나를 비교하면서 보는 건 그만둬!",
+      "g_en": "E-Enough. Stop comparing me to the magazine!",
+      "g_th": "ระ... รู้แล้วน่า เลิกดูรูปแล้วเปรียบเทียบกันฉันในตอนนี้ได้แล้ว!",
+      "g_tw": "我，我知道你的意思，不過請不要一邊看雜誌一邊跟我本人做比較！",
+      "g_tw_cn": "我，我知道你的意思，不过请不要一边看杂志一边跟我本人做比较！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;14;아, 알겠으니 잡지랑 나를 비교하면서 보는 건 그만둬!\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 110,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こういう写真は補正されて、実物より美化されているんだ……！",
+      "j_ko": "그건 어느 정도 보정을 거친 거라 지금과는 다르단 말이다!",
+      "g_ja": "こういう写真は補正されて、実物より美化されているんだ……！",
+      "g_ko": "그건 어느 정도 보정을 거친 거라 지금과는 다르단 말이다!",
+      "g_en": "It barely even looks like me after all the retouches.",
+      "g_th": "รูปในนิตยสารถูกตัดต่อให้ออกมาสวย มันก็เลยต่างจากตัวจริงน่ะ!",
+      "g_tw": "那上面的圖都有修過，所以多少還是跟本人有區別的！",
+      "g_tw_cn": "那上面的图都有修过，所以多少还是跟本人有区别的！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;13;그건 어느 정도 보정을 거친 거라 지금과는 다르단 말이다!\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 111,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……差がない？ほ、本当か……？",
+      "j_ko": "……응? 시, 실물이랑 별로 차이가 없다고? 저, 정말인가?",
+      "g_ja": "……差がない？ほ、本当か……？",
+      "g_ko": "……응? 시, 실물이랑 별로 차이가 없다고? 저, 정말인가?",
+      "g_en": "...Hm? You disagree?",
+      "g_th": "หืม...? มะ... ไม่ค่อยต่างจากตัวจริงเท่าไรงั้นเหรอ? จะ... จริงเหรอ?",
+      "g_tw": "……和，和本人沒什麼區別？<br/>真，真的嗎？",
+      "g_tw_cn": "……和，和本人没什么区别？<br/>真，真的吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;14;……응? 시, 실물이랑 별로 차이가 없다고? 저, 정말인가?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 112,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"おっ、今の表情すごくよかった！！\"",
+      "j_ko": " \"오, 방금 표정 정말 좋았어!\"",
+      "g_ja": " \"おっ、今の表情すごくよかった！！\"",
+      "g_ko": " \"오, 방금 표정 정말 좋았어!\"",
+      "g_en": " \"Oh, that expression you just made is perfect!\"",
+      "g_th": " \"โอ้ว ทำหน้าแบบเมื่อกี้ดีมากเลย!\"",
+      "g_tw": "「哦，剛才那個表情很好看！」",
+      "g_tw_cn": "「哦，刚才那个表情很好看！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"오, 방금 표정 정말 좋았어!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 114,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"今度こそサオリの写真をいっぱい撮らせて……！\"",
+      "j_ko": " \"이번에야말로 사진으로 찍어서 간직해 주마……!\"",
+      "g_ja": " \"今度こそサオリの写真をいっぱい撮らせて……！\"",
+      "g_ko": " \"이번에야말로 사진으로 찍어서 간직해 주마……!\"",
+      "g_en": " \"Let's commemorate it with a photo!\"",
+      "g_th": " \"ครั้งนี้ขอให้ครูได้ถ่ายรูปเก็บไว้เถอะนะ...!\"",
+      "g_tw": "「這次一定要拍下來珍藏……！」",
+      "g_tw_cn": "「这次一定要拍下来珍藏……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"이번에야말로 사진으로 찍어서 간직해 주마……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 115,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "くっ……",
+      "j_ko": "……큭!",
+      "g_ja": "くっ……",
+      "g_ko": "……큭!",
+      "g_en": "...Tch!",
+      "g_th": "อึก...!",
+      "g_tw": "……唔！",
+      "g_tw_cn": "……唔！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;13;……큭!\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 116,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "い、いいだろう。ただ……",
+      "j_ko": "조, 좋아. 대신…….",
+      "g_ja": "い、いいだろう。ただ……",
+      "g_ko": "조, 좋아. 대신…….",
+      "g_en": "F-Fine. But...",
+      "g_th": "กะ... ก็ได้ แต่ว่า...",
+      "g_tw": "好，好吧。不過……",
+      "g_tw_cn": "好，好吧。不过……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;14;조, 좋아. 대신…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 120,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ほかの人には絶対に見せないでくれ。いいな？",
+      "j_ko": "절대로 다른 사람에겐 보여주면 안 된다. 알았나?",
+      "g_ja": "ほかの人には絶対に見せないでくれ。いいな？",
+      "g_ko": "절대로 다른 사람에겐 보여주면 안 된다. 알았나?",
+      "g_en": "This is just for YOU, understand?",
+      "g_th": "ห้ามเอาไปให้คนอื่นดูเด็ดขาดนะ เข้าใจมั้ย?",
+      "g_tw": "絕對不能給其他人看。知道嗎？",
+      "g_tw_cn": "绝对不能给其他人看。知道吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1475683272,
+    "DataType": "speaker",
+    "Script": "3;사오리 드레스 비무장;13;절대로 다른 사람에겐 보여주면 안 된다. 알았나?\\n#3;em;[///]\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 121,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"やった！\"",
+      "j_ko": " \"이얏호!\"",
+      "g_ja": " \"やった！\"",
+      "g_ko": " \"이얏호!\"",
+      "g_en": " \"Woohoo!\"",
+      "g_th": " \"ยะโฮ่!!\"",
+      "g_tw": "「哦耶！」",
+      "g_tw_cn": "「哦耶！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"이얏호!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 122,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 124,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Snap_02"
+    }
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 125,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 126,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Snap_02"
+    }
+  },
+  {
+    "ActualPos": 96,
+    "AbsolutePos": 129,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Snap_02"
+    }
+  },
+  {
+    "ActualPos": 97,
+    "AbsolutePos": 130,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（たくさん写真を撮った後、サオリとゆっくり料理を楽しんだ）",
+      "j_ko": "(그렇게 사진을 잔뜩 찍은 뒤, 사오리와 함께 요리를 만들어 먹으며 긴 시간을 보냈다.)",
+      "g_ja": "（たくさん写真を撮った後、サオリとゆっくり料理を楽しんだ）",
+      "g_ko": "(그렇게 사진을 잔뜩 찍은 뒤, 사오리와 함께 요리를 만들어 먹으며 긴 시간을 보냈다.)",
+      "g_en": "After our private photo shoot, I cooked our meal and dined with Saori.",
+      "g_th": "(หลังจากถ่ายรูปกันรัวๆ คุณครูกับซาโอริก็ใช้เวลาทำอาหารและกินอาหารด้วยกัน)",
+      "g_tw": "（拍了一堆照片之後，和沙織一起做料理吃，共度了很久的時間）",
+      "g_tw_cn": "（拍了一堆照片之后，和沙织一起做料理吃，共度了很久的时间）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 사진을 잔뜩 찍은 뒤, 사오리와 함께 요리를 만들어 먹으며 긴 시간을 보냈다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

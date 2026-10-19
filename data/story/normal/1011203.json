@@ -1,0 +1,1634 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">売店デート</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">매점 데이트</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">売店デート</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">매점 데이트</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Cafeteria Date</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">เดตในร้านค้า</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">合作社約會</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">合作社约会</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;매점 데이트",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 2,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 3,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2372474958
+    }
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ミレニアムの仕事を終えると、ちょうどお昼の時間だった）",
+      "j_ko": "(밀레니엄에서 업무를 처리하고 나오니 점심시간이었다.)",
+      "g_ja": "（ミレニアムの仕事を終えると、ちょうどお昼の時間だった）",
+      "g_ko": "(밀레니엄에서 업무를 처리하고 나오니 점심시간이었다.)",
+      "g_en": "I finished my work at Millennium right around lunchtime.",
+      "g_th": "(คุณครูมาทำงานในมิลเลเนียม กว่าจะเสร็จงานแล้วออกมาก็เป็นเวลาอาหารกลางวันพอดี)",
+      "g_tw": "（在千年處理完工作後，到了午餐時間）",
+      "g_tw_cn": "（在千年处理完工作后，到了午餐时间）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(밀레니엄에서 업무를 처리하고 나오니 점심시간이었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"腹が……。\"",
+      "j_ko": " \"배가……\"",
+      "g_ja": " \"腹が……。\"",
+      "g_ko": " \"배가……\"",
+      "g_en": " \"I'm...\"",
+      "g_th": " \"ชักจะ...\"",
+      "g_tw": "「肚子……」",
+      "g_tw_cn": "「肚子……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"배가……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……減った。\"",
+      "j_ko": " \"고프다!\"",
+      "g_ja": " \"……減った。\"",
+      "g_ko": " \"고프다!\"",
+      "g_en": " \"Hungry!\"",
+      "g_th": " \"หิวแล้วสิ!\"",
+      "g_tw": "「好餓！」",
+      "g_tw_cn": "「好饿！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"고프다!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 13,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3322378874
+    }
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（何を食べようかな……）",
+      "j_ko": "(뭘 먹을까 한참 고민했지만……)",
+      "g_ja": "（何を食べようかな……）",
+      "g_ko": "(뭘 먹을까 한참 고민했지만……)",
+      "g_en": "I thought for a long time about what to eat.",
+      "g_th": "(คุณครูคิดอยู่นานว่าจะกินอะไรดี...)",
+      "g_tw": "（煩惱了很久該吃什麼才好……）",
+      "g_tw_cn": "（烦恼了很久该吃什么才好……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(뭘 먹을까 한참 고민했지만……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 18,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Wind_01"
+    }
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 19,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 20,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2588339232
+    }
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 22,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 33
+    }
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"とりあえず売店に行こう。\"",
+      "j_ko": " \"배고플 때는 역시 매점이지.\"",
+      "g_ja": " \"とりあえず売店に行こう。\"",
+      "g_ko": " \"배고플 때는 역시 매점이지.\"",
+      "g_en": " \"I should check out the cafeteria.\"",
+      "g_th": " \"ต้องฝากท้องไว้ที่ร้านค้าแล้วละ\"",
+      "g_tw": "「總之先去合作社吧。」",
+      "g_tw_cn": "「总之先去合作社吧。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"배고플 때는 역시 매점이지.\"",
+    "BGMId": 33,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（近くまで来ると……）",
+      "j_ko": "(그렇게 안쪽을 둘러보고 있었다.)",
+      "g_ja": "（近くまで来ると……）",
+      "g_ko": "(그렇게 안쪽을 둘러보고 있었다.)",
+      "g_en": "As I looked around for what to get...",
+      "g_th": "(ในขณะที่เดินดูของกินอยู่ในร้าน)",
+      "g_tw": "（就這樣在合作社裡四處覓食）",
+      "g_tw_cn": "（就这样在合作社里四处觅食）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 안쪽을 둘러보고 있었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"あれは……。\"",
+      "j_ko": " \"응? 저건……\"",
+      "g_ja": " \"あれは……。\"",
+      "g_ko": " \"응? 저건……\"",
+      "g_en": " \"Hm? Is that...\"",
+      "g_th": " \"หืม? คนนั้นคือ...\"",
+      "g_tw": "「嗯？那是……」",
+      "g_tw_cn": "「嗯？那是……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"응? 저건……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 29,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2588339232
+    }
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 32,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_01"
+    }
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"こんにちは、アスナ。\"",
+      "j_ko": " \"아스나, 안녕!\"",
+      "g_ja": " \"こんにちは、アスナ。\"",
+      "g_ko": " \"아스나, 안녕!\"",
+      "g_en": " \"Hi, Asuna!\"",
+      "g_th": " \"อาสึนะ สวัสดี! จะซื้อข้าวเหรอ?\"",
+      "g_tw": "「嗨，明日奈！」",
+      "g_tw_cn": "「嗨，明日奈！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] \"아스나, 안녕!\"\\n[ns2] \"점심 메뉴 고르러 온 거야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"何を食べるか決めた？\"",
+      "j_ko": " \"점심 메뉴 고르러 온 거야?\"",
+      "g_ja": " \"何を食べるか決めた？\"",
+      "g_ko": " \"점심 메뉴 고르러 온 거야?\"",
+      "g_en": " \"Are you picking out your lunch menu?\"",
+      "g_th": " \"อ้าว อาสึนะ จะซื้ออาหารกลางวันเหรอ?\"",
+      "g_tw": "「你是來挑午餐的嗎？」",
+      "g_tw_cn": "「你是来挑午餐的吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] \"아스나, 안녕!\"\\n[ns2] \"점심 메뉴 고르러 온 거야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、先生！",
+      "j_ko": "아, 선생님!!",
+      "g_ja": "あ、先生！",
+      "g_ko": "아, 선생님!!",
+      "g_en": "Ah, Sensei!!",
+      "g_th": "อ๊ะ คุณครู!!",
+      "g_tw": "啊，老師！！",
+      "g_tw_cn": "啊，老师！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "2;아스나 교복;00;아, 선생님!!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "やっほー！",
+      "j_ko": "안녕, 안녕!!",
+      "g_ja": "やっほー！",
+      "g_ko": "안녕, 안녕!!",
+      "g_en": "Hi, hi!!",
+      "g_th": "สวัสดี สวัสดี!!",
+      "g_tw": "哈囉哈囉～！！",
+      "g_tw_cn": "哈啰哈啰～！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "2;아스나 교복;03;안녕, 안녕!!\\n#2;em;[재잘]\\n#2;hophop\\n#2;m3",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生と売店で会うなんて、何だか不思議な感じ！",
+      "j_ko": "아하하, 선생님을 매점에서 만날 줄이야. 신기하다.",
+      "g_ja": "先生と売店で会うなんて、何だか不思議な感じ！",
+      "g_ko": "아하하, 선생님을 매점에서 만날 줄이야. 신기하다.",
+      "g_en": "Ahaha, what are the odds, bumping into you right here in the cafeteria? That's cool.",
+      "g_th": "อะฮ่าฮ่า ไม่คิดเลยนะว่าจะได้เจอคุณครูในร้านค้าน่ะ น่าทึ่งจัง",
+      "g_tw": "啊哈哈，居然會在合作社遇到老師，感覺真神奇。",
+      "g_tw_cn": "啊哈哈，居然会在合作社遇到老师，感觉真神奇。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "2;아스나 교복;00;아하하, 선생님을 매점에서 만날 줄이야. 신기하다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"本当だね。\"",
+      "j_ko": " \"그러게. 오니까 아스나가 있었어.\"",
+      "g_ja": " \"本当だね。\"",
+      "g_ko": " \"그러게. 오니까 아스나가 있었어.\"",
+      "g_en": " \"I know, right? And I bumped into you.\"",
+      "g_th": " \"นั่นสินะ ได้เจออาสึนะในที่แบบนี้ด้วย\"",
+      "g_tw": "「就是說啊。剛好明日奈也在。」",
+      "g_tw_cn": "「就是说啊。刚好明日奈也在。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그러게. 오니까 아스나가 있었어.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それで、お昼まだ悩んでるんだ。",
+      "j_ko": "응! 아스나 점심으로 뭘 먹을지 고민하고 있었어.",
+      "g_ja": "それで、お昼まだ悩んでるんだ。",
+      "g_ko": "응! 아스나 점심으로 뭘 먹을지 고민하고 있었어.",
+      "g_en": "Yup! So I was wondering what to eat for lunch.",
+      "g_th": "อื้อ! อาสึนะกำลังคิดอยู่น่ะว่ากลางวันนี้จะกินอะไรดี",
+      "g_tw": "嗯！明日奈正在煩惱午餐要吃什麼呢。",
+      "g_tw_cn": "嗯！明日奈正在烦恼午餐要吃什么呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "2;아스나 교복;08;응! 아스나 점심으로 뭘 먹을지 고민하고 있었어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 50,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こっちのメロンパンか……。",
+      "j_ko": "여기, 이 메론빵이랑~",
+      "g_ja": "こっちのメロンパンか……。",
+      "g_ko": "여기, 이 메론빵이랑~",
+      "g_en": "Here, between this melon bread...",
+      "g_th": "ระหว่างขนมปังเมล่อนกับขนมปังยากิโซบะ~",
+      "g_tw": "這個菠蘿麵包～",
+      "g_tw_cn": "这个菠萝面包～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "2;아스나 교복;00;여기, 이 메론빵이랑~",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 54,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 55,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それとも、こっちの焼きそばパンにしよっかな～って。",
+      "j_ko": "이 야키소바빵 중에서 뭘 먹어야 할까?",
+      "g_ja": "それとも、こっちの焼きそばパンにしよっかな～って。",
+      "g_ko": "이 야키소바빵 중에서 뭘 먹어야 할까?",
+      "g_en": "...and this Yakisoba bread, which should I get?",
+      "g_th": "อาสึนะจะกินอะไรดีนะ?",
+      "g_tw": "和這個炒麵麵包，該吃哪一個好呢？",
+      "g_tw_cn": "和这个炒面面包，该吃哪一个好呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "2;아스나 교복;02;이 야키소바빵 중에서 뭘 먹어야 할까?\\n#2;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "両方美味しそうだから選べないよー！",
+      "j_ko": "으음, 아스나에게는 너무 어려운 문제야.",
+      "g_ja": "両方美味しそうだから選べないよー！",
+      "g_ko": "으음, 아스나에게는 너무 어려운 문제야.",
+      "g_en": "Mmm, tough choice, too tough.",
+      "g_th": "อืม นี่เป็นเรื่องที่ยากมากๆ สำหรับอาสึนะเลย",
+      "g_tw": "唔嗯，這個問題對明日奈來說太難了。",
+      "g_tw_cn": "唔嗯，这个问题对明日奈来说太难了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "2;아스나 교복;07;으음, 아스나에게는 너무 어려운 문제야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 57,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"二つとも食べるのはどう？\"",
+      "j_ko": " \"꼭 하나만 먹어야 할까?\"",
+      "g_ja": " \"二つとも食べるのはどう？\"",
+      "g_ko": " \"꼭 하나만 먹어야 할까?\"",
+      "g_en": " \"Why not both?\"",
+      "g_th": " \"ต้องเลือกแค่อันเดียวเหรอ?\"",
+      "g_tw": "「只能吃一個嗎？」",
+      "g_tw_cn": "「只能吃一个吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"꼭 하나만 먹어야 할까?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、そっか！",
+      "j_ko": "어? 그렇네?",
+      "g_ja": "あ、そっか！",
+      "g_ko": "어? 그렇네?",
+      "g_en": "Huh? You're right.",
+      "g_th": "หืม? นั่นสินะ",
+      "g_tw": "咦？對耶？",
+      "g_tw_cn": "咦？对耶？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "2;아스나 교복;02;어? 그렇네?\\n#2;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 62,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "さすがだね、先生！",
+      "j_ko": "두 개 다 사면 되는 거잖아? 그런 방법이 있었어. 아하하!",
+      "g_ja": "さすがだね、先生！",
+      "g_ko": "두 개 다 사면 되는 거잖아? 그런 방법이 있었어. 아하하!",
+      "g_en": "I can just get both, right? Problem solved. Ahaha!",
+      "g_th": "จะเลือกทำไมในเมื่อกินได้ทั้งสองอันเลย นั่นเป็นวิธีที่ดีเลยนะ อะฮ่าฮ่า!",
+      "g_tw": "兩個都買就好了嘛？<br/>原來還有這個方法。啊哈哈！",
+      "g_tw_cn": "两个都买就好了嘛？<br/>原来还有这个方法。啊哈哈！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "2;아스나 교복;00;두 개 다 사면 되는 거잖아? 그런 방법이 있었어. 아하하!\\n#2;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 63,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "二つも食べ切れるか心配だけど……たぶん大丈夫大丈夫。",
+      "j_ko": "한번에 빵을 두 개나 먹어본 적은 없지만! 어떻게든 되겠지!",
+      "g_ja": "二つも食べ切れるか心配だけど……たぶん大丈夫大丈夫。",
+      "g_ko": "한번에 빵을 두 개나 먹어본 적은 없지만! 어떻게든 되겠지!",
+      "g_en": "I've never eaten two kinds of bread at once! But I'm sure it'll work out somehow!",
+      "g_th": "ถึงอาสึนะจะไม่เคยกินขนมปังสองก้อนในมื้อเดียวก็เถอะ! แต่ก็น่าจะไม่มีปัญหาหรอก เนอะ?!",
+      "g_tw": "雖然我沒有試過一次吃兩個麵包！但總有辦法吃完的吧！",
+      "g_tw_cn": "虽然我没有试过一次吃两个面包！但总有办法吃完的吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "2;아스나 교복;03;한번에 빵을 두 개나 먹어본 적은 없지만! 어떻게든 되겠지!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 66,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生も一緒に食べよ！",
+      "j_ko": "선생님, 선생님! 아스나랑 점심 같이 먹어줄 거지?",
+      "g_ja": "先生も一緒に食べよ！",
+      "g_ko": "선생님, 선생님! 아스나랑 점심 같이 먹어줄 거지?",
+      "g_en": "Sensei, Sensei! You're going to eat lunch with me right?",
+      "g_th": "คุณครู คุณครู! จะกินมื้อกลางวันกับอาสึนะใช่มั้ย?",
+      "g_tw": "老師老師！你會陪明日奈一起吃午餐吧？",
+      "g_tw_cn": "老师老师！你会陪明日奈一起吃午餐吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "2;아스나 교복;03;선생님, 선생님! 아스나랑 점심 같이 먹어줄 거지?\\n#2;em;[재잘]\\n#2;hophop\\n#2;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"うん、もちろんだよ。\"",
+      "j_ko": " \"아아…… 물론이지.\"",
+      "g_ja": " \"うん、もちろんだよ。\"",
+      "g_ko": " \"아아…… 물론이지.\"",
+      "g_en": " \"Uh...of course.\"",
+      "g_th": " \"อ่า... ใช่ ต้องกินสิ\"",
+      "g_tw": "「啊啊……那當然。」",
+      "g_tw_cn": "「啊啊……那当然。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"아아…… 물론이지.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 69,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 69,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（アスナと一緒にパンを買い、外に出た）",
+      "j_ko": "(아스나와 함께 먹을 점심을 골라 밖에 나왔다.)",
+      "g_ja": "（アスナと一緒にパンを買い、外に出た）",
+      "g_ko": "(아스나와 함께 먹을 점심을 골라 밖에 나왔다.)",
+      "g_en": "I picked out my lunch and went outside with Asuna.",
+      "g_th": "(คุณครูเลือกอาหารกลางวันที่จะกินกับอาสึนะแล้วออกมาข้างนอก)",
+      "g_tw": "（跟明日奈一起選好要吃的午餐後，離開了合作社）",
+      "g_tw_cn": "（跟明日奈一起选好要吃的午餐后，离开了合作社）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(아스나와 함께 먹을 점심을 골라 밖에 나왔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 71,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 186671398
+    }
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 73,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 74,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 75,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 240
+    }
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私の分まで払ってもらっちゃって、ありがとう先生。",
+      "j_ko": "아스나 것까지 계산해 버리다니~ 나도 지갑 있는데~",
+      "g_ja": "私の分まで払ってもらっちゃって、ありがとう先生。",
+      "g_ko": "아스나 것까지 계산해 버리다니~ 나도 지갑 있는데~",
+      "g_en": "You bought my lunch too?! I had my wallet with me...",
+      "g_th": "อาสึนะพกเงินมานะ~ แต่คุณครูก็จ่ายเงินให้อาสึนะด้วย~",
+      "g_tw": "居然還幫明日奈買單～我明明也有帶錢包的說～",
+      "g_tw_cn": "居然还帮明日奈买单～我明明也有带钱包的说～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;02;아스나 것까지 계산해 버리다니~ 나도 지갑 있는데~\\n#3;em;…\\n#3;a",
+    "BGMId": 240,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"たまにはね。\"",
+      "j_ko": " \"모처럼 만났으니까.\"",
+      "g_ja": " \"たまにはね。\"",
+      "g_ko": " \"모처럼 만났으니까.\"",
+      "g_en": " \"It's not every day we run into each other.\"",
+      "g_th": " \"ก็เราไม่ได้เจอกันบ่อยๆ นี่\"",
+      "g_tw": "「畢竟難得能遇到你。」",
+      "g_tw_cn": "「毕竟难得能遇到你。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"모처럼 만났으니까.\"\\n[s4] \"이 정도는 사게 해줘.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"いつも頑張ってるからね。\"",
+      "j_ko": " \"이 정도는 사게 해줘.\"",
+      "g_ja": " \"いつも頑張ってるからね。\"",
+      "g_ko": " \"이 정도는 사게 해줘.\"",
+      "g_en": " \"Let me do at least this much for you.\"",
+      "g_th": " \"แค่นี้เอง ให้ครูซื้อให้เถอะนะ\"",
+      "g_tw": "「這點東西就讓我請吧。」",
+      "g_tw_cn": "「这点东西就让我请吧。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"모처럼 만났으니까.\"\\n[s4] \"이 정도는 사게 해줘.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 79,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うーん、分かった！<br/>じゃあ、次は私が奢るね！",
+      "j_ko": "흐응~ 그래! 다음에는 내가 살 테니까.",
+      "g_ja": "うーん、分かった！<br/>じゃあ、次は私が奢るね！",
+      "g_ko": "흐응~ 그래! 다음에는 내가 살 테니까.",
+      "g_en": "Mmm, okay! I'll be the one to buy next time.",
+      "g_th": "ฮึ่ม~ ก็ได้! แต่รอบหน้าอาสึนะขอเลี้ยงตอบแทนนะ",
+      "g_tw": "哦哦～好吧！那下次換我請客。",
+      "g_tw_cn": "哦哦～好吧！那下次换我请客。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;08;흐응~ 그래! 다음에는 내가 살 테니까.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 83,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 83,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、そこのベンチで食べよ！<br/>よく使ってるんだ～。",
+      "j_ko": "아, 저기 앉자! 아스나가 자주 앉는 벤치야.",
+      "g_ja": "あ、そこのベンチで食べよ！<br/>よく使ってるんだ～。",
+      "g_ko": "아, 저기 앉자! 아스나가 자주 앉는 벤치야.",
+      "g_en": "Ah, let's sit over there! I like that bench.",
+      "g_th": "อ๊ะ ไปนั่งตรงโน้นกันเถอะ! นั่นเป็นม้านั่งที่อาสึนะชอบไปนั่งบ่อยๆ น่ะ",
+      "g_tw": "啊，我們去那邊坐吧！<br/>那是明日奈常坐的長椅。",
+      "g_tw_cn": "啊，我们去那边坐吧！<br/>那是明日奈常坐的长椅。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;00;아, 저기 앉자! 아스나가 자주 앉는 벤치야.\\n#3;m2",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 86,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 87,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 88,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 89,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 90,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1693520842
+    }
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 92,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ここのベンチ、どうかな？",
+      "j_ko": "헤헤, 여기 어때?",
+      "g_ja": "ここのベンチ、どうかな？",
+      "g_ko": "헤헤, 여기 어때?",
+      "g_en": "Heehee, what do you think of this place?",
+      "g_th": "แหะๆ ตรงนี้เป็นยังไงบ้าง?",
+      "g_tw": "嘿嘿，覺得這裡怎麼樣呀？",
+      "g_tw_cn": "嘿嘿，觉得这里怎么样呀？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "#na;아스나 교복;헤헤, 여기 어때?",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 93,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"日差しが気持ち良いね。\"",
+      "j_ko": " \"응, 좋네. 햇빛도 적당히 들어오고.\"",
+      "g_ja": " \"日差しが気持ち良いね。\"",
+      "g_ko": " \"응, 좋네. 햇빛도 적당히 들어오고.\"",
+      "g_en": " \"It's nice. There's just the right amount of sun.\"",
+      "g_th": " \"อื้อ ดีเลยนะ แดดรำไร ไม่ร้อนเกินไปด้วย\"",
+      "g_tw": "「嗯，真不錯。陽光也恰到好處。」",
+      "g_tw_cn": "「嗯，真不错。阳光也恰到好处。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"응, 좋네. 햇빛도 적당히 들어오고.\"\\n[s6] \"명당이야.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 93,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"みんなには内緒にしたいくらいだよ。\"",
+      "j_ko": " \"명당이야.\"",
+      "g_ja": " \"みんなには内緒にしたいくらいだよ。\"",
+      "g_ko": " \"명당이야.\"",
+      "g_en": " \"It's a good place.\"",
+      "g_th": " \"เป็นที่ที่ดีเลยละ\"",
+      "g_tw": "「真是個絕佳的位置。」",
+      "g_tw_cn": "「真是个绝佳的位置。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"응, 좋네. 햇빛도 적당히 들어오고.\"\\n[s6] \"명당이야.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 96,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でしょ～？<br/>たまにここでぼーっとしてるんだ。",
+      "j_ko": "그렇지? 종종 여기 앉아서 멍~ 하니 있으면 기분 좋아.",
+      "g_ja": "でしょ～？<br/>たまにここでぼーっとしてるんだ。",
+      "g_ko": "그렇지? 종종 여기 앉아서 멍~ 하니 있으면 기분 좋아.",
+      "g_en": "Right? I like to just sit here and space out from time to time.",
+      "g_th": "ใช่มั้ยล่ะ? ถ้าได้มานั่งปล่อยใจอยู่ตรงนี้ อาสึนะก็จะอารมณ์ดีน่ะ",
+      "g_tw": "對吧？只要在這裡坐著發呆，心情就會變得很好哦。",
+      "g_tw_cn": "对吧？只要在这里坐着发呆，心情就会变得很好哦。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "#na;아스나 교복;그렇지? 종종 여기 앉아서 멍~ 하니 있으면 기분 좋아.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 100,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、そうだ。",
+      "j_ko": "아, 빵.",
+      "g_ja": "あ、そうだ。",
+      "g_ko": "아, 빵.",
+      "g_en": "Oh, the bread.",
+      "g_th": "จริงสิ ขนมปัง",
+      "g_tw": "啊，麵包。",
+      "g_tw_cn": "啊，面包。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "#na;아스나 교복;아, 빵.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 101,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 186671398
+    }
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 103,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 103,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生が買ってくれたメロンパンと焼きそばパン！",
+      "j_ko": "선생님이 사준 메론빵이랑 야키소바빵~!",
+      "g_ja": "先生が買ってくれたメロンパンと焼きそばパン！",
+      "g_ko": "선생님이 사준 메론빵이랑 야키소바빵~!",
+      "g_en": "Melon bread and Yakisoba bread, courtesy of Sensei!",
+      "g_th": "ขนมปังเมล่อนกับขนมปังยากิโซบะที่คุณครูซื้อให้~!",
+      "g_tw": "老師買給我的菠蘿麵包和炒麵麵包～！",
+      "g_tw_cn": "老师买给我的菠萝面包和炒面面包～！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;00;선생님이 사준 메론빵이랑 야키소바빵~!\\n#3;greeting\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 107,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うーん、どっちから食べるか悩んじゃう。",
+      "j_ko": "근데 뭐부터 먹지……? 뭘 먼저 먹는 게 좋을까?",
+      "g_ja": "うーん、どっちから食べるか悩んじゃう。",
+      "g_ko": "근데 뭐부터 먹지……? 뭘 먼저 먹는 게 좋을까?",
+      "g_en": "But what should I start with...? Which one should I eat first?",
+      "g_th": "ว่าแต่จะกินอะไรก่อนดีนะ...? คุณครูว่ากินอะไรก่อนดี?",
+      "g_tw": "不過該從哪個開始吃……？<br/>先吃哪一個好呢？",
+      "g_tw_cn": "不过该从哪个开始吃……？<br/>先吃哪一个好呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;02;근데 뭐부터 먹지……? 뭘 먼저 먹는 게 좋을까?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 108,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 7,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"メロンパン！\"",
+      "j_ko": " \"메론빵!\"",
+      "g_ja": " \"メロンパン！\"",
+      "g_ko": " \"메론빵!\"",
+      "g_en": " \"The melon bread.\"",
+      "g_th": " \"ขนมปังเมล่อน!\"",
+      "g_tw": "「菠蘿麵包！」",
+      "g_tw_cn": "「菠萝面包！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"메론빵!\"\\n[s8] \"야키소바빵!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 108,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 8,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"焼きそばパン！\"",
+      "j_ko": " \"야키소바빵!\"",
+      "g_ja": " \"焼きそばパン！\"",
+      "g_ko": " \"야키소바빵!\"",
+      "g_en": " \"The Yakisoba bread.\"",
+      "g_th": " \"ขนมปังยากิโซบะ\"",
+      "g_tw": "「炒麵麵包！」",
+      "g_tw_cn": "「炒面面包！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"메론빵!\"\\n[s8] \"야키소바빵!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 111,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えへへ、そうする！",
+      "j_ko": "좋아~! 헤헷.",
+      "g_ja": "えへへ、そうする！",
+      "g_ko": "좋아~! 헤헷.",
+      "g_en": "Okay! Heehee.",
+      "g_th": "โอเค~! ฮิฮิ",
+      "g_tw": "好～！嘿嘿。",
+      "g_tw_cn": "好～！嘿嘿。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;03;좋아~! 헤헷.\\n#3;em;[재잘]\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 112,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生がいると、悩みなんてすぐ解決しちゃうね！",
+      "j_ko": "선생님이랑 있으니까, 아스나에게 어려운 일들이 엄청 쉬워지는 느낌!",
+      "g_ja": "先生がいると、悩みなんてすぐ解決しちゃうね！",
+      "g_ko": "선생님이랑 있으니까, 아스나에게 어려운 일들이 엄청 쉬워지는 느낌!",
+      "g_en": "You make all the hard things easy, Sensei!",
+      "g_th": "พอได้อยู่กับคุณครู เรื่องที่ยากๆ สำหรับอาสึนะก็กลายเป็นเรื่องง่ายไปหมดเลยละ!",
+      "g_tw": "只要跟老師在一起，對明日奈來說很困難的事一下就變得超簡單的！",
+      "g_tw_cn": "只要跟老师在一起，对明日奈来说很困难的事一下就变得超简单的！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;02;선생님이랑 있으니까, 아스나에게 어려운 일들이 엄청 쉬워지는 느낌!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 113,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "これからも、ずっと先生といられたら良いな～。",
+      "j_ko": "아하하, 앞으로도 항상 이렇게 선생님이 결정해 주면 좋겠다.",
+      "g_ja": "これからも、ずっと先生といられたら良いな～。",
+      "g_ko": "아하하, 앞으로도 항상 이렇게 선생님이 결정해 주면 좋겠다.",
+      "g_en": "Ahaha, I wish you could make all my decisions for me.",
+      "g_th": "อะฮ่าฮ่า อยากให้คุณครูช่วยตัดสินใจให้แบบนี้ไปตลอดจัง",
+      "g_tw": "啊哈哈，希望老師以後也能像這樣幫我做決定。",
+      "g_tw_cn": "啊哈哈，希望老师以后也能像这样帮我做决定。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;00;아하하, 앞으로도 항상 이렇게 선생님이 결정해 주면 좋겠다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 114,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"自分で決めるのも楽しいと思うよ。\"",
+      "j_ko": " \"아스나가 직접 결정하는 게 더 재밌을걸?\"",
+      "g_ja": " \"自分で決めるのも楽しいと思うよ。\"",
+      "g_ko": " \"아스나가 직접 결정하는 게 더 재밌을걸?\"",
+      "g_en": " \"Wouldn't it be more fun if you're the one to make decisions, Asuna?\"",
+      "g_th": " \"ครูว่าอาสึนะตัดสินใจเองน่าจะสนุกกว่านะ\"",
+      "g_tw": "「不過如果由明日奈自己決定的話，應該會更有趣吧？」",
+      "g_tw_cn": "「不过如果由明日奈自己决定的话，应该会更有趣吧？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"아스나가 직접 결정하는 게 더 재밌을걸?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 115,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うーん……。",
+      "j_ko": "그런가? 흠……",
+      "g_ja": "うーん……。",
+      "g_ko": "그런가? 흠……",
+      "g_en": "You think so? Hmm...",
+      "g_th": "งั้นเหรอ? ฮืม...",
+      "g_tw": "是嗎？哼嗯……",
+      "g_tw_cn": "是吗？哼嗯……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;02;그런가? 흠……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 119,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そうかも？",
+      "j_ko": "그럴지도?",
+      "g_ja": "そうかも？",
+      "g_ko": "그럴지도?",
+      "g_en": "Maybe?",
+      "g_th": "ก็อาจจะเป็นอย่างนั้นนะ?",
+      "g_tw": "或許吧？",
+      "g_tw_cn": "或许吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;03;그럴지도?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 120,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "じゃあ、一口ずつ交互に食べよっ！<br/>それで決まりね！",
+      "j_ko": "응! 그러면 한 입씩 번갈아 가면서 먹을래! 그렇게 결정!",
+      "g_ja": "じゃあ、一口ずつ交互に食べよっ！<br/>それで決まりね！",
+      "g_ko": "응! 그러면 한 입씩 번갈아 가면서 먹을래! 그렇게 결정!",
+      "g_en": "Okay, so here's my decision! I'll alternate breads, one bite at a time!",
+      "g_th": "อื้อ! งั้นเรามาผลัดกันกินคนละคำแล้วกัน! อาสึนะตัดสินใจแบบนี้ละ!",
+      "g_tw": "嗯！那我要輪流各吃一口！就這麼決定了！",
+      "g_tw_cn": "嗯！那我要轮流各吃一口！就这么决定了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;08;응! 그러면 한 입씩 번갈아 가면서 먹을래! 그렇게 결정!\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 123,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 124,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いただきまーす！",
+      "j_ko": "잘 먹겠습니다!",
+      "g_ja": "いただきまーす！",
+      "g_ko": "잘 먹겠습니다!",
+      "g_en": "Thank you for the meal!",
+      "g_th": "จะทานแล้วน้า!",
+      "g_tw": "我要開動囉！",
+      "g_tw_cn": "我要开动啰！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;00;잘 먹겠습니다!\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 127,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 128,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 130,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あははっ、美味しいね！",
+      "j_ko": "아하하, 맛있어!",
+      "g_ja": "あははっ、美味しいね！",
+      "g_ko": "아하하, 맛있어!",
+      "g_en": "Ahaha, it's good!",
+      "g_th": "อะฮ่าฮ่า อร่อยจัง!",
+      "g_tw": "啊哈哈，好好吃！",
+      "g_tw_cn": "啊哈哈，好好吃！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;00;아하하, 맛있어!\\n#3;em;[///]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 131,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生と一緒だからかな？",
+      "j_ko": "선생님이랑 먹어서 더 맛있는 것 같아!!",
+      "g_ja": "先生と一緒だからかな？",
+      "g_ko": "선생님이랑 먹어서 더 맛있는 것 같아!!",
+      "g_en": "It tastes even better because I'm eating with you, Sensei!",
+      "g_th": "พอได้มานั่งกินกับคุณครู ก็อร่อยกว่าเดิมอีกนะเนี่ย!!",
+      "g_tw": "跟老師一起感覺更美味了！！",
+      "g_tw_cn": "跟老师一起感觉更美味了！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3677506130,
+    "DataType": "speaker",
+    "Script": "3;아스나 교복;03;선생님이랑 먹어서 더 맛있는 것 같아!!\\n#3;hophop\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 132,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 133,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（結局、アスナはすぐお腹いっぱいになってしまったが……）",
+      "j_ko": "(아스나는 결국 배부르다며 빵을 반씩 남겼다……)",
+      "g_ja": "（結局、アスナはすぐお腹いっぱいになってしまったが……）",
+      "g_ko": "(아스나는 결국 배부르다며 빵을 반씩 남겼다……)",
+      "g_en": "Asuna filled up on bread, and had half of each left over.",
+      "g_th": "(สุดท้ายอาสึนะก็อิ่มจนเหลือขนมปังอย่างละครึ่งก้อน...)",
+      "g_tw": "（結果明日奈表示吃飽了的時候，麵包恰好各剩下一半……）",
+      "g_tw_cn": "（结果明日奈表示吃饱了的时候，面包恰好各剩下一半……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(아스나는 결국 배부르다며 빵을 반씩 남겼다……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 137,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（もったいないため、残りは全部自分で食べた）",
+      "j_ko": "(남은 빵은 버리기 아까워서 모두 내가 먹어 치웠다.)",
+      "g_ja": "（もったいないため、残りは全部自分で食べた）",
+      "g_ko": "(남은 빵은 버리기 아까워서 모두 내가 먹어 치웠다.)",
+      "g_en": "It would have been a waste to throw it out, so I ended up eating the rest.",
+      "g_th": "(คุณครูกินขนมปังที่เหลือจนหมดเพราะเสียดายของ)",
+      "g_tw": "（如果把剩下的麵包丟掉實在很可惜，只好自己吃掉了）",
+      "g_tw_cn": "（如果把剩下的面包丢掉实在很可惜，只好自己吃掉了）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(남은 빵은 버리기 아까워서 모두 내가 먹어 치웠다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

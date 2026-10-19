@@ -1,0 +1,2036 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1010860779
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">夕暮れの海辺</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">노을 지는 해변</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">夕暮れの海辺</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">노을 지는 해변</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Sunset Beach</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ชายหาดอาทิตย์อัสดง</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">黃昏時分的海邊</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">黄昏时分的海边</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;노을 지는 해변",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 1010860779,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "夕暮れの浜辺",
+      "j_ko": "저녁 무렵의 해변가",
+      "g_ja": "夕暮れの浜辺",
+      "g_ko": "저녁 무렵의 해변가",
+      "g_en": "On the beach, at sunset",
+      "g_th": "ชายหาดในช่วงเย็น",
+      "g_tw": "傍晚時分的海邊",
+      "g_tw_cn": "傍晚时分的海边",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "place",
+    "Script": "#place;저녁 무렵의 해변가\\n#wait;1500",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 18
+    }
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 2,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Boom_01"
+    }
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 3,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いい加減諦めろ！",
+      "j_ko": "이제 그만 포기하시지!",
+      "g_ja": "いい加減諦めろ！",
+      "g_ko": "이제 그만 포기하시지!",
+      "g_en": "Give it up now!",
+      "g_th": "ยอมแพ้ซะเถอะ!",
+      "g_tw": "是時候該放棄了吧！",
+      "g_tw_cn": "是时候该放弃了吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "3;이오리 수영복ND;00;이제 그만 포기하시지!\\n#3;a\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 4,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いま降参すれば見逃してやる。",
+      "j_ko": "순순히 투항하면 더 험한 꼴은 안 보게 해줄 테니까!",
+      "g_ja": "いま降参すれば見逃してやる。",
+      "g_ko": "순순히 투항하면 더 험한 꼴은 안 보게 해줄 테니까!",
+      "g_en": "Surrender now, and you won't suffer...too much!",
+      "g_th": "ถ้ายอมแพ้แต่โดยดี จะได้ไม่ต้องเสียแรงกันเปล่าๆ!",
+      "g_tw": "乖乖投降才不會太難看！",
+      "g_tw_cn": "乖乖投降才不会太难看！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "3;이오리 수영복ND;05;순순히 투항하면 더 험한 꼴은 안 보게 해줄 테니까!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 8,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ううっ……！ふ、ふざけんな！",
+      "j_ko": "으, 으읏! 웃기지 마라!",
+      "g_ja": "ううっ……！ふ、ふざけんな！",
+      "g_ko": "으, 으읏! 웃기지 마라!",
+      "g_en": "U-Ugh! Don't mess with me!",
+      "g_th": "อะ... อึก! อย่ามาตลกไปหน่อยเลยน่า!",
+      "g_tw": "唔唔！別說笑了！",
+      "g_tw_cn": "唔唔！别说笑了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 489537661,
+    "DataType": "speaker",
+    "Script": "1;수영복 불량배 MG;00;으, 으읏! 웃기지 마라!\\n#1;a\\n#1;em;[속상함]\\n#1;stiff",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Upset",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 9,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "多国籍料理専門の海の家って聞いてたのに、<br/>ワサビ入りのかき氷が出てくるってどういうことだよ！！",
+      "j_ko": "퓨전 요리 전문 바다의 집이라고 해서 주문했더니, 와사비를 넣은 빙수가 나왔다고!!",
+      "g_ja": "多国籍料理専門の海の家って聞いてたのに、<br/>ワサビ入りのかき氷が出てくるってどういうことだよ！！",
+      "g_ko": "퓨전 요리 전문 바다의 집이라고 해서 주문했더니, 와사비를 넣은 빙수가 나왔다고!!",
+      "g_en": "I only ate at that restaurant because I heard they do some fancy fusion dishes. But what the heck is shaved ice with WASABI?!",
+      "g_th": "ได้ยินว่าเมนูดังของร้านริมทะเลคือน้ำแข็งไส พวกเราก็เลยลองสั่งดู... แต่กลับได้น้ำแข็งไสใส่วาซาบิ<br/>มาแทน!!",
+      "g_tw": "我聽說這間海之家專門做融合料理，結果他們竟然端出加了芥末的刨冰耶！！",
+      "g_tw_cn": "我听说这间海之家专门做融合料理，结果他们竟然端出加了芥末的刨冰耶！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1217593328,
+    "DataType": "speaker",
+    "Script": "5;수영복 불량배 SMG;00;퓨전 요리 전문 바다의 집이라고 해서 주문했더니, 와사비를 넣은 빙수가 나왔다고!!\\n#5;a\\n#5;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いや、百歩譲ってそれはいいとして！<br/>焼きそばにイチゴジャムってなんだよ！？いくらなんでもひどくないか！？",
+      "j_ko": "백번 양보해서 여기까진 괜찮다고 쳐! 하지만 야끼소바에 소스 대신 딸기잼을 넣은 건 너무하잖아?!",
+      "g_ja": "いや、百歩譲ってそれはいいとして！<br/>焼きそばにイチゴジャムってなんだよ！？いくらなんでもひどくないか！？",
+      "g_ko": "백번 양보해서 여기까진 괜찮다고 쳐! 하지만 야끼소바에 소스 대신 딸기잼을 넣은 건 너무하잖아?!",
+      "g_en": "And, sure, fine! Let's say in some ridiculous universe I could let that slide! But I WON'T stand for yakisoba sauce being substituted by strawberry jam! I just ain't doing that!",
+      "g_th": "พวกเรายอมให้มาตั้งหลายครั้ง เพราะงั้นครั้งนี้ก็อาจข้ามไปได้! แต่ว่าถึงขั้นใส่แยมสตรอว์เบอร์รีมา<br/>แทนซอสยากิโซบะเนี่ย มันไม่เกินไปหน่อยรึไง?!",
+      "g_tw": "就算退一百步接受它好了！但是在炒麵上加草莓醬真的太過分了吧！？",
+      "g_tw_cn": "就算退一百步接受它好了！但是在炒面上加草莓酱真的太过分了吧！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1217593328,
+    "DataType": "speaker",
+    "Script": "5;수영복 불량배 SMG;00;백번 양보해서 여기까진 괜찮다고 쳐! 하지만 야끼소바에 소스 대신 딸기잼을 넣은 건 너무하잖아?!\\n#5;em;[빠직]\\n#5;m4",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Angry",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こんなの有り得ねえ！あんな店……許せねえよ！",
+      "j_ko": "말이나 되냐고! 저런 가게는 용서 못 해!",
+      "g_ja": "こんなの有り得ねえ！あんな店……許せねえよ！",
+      "g_ko": "말이나 되냐고! 저런 가게는 용서 못 해!",
+      "g_en": "That's beyond ridiculous! I ain't letting that curse of a restaurant get off that easy!",
+      "g_th": "แบบนี้มันใช้ได้ที่ไหนกันล่ะ! เรื่องแบบนี้มันยกโทษให้ไม่ได้!",
+      "g_tw": "真是豈有此理！那種店家絕不能原諒！",
+      "g_tw_cn": "真是岂有此理！那种店家绝不能原谅！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 489537661,
+    "DataType": "speaker",
+    "Script": "1;수영복 불량배 MG;00;말이나 되냐고! 저런 가게는 용서 못 해!\\n#1;em;[스팀]\\n#1;hophop\\n#1;m2",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Steam",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 12,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3622654002
+    }
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そ、創作料理には挑戦が大事ですから……！",
+      "j_ko": "시, 실험적 시도 없이는 발전도 없는 법인데……",
+      "g_ja": "そ、創作料理には挑戦が大事ですから……！",
+      "g_ko": "시, 실험적 시도 없이는 발전도 없는 법인데……",
+      "g_en": "Th-There's no progress without experimentation...",
+      "g_th": "ถะ... ถ้าไม่ลองดู ก็คงค้นพบสูตรใหม่ๆ ไม่ได้...",
+      "g_tw": "沒，沒有實驗性的嘗試就不會有進步……",
+      "g_tw_cn": "没，没有实验性的尝试就不会有进步……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1983288124,
+    "DataType": "speaker",
+    "Script": "3;가게 주인;00;시, 실험적 시도 없이는 발전도 없는 법인데……\\n#3;em;[땀]\\n#3;stiff\\n#3;a",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 14,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"それは流石に同情する……。\"",
+      "j_ko": " \"지나치게 실험적인 느낌이 조금……\"",
+      "g_ja": " \"それは流石に同情する……。\"",
+      "g_ko": " \"지나치게 실험적인 느낌이 조금……\"",
+      "g_en": " \"Maybe a bit TOO experimental...\"",
+      "g_th": " \"รู้สึกจะลองสูตรมากไปหน่อยนะ...\"",
+      "g_tw": "「我也覺得這樣的實驗有點過頭了……」",
+      "g_tw_cn": "「我也觉得这样的实验有点过头了……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"지나치게 실험적인 느낌이 조금……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "同情してる場合じゃない！<br/>それに、風紀委員としては見逃すわけにいかないんだよ。",
+      "j_ko": "뭘 공감하고 있는 거야? 어쨌든 선도부가 할 일은 하나니까!",
+      "g_ja": "同情してる場合じゃない！<br/>それに、風紀委員としては見逃すわけにいかないんだよ。",
+      "g_ko": "뭘 공감하고 있는 거야? 어쨌든 선도부가 할 일은 하나니까!",
+      "g_en": "Hey! Don't empathize with the criminals! The Prefect Team has one job, and one job only!",
+      "g_th": "เห็นใจพวกนั้นงั้นเหรอ? ยังไงก็เถอะ หน้าที่ของคณะกรรมการวินัยมีเพียงอย่างเดียว!",
+      "g_tw": "老師是在認同個什麼勁啊？<br/>總之，身為風紀委員要做的只有一件事！",
+      "g_tw_cn": "老师是在认同个什么劲啊？<br/>总之，身为风纪委员要做的只有一件事！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "3;이오리 수영복ND;05;뭘 공감하고 있는 거야? 어쨌든 선도부가 할 일은 하나니까!\\n#3;em;[빠직]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Angry",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 16,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "指揮をお願い、先生！さっさと片付けるぞ！",
+      "j_ko": "빨리 지휘해 줘, 선생님! 얼른 마무리 짓자!",
+      "g_ja": "指揮をお願い、先生！さっさと片付けるぞ！",
+      "g_ko": "빨리 지휘해 줘, 선생님! 얼른 마무리 짓자!",
+      "g_en": "Take the lead, Sensei! Let's get it done!",
+      "g_th": "รีบๆ สั่งการมาสิ คุณครู! รีบๆ ทำให้จบกันเถอะ!",
+      "g_tw": "指揮就麻煩你了，老師！盡快做個了結吧！",
+      "g_tw_cn": "指挥就麻烦你了，老师！尽快做个了结吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "3;이오리 수영복ND;00;빨리 지휘해 줘, 선생님! 얼른 마무리 짓자!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"まあ仕方ないか……！\"",
+      "j_ko": " \"어쩔 수 없지!\"",
+      "g_ja": " \"まあ仕方ないか……！\"",
+      "g_ko": " \"어쩔 수 없지!\"",
+      "g_en": " \"I guess I have no choice!\"",
+      "g_th": " \"ช่วยไม่ได้นะ!\"",
+      "g_tw": "「沒辦法了！」",
+      "g_tw_cn": "「没办法了！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"어쩔 수 없지!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 18,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1010860779
+    }
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 18,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Wind_03"
+    }
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 19,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Rapid_01"
+    }
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 20,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "くっ！このまま倒れるわけには……！",
+      "j_ko": "크으윽! 이렇게 쓰러질 것 같으냐!",
+      "g_ja": "くっ！このまま倒れるわけには……！",
+      "g_ko": "크으윽! 이렇게 쓰러질 것 같으냐!",
+      "g_en": "Ugh! I ain't going down that easy!",
+      "g_th": "อึก! คิดว่าพวกเราจะยอมแพ้รึไง!",
+      "g_tw": "唔唔！以為我會就這樣倒下嗎！",
+      "g_tw_cn": "唔唔！以为我会就这样倒下吗！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1217593328,
+    "DataType": "speaker",
+    "Script": "1;수영복 불량배 MG;00\\n5;수영복 불량배 SMG;00;크으윽! 이렇게 쓰러질 것 같으냐!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 23,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Shot_01"
+    }
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 24,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Shot_01"
+    }
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 25,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Shot_01"
+    }
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 26,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Shot_01"
+    }
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うう……痛いよぉ！",
+      "j_ko": "으윽! 이건…… 아프다!",
+      "g_ja": "うう……痛いよぉ！",
+      "g_ko": "으윽! 이건…… 아프다!",
+      "g_en": "O-Ow! That...hurts!",
+      "g_th": "อึก! นี่มัน... เจ็บชะมัดเลย!",
+      "g_tw": "嗚啊！好痛啊！",
+      "g_tw_cn": "呜啊！好痛啊！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1217593328,
+    "DataType": "speaker",
+    "Script": "5;수영복 불량배 SMG;00;으윽! 이건…… 아프다!\\n1;수영복 불량배 MG;00\\n#5;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Fall_02"
+    }
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 32,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "や、やられっぱなしでいられるか！",
+      "j_ko": "이, 이대로 당하고만 있을 것 같냐!",
+      "g_ja": "や、やられっぱなしでいられるか！",
+      "g_ko": "이, 이대로 당하고만 있을 것 같냐!",
+      "g_en": "Y-You think we're gonna take that lying down?!",
+      "g_th": "จะ... จะปล่อยให้โดนเล่นงานอยู่ฝ่ายเดียวได้ยังไง!",
+      "g_tw": "我，我可不會一直屈於劣勢……！",
+      "g_tw_cn": "我，我可不会一直屈于劣势……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1217593328,
+    "DataType": "speaker",
+    "Script": "3;수영복 불량배 SMG;00;이, 이대로 당하고만 있을 것 같냐!\\n#3;a\\n#3;jump\\n#3;em;[빠직]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Angry",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 35,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Wind_03"
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 36,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"手榴弾……！\"",
+      "j_ko": " \"수류탄……!\"",
+      "g_ja": " \"手榴弾……！\"",
+      "g_ko": " \"수류탄……!\"",
+      "g_en": " \"Grenade...!\"",
+      "g_th": " \"ระเบิดมือ...!\"",
+      "g_tw": "「手榴彈……！」",
+      "g_tw_cn": "「手榴弹……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"수류탄……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 38,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "フン、こんなもの！",
+      "j_ko": "흥! 어림없지!!",
+      "g_ja": "フン、こんなもの！",
+      "g_ko": "흥! 어림없지!!",
+      "g_en": "Hmph! Not a chance!",
+      "g_th": "ฮึ่ม! ไม่มีทางซะละ!!",
+      "g_tw": "哼！你想得美！！",
+      "g_tw_cn": "哼！你想得美！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "3;이오리 수영복ND;08;흥! 어림없지!!\\n#3;al",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 42,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3332100768
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "",
+      "j_ko": "None",
+      "g_ja": "",
+      "g_ko": "None",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[0,0];instant;1;",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 3332100768,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 44,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Hit_04"
+    }
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"海にはじき返した……！\"",
+      "j_ko": " \"해변으로 쳐냈다……!\"",
+      "g_ja": " \"海にはじき返した……！\"",
+      "g_ko": " \"해변으로 쳐냈다……!\"",
+      "g_en": " \"Towards the ocean!\"",
+      "g_th": " \"โยนลงทะเลไปแล้ว...!\"",
+      "g_tw": "「打到海邊去了……！」",
+      "g_tw_cn": "「打到海边去了……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] \"해변으로 쳐냈다……!\"\\n[ns2] \"나이스, 이오리!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ナイス、イオリ！\"",
+      "j_ko": " \"나이스, 이오리!\"",
+      "g_ja": " \"ナイス、イオリ！\"",
+      "g_ko": " \"나이스, 이오리!\"",
+      "g_en": " \"Nice job, Iori!\"",
+      "g_th": " \"เยี่ยมมาก อิโอริ!\"",
+      "g_tw": "「做得漂亮，伊織！」",
+      "g_tw_cn": "「做得漂亮，伊织！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] \"해변으로 쳐냈다……!\"\\n[ns2] \"나이스, 이오리!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 48,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 48,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterBomb_02"
+    }
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 49,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 49,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterShot_01"
+    }
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 50,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1010860779
+    }
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"あ……。\"",
+      "j_ko": " \"아……\"",
+      "g_ja": " \"あ……。\"",
+      "g_ko": " \"아……\"",
+      "g_en": " \"...Ah.\"",
+      "g_th": " \"อ่า...\"",
+      "g_tw": "「啊……」",
+      "g_tw_cn": "「啊……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"아……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 54,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 55,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（大量の海水を被り、びしょ濡れになってしまった……）",
+      "j_ko": "(쏟아지는 바닷물에 홀라당 젖고 말았다……)",
+      "g_ja": "（大量の海水を被り、びしょ濡れになってしまった……）",
+      "g_ko": "(쏟아지는 바닷물에 홀라당 젖고 말았다……)",
+      "g_en": "I got completely soaked by the wave of seawater.",
+      "g_th": "(คุณครูตัวเปียกโชกจากน้ำทะเลที่สาดกระเซ็นมา...)",
+      "g_tw": "（被傾瀉而下的海水弄得全身都溼答答的……）",
+      "g_tw_cn": "（被倾泻而下的海水弄得全身都湿答答的……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(쏟아지는 바닷물에 홀라당 젖고 말았다……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 56,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1010860779
+    }
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 57,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 86
+    }
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 58,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふう、だいたい片付いたか。",
+      "j_ko": "휴, 그럭저럭 마무리가 된 것 같네……",
+      "g_ja": "ふう、だいたい片付いたか。",
+      "g_ko": "휴, 그럭저럭 마무리가 된 것 같네……",
+      "g_en": "Phew. And that's a job well done.",
+      "g_th": "ฮู่ว จัดการได้อย่างฉิวเฉียดเลยนะ...",
+      "g_tw": "呼，總算是大致收拾完畢了……",
+      "g_tw_cn": "呼，总算是大致收拾完毕了……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "3;이오리 수영복ND;07;휴, 그럭저럭 마무리가 된 것 같네……\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 59,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生、良い指揮だっ……",
+      "j_ko": "선생님, 지휘 좋았……",
+      "g_ja": "先生、良い指揮だっ……",
+      "g_ko": "선생님, 지휘 좋았……",
+      "g_en": "Nice job, Sensei—",
+      "g_th": "คุณครู สั่งการได้ดี...",
+      "g_tw": "老師，指揮得真漂……",
+      "g_tw_cn": "老师，指挥得真漂……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "3;이오리 수영복ND;10;선생님, 지휘 좋았……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 60,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "なっ、何でそんなびしょ濡れなんだ？",
+      "j_ko": "아니, 왜 그렇게 흠뻑 젖은 거야?! 그사이에 수영이라도 했어?",
+      "g_ja": "なっ、何でそんなびしょ濡れなんだ？",
+      "g_ko": "아니, 왜 그렇게 흠뻑 젖은 거야?! 그사이에 수영이라도 했어?",
+      "g_en": "Wh-Why're you so wet? Did you go for a swim in the middle of the fight?!",
+      "g_th": "เดี๋ยวสิ ทำไมถึงตัวเปียกขนาดนั้นล่ะ?! แอบไปว่ายน้ำเล่นมาเหรอ?",
+      "g_tw": "咦，為什麼整個人都濕答答的！？你剛才跑去游泳了嗎？",
+      "g_tw_cn": "咦，为什么整个人都湿答答的！？你刚才跑去游泳了吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "3;이오리 수영복ND;09;아니, 왜 그렇게 흠뻑 젖은 거야?! 그사이에 수영이라도 했어?\\n#3;shake\\n#3;em;[?!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Surprise",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"さっきの手榴弾が海に落ちて……\"",
+      "j_ko": " \"아까 물속에서 터진 수류탄 때문에……\"",
+      "g_ja": " \"さっきの手榴弾が海に落ちて……\"",
+      "g_ko": " \"아까 물속에서 터진 수류탄 때문에……\"",
+      "g_en": " \"That grenade you hit exploded in the water...\"",
+      "g_th": " \"เพราะคลื่นจากการระเบิดเมื่อกี้ต่างหาก...\"",
+      "g_tw": "「因為剛才手榴彈在水中爆炸……」",
+      "g_tw_cn": "「因为刚才手榴弹在水中爆炸……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"아까 물속에서 터진 수류탄 때문에……\"\\n[s4] \"바닷물을 잔뜩 뒤집어썼어……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"水を被っちゃったんだ……。\"",
+      "j_ko": " \"바닷물을 잔뜩 뒤집어썼어……\"",
+      "g_ja": " \"水を被っちゃったんだ……。\"",
+      "g_ko": " \"바닷물을 잔뜩 뒤집어썼어……\"",
+      "g_en": " \"I got hit by a tidal wave...\"",
+      "g_th": " \"โดนคลื่นจากระเบิดเมื่อกี้น่ะ...\"",
+      "g_tw": "「結果就被海水淋成落湯雞了……」",
+      "g_tw_cn": "「结果就被海水淋成落汤鸡了……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"아까 물속에서 터진 수류탄 때문에……\"\\n[s4] \"바닷물을 잔뜩 뒤집어썼어……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 64,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ……。",
+      "j_ko": "아……",
+      "g_ja": "あ……。",
+      "g_ko": "아……",
+      "g_en": "Ah...",
+      "g_th": "อ๊ะ...",
+      "g_tw": "啊……",
+      "g_tw_cn": "啊……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "3;이오리 수영복ND;04;아……\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 65,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そ、そうだった。私が海に吹き飛ばしたから……。",
+      "j_ko": "그, 그랬지. 내가 해변가로 쳐서 날리는 바람에……",
+      "g_ja": "そ、そうだった。私が海に吹き飛ばしたから……。",
+      "g_ko": "그, 그랬지. 내가 해변가로 쳐서 날리는 바람에……",
+      "g_en": "R-Right... I redirected it towards the ocean...",
+      "g_th": "นะ... นั่นสินะ เพราะฉันโยนระเบิดลงไปที่ทะเลเมื่อกี้...",
+      "g_tw": "這，這樣啊。<br/>因為我把手榴彈打到海那邊的關係……",
+      "g_tw_cn": "这，这样啊。<br/>因为我把手榴弹打到海那边的关系……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "3;이오리 수영복ND;06;그, 그랬지. 내가 해변가로 쳐서 날리는 바람에……\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 66,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "大丈夫か？怪我は？",
+      "j_ko": "괜찮아? 다친 곳은 없어?",
+      "g_ja": "大丈夫か？怪我は？",
+      "g_ko": "괜찮아? 다친 곳은 없어?",
+      "g_en": "Are you hurt? You okay?",
+      "g_th": "เป็นอะไรรึเปล่า? ไม่บาดเจ็บตรงไหนใช่มั้ย?",
+      "g_tw": "沒事吧？有沒有哪裡受傷？",
+      "g_tw_cn": "没事吧？有没有哪里受伤？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "3;이오리 수영복ND;09;괜찮아? 다친 곳은 없어?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"あ、うん……濡れただけだよ。大丈夫。\"",
+      "j_ko": " \"으응…… 축축한 거 말고는 멀쩡해.\"",
+      "g_ja": " \"あ、うん……濡れただけだよ。大丈夫。\"",
+      "g_ko": " \"으응…… 축축한 거 말고는 멀쩡해.\"",
+      "g_en": " \"Well, besides the fact that I'm soaking wet.\"",
+      "g_th": " \"อื้อ... นอกจากตัวชุ่มน้ำแล้วก็ไม่เป็นไร\"",
+      "g_tw": "「唔嗯……除了全身濕透之外沒什麼問題。」",
+      "g_tw_cn": "「唔嗯……除了全身湿透之外没什么问题。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"으응…… 축축한 거 말고는 멀쩡해.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それならいいけど……。",
+      "j_ko": "그나마 다행이네……",
+      "g_ja": "それならいいけど……。",
+      "g_ko": "그나마 다행이네……",
+      "g_en": "That's good...",
+      "g_th": "ค่อยยังชั่วหน่อย...",
+      "g_tw": "那就好……",
+      "g_tw_cn": "那就好……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "3;이오리 수영복ND;04;그나마 다행이네……\\n#3;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うーん、でも夏とはいえ夜は冷えるし……",
+      "j_ko": "그나저나 어쩐다. 여름이라도 저녁에는 또 은근히 쌀쌀하단 말이지.",
+      "g_ja": "うーん、でも夏とはいえ夜は冷えるし……",
+      "g_ko": "그나저나 어쩐다. 여름이라도 저녁에는 또 은근히 쌀쌀하단 말이지.",
+      "g_en": "But what should we do? Even in the summer, evenings on the beach tend to be cold.",
+      "g_th": "จะว่าไปแล้ว ถึงจะเป็นฤดูร้อน แต่ตอนเย็นก็อากาศเย็นอยู่ดี",
+      "g_tw": "話說該怎麼辦？<br/>就算現在是夏天，晚上還是挺冷的。",
+      "g_tw_cn": "话说该怎么办？<br/>就算现在是夏天，晚上还是挺冷的。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "3;이오리 수영복ND;08;그나저나 어쩐다. 여름이라도 저녁에는 또 은근히 쌀쌀하단 말이지.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そのままだと風邪引くかも……。",
+      "j_ko": "그렇게 젖은 상태라면 자칫 잘못하다가 감기에 걸릴지도……",
+      "g_ja": "そのままだと風邪引くかも……。",
+      "g_ko": "그렇게 젖은 상태라면 자칫 잘못하다가 감기에 걸릴지도……",
+      "g_en": "You're going to get sick, if we don't get you dried off.",
+      "g_th": "ถ้าตัวเปียกขนาดนั้นเดี๋ยวจะเป็นหวัดเอาได้นะ...",
+      "g_tw": "再這樣下去很可能會感冒……",
+      "g_tw_cn": "再这样下去很可能会感冒……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "3;이오리 수영복ND;00;그렇게 젖은 상태라면 자칫 잘못하다가 감기에 걸릴지도……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 71,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……先生、着替えは持ってる？",
+      "j_ko": "선생님, 혹시 갈아입을 옷은?",
+      "g_ja": "……先生、着替えは持ってる？",
+      "g_ko": "선생님, 혹시 갈아입을 옷은?",
+      "g_en": "You don't have a change of clothes, do you, Sensei?",
+      "g_th": "คุณครู พอจะมีเสื้อมาเปลี่ยนรึเปล่า?",
+      "g_tw": "老師，你有能替換的衣服嗎？",
+      "g_tw_cn": "老师，你有能替换的衣服吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "3;이오리 수영복ND;02;선생님, 혹시 갈아입을 옷은?\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ホテルになら……。\"",
+      "j_ko": " \"호텔에……\"",
+      "g_ja": " \"ホテルになら……。\"",
+      "g_ko": " \"호텔에……\"",
+      "g_en": " \"Back at the hotel...\"",
+      "g_th": " \"อยู่ที่โรงแรมน่ะ...\"",
+      "g_tw": "「我放在飯店……」",
+      "g_tw_cn": "「我放在饭店……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"호텔에……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 77,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 77,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そうだ、あれを……。",
+      "j_ko": "그래, 일단 이거라도……",
+      "g_ja": "そうだ、あれを……。",
+      "g_ko": "그래, 일단 이거라도……",
+      "g_en": "All right. For now, just use this.",
+      "g_th": "งั้นเหรอ ถ้างั้นก็ใช้อันนี้ไปก่อนนะ...",
+      "g_tw": "好吧，那這個先借給你……",
+      "g_tw_cn": "好吧，那这个先借给你……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "3;이오리 수영복ND;06;그래, 일단 이거라도……\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 80,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SandFootStep_01"
+    }
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 81,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound_popup",
+      "Data": [
+        "SE_Clothes_01",
+        "popup219"
+      ]
+    }
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 82,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"これは……\"",
+      "j_ko": " \"이건……\"",
+      "g_ja": " \"これは……\"",
+      "g_ko": " \"이건……\"",
+      "g_en": " \"This is...?\"",
+      "g_th": " \"นี่มัน...\"",
+      "g_tw": "「這是……」",
+      "g_tw_cn": "「这是……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"이건……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 84,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"イオリが使っていたブランケット？\"",
+      "j_ko": " \"이오리가 쓰던 담요?\"",
+      "g_ja": " \"イオリが使っていたブランケット？\"",
+      "g_ko": " \"이오리가 쓰던 담요?\"",
+      "g_en": " \"...your blanket?",
+      "g_th": " \"ผ้าห่มที่อิโอริใช้?\"",
+      "g_tw": "「伊織用過的毯子？」",
+      "g_tw_cn": "「伊织用过的毯子？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"이오리가 쓰던 담요?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 85,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup219",
+    "Message": {
+      "j_ja": "し、仕方ないだろ、今は着替え持ってきてないし。",
+      "j_ko": "어, 어쩔 수 없잖아. 지금 바로 갈아입을 옷도 없고.",
+      "g_ja": "し、仕方ないだろ、今は着替え持ってきてないし。",
+      "g_ko": "어, 어쩔 수 없잖아. 지금 바로 갈아입을 옷도 없고.",
+      "g_en": "I-It's the only option! You don't have anything to change into!",
+      "g_th": "มะ... มันช่วยไม่ได้นี่นา ก็ตอนนี้ไม่มีเสื้อเปลี่ยนนี่",
+      "g_tw": "我，我也沒辦法，誰叫現在沒有能替換的衣服。",
+      "g_tw_cn": "我，我也没办法，谁叫现在没有能替换的衣服。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "5;이오리 수영복ND;00;어, 어쩔 수 없잖아. 지금 바로 갈아입을 옷도 없고.\\n#5;a\\n#5;em;[///]\\n#5;stiff",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 86,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup219",
+    "Message": {
+      "j_ja": "風邪を引かれても困るから……。",
+      "j_ko": "선생님이 감기에 걸리면 안 되니까…….",
+      "g_ja": "風邪を引かれても困るから……。",
+      "g_ko": "선생님이 감기에 걸리면 안 되니까…….",
+      "g_en": "And I can't just let you get sick.",
+      "g_th": "จะปล่อยให้คุณครูเป็นหวัดได้ยังไงกัน...",
+      "g_tw": "要是害老師感冒也不太好……",
+      "g_tw_cn": "要是害老师感冒也不太好……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "5;이오리 수영복ND;00;선생님이 감기에 걸리면 안 되니까…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 87,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ホテルに戻るまで使ってくれ。",
+      "j_ko": "호텔로 돌아갈 때까지만이라도 덮고 있어.",
+      "g_ja": "ホテルに戻るまで使ってくれ。",
+      "g_ko": "호텔로 돌아갈 때까지만이라도 덮고 있어.",
+      "g_en": "So use that to stay warm until we get back to the hotel!",
+      "g_th": "เอาเป็นว่าใช้ผ้าห่มนี่ห่มไปจนถึงโรงแรมก็แล้วกัน",
+      "g_tw": "回到飯店前就先披著吧。",
+      "g_tw_cn": "回到饭店前就先披着吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "5;이오리 수영복ND;00;호텔로 돌아갈 때까지만이라도 덮고 있어.\\n#5;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 88,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"あったかい……。\"",
+      "j_ko": " \"따뜻하다……\"",
+      "g_ja": " \"あったかい……。\"",
+      "g_ko": " \"따뜻하다……\"",
+      "g_en": " \"It's warm...\"",
+      "g_th": " \"อุ่นจัง...\"",
+      "g_tw": "「好溫暖……」",
+      "g_tw_cn": "「好温暖……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"따뜻하다……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 89,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それ、結構大事にしてるやつだから……<br/>扱いには注意してよ！？",
+      "j_ko": "그거, 꽤나 아끼는 거니까 조심해서 다뤄!",
+      "g_ja": "それ、結構大事にしてるやつだから……<br/>扱いには注意してよ！？",
+      "g_ko": "그거, 꽤나 아끼는 거니까 조심해서 다뤄!",
+      "g_en": "Yeah. It's my favorite blanket, so you better be careful!",
+      "g_th": "นั่นน่ะ... เป็นของหวงของฉันเลยนะ ช่วยใช้มันดีๆ ด้วยล่ะ!",
+      "g_tw": "那可是我的寶貝毯子，用的時候記得小心一點！",
+      "g_tw_cn": "那可是我的宝贝毯子，用的时候记得小心一点！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "5;이오리 수영복ND;08;그거, 꽤나 아끼는 거니까 조심해서 다뤄!\\n#5;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 90,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"これも風紀委員会の備品？\"",
+      "j_ko": " \"이것도 선도부 비품이야?\"",
+      "g_ja": " \"これも風紀委員会の備品？\"",
+      "g_ko": " \"이것도 선도부 비품이야?\"",
+      "g_en": " \"Is this standard-issue Prefect Team equipment?\"",
+      "g_th": " \"นี่ก็เป็นอุปกรณ์ของคณะกรรมการวินัยเหรอ?\"",
+      "g_tw": "「這也是風紀委員會的備品嗎？」",
+      "g_tw_cn": "「这也是风纪委员会的备品吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"이것도 선도부 비품이야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 91,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "備品というか……風紀委員会に入って初めての合宿でもらったんだ。",
+      "j_ko": "비품이라기보다는, 선도부에 입부했을 때 첫 합숙 훈련에서 받은 기념품이야.",
+      "g_ja": "備品というか……風紀委員会に入って初めての合宿でもらったんだ。",
+      "g_ko": "비품이라기보다는, 선도부에 입부했을 때 첫 합숙 훈련에서 받은 기념품이야.",
+      "g_en": "Not exactly. We got it as a...souvenir, after my first Prefect Team boot camp.",
+      "g_th": "ไม่ใช่อุปกรณ์หรอก เป็นของที่ระลึกที่ฉันได้รับมาตอนเข้าค่ายฝึกครั้งแรกที่เข้าคณะกรรมการวินัยน่ะ",
+      "g_tw": "與其說是備品，其實那是我加入風紀委員會之後，在第一次合宿時得到的紀念品。",
+      "g_tw_cn": "与其说是备品，其实那是我加入风纪委员会之后，在第一次合宿时得到的纪念品。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "5;이오리 수영복ND;07;비품이라기보다는, 선도부에 입부했을 때 첫 합숙 훈련에서 받은 기념품이야.\\n#5;em;[...]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 92,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "手触りもいいし、あったかくて気に入ってる。",
+      "j_ko": "재질도 보들보들하고, 따뜻한 느낌이라 맘에 들었지.",
+      "g_ja": "手触りもいいし、あったかくて気に入ってる。",
+      "g_ko": "재질도 보들보들하고, 따뜻한 느낌이라 맘에 들었지.",
+      "g_en": "It was so fluffy and warm, I got attached to it immediately.",
+      "g_th": "ฉันชอบเพราะผ้ามันนุ่มแล้วก็อุ่นมากๆ",
+      "g_tw": "因為柔軟又溫暖，所以我很喜歡。",
+      "g_tw_cn": "因为柔软又温暖，所以我很喜欢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "5;이오리 수영복ND;07;재질도 보들보들하고, 따뜻한 느낌이라 맘에 들었지.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 93,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 93,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "嫌なことがあった時も、それを触ってるとちょっと落ち着くというか……。",
+      "j_ko": "열받는 일이 있을 때도 그 담요를 덮고 만지작거리다 보면 좀 풀린달까……",
+      "g_ja": "嫌なことがあった時も、それを触ってるとちょっと落ち着くというか……。",
+      "g_ko": "열받는 일이 있을 때도 그 담요를 덮고 만지작거리다 보면 좀 풀린달까……",
+      "g_en": "If I'm stressed out or frustrated, I just put it on and feel the material... It helps me relax.",
+      "g_th": "เวลาที่มีเรื่องหัวร้อน พอเอามันมาคลุมหัวไว้ก็พอช่วยให้หายหัวร้อนได้น่ะ...",
+      "g_tw": "生氣的時候，只要蓋上那個毯子摸一摸也會感覺舒服一點……",
+      "g_tw_cn": "生气的时候，只要盖上那个毯子摸一摸也会感觉舒服一点……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "5;이오리 수영복ND;99;열받는 일이 있을 때도 그 담요를 덮고 만지작거리다 보면 좀 풀린달까……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 94,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"イオリの「安心毛布」的なもの？\"",
+      "j_ko": " \"말하자면 이오리의 애착 담요네.\"",
+      "g_ja": " \"イオリの「安心毛布」的なもの？\"",
+      "g_ko": " \"말하자면 이오리의 애착 담요네.\"",
+      "g_en": " \"It's like your comfort blanket.\"",
+      "g_th": " \"สรุปก็คือเป็นผ้าห่มที่อิโอริรักมากสินะ\"",
+      "g_tw": "「也就是說，這是伊織心愛的毯子呢。」",
+      "g_tw_cn": "「也就是说，这是伊织心爱的毯子呢。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"말하자면 이오리의 애착 담요네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 95,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そ、そんな大層なものじゃないけど……。",
+      "j_ko": "그, 그렇게까지는……",
+      "g_ja": "そ、そんな大層なものじゃないけど……。",
+      "g_ko": "그, 그렇게까지는……",
+      "g_en": "I-I wouldn't say that exactly...",
+      "g_th": "มะ... มันก็...",
+      "g_tw": "也，也沒那麼誇張啦……",
+      "g_tw_cn": "也，也没那么夸张啦……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "5;이오리 수영복ND;04;그, 그렇게까지는……\\n#5;em;[땀]\\n#5;stiff",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 96,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"大切な毛布を貸してくれてありがとう。\"",
+      "j_ko": " \"그런 소중한 담요를 빌려줘서 고마워.\"",
+      "g_ja": " \"大切な毛布を貸してくれてありがとう。\"",
+      "g_ko": " \"그런 소중한 담요를 빌려줘서 고마워.\"",
+      "g_en": " \"Thank you. For letting me use something so precious.\"",
+      "g_th": " \"ขอบคุณที่ให้ครูยืมของสำคัญนะ\"",
+      "g_tw": "「謝謝你把這麼重要的毯子借給我。」",
+      "g_tw_cn": "「谢谢你把这么重要的毯子借给我。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그런 소중한 담요를 빌려줘서 고마워.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 97,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "……",
+      "g_ja": "……。",
+      "g_ko": "……",
+      "g_en": "...",
+      "g_th": "......",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "5;이오리 수영복ND;09;……\\n#5;em;[///]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 98,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "新品ってほどきれいじゃないけど……。",
+      "j_ko": "뭐, 여기저기 많이 써서 조금 낡긴 했지만……",
+      "g_ja": "新品ってほどきれいじゃないけど……。",
+      "g_ko": "뭐, 여기저기 많이 써서 조금 낡긴 했지만……",
+      "g_en": "It might be a little worn out, though...",
+      "g_th": "เอาเถอะ มันก็ใช้มาจนเก่าแล้วน่ะ...",
+      "g_tw": "雖然因為很常用的關係，所以有點舊就是了……",
+      "g_tw_cn": "虽然因为很常用的关系，所以有点旧就是了……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "5;이오리 수영복ND;06;뭐, 여기저기 많이 써서 조금 낡긴 했지만……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 99,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"普段はどういう時に使ってるの？\"",
+      "j_ko": " \"보통 어디에 쓰는데?\"",
+      "g_ja": " \"普段はどういう時に使ってるの？\"",
+      "g_ko": " \"보통 어디에 쓰는데?\"",
+      "g_en": " \"What do you usually use it for?\"",
+      "g_th": " \"ปกติชอบใช้คลุมที่ไหนเหรอ?\"",
+      "g_tw": "「你平常都怎麼使用？」",
+      "g_tw_cn": "「你平常都怎么使用？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"보통 어디에 쓰는데?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 100,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いつもはひざ掛けにしたり……ベンチに敷いたり……",
+      "j_ko": "평소에는 무릎담요로도 쓰고…… 깔고 앉거나 눕기도 하고……",
+      "g_ja": "いつもはひざ掛けにしたり……ベンチに敷いたり……",
+      "g_ko": "평소에는 무릎담요로도 쓰고…… 깔고 앉거나 눕기도 하고……",
+      "g_en": "Normally just, like, a lap blanket...sometimes I sit or lie on it...",
+      "g_th": "ปกติก็มักจะเอามาคลุมตัก... หรือไม่ก็เอามาปูนอน...",
+      "g_tw": "平常不是蓋在腿上……就是攤開來坐或躺在上面……",
+      "g_tw_cn": "平常不是盖在腿上……就是摊开来坐或躺在上面……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "5;이오리 수영복ND;07;평소에는 무릎담요로도 쓰고…… 깔고 앉거나 눕기도 하고……\\n#5;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 101,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "教室で仮眠を取る時の布団代わりにもしてるかな……。",
+      "j_ko": "부실에서 쪽잠을 잘 때 이불 대용으로도……",
+      "g_ja": "教室で仮眠を取る時の布団代わりにもしてるかな……。",
+      "g_ko": "부실에서 쪽잠을 잘 때 이불 대용으로도……",
+      "g_en": "Oh, I use it for naps in the club room sometimes, too.",
+      "g_th": "แล้วก็ใช้ห่มเวลาพักงีบในห้องชมรม...",
+      "g_tw": "在部室小睡的時候也會拿來當棉被……",
+      "g_tw_cn": "在部室小睡的时候也会拿来当棉被……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "5;이오리 수영복ND;00;부실에서 쪽잠을 잘 때 이불 대용으로도……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 103,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 103,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_01"
+    }
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 104,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"たしかに、そこはかとなくイオリの匂いがするかも……。\"",
+      "j_ko": " \"그러고 보니, 이오리의 체취가 느껴지는 것 같아……\"",
+      "g_ja": " \"たしかに、そこはかとなくイオリの匂いがするかも……。\"",
+      "g_ko": " \"그러고 보니, 이오리의 체취가 느껴지는 것 같아……\"",
+      "g_en": " \"Now that you say it, I think I can smell your scent.\"",
+      "g_th": " \"มิน่าล่ะ ถึงรู้สึกเหมือนได้กลิ่นของอิโอริจากผ้าห่ม...\"",
+      "g_tw": "「這麼說來，好像有聞到伊織的味道……」",
+      "g_tw_cn": "「这么说来，好像有闻到伊织的味道……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"그러고 보니, 이오리의 체취가 느껴지는 것 같아……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 105,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 7
+    }
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 105,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "は、はぁっ！？何言ってるんだ！？<br/>ちゃんと洗ってるぞ！？",
+      "j_ko": "뭐, 뭐라고? 냄새 안 나거든?! 자주 빨거든??",
+      "g_ja": "は、はぁっ！？何言ってるんだ！？<br/>ちゃんと洗ってるぞ！？",
+      "g_ko": "뭐, 뭐라고? 냄새 안 나거든?! 자주 빨거든??",
+      "g_en": "Wh-What? I wash it all the time! There's no way it smells!",
+      "g_th": "วะ... ว่าไงนะ? มันไม่มีกลิ่นสักหน่อย?! ฉันเอาไปซักบ่อยมากเลยนะ??",
+      "g_tw": "啊！？哪有什麼味道！？我很常洗好不好？？",
+      "g_tw_cn": "啊！？哪有什么味道！？我很常洗好不好？？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "5;이오리 수영복ND;09;뭐, 뭐라고? 냄새 안 나거든?! 자주 빨거든??\\n#5;shake\\n#5;em;[?!]",
+    "BGMId": 7,
+    "Sound": "SFX_Emoticon_Motion_Surprise",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 106,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 106,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "変なこと言うなバカ！！！",
+      "j_ko": "갑자기 이상한 소리 하지 마!!",
+      "g_ja": "変なこと言うなバカ！！！",
+      "g_ko": "갑자기 이상한 소리 하지 마!!",
+      "g_en": "What nonsense are you spouting?! Out of nowhere?!",
+      "g_th": "จู่ๆ อย่าพูดอะไรแปลกๆ อย่างนั้นสิ!!",
+      "g_tw": "不要突然說奇怪的話！！",
+      "g_tw_cn": "不要突然说奇怪的话！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "5;이오리 수영복ND;05;갑자기 이상한 소리 하지 마!!\\n#5;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 107,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"（ブランケットのにおいを嗅ぐ）\"",
+      "j_ko": " \"(담요의 냄새를 맡아본다)\"",
+      "g_ja": " \"（ブランケットのにおいを嗅ぐ）\"",
+      "g_ko": " \"(담요의 냄새를 맡아본다)\"",
+      "g_en": " Sniff the blanket.",
+      "g_th": " (ดมกลิ่นผ้าห่ม)",
+      "g_tw": " 聞毯子的味道",
+      "g_tw_cn": " 闻毯子的味道",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns5] \"(담요의 냄새를 맡아본다)\"\\n[ns6] \"(코를 박고 숨을 크게 들이쉰다)\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 107,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"（鼻をうずめて息をする）\"",
+      "j_ko": " \"(코를 박고 숨을 크게 들이쉰다)\"",
+      "g_ja": " \"（鼻をうずめて息をする）\"",
+      "g_ko": " \"(코를 박고 숨을 크게 들이쉰다)\"",
+      "g_en": " Shove your nose in the blanket and breathe in.",
+      "g_th": " (จุ่มหน้าลงไปบนผ้าห่มแล้วสูดหายใจเต็มปอด)",
+      "g_tw": " 把鼻子埋進去深吸一口",
+      "g_tw_cn": " 把鼻子埋进去深吸一口",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns5] \"(담요의 냄새를 맡아본다)\"\\n[ns6] \"(코를 박고 숨을 크게 들이쉰다)\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 96,
+    "AbsolutePos": 110,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "へ、ヘンタイ！！！",
+      "j_ko": "무, 무슨 짓이야!!!",
+      "g_ja": "へ、ヘンタイ！！！",
+      "g_ko": "무, 무슨 짓이야!!!",
+      "g_en": "Wh-What are you doing?!",
+      "g_th": "ทะ... ทำบ้าอะไรน่ะ!!!",
+      "g_tw": "你，你幹嘛啦！！！",
+      "g_tw_cn": "你，你干嘛啦！！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "5;이오리 수영복ND;09;무, 무슨 짓이야!!!\\n#5;em;[!]\\n#5;jump",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 97,
+    "AbsolutePos": 111,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"イオリのにおい！！！\"",
+      "j_ko": " \"이오리의 냄새!!!!\"",
+      "g_ja": " \"イオリのにおい！！！\"",
+      "g_ko": " \"이오리의 냄새!!!!\"",
+      "g_en": " \"Iori's smell!!\"",
+      "g_th": " \"กลิ่นของอิโอริ!!!!\"",
+      "g_tw": "「有伊織的味道！！！！」",
+      "g_tw_cn": "「有伊织的味道！！！！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"이오리의 냄새!!!!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 98,
+    "AbsolutePos": 112,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もう、返せっ！！！このヘンタイ！死ね！！！",
+      "j_ko": "당장 내놔!!!!!",
+      "g_ja": "もう、返せっ！！！このヘンタイ！死ね！！！",
+      "g_ko": "당장 내놔!!!!!",
+      "g_en": "GIVE IT TO ME!!!",
+      "g_th": "เอาคืนมาเดี๋ยวนี้เลย!!!!",
+      "g_tw": "馬上還給我！！！！！",
+      "g_tw_cn": "马上还给我！！！！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 847480881,
+    "DataType": "speaker",
+    "Script": "5;이오리 수영복ND;05;당장 내놔!!!!!\\n#fontsize;100\\n#5;closeup\\n#bgshake",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 99,
+    "AbsolutePos": 113,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 100,
+    "AbsolutePos": 114,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（結局ブランケットを没収されて、風邪を引いた……）",
+      "j_ko": "(담요를 뺏기는 바람에 결국 가벼운 감기에 걸리고 말았다……)",
+      "g_ja": "（結局ブランケットを没収されて、風邪を引いた……）",
+      "g_ko": "(담요를 뺏기는 바람에 결국 가벼운 감기에 걸리고 말았다……)",
+      "g_en": "Iori took her blanket away from me, and I ended up catching a cold...",
+      "g_th": "(สุดท้ายคุณครูก็เป็นหวัดเพราะโดนแย่งผ้าห่มคืนไประหว่างทาง...)",
+      "g_tw": "（結果因為毯子被搶走，後來得了輕微的感冒……）",
+      "g_tw_cn": "（结果因为毯子被抢走，后来得了轻微的感冒……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(담요를 뺏기는 바람에 결국 가벼운 감기에 걸리고 말았다……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

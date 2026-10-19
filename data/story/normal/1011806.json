@@ -1,0 +1,918 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1046815759
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 210
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">意外な弱点？</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">의외의 수면</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">意外な弱点？</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">의외의 수면</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Unexpected Sleep</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">การนอนที่คาดไม่ถึง</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">意外的睡眠</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">意外的睡眠</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;의외의 수면",
+    "BGMId": 210,
+    "Sound": "",
+    "BGName": 1046815759,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こんちゃ、せんせー。",
+      "j_ko": "안~녕~! 선생님!",
+      "g_ja": "こんちゃ、せんせー。",
+      "g_ko": "안~녕~! 선생님!",
+      "g_en": "Hey! Sensei!",
+      "g_th": "สวัส~ ดี~! คุณครู!",
+      "g_tw": "哈～囉～！老師！",
+      "g_tw_cn": "哈～啰～！老师！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;03;안~녕~! 선생님!\\n#3;a\\n#3;em;[재잘]\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"こんにちは、ノゾミ。\"",
+      "j_ko": " \"안녕, 노조미.\"",
+      "g_ja": " \"こんにちは、ノゾミ。\"",
+      "g_ko": " \"안녕, 노조미.\"",
+      "g_en": " \"Hi, Nozomi.\"",
+      "g_th": " \"สวัสดี โนโซมิ มาเร็วจังเลยนะ\"",
+      "g_tw": "「嗨，希望。」",
+      "g_tw_cn": "「嗨，希望。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"안녕, 노조미.\"\\n[s2] \"일찍 왔네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"早かったね。\"",
+      "j_ko": " \"일찍 왔네.\"",
+      "g_ja": " \"早かったね。\"",
+      "g_ko": " \"일찍 왔네.\"",
+      "g_en": " \"You're here early.\"",
+      "g_th": " \"สวัสดี โนโซมิ วันนี้มาเร็วเลยนะ\"",
+      "g_tw": "「你今天來得很早耶。」",
+      "g_tw_cn": "「你今天来得很早耶。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"안녕, 노조미.\"\\n[s2] \"일찍 왔네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そりゃ当番だからね。",
+      "j_ko": "당번이니까 빨리 와야지.",
+      "g_ja": "そりゃ当番だからね。",
+      "g_ko": "당번이니까 빨리 와야지.",
+      "g_en": "I'm a student rep. I should be here early.",
+      "g_th": "วันนี้เวรฉันนี่นา ก็ต้องรีบมาสิ",
+      "g_tw": "當值日生總是得早點來嘛。",
+      "g_tw_cn": "当值日生总是得早点来嘛。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;09;당번이니까 빨리 와야지.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 9,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Tampe_02"
+    }
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふぁあぁあぁあ～……！",
+      "j_ko": "흐아암~",
+      "g_ja": "ふぁあぁあぁあ～……！",
+      "g_ko": "흐아암~",
+      "g_en": "*yawn*",
+      "g_th": "ฮ้าวว~",
+      "g_tw": "呼啊～～～",
+      "g_tw_cn": "呼啊～～～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;14;흐아암~\\n#3;shake",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"すごいあくび！\"",
+      "j_ko": " \"입 찢어지겠다.\"",
+      "g_ja": " \"すごいあくび！\"",
+      "g_ko": " \"입 찢어지겠다.\"",
+      "g_en": " \"Careful you don't tear your mouth with that yawn.\"",
+      "g_th": " \"หาวอะไรขนาดนั้นน่ะ\"",
+      "g_tw": "「好大的哈欠！」",
+      "g_tw_cn": "「好大的哈欠！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns3] \"입 찢어지겠다.\"\\n[ns4] \"피곤해?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"結構疲れてる？\"",
+      "j_ko": " \"피곤해?\"",
+      "g_ja": " \"結構疲れてる？\"",
+      "g_ko": " \"피곤해?\"",
+      "g_en": " \"You tired?\"",
+      "g_th": " \"ง่วงเหรอ?\"",
+      "g_tw": "「你現在很累嗎？」",
+      "g_tw_cn": "「你现在很累吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns3] \"입 찢어지겠다.\"\\n[ns4] \"피곤해?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "昨日、夜間運行だったんだよ。",
+      "j_ko": "아후, 어제 운행 시간표가 야간이었거든. ",
+      "g_ja": "昨日、夜間運行だったんだよ。",
+      "g_ko": "아후, 어제 운행 시간표가 야간이었거든. ",
+      "g_en": "Ugh, I had the night shift yesterday. ",
+      "g_th": "พอดีเมื่อวานฉันทำงานกะดึกมาน่ะ ",
+      "g_tw": "啊～因為我昨天開夜班的車。 ",
+      "g_tw_cn": "啊～因为我昨天开夜班的车。 ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;15;아후, 어제 운행 시간표가 야간이었거든. ",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 14,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あんま寝る時間なくってさ。",
+      "j_ko": "좀 뻑적지근하고 그러네.",
+      "g_ja": "あんま寝る時間なくってさ。",
+      "g_ko": "좀 뻑적지근하고 그러네.",
+      "g_en": "Feeling kind of stiff this morning...",
+      "g_th": "ก็เลยปวดเนื้อเมื่อยตัวอยู่หน่อยๆ",
+      "g_tw": "所以現在還有點累累的。",
+      "g_tw_cn": "所以现在还有点累累的。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;14;좀 뻑적지근하고 그러네.\\n#3;stiff\\n#3;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Upset",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"お疲れ様。休んでもよかったのに……。\"",
+      "j_ko": " \"늦게까지 일한 거야? 그럼 그냥 쉬지!\"",
+      "g_ja": " \"お疲れ様。休んでもよかったのに……。\"",
+      "g_ko": " \"늦게까지 일한 거야? 그럼 그냥 쉬지!\"",
+      "g_en": " \"You worked late? You should've rested up, then!\"",
+      "g_th": " \"ทำงานมาจนถึงดึกดื่นเลยเหรอ? งั้นก็ควรพักผ่อนสิ!\"",
+      "g_tw": "「工作到很晚嗎？那在這裡休息吧！」",
+      "g_tw_cn": "「工作到很晚吗？那在这里休息吧！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"늦게까지 일한 거야? 그럼 그냥 쉬지!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 16,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 16,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "パヒャヒャッ、いいのいいの。",
+      "j_ko": "파햐햐, 괜찮아! 괜찮아!",
+      "g_ja": "パヒャヒャッ、いいのいいの。",
+      "g_ko": "파햐햐, 괜찮아! 괜찮아!",
+      "g_en": "Pahyahya, it's fine! It's fine!",
+      "g_th": "วะฮะฮ่า ไม่เป็นไรหรอก! ฉันยังไหว!",
+      "g_tw": "噗哈哈，沒關係！我沒事啦！",
+      "g_tw_cn": "噗哈哈，没关系！我没事啦！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;03;파햐햐, 괜찮아! 괜찮아!\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生に会いに来てんだからさ。",
+      "j_ko": "어차피 선생님 보러 오는 건데. 피곤한 건 괜찮다구.",
+      "g_ja": "先生に会いに来てんだからさ。",
+      "g_ko": "어차피 선생님 보러 오는 건데. 피곤한 건 괜찮다구.",
+      "g_en": "It's worth being tired to hang out with you.",
+      "g_th": "ได้มาเจอคุณครูทั้งที ต่อให้เหนื่อยก็ไม่เป็นไรหรอก",
+      "g_tw": "畢竟是來看老師的，稍微累一點也沒關係。",
+      "g_tw_cn": "毕竟是来看老师的，稍微累一点也没关系。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;10;어차피 선생님 보러 오는 건데. 피곤한 건 괜찮다구.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 18,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "んで、何すればいい？",
+      "j_ko": "자! 나 뭐 하면 돼?",
+      "g_ja": "んで、何すればいい？",
+      "g_ko": "자! 나 뭐 하면 돼?",
+      "g_en": "So what should I do?",
+      "g_th": "เอาละ! งั้นให้ฉันช่วยทำอะไรล่ะ?",
+      "g_tw": "好！那我該做什麼呢？",
+      "g_tw_cn": "好！那我该做什么呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;10;자! 나 뭐 하면 돼?\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 19,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 20,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（心配をよそに、ノゾミはやる気満々だったが……）",
+      "j_ko": "(아무래도 걱정됐지만, 노조미는 거듭 멀쩡하다며 웃었다.)",
+      "g_ja": "（心配をよそに、ノゾミはやる気満々だったが……）",
+      "g_ko": "(아무래도 걱정됐지만, 노조미는 거듭 멀쩡하다며 웃었다.)",
+      "g_en": "Despite my worries, Nozomi kept on smiling, saying she was fine.",
+      "g_th": "(ถึงคุณครูจะกังวล แต่โนโซมิก็ยิ้มให้และบอกว่าเธอสบายดี)",
+      "g_tw": "（雖然很擔心，但希望一直笑著說沒事）",
+      "g_tw_cn": "（虽然很担心，但希望一直笑着说没事）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(아무래도 걱정됐지만, 노조미는 거듭 멀쩡하다며 웃었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 21,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1046815759
+    }
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 22,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Write_01"
+    }
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 23,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Write_01"
+    }
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 27,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1046815759
+    }
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 28,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_03"
+    }
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 34,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Typing_02"
+    }
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……寝ててもいいよ？\"",
+      "j_ko": " \"……노조미, 눈 좀 붙일래?\"",
+      "g_ja": " \"……寝ててもいいよ？\"",
+      "g_ko": " \"……노조미, 눈 좀 붙일래?\"",
+      "g_en": " \"You...should get some sleep.\"",
+      "g_th": " \"โนโซมิ... พักผ่อนสายตาสักหน่อยมั้ย?\"",
+      "g_tw": "「……希望，要不要睡一下？」",
+      "g_tw_cn": "「……希望，要不要睡一下？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"……노조미, 눈 좀 붙일래?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ん～……？大丈夫！",
+      "j_ko": "아니, 아니! 괜찮아!",
+      "g_ja": "ん～……？大丈夫！",
+      "g_ko": "아니, 아니! 괜찮아!",
+      "g_en": "No, no! I'm fine!",
+      "g_th": "ไม่หรอก ไม่เป็นไร!",
+      "g_tw": "不用不用！我沒事啦！",
+      "g_tw_cn": "不用不用！我没事啦！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;04;아니, 아니! 괜찮아!\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "へっちゃらだよ！パヒャヒャッ！",
+      "j_ko": "완전 끄떡없어, 파햐햐!",
+      "g_ja": "へっちゃらだよ！パヒャヒャッ！",
+      "g_ko": "완전 끄떡없어, 파햐햐!",
+      "g_en": "I'm completely fine, pahyahya!",
+      "g_th": "ฉันไม่หวั่นหรอกน่า วะฮะฮ่า!",
+      "g_tw": "完全沒問題，噗哈哈！",
+      "g_tw_cn": "完全没问题，噗哈哈！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;12;완전 끄떡없어, 파햐햐!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"じゃあソファで横になってるとか……\"",
+      "j_ko": " \"그럼 저기 소파에 잠깐만 누워있어.\"",
+      "g_ja": " \"じゃあソファで横になってるとか……\"",
+      "g_ko": " \"그럼 저기 소파에 잠깐만 누워있어.\"",
+      "g_en": " \"At least go lie down on that sofa for a bit.\"",
+      "g_th": " \"งั้นช่วยไปนอนพักที่โซฟาตรงโน้นหน่อยนะ\"",
+      "g_tw": "「去沙發那邊稍微躺一下吧。」",
+      "g_tw_cn": "「去沙发那边稍微躺一下吧。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"그럼 저기 소파에 잠깐만 누워있어.\"\\n[s6] \"그 정도는 할 수 있겠지?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"それくらいならいいでしょ？\"",
+      "j_ko": " \"그 정도는 할 수 있겠지?\"",
+      "g_ja": " \"それくらいならいいでしょ？\"",
+      "g_ko": " \"그 정도는 할 수 있겠지?\"",
+      "g_en": " \"You can do that much, right?\"",
+      "g_th": " \"งั้นไปนอนเล่นที่โซฟาตรงโน้นก่อนนะ\"",
+      "g_tw": "「這樣總可以吧？」",
+      "g_tw_cn": "「这样总可以吧？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"그럼 저기 소파에 잠깐만 누워있어.\"\\n[s6] \"그 정도는 할 수 있겠지?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 48,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……じゃあちょっとだけ。",
+      "j_ko": "으음, 그럼 쪼오끔만 그래볼까……",
+      "g_ja": "……じゃあちょっとだけ。",
+      "g_ko": "으음, 그럼 쪼오끔만 그래볼까……",
+      "g_en": "Mm, all right, just for a little while...",
+      "g_th": "อืม งั้นทำตามคำสั่งดูหน่อยแล้วกัน...",
+      "g_tw": "唔嗯，那我就稍微靠一下……",
+      "g_tw_cn": "唔嗯，那我就稍微靠一下……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;14;으음, 그럼 쪼오끔만 그래볼까……\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 51,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Appear_01a"
+    }
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 52,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Appear_01b"
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 53,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Appear_02a"
+    }
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 54,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SitChair_01a"
+    }
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 55,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "んん～……。",
+      "j_ko": "으음……",
+      "g_ja": "んん～……。",
+      "g_ko": "으음……",
+      "g_en": "Mmm...",
+      "g_th": "อืม...",
+      "g_tw": "嗯……",
+      "g_tw_cn": "嗯……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "#na;노조미;으음……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "おぉ……体が沈んでゆくぅ……。",
+      "j_ko": "와…… 몸이 녹는다아……",
+      "g_ja": "おぉ……体が沈んでゆくぅ……。",
+      "g_ko": "와…… 몸이 녹는다아……",
+      "g_en": "Whoa... I feel like I'm melting...",
+      "g_th": "ว้าว... เหมือนตัวจะละลายไปกับโซฟาเลย...",
+      "g_tw": "哇……身體快融化了……",
+      "g_tw_cn": "哇……身体快融化了……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "#na;노조미;와…… 몸이 녹는다아……",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Heart",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 57,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"寝ちゃっていいからね。\"",
+      "j_ko": " \"자도 돼. 업무는 거의 끝냈거든.\"",
+      "g_ja": " \"寝ちゃっていいからね。\"",
+      "g_ko": " \"자도 돼. 업무는 거의 끝냈거든.\"",
+      "g_en": " \"You can nod off. I'm almost done with work.\"",
+      "g_th": " \"หลับเลยก็ได้นะ ครูทำงานเกือบเสร็จแล้ว\"",
+      "g_tw": "「放心睡吧，工作幾乎都做完了。」",
+      "g_tw_cn": "「放心睡吧，工作几乎都做完了。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"자도 돼. 업무는 거의 끝냈거든.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 58,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いやぁ……そういうわけにはぁ……。",
+      "j_ko": "아니, 아니야. 그럴 수는 없지.",
+      "g_ja": "いやぁ……そういうわけにはぁ……。",
+      "g_ko": "아니, 아니야. 그럴 수는 없지.",
+      "g_en": "No, no. I shouldn't.",
+      "g_th": "มะ... ไม่ได้หรอก ให้ฉันทำแบบนั้นได้ยังไง",
+      "g_tw": "不不不，那怎麼行呢。",
+      "g_tw_cn": "不不不，那怎么行呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;14;아니, 아니야. 그럴 수는 없지.\\n#3;closeup\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 59,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 60,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "せっかく……シャーレま……で来……て……ぇ……。",
+      "j_ko": "샬레까지 왔는데 잠드는 건 아쉬우…… 니까……",
+      "g_ja": "せっかく……シャーレま……で来……て……ぇ……。",
+      "g_ko": "샬레까지 왔는데 잠드는 건 아쉬우…… 니까……",
+      "g_en": "It'd be a shame to fall asleep after coming...all the way here...",
+      "g_th": "ได้มาชาเล่ต์ทั้งที ถ้ามาหลับอยู่ก็น่า... เสียดาย...",
+      "g_tw": "難得能到夏萊……睡著太可惜了……所以……",
+      "g_tw_cn": "难得能到夏莱……睡着太可惜了……所以……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;19;샬레까지 왔는데 잠드는 건 아쉬우…… 니까……\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "……",
+      "g_ja": "……。",
+      "g_ko": "……",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;99;……\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 65,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 66,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ノゾミに毛布をかけてあげた）",
+      "j_ko": "(잠든 노조미에게 담요를 덮어주었다.)",
+      "g_ja": "（ノゾミに毛布をかけてあげた）",
+      "g_ko": "(잠든 노조미에게 담요를 덮어주었다.)",
+      "g_en": "As she drifted off, I put a blanket over her.",
+      "g_th": "(คุณครูห่มผ้าให้โนโซมิที่นอนหลับปุ๋ย)",
+      "g_tw": "（幫睡著的希望蓋上毯子）",
+      "g_tw_cn": "（帮睡着的希望盖上毯子）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(잠든 노조미에게 담요를 덮어주었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（夕方になって目を覚ましたノゾミは、もったいないことをしたと笑っていた）",
+      "j_ko": "(저녁 늦게서야 깨어난 노조미는 시간이 아깝다며 웃어버렸다.)",
+      "g_ja": "（夕方になって目を覚ましたノゾミは、もったいないことをしたと笑っていた）",
+      "g_ko": "(저녁 늦게서야 깨어난 노조미는 시간이 아깝다며 웃어버렸다.)",
+      "g_en": "She woke up late in the evening, laughing about how much time she'd wasted.",
+      "g_th": "(กว่าโนโซมิจะตื่นก็เป็นเวลาค่ำแล้ว และเมื่อตื่นก็หัวเราะและบอกว่าไม่น่าเผลอหลับไปเลย)",
+      "g_tw": "（很久後才醒來的希望，笑著表示睡太久了實在很可惜）",
+      "g_tw_cn": "（很久后才醒来的希望，笑着表示睡太久了实在很可惜）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(저녁 늦게서야 깨어난 노조미는 시간이 아깝다며 웃어버렸다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,2068 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4054967157
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 38
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">サツキの海対策 </span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">사츠키의 바다 대책</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\"></span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">사츠키의 바다 대책</span>",
+      "g_en": "<span class=\"scenario-cmd-title\"></span>",
+      "g_th": "<span class=\"scenario-cmd-title\"></span>",
+      "g_tw": "<span class=\"scenario-cmd-title\"></span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\"></span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;사츠키의 바다 대책",
+    "BGMId": 38,
+    "Sound": "",
+    "BGName": 4054967157,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 4,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Water_Pour_02"
+    }
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 8,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 9,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Water_Pour_03"
+    }
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"楽しそうなことをしてるね、サツキ。\"",
+      "j_ko": " \"뭔가 재미있는 걸 하고 있네, 사츠키.\"",
+      "g_ja": "",
+      "g_ko": " \"뭔가 재미있는 걸 하고 있네, 사츠키.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"뭔가 재미있는 걸 하고 있네, 사츠키.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あら、先生。",
+      "j_ko": "아, 선생.",
+      "g_ja": "",
+      "g_ko": "아, 선생.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "2;사츠키 수영복;02;아, 선생.\\n#2;m3\\n#2;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 14,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふふ、私が何をしていたか気になる？",
+      "j_ko": "후후, 그 표정. 내가 뭘 하고 있었는지 궁금한 얼굴이구나.",
+      "g_ja": "",
+      "g_ko": "후후, 그 표정. 내가 뭘 하고 있었는지 궁금한 얼굴이구나.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "2;사츠키 수영복;03;후후, 그 표정. 내가 뭘 하고 있었는지 궁금한 얼굴이구나.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いいわ、教えてあげる。",
+      "j_ko": "좋아, 알려줄게.",
+      "g_ja": "",
+      "g_ko": "좋아, 알려줄게.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "2;사츠키 수영복;01;좋아, 알려줄게.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 16,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私は今――",
+      "j_ko": "나는……",
+      "g_ja": "",
+      "g_ko": "나는……",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "2;사츠키 수영복;99;나는……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "海を克服するトレーニングをしていたのよ！",
+      "j_ko": "이 거칠고 위험한 바다를 극복하기 위한 훈련 중이었다고 말할 수 있어.",
+      "g_ja": "",
+      "g_ko": "이 거칠고 위험한 바다를 극복하기 위한 훈련 중이었다고 말할 수 있어.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;02;이 거칠고 위험한 바다를 극복하기 위한 훈련 중이었다고 말할 수 있어.\\n#3;em;[반짝]\\n#3;closeup\\n#2;hide",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 18,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"海を克服するトレーニング？\"",
+      "j_ko": " \"훈련?\"",
+      "g_ja": "",
+      "g_ko": " \"훈련?\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"훈련?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 19,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "1つ、海の秘密を教えてあげる。",
+      "j_ko": "여기서는 바다의 비밀을 공유하도록 할까.",
+      "g_ja": "",
+      "g_ko": "여기서는 바다의 비밀을 공유하도록 할까.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;03;여기서는 바다의 비밀을 공유하도록 할까.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 20,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 20,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "見て頂戴。",
+      "j_ko": "자, 봐.",
+      "g_ja": "",
+      "g_ko": "자, 봐.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;02;자, 봐.\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "波がきているでしょう？",
+      "j_ko": "지금 저렇게 파도가 치고 있지?",
+      "g_ja": "",
+      "g_ko": "지금 저렇게 파도가 치고 있지?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;01;지금 저렇게 파도가 치고 있지?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 22,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3089427873
+    }
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 23,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SeaWave_02"
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "さっき海辺を観察していて気づいたのよ。",
+      "j_ko": "나는 아까부터 오랜 시간 동안 해변가를 관찰하면서 알게 됐거든.",
+      "g_ja": "",
+      "g_ko": "나는 아까부터 오랜 시간 동안 해변가를 관찰하면서 알게 됐거든.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "#na;사츠키 수영복;나는 아까부터 오랜 시간 동안 해변가를 관찰하면서 알게 됐거든.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 24,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "波を観察すれば、規模をある程度予測できる、って。",
+      "j_ko": "파도가 밀려오는 모양을 보면, 파도의 크기를 예측 가능하다는 사실.",
+      "g_ja": "",
+      "g_ko": "파도가 밀려오는 모양을 보면, 파도의 크기를 예측 가능하다는 사실.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "#na;사츠키 수영복;파도가 밀려오는 모양을 보면, 파도의 크기를 예측 가능하다는 사실.",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 25,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4054967157
+    }
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 26,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "例えば……遠くで大きく崩れている波は、<br/>こちらに届く前に勢いがなくなってしまうけど……。",
+      "j_ko": "가령 저렇게 멀리서부터 크게 부서지는 파도는 중간부터 힘이 부족해져서 이곳까지 다다르지 못해.",
+      "g_ja": "",
+      "g_ko": "가령 저렇게 멀리서부터 크게 부서지는 파도는 중간부터 힘이 부족해져서 이곳까지 다다르지 못해.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;99;가령 저렇게 멀리서부터 크게 부서지는 파도는 중간부터 힘이 부족해져서 이곳까지 다다르지 못해.\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "静かな波は違うの。",
+      "j_ko": "하지만, 저렇게 조용한 파도는 다르지.",
+      "g_ja": "",
+      "g_ko": "하지만, 저렇게 조용한 파도는 다르지.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;01;하지만, 저렇게 조용한 파도는 다르지.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 28,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterFootStep_01c"
+    }
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……あっ！ちょうど来るわ、見ていて頂戴。",
+      "j_ko": "자, 봐. 온다, 온다…….",
+      "g_ja": "",
+      "g_ko": "자, 봐. 온다, 온다…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;02;자, 봐. 온다, 온다…….\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 32,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えいっ！",
+      "j_ko": "얍!",
+      "g_ja": "",
+      "g_ko": "얍!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;02;얍!\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 33,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "",
+      "j_ko": "None",
+      "g_ja": "",
+      "g_ko": "None",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[0,0];instant;1;\\n#3;hide",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 35,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Water_Pour_02"
+    }
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 36,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4054967157
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 37,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 38,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふふっ、どうかしら？",
+      "j_ko": "어때, 어때?",
+      "g_ja": "",
+      "g_ko": "어때, 어때?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;00;어때, 어때?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 39,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "打ち寄せる波を、華麗に避ける私は。",
+      "j_ko": "이렇게 해변까지 밀고 들어오는 파도를 멋지게 피하는 내 모습. 잘 봤지? 후후!",
+      "g_ja": "",
+      "g_ko": "이렇게 해변까지 밀고 들어오는 파도를 멋지게 피하는 내 모습. 잘 봤지? 후후!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;03;이렇게 해변까지 밀고 들어오는 파도를 멋지게 피하는 내 모습. 잘 봤지? 후후!\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 40,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "この見分け方、結構当たるのよ。危険な海で生存率を上げるのに役立つはずだわ。",
+      "j_ko": "이 파도 구분법은 꽤 잘 들어맞아.<br/>위험하기 짝이 없는 바다에서의 생존률을 크게 올려줄 거라고 장담할 수 있어.",
+      "g_ja": "",
+      "g_ko": "이 파도 구분법은 꽤 잘 들어맞아.<br/>위험하기 짝이 없는 바다에서의 생존률을 크게 올려줄 거라고 장담할 수 있어.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;01;이 파도 구분법은 꽤 잘 들어맞아.#n위험하기 짝이 없는 바다에서의 생존률을 크게 올려줄 거라고 장담할 수 있어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生もやってみない？",
+      "j_ko": "어때, 선생도 같이할래?",
+      "g_ja": "",
+      "g_ko": "어때, 선생도 같이할래?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;02;어때, 선생도 같이할래?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"確かに面白そうだけど――\"",
+      "j_ko": " \"그것도 꽤 재미있어 보이지만,\"",
+      "g_ja": "",
+      "g_ko": " \"그것도 꽤 재미있어 보이지만,\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"그것도 꽤 재미있어 보이지만,\"\\n[s2] \"조금 더 안쪽으로 들어가도 괜찮지 않을까.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"もう少し海の中に入ってもいいんじゃない？\"",
+      "j_ko": " \"조금 더 안쪽으로 들어가도 괜찮지 않을까.\"",
+      "g_ja": "",
+      "g_ko": " \"조금 더 안쪽으로 들어가도 괜찮지 않을까.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"그것도 꽤 재미있어 보이지만,\"\\n[s2] \"조금 더 안쪽으로 들어가도 괜찮지 않을까.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "海の中に……？",
+      "j_ko": "바다 안쪽으로……?",
+      "g_ja": "",
+      "g_ko": "바다 안쪽으로……?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;15;바다 안쪽으로……?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "い、嫌よ。そんなの危ないじゃない。",
+      "j_ko": "으, 싫어. 그렇게 위험한 일은 하지 않을 거야.",
+      "g_ja": "",
+      "g_ko": "으, 싫어. 그렇게 위험한 일은 하지 않을 거야.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;19;으, 싫어. 그렇게 위험한 일은 하지 않을 거야.\\n#3;stiff\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"この辺りは浅いから大丈夫だよ。\"",
+      "j_ko": " \"이쪽 해변은 꽤 얕아서, 별로 위험하지 않거든.\"",
+      "g_ja": "",
+      "g_ko": " \"이쪽 해변은 꽤 얕아서, 별로 위험하지 않거든.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"이쪽 해변은 꽤 얕아서, 별로 위험하지 않거든.\"\\n[s4] \"모처럼 해변에 왔으니까 말이야.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"せっかく海に来たんだし。\"",
+      "j_ko": " \"모처럼 해변에 왔으니까 말이야.\"",
+      "g_ja": "",
+      "g_ko": " \"모처럼 해변에 왔으니까 말이야.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"이쪽 해변은 꽤 얕아서, 별로 위험하지 않거든.\"\\n[s4] \"모처럼 해변에 왔으니까 말이야.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 50,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 50,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……その油断が命取りになっても知らないわよ。",
+      "j_ko": "흐응, 그런 안일한 마음이 사고를 부르는 거라구.",
+      "g_ja": "",
+      "g_ko": "흐응, 그런 안일한 마음이 사고를 부르는 거라구.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;04;흐응, 그런 안일한 마음이 사고를 부르는 거라구.\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "海はと～っても危なくて恐ろしい場所なんだから！",
+      "j_ko": "바다는 아~주 위험하고 무서운 곳이니까 말이야.",
+      "g_ja": "",
+      "g_ko": "바다는 아~주 위험하고 무서운 곳이니까 말이야.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;06;바다는 아~주 위험하고 무서운 곳이니까 말이야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "…….",
+      "g_ja": "",
+      "g_ko": "…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;10;…….\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 53,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そんなキラキラした目で見てもダメなものはダメ！",
+      "j_ko": "그렇게 초롱초롱한 눈으로 봐도 소용없어, 선생…….",
+      "g_ja": "",
+      "g_ko": "그렇게 초롱초롱한 눈으로 봐도 소용없어, 선생…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;11;그렇게 초롱초롱한 눈으로 봐도 소용없어, 선생…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 57,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でも……先生は万魔殿の協力者だし……。",
+      "j_ko": "으음…… 그래도 선생은 만마전의 주요 협력자기도 하고…….",
+      "g_ja": "",
+      "g_ko": "으음…… 그래도 선생은 만마전의 주요 협력자기도 하고…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;10;으음…… 그래도 선생은 만마전의 주요 협력자기도 하고…….\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 58,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterFootStep_01a"
+    }
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 58,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生と海に入るのも、ちょっと楽しいかもしれないし……。",
+      "j_ko": "바다에서의 물놀이, 나름 즐거울지도 모르고…….",
+      "g_ja": "",
+      "g_ko": "바다에서의 물놀이, 나름 즐거울지도 모르고…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;06;바다에서의 물놀이, 나름 즐거울지도 모르고…….\\n#3;m4",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 59,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……う～ん。",
+      "j_ko": "……으음~~~",
+      "g_ja": "",
+      "g_ko": "……으음~~~",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;09;……으음~~~",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 63,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterFootStep_01b"
+    }
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 63,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はぁ……完敗よ。今回だけ、先生の提案に乗ってあげるわ。",
+      "j_ko": "아, 알겠어. 이번만큼은 선생의 제안에 어울리도록 할게.",
+      "g_ja": "",
+      "g_ko": "아, 알겠어. 이번만큼은 선생의 제안에 어울리도록 할게.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;19;아, 알겠어. 이번만큼은 선생의 제안에 어울리도록 할게.\\n#3;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 64,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"やった～！\"",
+      "j_ko": " \"와아~\"",
+      "g_ja": "",
+      "g_ko": " \"와아~\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"와아~\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 65,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3089427873
+    }
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 66,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterFootStep_01"
+    }
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うぅ……波が……。",
+      "j_ko": "으…… 파도가…….",
+      "g_ja": "",
+      "g_ko": "으…… 파도가…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;10;으…… 파도가…….\\n#3;stiff\\n#3;em;[세로선]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sad",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……いいわ。誘ってきた先生に責任を取ってもらうから。",
+      "j_ko": "흐응, 좋아. 선생이 나를 꼬드겼으니, 나는 나름대로 대책을 강구하겠어.",
+      "g_ja": "",
+      "g_ko": "흐응, 좋아. 선생이 나를 꼬드겼으니, 나는 나름대로 대책을 강구하겠어.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;19;흐응, 좋아. 선생이 나를 꼬드겼으니, 나는 나름대로 대책을 강구하겠어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "どんな緊急事態でも私を守るよう、催眠をかけておかないと。",
+      "j_ko": "어떤 위급한 상황에서도 선생이 나를 보호하도록 최면을 걸 거야.",
+      "g_ja": "",
+      "g_ko": "어떤 위급한 상황에서도 선생이 나를 보호하도록 최면을 걸 거야.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;02;어떤 위급한 상황에서도 선생이 나를 보호하도록 최면을 걸 거야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 73,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 74,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そーれそれ……ぐ～るぐる……ぐ～るぐる……。",
+      "j_ko": "자아, 이 손가락을 보도록 해. 빙글빙글~ 빙글빙글~",
+      "g_ja": "",
+      "g_ko": "자아, 이 손가락을 보도록 해. 빙글빙글~ 빙글빙글~",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;03;자아, 이 손가락을 보도록 해. 빙글빙글~ 빙글빙글~\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 75,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生は私を守る、先生は私を守る……。",
+      "j_ko": "선생은 나를 보호한다, 선생은 나를 보호한다…….",
+      "g_ja": "",
+      "g_ko": "선생은 나를 보호한다, 선생은 나를 보호한다…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;02;선생은 나를 보호한다, 선생은 나를 보호한다…….\\n#3;closeup\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ちょ、ちょっと待ってサツキ……！\"",
+      "j_ko": " \"앗, 저 파도는…… 제법 큰데?\"",
+      "g_ja": "",
+      "g_ko": " \"앗, 저 파도는…… 제법 큰데?\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns5] \"앗, 저 파도는…… 제법 큰데?\"\\n[ns6] \"사츠키……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"あの波、なんだか大きくない……？\"",
+      "j_ko": " \"사츠키……!\"",
+      "g_ja": "",
+      "g_ko": " \"사츠키……!\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns5] \"앗, 저 파도는…… 제법 큰데?\"\\n[ns6] \"사츠키……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 79,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 80,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 80,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 80,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "きゃあああっ！！",
+      "j_ko": "꺄악-!!",
+      "g_ja": "",
+      "g_ko": "꺄악-!!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "#na;사츠키 수영복;꺄악-!!\\n#3;hide\\n#fontsize;80",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 83,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Water_Pour_02"
+    }
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 84,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterShot_01"
+    }
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 85,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3089427873
+    }
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 86,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 87,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、危なかったわ……ありがとう、先生。",
+      "j_ko": "위험했어…… 고마워, 선생.",
+      "g_ja": "",
+      "g_ko": "위험했어…… 고마워, 선생.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;09;위험했어…… 고마워, 선생.\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 88,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あら？そういえば……なんで先生は守ってくれたのかしら。<br/>まだ催眠は不完全だったのに……。",
+      "j_ko": "음? 그런데 아직 최면을 완전히 걸기 전인데도 선생이 나를 보호했네.",
+      "g_ja": "",
+      "g_ko": "음? 그런데 아직 최면을 완전히 걸기 전인데도 선생이 나를 보호했네.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;04;음? 그런데 아직 최면을 완전히 걸기 전인데도 선생이 나를 보호했네.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 89,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まさか……。",
+      "j_ko": "설마…….",
+      "g_ja": "",
+      "g_ko": "설마…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;08;설마…….\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 90,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 228
+    }
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 90,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私の能力がレベルアップしたのかしら！？<br/>言葉だけで催眠をかけられるように！？",
+      "j_ko": "내 최면 능력이 성장한 건가!<br/>이제 말로만 최면을 걸 수 있는 경지에 도달했나 봐!",
+      "g_ja": "",
+      "g_ko": "내 최면 능력이 성장한 건가!<br/>이제 말로만 최면을 걸 수 있는 경지에 도달했나 봐!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;03;내 최면 능력이 성장한 건가!#n이제 말로만 최면을 걸 수 있는 경지에 도달했나 봐!\\n#3;em;[반짝]\\n#3;closeup",
+    "BGMId": 228,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 91,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……催眠なんてなくても、サツキのことは守るよ。\"",
+      "j_ko": " \"딱히 최면 없어도 사츠키를 지켰을 거야.\"",
+      "g_ja": "",
+      "g_ko": " \"딱히 최면 없어도 사츠키를 지켰을 거야.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"딱히 최면 없어도 사츠키를 지켰을 거야.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 92,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "え？催眠にかかったわけじゃないの？ならどうして……。",
+      "j_ko": "으응? 최면에 걸린 게 아니었어? 그런데 왜…….",
+      "g_ja": "",
+      "g_ko": "으응? 최면에 걸린 게 아니었어? 그런데 왜…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;15;으응? 최면에 걸린 게 아니었어? 그런데 왜…….\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 93,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "…….",
+      "g_ja": "",
+      "g_ko": "…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;15;…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 94,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 94,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "わ、分かったわ。万魔殿の協力者としてってことね？",
+      "j_ko": "아, 알았다. 내가 만마전의 주요 협력자라서지?",
+      "g_ja": "",
+      "g_ko": "아, 알았다. 내가 만마전의 주요 협력자라서지?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;02;아, 알았다. 내가 만마전의 주요 협력자라서지?\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 95,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 7,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"違うよ。サツキ、痛いの嫌いでしょ。\"",
+      "j_ko": " \"아니. 아픈 거 싫어하잖아.\"",
+      "g_ja": "",
+      "g_ko": " \"아니. 아픈 거 싫어하잖아.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"아니. 아픈 거 싫어하잖아.\"\\n[s8] \"무서운 거랑.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 95,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 8,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"怖いのも。\"",
+      "j_ko": " \"무서운 거랑.\"",
+      "g_ja": "",
+      "g_ko": " \"무서운 거랑.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"아니. 아픈 거 싫어하잖아.\"\\n[s8] \"무서운 거랑.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 98,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "…….",
+      "g_ja": "",
+      "g_ko": "…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;17;…….\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 99,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そうね。<br/>先生は、この<ruby>京極<rp>(</rp><rt>きょうごく</rt><rp>)</rp></ruby>サツキの秘密を知る数少ない人物……。",
+      "j_ko": "그러네. 선생은 이 쿄고쿠 사츠키의 비밀을 알고 있는 사람이었지.",
+      "g_ja": "",
+      "g_ko": "그러네. 선생은 이 쿄고쿠 사츠키의 비밀을 알고 있는 사람이었지.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;18;그러네. 선생은 이 쿄고쿠 사츠키의 비밀을 알고 있는 사람이었지.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 100,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いつか……この秘密を種に脅すつもりかしら？",
+      "j_ko": "비밀을 그렇게 기억하고 있다는 건, 언젠가 약점 잡을 기회를 노리고 있는 걸까?",
+      "g_ja": "",
+      "g_ko": "비밀을 그렇게 기억하고 있다는 건, 언젠가 약점 잡을 기회를 노리고 있는 걸까?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;10;비밀을 그렇게 기억하고 있다는 건, 언젠가 약점 잡을 기회를 노리고 있는 걸까?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 104,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_01"
+    }
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 104,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……いえ、答えは分かりきっているわね。先生がそんなことするはずない。",
+      "j_ko": "……아니, 선생이 그럴 리가 없지.",
+      "g_ja": "",
+      "g_ko": "……아니, 선생이 그럴 리가 없지.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;14;……아니, 선생이 그럴 리가 없지.\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 105,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"うん、絶対しない。\"",
+      "j_ko": " \"응. 절대.\"",
+      "g_ja": "",
+      "g_ko": " \"응. 절대.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"응. 절대.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 106,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ええ、知っているわ。",
+      "j_ko": "……후후. 맞아. 그럴 리 없어.",
+      "g_ja": "",
+      "g_ko": "……후후. 맞아. 그럴 리 없어.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;16;……후후. 맞아. 그럴 리 없어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 107,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ねぇ先生、これからも……私を守ってくれる？",
+      "j_ko": "선생, 그럼 앞으로도 나를 지켜줄 거야?",
+      "g_ja": "",
+      "g_ko": "선생, 그럼 앞으로도 나를 지켜줄 거야?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;12;선생, 그럼 앞으로도 나를 지켜줄 거야?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 108,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " 頷く。",
+      "j_ko": " 대답한다.",
+      "g_ja": "",
+      "g_ko": " 대답한다.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] 대답한다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 109,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……いいわ。",
+      "j_ko": "……좋아.",
+      "g_ja": "",
+      "g_ko": "……좋아.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;18;……좋아.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 113,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 96,
+    "AbsolutePos": 113,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "っ！また大きな波が……！",
+      "j_ko": "아, 저기 또 큰 파도가 와.",
+      "g_ja": "",
+      "g_ko": "아, 저기 또 큰 파도가 와.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;02;아, 저기 또 큰 파도가 와.\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 97,
+    "AbsolutePos": 116,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterFootStep_01"
+    }
+  },
+  {
+    "ActualPos": 98,
+    "AbsolutePos": 118,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_01"
+    }
+  },
+  {
+    "ActualPos": 99,
+    "AbsolutePos": 119,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "頼んだわ、先生！",
+      "j_ko": "선생, 이번에도 부탁해!",
+      "g_ja": "",
+      "g_ko": "선생, 이번에도 부탁해!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 902192482,
+    "DataType": "speaker",
+    "Script": "3;사츠키 수영복;14;선생, 이번에도 부탁해!\\n#3;closeup\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 100,
+    "AbsolutePos": 120,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 101,
+    "AbsolutePos": 121,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Water_Pour_03"
+    }
+  },
+  {
+    "ActualPos": 102,
+    "AbsolutePos": 122,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（サツキが浅瀬を怖がらなくなるまで、一緒に過ごした）",
+      "j_ko": "(그렇게 사츠키가 얕은 바다를 무서워하지 않을 때까지 계속 함께 있었다.)",
+      "g_ja": "",
+      "g_ko": "(그렇게 사츠키가 얕은 바다를 무서워하지 않을 때까지 계속 함께 있었다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 사츠키가 얕은 바다를 무서워하지 않을 때까지 계속 함께 있었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,2017 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 237
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">意外な同行者</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">의외의 동행</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">意外な同行者</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">의외의 동행</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Unexpected Companion</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">การร่วมทางที่คาดไม่ถึง</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">意外的同行</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">意外的同行</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;의외의 동행",
+    "BGMId": 237,
+    "Sound": "",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（出張先に向かう列車に乗った）",
+      "j_ko": "(출장을 위해 열차에 몸을 실었다.)",
+      "g_ja": "（出張先に向かう列車に乗った）",
+      "g_ko": "(출장을 위해 열차에 몸을 실었다.)",
+      "g_en": "I hopped on a train for a business trip.",
+      "g_th": "(คุณครูขึ้นรถไฟเพื่อไปทำงานนอกสถานที่)",
+      "g_tw": "（搭上列車前去出差）",
+      "g_tw_cn": "（搭上列车前去出差）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(출장을 위해 열차에 몸을 실었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2494718854
+    }
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 3,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ご乗車のお客様にご案内いたします。",
+      "j_ko": "현재 2번 플랫폼 열차에 탑승하신 승객 여러분께 안내 말씀드립니다.",
+      "g_ja": "ご乗車のお客様にご案内いたします。",
+      "g_ko": "현재 2번 플랫폼 열차에 탑승하신 승객 여러분께 안내 말씀드립니다.",
+      "g_en": "Attention, passengers on the Platform 2 train...",
+      "g_th": "ขอแจ้งผู้โดยสารทุกท่านที่อยู่บนรถไฟในชานชาลาที่ 2",
+      "g_tw": "2號月台列車的乘客請注意。",
+      "g_tw_cn": "2号月台列车的乘客请注意。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2743063250,
+    "DataType": "speaker",
+    "Script": "#na;안내방송;현재 2번 플랫폼 열차에 탑승하신 승객 여러분께 안내 말씀드립니다.",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 4,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ただいま車両点検を行なっております。<br/>出発は予定時刻より約20分ほど――",
+      "j_ko": "해당 열차의 정비 문제로, 출발이 약 20분가량 늦어질 예정입니다.",
+      "g_ja": "ただいま車両点検を行なっております。<br/>出発は予定時刻より約20分ほど――",
+      "g_ko": "해당 열차의 정비 문제로, 출발이 약 20분가량 늦어질 예정입니다.",
+      "g_en": "Due to maintenance issues, departure will be delayed by approximately 20 minutes.",
+      "g_th": "ปัญหาการซ่อมบำรุงรถไฟขบวนดังกล่าวทำให้เราต้องออกเดินทางล่าช้าประมาณ 20 นาทีค่ะ",
+      "g_tw": "由於該列車的維修問題，發車時間預計將延後20分鐘。",
+      "g_tw_cn": "由于该列车的维修问题，发车时间预计将延后20分钟。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2743063250,
+    "DataType": "speaker",
+    "Script": "#na;안내방송;해당 열차의 정비 문제로, 출발이 약 20분가량 늦어질 예정입니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"これは遅刻かも……。\"",
+      "j_ko": " \"이거 지각하겠는데……\"",
+      "g_ja": " \"これは遅刻かも……。\"",
+      "g_ko": " \"이거 지각하겠는데……\"",
+      "g_en": " \"Guess I'm going to be late...\"",
+      "g_th": " \"งั้นก็น่าจะไปสายน่ะสิ...\"",
+      "g_tw": "「這樣會遲到的……」",
+      "g_tw_cn": "「这样会迟到的……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"이거 지각하겠는데……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（20分後）",
+      "j_ko": "(20분 후)",
+      "g_ja": "（20分後）",
+      "g_ko": "(20분 후)",
+      "g_en": "20 minutes later...",
+      "g_th": "(20 นาทีต่อมา)",
+      "g_tw": "（20分鐘後）",
+      "g_tw_cn": "（20分钟后）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(20분 후)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 10,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_PrisonDoor_01_Open"
+    }
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あっ、やっと動いた。",
+      "j_ko": "아, 드디어 움직이네.",
+      "g_ja": "あっ、やっと動いた。",
+      "g_ko": "아, 드디어 움직이네.",
+      "g_en": "Ah, it's finally moving.",
+      "g_th": "อ๊ะ ในที่สุดก็ขยับแล้วสินะ",
+      "g_tw": "啊，終於動了。",
+      "g_tw_cn": "啊，终于动了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2876499512,
+    "DataType": "speaker",
+    "Script": "#na;승객 A;아, 드디어 움직이네.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "これじゃ遅れちゃうよー！",
+      "j_ko": "이거 너무 늦잖아~ 어떻게 할 거야?",
+      "g_ja": "これじゃ遅れちゃうよー！",
+      "g_ko": "이거 너무 늦잖아~ 어떻게 할 거야?",
+      "g_en": "Way too late, though! They'd better compensate us for this!",
+      "g_th": "แต่มันช้าไปหรือเปล่า~ ช้าแบบนี้เมื่อไรจะถึงล่ะ?",
+      "g_tw": "也誤點太久了吧～現在怎麼辦？",
+      "g_tw_cn": "也误点太久了吧～现在怎么办？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2876499512,
+    "DataType": "speaker",
+    "Script": "#na;승객 A;이거 너무 늦잖아~ 어떻게 할 거야?",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Angry",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 15,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Mic_01"
+    }
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 16,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あー、あー。乗客のみなさーん、聞こえてる？",
+      "j_ko": "아, 아. 승객 여러분. 잘 들리지?",
+      "g_ja": "あー、あー。乗客のみなさーん、聞こえてる？",
+      "g_ko": "아, 아. 승객 여러분. 잘 들리지?",
+      "g_en": "Ah, ah. Dear passengers. You can hear me, right?",
+      "g_th": "อ่า... อ่า... ผู้โดยสารทุกท่าน ได้ยินชัดเจนใช่มั้ย?",
+      "g_tw": "啊，啊～各位乘客有聽到嗎？",
+      "g_tw_cn": "啊，啊～各位乘客有听到吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2746145574,
+    "DataType": "speaker",
+    "Script": "#na;???;아, 아. 승객 여러분. 잘 들리지?",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ちょーっと飛ばすよー……パヒャッ。",
+      "j_ko": "지금부터 조~금 달릴게! 파햐햐!",
+      "g_ja": "ちょーっと飛ばすよー……パヒャッ。",
+      "g_ko": "지금부터 조~금 달릴게! 파햐햐!",
+      "g_en": "I'm going to speed up juuust a little bit! Pahyahya!",
+      "g_th": "จากนี้ไปจะขอซิ่ง สักหน่อย~ นะ! วะฮะฮ่า!",
+      "g_tw": "接下來會稍～微加速一下哦！噗哈哈！",
+      "g_tw_cn": "接下来会稍～微加速一下哦！噗哈哈！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2746145574,
+    "DataType": "speaker",
+    "Script": "#na;???;지금부터 조~금 달릴게! 파햐햐!",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 18,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えっ？",
+      "j_ko": "뭐, 뭐야?",
+      "g_ja": "えっ？",
+      "g_ko": "뭐, 뭐야?",
+      "g_en": "Wh-What?",
+      "g_th": "อะ... อะไรเนี่ย?",
+      "g_tw": "什，什麼啊？",
+      "g_tw_cn": "什，什么啊？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2876499512,
+    "DataType": "speaker",
+    "Script": "#na;승객 A;뭐, 뭐야?",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 19,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"この声は……。\"",
+      "j_ko": " \"이 목소리는……\"",
+      "g_ja": " \"この声は……。\"",
+      "g_ko": " \"이 목소리는……\"",
+      "g_en": " \"Oh, I know that voice...\"",
+      "g_th": " \"เสียงนี้มัน...\"",
+      "g_tw": "「這個聲音是……」",
+      "g_tw_cn": "「这个声音是……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"이 목소리는……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 22,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_PrisonDoor_01_Open"
+    }
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 23,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 23,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Train_01"
+    }
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 24,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"うわっ！\"",
+      "j_ko": " \"우오옷?!\"",
+      "g_ja": " \"うわっ！\"",
+      "g_ko": " \"우오옷?!\"",
+      "g_en": " \"Huh?!\"",
+      "g_th": " \"เหวอ?!\"",
+      "g_tw": "「唔哇！？」",
+      "g_tw_cn": "「唔哇！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"우오옷?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 26,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Train_01"
+    }
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 27,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3411745443
+    }
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 28,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_DoorOpen_06"
+    }
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 29,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"時間通りに着いた……\"",
+      "j_ko": " \"늦지 않게 도착했네……\"",
+      "g_ja": " \"時間通りに着いた……\"",
+      "g_ko": " \"늦지 않게 도착했네……\"",
+      "g_en": " \"Looks like I got here just in time...\"",
+      "g_th": " \"มาถึงทันเวลาสินะ...\"",
+      "g_tw": "「準時抵達了……」",
+      "g_tw_cn": "「准时抵达了……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"늦지 않게 도착했네……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 33,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、先生じゃん。",
+      "j_ko": "어? 선생님?",
+      "g_ja": "あ、先生じゃん。",
+      "g_ko": "어? 선생님?",
+      "g_en": "Hm? Sensei?",
+      "g_th": "เอ๋? คุณครู?",
+      "g_tw": "咦，老師？",
+      "g_tw_cn": "咦，老师？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "4;노조미;02;어? 선생님?\\n#4;em;[반응]\\n#4;m3",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"こんにちは、ノゾミ。\"",
+      "j_ko": " \"안녕, 노조미.\"",
+      "g_ja": " \"こんにちは、ノゾミ。\"",
+      "g_ko": " \"안녕, 노조미.\"",
+      "g_en": " \"Hi, Nozomi.\"",
+      "g_th": " \"สวัสดี โนโซมิเองเหรอเนี่ย?\"",
+      "g_tw": "「嗨，希望。」",
+      "g_tw_cn": "「嗨，希望。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"안녕, 노조미.\"\\n[s2] \"역시 방금 열차를 운전한 사람은……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"もしかして、今の列車……。\"",
+      "j_ko": " \"역시 방금 열차를 운전한 사람은……\"",
+      "g_ja": " \"もしかして、今の列車……。\"",
+      "g_ko": " \"역시 방금 열차를 운전한 사람은……\"",
+      "g_en": " \"So you're driving the train today, huh?\"",
+      "g_th": " \"คนขับรถไฟเมื่อกี้คือโนโซมิเองเหรอ?\"",
+      "g_tw": "「剛才列車的駕駛員果然是……」",
+      "g_tw_cn": "「刚才列车的驾驶员果然是……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"안녕, 노조미.\"\\n[s2] \"역시 방금 열차를 운전한 사람은……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "パヒャヒャッ！運転手は私だよ！",
+      "j_ko": "파햐햐! 나야!",
+      "g_ja": "パヒャヒャッ！運転手は私だよ！",
+      "g_ko": "파햐햐! 나야!",
+      "g_en": "Pahyahya! Yep, it's me!",
+      "g_th": "วะฮะฮ่า! ฉันเอง!",
+      "g_tw": "噗哈哈！就是我沒錯！",
+      "g_tw_cn": "噗哈哈！就是我没错！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "4;노조미;03;파햐햐! 나야!\\n#4;em;[재잘]\\n#4;hophop",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 38,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "奇遇だね、先生も乗ってたんだ！",
+      "j_ko": "혹시 선생님도 타고 있었던 거? 이야~ 웬일이야?",
+      "g_ja": "奇遇だね、先生も乗ってたんだ！",
+      "g_ko": "혹시 선생님도 타고 있었던 거? 이야~ 웬일이야?",
+      "g_en": "So what're you doing here?",
+      "g_th": "คุณครูก็อยู่บนรถไฟด้วยเหรอ? โอ้~ บังเอิญจังเลยนะ",
+      "g_tw": "老師也在那班車上嗎？<br/>哎呀～還真巧呢！",
+      "g_tw_cn": "老师也在那班车上吗？<br/>哎呀～还真巧呢！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "4;노조미;09;혹시 선생님도 타고 있었던 거? 이야~ 웬일이야?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 39,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 39,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "で、ご感想は！？",
+      "j_ko": "그래서, 어땠어? 내 운전!",
+      "g_ja": "で、ご感想は！？",
+      "g_ko": "그래서, 어땠어? 내 운전!",
+      "g_en": "How do you like my driving, huh?",
+      "g_th": "การขับรถไฟของฉันเป็นยังไงบ้าง?",
+      "g_tw": "怎麼樣啊？我的駕駛技術！",
+      "g_tw_cn": "怎么样啊？我的驾驶技术！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "4;노조미;10;그래서, 어땠어? 내 운전!\\n#4;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 40,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"すごいスピード……だった……。\"",
+      "j_ko": " \"엄청나게 빠르더라……\"",
+      "g_ja": " \"すごいスピード……だった……。\"",
+      "g_ko": " \"엄청나게 빠르더라……\"",
+      "g_en": " \"It's incredibly fast...\"",
+      "g_th": " \"ซิ่งเหมือนรถไฟความเร็วสูงเลย...\"",
+      "g_tw": "「真的是超快的……」",
+      "g_tw_cn": "「真的是超快的……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"엄청나게 빠르더라……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私の列車に遅延の二文字はないからね！",
+      "j_ko": "후후후, 내가 운행하는 열차에 연착이란 있을 수 없지.",
+      "g_ja": "私の列車に遅延の二文字はないからね！",
+      "g_ko": "후후후, 내가 운행하는 열차에 연착이란 있을 수 없지.",
+      "g_en": "Fufufu, I'm always on time.",
+      "g_th": "ฮุฮุฮุ รถไฟขบวนที่ฉันขับไม่มีทางถึงที่หมายล่าช้าหรอก",
+      "g_tw": "哼哼哼，我開的列車不可能有誤點這種事！",
+      "g_tw_cn": "哼哼哼，我开的列车不可能有误点这种事！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "4;노조미;99;후후후, 내가 운행하는 열차에 연착이란 있을 수 없지.\\n#4;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "用事には間に合いそう？",
+      "j_ko": "출장, 안 늦었어?",
+      "g_ja": "用事には間に合いそう？",
+      "g_ko": "출장, 안 늦었어?",
+      "g_en": "Hope you're not late for anything!",
+      "g_th": "คุณครูไปทำงานทันใช่มั้ย?",
+      "g_tw": "出差沒遲到吧？",
+      "g_tw_cn": "出差没迟到吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "4;노조미;02;출장, 안 늦었어?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"うん、おかげさまで！\"",
+      "j_ko": " \"아, 으응. 덕분에 지각하지 않을 것 같아.\"",
+      "g_ja": " \"うん、おかげさまで！\"",
+      "g_ko": " \"아, 으응. 덕분에 지각하지 않을 것 같아.\"",
+      "g_en": " \"Ah, n-no. I think I'll be on time, thanks to you.\"",
+      "g_th": " \"อ่า... อื้อ น่าจะไปทันเวลาอยู่ ขอบใจนะ\"",
+      "g_tw": "「嗯，多虧了你，應該不會遲到。」",
+      "g_tw_cn": "「嗯，多亏了你，应该不会迟到。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"아, 으응. 덕분에 지각하지 않을 것 같아.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "よかったよかった。",
+      "j_ko": "그래? 잘됐네.",
+      "g_ja": "よかったよかった。",
+      "g_ko": "그래? 잘됐네.",
+      "g_en": "Nice, good to hear.",
+      "g_th": "งั้นเหรอ? โล่งอกไปทีนะ",
+      "g_tw": "是嗎？那就好。",
+      "g_tw_cn": "是吗？那就好。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "4;노조미;02;그래? 잘됐네.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "帰りはいつ頃なの？",
+      "j_ko": "돌아가는 건 언제쯤이야?",
+      "g_ja": "帰りはいつ頃なの？",
+      "g_ko": "돌아가는 건 언제쯤이야?",
+      "g_en": "When're you heading back?",
+      "g_th": "แล้วจะกลับตอนไหนเหรอ?",
+      "g_tw": "你預計什麼時候回去呀？",
+      "g_tw_cn": "你预计什么时候回去呀？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "4;노조미;08;돌아가는 건 언제쯤이야?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"夕方かな……。\"",
+      "j_ko": " \"저녁쯤일까……?\"",
+      "g_ja": " \"夕方かな……。\"",
+      "g_ko": " \"저녁쯤일까……?\"",
+      "g_en": " \"Evening, I suppose...\"",
+      "g_th": " \"น่าจะช่วงเย็นเลยนะ...? \"",
+      "g_tw": "「大概傍晚左右……？」",
+      "g_tw_cn": "「大概傍晚左右……？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"저녁쯤일까……?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "じゃ、終わったら連絡して。いってらっしゃい！",
+      "j_ko": "자, 그럼 일 잘 보고 와! 끝나면 연락하고!",
+      "g_ja": "じゃ、終わったら連絡して。いってらっしゃい！",
+      "g_ko": "자, 그럼 일 잘 보고 와! 끝나면 연락하고!",
+      "g_en": "Huh, good luck. Hope to see you when you're done!",
+      "g_th": "โอเค งั้นก็ตั้งใจทำงานนะ! เสร็จงานแล้วติดต่อมาล่ะ!",
+      "g_tw": "好，那工作完再見吧！結束後記得跟我聯絡！",
+      "g_tw_cn": "好，那工作完再见吧！结束后记得跟我联系！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "4;노조미;03;자, 그럼 일 잘 보고 와! 끝나면 연락하고!\\n#4;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 50,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_03"
+    }
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 52,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 53,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ノゾミは風のように去っていった……）",
+      "j_ko": "(노조미는 그렇게 바람처럼 사라졌다……)",
+      "g_ja": "（ノゾミは風のように去っていった……）",
+      "g_ko": "(노조미는 그렇게 바람처럼 사라졌다……)",
+      "g_en": "And Nozomi took off like the wind.",
+      "g_th": "(แล้วโนโซมิก็หายไปราวกับสายลม...)",
+      "g_tw": "（希望像風一般消失了……）",
+      "g_tw_cn": "（希望像风一般消失了……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(노조미는 그렇게 바람처럼 사라졌다……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 54,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2600499113
+    }
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 54,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 55,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（改札に入り、ノゾミに連絡すると……）",
+      "j_ko": "(일을 마치고, 노조미에게 연락하자……)",
+      "g_ja": "（改札に入り、ノゾミに連絡すると……）",
+      "g_ko": "(일을 마치고, 노조미에게 연락하자……)",
+      "g_en": "After work, I gave her a call...",
+      "g_th": "(เมื่อเลิกงาน คุณครูก็ติดต่อไปหาโนโซมิ...)",
+      "g_tw": "（在工作結束後，聯絡了希望……）",
+      "g_tw_cn": "（在工作结束后，联系了希望……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(일을 마치고, 노조미에게 연락하자……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 58,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Phone_02a"
+    }
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 59,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Radio_01"
+    }
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 59,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "タイミングいい！1番ホームに入るから、先頭車両に来てよ。",
+      "j_ko": "나이스 타이밍! 지금 1번 홈으로 들어오니까, 머리 쪽으로 와!",
+      "g_ja": "タイミングいい！1番ホームに入るから、先頭車両に来てよ。",
+      "g_ko": "나이스 타이밍! 지금 1번 홈으로 들어오니까, 머리 쪽으로 와!",
+      "g_en": "Hey, nice timing! I'm coming into Platform 1 right now, so just meet me at the front cabin!",
+      "g_th": "ไนซ์ ไทม์มิ่ง! ตอนนี้ฉันกำลังเข้าชานชาลาที่ 1 คุณครูมาที่หัวขบวนนะ!",
+      "g_tw": "時機正好！我現在正在進入1號月台，到車頭來找我吧！",
+      "g_tw_cn": "时机正好！我现在正在进入1号月台，到车头来找我吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "#na;노조미;나이스 타이밍! 지금 1번 홈으로 들어오니까, 머리 쪽으로 와!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 62,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_TrainMove_02"
+    }
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 63,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"えーっと、先頭だっけ……。\"",
+      "j_ko": " \"머리 쪽으로 오라고 했지……\"",
+      "g_ja": " \"えーっと、先頭だっけ……。\"",
+      "g_ko": " \"머리 쪽으로 오라고 했지……\"",
+      "g_en": " \"(The front cabin, she said...)\"",
+      "g_th": " \"ให้ไปที่หัวขบวนเนอะ...\"",
+      "g_tw": "「剛才是說車頭嗎……」",
+      "g_tw_cn": "「刚才是说车头吗……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"머리 쪽으로 오라고 했지……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 64,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 64,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 65,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_DoorOpen_06"
+    }
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 66,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "や、先生。",
+      "j_ko": "왔구나, 선생님!",
+      "g_ja": "や、先生。",
+      "g_ko": "왔구나, 선생님!",
+      "g_en": "There you are, Sensei!",
+      "g_th": "มาแล้วเหรอ คุณครู!",
+      "g_tw": "你來啦，老師！",
+      "g_tw_cn": "你来啦，老师！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "#na;노조미;왔구나, 선생님!",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ここでいいの……？\"",
+      "j_ko": " \"잠깐, 여기는……\"",
+      "g_ja": " \"ここでいいの……？\"",
+      "g_ko": " \"잠깐, 여기는……\"",
+      "g_en": " \"Hold on, isn't this...?\"",
+      "g_th": " \"เดี๋ยวนะ ที่นี่มัน...\"",
+      "g_tw": "「等等，這裡是……」",
+      "g_tw_cn": "「等等，这里是……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"잠깐, 여기는……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はやく乗った乗った！",
+      "j_ko": "어서 이리로 들어오도록 해! 곧 출발이거든!",
+      "g_ja": "はやく乗った乗った！",
+      "g_ko": "어서 이리로 들어오도록 해! 곧 출발이거든!",
+      "g_en": "Come on in! We're just about to start up!",
+      "g_th": "รีบเข้ามาในนี้เร็ว! รถไฟใกล้จะออกแล้ว!",
+      "g_tw": "快進來吧！馬上就要出發了！",
+      "g_tw_cn": "快进来吧！马上就要出发了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "#na;노조미;어서 이리로 들어오도록 해! 곧 출발이거든!",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ノゾミに促され、運転室に乗り込んだ）",
+      "j_ko": "(그렇게 노조미에게 이끌려 운전실에 들어가고 말았다……)",
+      "g_ja": "（ノゾミに促され、運転室に乗り込んだ）",
+      "g_ko": "(그렇게 노조미에게 이끌려 운전실에 들어가고 말았다……)",
+      "g_en": "Nozomi dragged me into the driver's compartment...",
+      "g_th": "(แล้วคุณครูก็ถูกโนโซมิลากเข้าไปในห้องควบคุม...)",
+      "g_tw": "（就這樣被希望拉進了駕駛室……）",
+      "g_tw_cn": "（就这样被希望拉进了驾驶室……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 노조미에게 이끌려 운전실에 들어가고 말았다……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"初めて入ったよ……\"",
+      "j_ko": " \"내가 여기 들어와도 되는 거야……?\"",
+      "g_ja": " \"初めて入ったよ……\"",
+      "g_ko": " \"내가 여기 들어와도 되는 거야……?\"",
+      "g_en": " \"Is it okay for me to be in here...?\"",
+      "g_th": " \"ครูเข้ามาในนี้ได้ด้วยเหรอ...?\"",
+      "g_tw": "「我可以進來這裡嗎……？」",
+      "g_tw_cn": "「我可以进来这里吗……？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"내가 여기 들어와도 되는 거야……?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 71,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いいよ、見学見学！",
+      "j_ko": "괜찮아, 괜찮아! 견학이니까!",
+      "g_ja": "いいよ、見学見学！",
+      "g_ko": "괜찮아, 괜찮아! 견학이니까!",
+      "g_en": "It's fine, it's fine! We'll call it a tour.",
+      "g_th": "ไม่เป็นไรหรอก ไม่เป็นไร! คิดว่ามาเรียนรู้นอกสถานที่แล้วกัน!",
+      "g_tw": "沒關係沒關係！就當作是來參觀的！",
+      "g_tw_cn": "没关系没关系！就当作是来参观的！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "#na;노조미;괜찮아, 괜찮아! 견학이니까!",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "んじゃ、出発進行～。",
+      "j_ko": "자아, 운행 시작한다아~!",
+      "g_ja": "んじゃ、出発進行～。",
+      "g_ko": "자아, 운행 시작한다아~!",
+      "g_en": "So, yeah, all aboard!",
+      "g_th": "เอาละ งั้นก็ออกเดินทางกันเลย~!",
+      "g_tw": "來，開始運行～！",
+      "g_tw_cn": "来，开始运行～！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "#na;노조미;자아, 운행 시작한다아~!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 75,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_PrisonDoor_01_Open"
+    }
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 76,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_TrainBreaking_01"
+    }
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 77,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2000320311
+    }
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 77,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 268
+    }
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 79,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2582805611
+    }
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 79,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:4860]― <cmd-char>노조미</cmd-char>運転室からの景色はどう？",
+      "j_ko": "[wa:4860]― <cmd-char>노조미</cmd-char>운전실의 풍경은 어때?",
+      "g_ja": "[wa:4860]― <cmd-char>노조미</cmd-char>運転室からの景色はどう？",
+      "g_ko": "[wa:4860]― <cmd-char>노조미</cmd-char>운전실의 풍경은 어때?",
+      "g_en": "― <cmd-char>노조미</cmd-char>You like the view?[wa:4620] ",
+      "g_th": "― <cmd-char>노조미</cmd-char>วิวจากห้องควบคุมเป็นยังไงบ้าง?[wa:4140] ",
+      "g_tw": "― <cmd-char>노조미</cmd-char>駕駛室看出去的景色如何啊？[wa:4820] ",
+      "g_tw_cn": "― <cmd-char>노조미</cmd-char>驾驶室看出去的景色如何啊？[wa:4820] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:4860]― [log=노조미]운전실의 풍경은 어때?[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 2582805611,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 82,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>노조미</cmd-char>この時間帯は特に綺麗でさ。",
+      "j_ko": "― <cmd-char>노조미</cmd-char>이 시간대는 특히 장관이지.",
+      "g_ja": "― <cmd-char>노조미</cmd-char>この時間帯は特に綺麗でさ。",
+      "g_ko": "― <cmd-char>노조미</cmd-char>이 시간대는 특히 장관이지.",
+      "g_en": "― <cmd-char>노조미</cmd-char>It always looks great around this time of day.",
+      "g_th": "― <cmd-char>노조미</cmd-char>ในเวลานี้วิวสวยมากเป็นพิเศษเลยละ",
+      "g_tw": "― <cmd-char>노조미</cmd-char>這個時段特別漂亮呢。",
+      "g_tw_cn": "― <cmd-char>노조미</cmd-char>这个时段特别漂亮呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;― [log=노조미]이 시간대는 특히 장관이지.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 84,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>노조미</cmd-char>好きなんだよね……[wa:2040]夕暮れ。",
+      "j_ko": "― <cmd-char>노조미</cmd-char>좋아하거든. [wa:1960]노을 말야.",
+      "g_ja": "― <cmd-char>노조미</cmd-char>好きなんだよね……[wa:2040]夕暮れ。",
+      "g_ko": "― <cmd-char>노조미</cmd-char>좋아하거든. [wa:1960]노을 말야.",
+      "g_en": "― <cmd-char>노조미</cmd-char>I like it. The sunset, I mean.[wa:1280] ",
+      "g_th": "― <cmd-char>노조미</cmd-char>ฉันชอบพระอาทิตย์ตกดินน่ะ[wa:1520] ",
+      "g_tw": "― <cmd-char>노조미</cmd-char>我還挺喜歡的……夕陽。[wa:2040] ",
+      "g_tw_cn": "― <cmd-char>노조미</cmd-char>我还挺喜欢的……夕阳。[wa:2040] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=노조미]좋아하거든. [wa:1960]노을 말야.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 87,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"カッコイイ……！\"",
+      "j_ko": " \"멋진데……!\" ",
+      "g_ja": " \"カッコイイ……！\"",
+      "g_ko": " \"멋진데……!\" ",
+      "g_en": " \"So cool...!\"",
+      "g_th": " \"โนโซมิเท่จังเลยนะ...!\" ",
+      "g_tw": "「真帥氣……！」",
+      "g_tw_cn": "「真帅气……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns3] \"멋진데……!\" \\n[ns4] \"열차 운전도 생각보다 복잡하구나.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 87,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"でも、列車の運転って難しそうだね。\"",
+      "j_ko": " \"열차 운전도 생각보다 복잡하구나.\"",
+      "g_ja": " \"でも、列車の運転って難しそうだね。\"",
+      "g_ko": " \"열차 운전도 생각보다 복잡하구나.\"",
+      "g_en": " \"Driving a train looks harder than I thought.\"",
+      "g_th": " \"การขับรถไฟมันดูซับซ้อนกว่าที่คิดอีกนะ\"",
+      "g_tw": "「列車的駕駛比想像還複雜很多呢。」",
+      "g_tw_cn": "「列车的驾驶比想像还复杂很多呢。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns3] \"멋진데……!\" \\n[ns4] \"열차 운전도 생각보다 복잡하구나.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 90,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3817030483
+    }
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 90,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1030]― <cmd-char>노조미</cmd-char>自動運転システムもあるんだけど、",
+      "j_ko": "[wa:1030]― <cmd-char>노조미</cmd-char>자동 운행 시스템도 있는데, ",
+      "g_ja": "[wa:1030]― <cmd-char>노조미</cmd-char>自動運転システムもあるんだけど、",
+      "g_ko": "[wa:1030]― <cmd-char>노조미</cmd-char>자동 운행 시스템도 있는데, ",
+      "g_en": "― <cmd-char>노조미</cmd-char>Well, it does have an autopilot...[wa:310] ",
+      "g_th": "― <cmd-char>노조미</cmd-char>เรามีระบบเดินรถอัตโนมัติ [wa:670] ",
+      "g_tw": "― <cmd-char>노조미</cmd-char>雖然有自動駕駛系統，[wa:1270] ",
+      "g_tw_cn": "― <cmd-char>노조미</cmd-char>虽然有自动驾驶系统，[wa:1270] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1030]― [log=노조미]자동 운행 시스템도 있는데, [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 3817030483,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 91,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2600]― <cmd-char>노조미</cmd-char>あんま使わないんだ。",
+      "j_ko": "[wa:2600]― <cmd-char>노조미</cmd-char>나는 잘 안 써. ",
+      "g_ja": "[wa:2600]― <cmd-char>노조미</cmd-char>あんま使わないんだ。",
+      "g_ko": "[wa:2600]― <cmd-char>노조미</cmd-char>나는 잘 안 써. ",
+      "g_en": "― <cmd-char>노조미</cmd-char>...but I don't use it too often.[wa:1720] ",
+      "g_th": "― <cmd-char>노조미</cmd-char>แต่ฉันไม่ค่อยได้ใช้หรอก [wa:2040] ",
+      "g_tw": "― <cmd-char>노조미</cmd-char>但我並不常用。[wa:2720] ",
+      "g_tw_cn": "― <cmd-char>노조미</cmd-char>但我并不常用。[wa:2720] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:2600]― [log=노조미]나는 잘 안 써. [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 94,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": " "
+    }
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 94,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>노조미</cmd-char>だってつまんないじゃん？",
+      "j_ko": "― <cmd-char>노조미</cmd-char>왜냐면 재미없잖아?[wa:40] ",
+      "g_ja": "― <cmd-char>노조미</cmd-char>だってつまんないじゃん？",
+      "g_ko": "― <cmd-char>노조미</cmd-char>왜냐면 재미없잖아?[wa:40] ",
+      "g_en": "― <cmd-char>노조미</cmd-char>It's boring, you know? [wa:10] ",
+      "g_th": "― <cmd-char>노조미</cmd-char>ก็มันไม่สนุกนี่นา? [wa:10] ",
+      "g_tw": "― <cmd-char>노조미</cmd-char>畢竟那樣不是很無聊嗎？[wa:40] ",
+      "g_tw_cn": "― <cmd-char>노조미</cmd-char>毕竟那样不是很无聊吗？[wa:40] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;― [log=노조미]왜냐면 재미없잖아?[wa:40] [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 95,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1480]― <cmd-char>노조미</cmd-char>運転はやっぱ[wa:1430]自分の手でやらなきゃ。",
+      "j_ko": "[wa:1480]― <cmd-char>노조미</cmd-char>운전은 역시[wa:1430] 내 손으로 해야지.",
+      "g_ja": "[wa:1480]― <cmd-char>노조미</cmd-char>運転はやっぱ[wa:1430]自分の手でやらなきゃ。",
+      "g_ko": "[wa:1480]― <cmd-char>노조미</cmd-char>운전은 역시[wa:1430] 내 손으로 해야지.",
+      "g_en": "― <cmd-char>노조미</cmd-char>I've got to take driving into my own hands.[wa:1870] ",
+      "g_th": "― <cmd-char>노조미</cmd-char>ต้องควบคุมรถไฟด้วยมือฉันสิ[wa:2550] ",
+      "g_tw": "― <cmd-char>노조미</cmd-char>駕駛果然還是得親手來才行。[wa:3070] ",
+      "g_tw_cn": "― <cmd-char>노조미</cmd-char>驾驶果然还是得亲手来才行。[wa:3070] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:1480]― [log=노조미]운전은 역시[wa:1430] 내 손으로 해야지.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 98,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2858282867
+    }
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 98,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:520]― <cmd-char>노조미</cmd-char>お？[wa:1430]先生もやってみる～？",
+      "j_ko": "[wa:520]― <cmd-char>노조미</cmd-char>오?[wa:1310] 선생님도 한번 해볼래?",
+      "g_ja": "[wa:520]― <cmd-char>노조미</cmd-char>お？[wa:1430]先生もやってみる～？",
+      "g_ko": "[wa:520]― <cmd-char>노조미</cmd-char>오?[wa:1310] 선생님도 한번 해볼래?",
+      "g_en": "― <cmd-char>노조미</cmd-char>Oh...would you like to give it a try, Sensei?[wa:630] ",
+      "g_th": "― <cmd-char>노조미</cmd-char>โอ๊ะ? คุณครูก็ลองดูสักครั้งมั้ยล่ะ?[wa:1030] ",
+      "g_tw": "― <cmd-char>노조미</cmd-char>哦？老師也想試試看嗎？[wa:1990] ",
+      "g_tw_cn": "― <cmd-char>노조미</cmd-char>哦？老师也想试试看吗？[wa:1990] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:520]― [log=노조미]오?[wa:1310] 선생님도 한번 해볼래?[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 2858282867,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 101,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"流石に怖いからやめとく！\"",
+      "j_ko": " \"아니! 무서워!\"",
+      "g_ja": " \"流石に怖いからやめとく！\"",
+      "g_ko": " \"아니! 무서워!\"",
+      "g_en": " \"No way! I'm too jittery!\"",
+      "g_th": " \"ไม่เอา! น่ากลัวออก!\"",
+      "g_tw": "「不用了！好可怕！」",
+      "g_tw_cn": "「不用了！好可怕！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"아니! 무서워!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 102,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 219143053
+    }
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 102,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:250]― <cmd-char>노조미</cmd-char>あはははっ！[wa:980]じょーだんじょーだん！",
+      "j_ko": "[wa:250]― <cmd-char>노조미</cmd-char>파햐햐~! [wa:980]농담이야, 농담![wa:40] ",
+      "g_ja": "[wa:250]― <cmd-char>노조미</cmd-char>あはははっ！[wa:980]じょーだんじょーだん！",
+      "g_ko": "[wa:250]― <cmd-char>노조미</cmd-char>파햐햐~! [wa:980]농담이야, 농담![wa:40] ",
+      "g_en": "― <cmd-char>노조미</cmd-char>Pahyahya! I'm kidding! [wa:990] ",
+      "g_th": "― <cmd-char>노조미</cmd-char>วะฮะฮ่า~! ล้อเล่นหรอกน่า ล้อเล่น! [wa:550] ",
+      "g_tw": "― <cmd-char>노조미</cmd-char>啊哈哈哈～！開個玩笑，開個玩笑啦！[wa:1230] ",
+      "g_tw_cn": "― <cmd-char>노조미</cmd-char>啊哈哈哈～！开个玩笑，开个玩笑啦！[wa:1230] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:250]― [log=노조미]파햐햐~! [wa:980]농담이야, 농담![wa:40] [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 219143053,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 105,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2110723384
+    }
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 105,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1080]― <cmd-char>노조미</cmd-char>先生は[wa:1440]機関士の免許ないし。",
+      "j_ko": "[wa:1080]― <cmd-char>노조미</cmd-char>선생님,[wa:1320] 기관사 면허 없잖아.",
+      "g_ja": "[wa:1080]― <cmd-char>노조미</cmd-char>先生は[wa:1440]機関士の免許ないし。",
+      "g_ko": "[wa:1080]― <cmd-char>노조미</cmd-char>선생님,[wa:1320] 기관사 면허 없잖아.",
+      "g_en": "― <cmd-char>노조미</cmd-char>Come on, Sensei, you need a license to drive a train.[wa:920] ",
+      "g_th": "― <cmd-char>노조미</cmd-char>ก็คุณครูไม่มีใบขับขี่รถไฟนี่[wa:1920] ",
+      "g_tw": "― <cmd-char>노조미</cmd-char>老師又沒有司機的駕照。[wa:2600] ",
+      "g_tw_cn": "― <cmd-char>노조미</cmd-char>老师又没有司机的驾照。[wa:2600] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1080]― [log=노조미]선생님,[wa:1320] 기관사 면허 없잖아.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 2110723384,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 107,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>노조미</cmd-char>いくらなんでも[wa:1640]流石に素人に触らせないよ。",
+      "j_ko": "― <cmd-char>노조미</cmd-char>아무리 그래도[wa:1520] 쌩초보에게 맡길 수는 없지.",
+      "g_ja": "― <cmd-char>노조미</cmd-char>いくらなんでも[wa:1640]流石に素人に触らせないよ。",
+      "g_ko": "― <cmd-char>노조미</cmd-char>아무리 그래도[wa:1520] 쌩초보에게 맡길 수는 없지.",
+      "g_en": "― <cmd-char>노조미</cmd-char>Like I'd just hand the controls to some total newbie.[wa:320] ",
+      "g_th": "― <cmd-char>노조미</cmd-char>ถึงยังไงฉันก็ให้มือใหม่มาขับไม่ได้หรอก[wa:920] ",
+      "g_tw": "― <cmd-char>노조미</cmd-char>再怎麼樣都不會給菜鳥碰的唷。[wa:1880] ",
+      "g_tw_cn": "― <cmd-char>노조미</cmd-char>再怎么样都不会给菜鸟碰的唷。[wa:1880] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=노조미]아무리 그래도[wa:1520] 쌩초보에게 맡길 수는 없지.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 110,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"よ、よかった……。\"",
+      "j_ko": " \"큭, 분하지만 사실이야……\"",
+      "g_ja": " \"よ、よかった……。\"",
+      "g_ko": " \"큭, 분하지만 사실이야……\"",
+      "g_en": " \"Yeah, fair point.\"",
+      "g_th": " \"อึก... ถึงจะน่าเจ็บใจ แต่มันก็เป็นเรื่องจริง...\"",
+      "g_tw": "「雖然不甘心，但這是事實沒錯……」",
+      "g_tw_cn": "「虽然不甘心，但这是事实没错……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"큭, 분하지만 사실이야……\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 111,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 112,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（そうして、ノゾミが運転する列車で帰ってきた）",
+      "j_ko": "(그렇게 노조미가 운행하는 열차를 타고 돌아왔다.)",
+      "g_ja": "（そうして、ノゾミが運転する列車で帰ってきた）",
+      "g_ko": "(그렇게 노조미가 운행하는 열차를 타고 돌아왔다.)",
+      "g_en": "And so, Nozomi drove me back on the train.",
+      "g_th": "(แล้วคุณครูก็นั่งรถไฟที่โนโซมิขับกลับมา)",
+      "g_tw": "（就這樣搭著希望駕駛的列車回去了）",
+      "g_tw_cn": "（就这样搭着希望驾驶的列车回去了）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 노조미가 운행하는 열차를 타고 돌아왔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 115,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_DoorOpen_06"
+    }
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 116,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 117,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1113387798
+    }
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 118,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"楽しかったよ。ありがとう\"",
+      "j_ko": " \"덕분에 특별한 경험을 했어, 노조미.\"",
+      "g_ja": " \"楽しかったよ。ありがとう\"",
+      "g_ko": " \"덕분에 특별한 경험을 했어, 노조미.\"",
+      "g_en": " \"Thanks for the unique experience, Nozomi.\"",
+      "g_th": " \"ขอบใจนะโนโซมิ ครูได้เปิดประสบการณ์พิเศษเลยละ\"",
+      "g_tw": "「謝謝你讓我有這段特別的經驗，希望。」",
+      "g_tw_cn": "「谢谢你让我有这段特别的经验，希望。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"덕분에 특별한 경험을 했어, 노조미.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 119,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "お礼なんていいよ！",
+      "j_ko": "파햐햐-! 뭘 또 그렇게까지!",
+      "g_ja": "お礼なんていいよ！",
+      "g_ko": "파햐햐-! 뭘 또 그렇게까지!",
+      "g_en": "Pahyahya! Don't mention it!",
+      "g_th": "วะฮะฮ่า! ถึงกับเป็นประสบการณ์พิเศษเลยเหรอ!",
+      "g_tw": "噗哈哈！不用這麼誇張啦！",
+      "g_tw_cn": "噗哈哈！不用这么夸张啦！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;03;파햐햐-! 뭘 또 그렇게까지!\\n#3;em;[음표]\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 120,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私も楽しかったし！パヒャヒャッ！",
+      "j_ko": "나도 재밌었거든!",
+      "g_ja": "私も楽しかったし！パヒャヒャッ！",
+      "g_ko": "나도 재밌었거든!",
+      "g_en": "It was fun for me too.",
+      "g_th": "ฉันก็สนุกเหมือนกัน!",
+      "g_tw": "我也覺得很好玩哦！",
+      "g_tw_cn": "我也觉得很好玩哦！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;10;나도 재밌었거든!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 96,
+    "AbsolutePos": 121,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"次は普通のお客さんとして乗るね。\"",
+      "j_ko": " \"재밌었지만, 다음에는 요금을 지불하고 객실에 탈게.\"",
+      "g_ja": " \"次は普通のお客さんとして乗るね。\"",
+      "g_ko": " \"재밌었지만, 다음에는 요금을 지불하고 객실에 탈게.\"",
+      "g_en": " \"Next time, though, I'll just buy a normal ticket and stay in my seat.\"",
+      "g_th": " \"แต่ครั้งหน้าครูขอซื้อตั๋วแล้วเป็นผู้โดยสารธรรมดาดีกว่า\"",
+      "g_tw": "「雖然好玩，但我下次還是要付錢坐在客艙裡。」",
+      "g_tw_cn": "「虽然好玩，但我下次还是要付钱坐在客舱里。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"재밌었지만, 다음에는 요금을 지불하고 객실에 탈게.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 97,
+    "AbsolutePos": 123,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"免許もないし……。\"",
+      "j_ko": " \"나는 기관사가 아니니까.\"",
+      "g_ja": " \"免許もないし……。\"",
+      "g_ko": " \"나는 기관사가 아니니까.\"",
+      "g_en": " \"Like you said, I don't have a license.\"",
+      "g_th": " \"ก็ครูไม่ใช่พนักงานขับรถไฟนี่เนอะ\"",
+      "g_tw": "「畢竟我不是駕駛員。」",
+      "g_tw_cn": "「毕竟我不是驾驶员。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns5] \"나는 기관사가 아니니까.\"\\n[ns6] \"선생님의 자리는 객실로. 어때?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 98,
+    "AbsolutePos": 123,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"私は客席ってことで、どうかな？\"",
+      "j_ko": " \"선생님의 자리는 객실로. 어때?\"",
+      "g_ja": " \"私は客席ってことで、どうかな？\"",
+      "g_ko": " \"선생님의 자리는 객실로. 어때?\"",
+      "g_en": " \"I'll just be a regular passenger. Sound good?\"",
+      "g_th": " \"ครูควรอยู่ในห้องโดยสารมากกว่าน่ะ\"",
+      "g_tw": "「老師的位子在客艙，怎麼樣？」",
+      "g_tw_cn": "「老师的位子在客舱，怎么样？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns5] \"나는 기관사가 아니니까.\"\\n[ns6] \"선생님의 자리는 객실로. 어때?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 99,
+    "AbsolutePos": 126,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふ～ん？ま、いーけど。",
+      "j_ko": "흐응~ 그래!",
+      "g_ja": "ふ～ん？ま、いーけど。",
+      "g_ko": "흐응~ 그래!",
+      "g_en": "Hmm. Yeah, if you like!",
+      "g_th": "ฮืม~ เอางั้นก็ได้!",
+      "g_tw": "哼嗯～好吧！",
+      "g_tw_cn": "哼嗯～好吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;09;흐응~ 그래!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 100,
+    "AbsolutePos": 127,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生は素人だもんね。パヒャッ！",
+      "j_ko": "선생님은 면허도 없는 초짜니까! 어쩔 수 없지~ 파햐햐!",
+      "g_ja": "先生は素人だもんね。パヒャッ！",
+      "g_ko": "선생님은 면허도 없는 초짜니까! 어쩔 수 없지~ 파햐햐!",
+      "g_en": "Probably better to keep you away from the controls. Pahyahya!",
+      "g_th": "ก็คุณครูเป็นมือใหม่ที่ไม่มีใบขับขี่นี่นา! งั้นก็ช่วยไม่ได้ละนะ~ วะฮะฮ่า!",
+      "g_tw": "誰叫老師是沒執照的菜鳥，這也沒辦法嘛～噗哈哈！",
+      "g_tw_cn": "谁叫老师是没执照的菜鸟，这也没办法嘛～噗哈哈！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2132488154,
+    "DataType": "speaker",
+    "Script": "3;노조미;03;선생님은 면허도 없는 초짜니까! 어쩔 수 없지~ 파햐햐!\\n#3;em;[재잘]\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 101,
+    "AbsolutePos": 128,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 102,
+    "AbsolutePos": 129,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（送ってくれたお礼として、ノゾミにアイスを買ってあげた）",
+      "j_ko": "(좋은 경험을 하게 해준 답례로 노조미에게 아이스크림을 사주었다.)",
+      "g_ja": "（送ってくれたお礼として、ノゾミにアイスを買ってあげた）",
+      "g_ko": "(좋은 경험을 하게 해준 답례로 노조미에게 아이스크림을 사주었다.)",
+      "g_en": "I bought Nozomi ice cream in return for the good experience.",
+      "g_th": "(แล้วคุณครูก็ซื้อไอศกรีมให้โนโซมิเป็นการตอบแทนสำหรับประสบการณ์ในห้องควบคุมรถไฟในครั้งนี้)",
+      "g_tw": "（作為這段特別體驗的回報，買了冰淇淋給希望吃）",
+      "g_tw_cn": "（作为这段特别体验的回报，买了冰淇淋给希望吃）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(좋은 경험을 하게 해준 답례로 노조미에게 아이스크림을 사주었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

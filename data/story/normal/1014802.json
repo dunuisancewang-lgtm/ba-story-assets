@@ -1,0 +1,1475 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1046815759
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">アウスフルークレリンと優雅な夏休み</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">아우스플뤼글러린과 우아한 휴일</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\"></span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">아우스플뤼글러린과 우아한 휴일</span>",
+      "g_en": "<span class=\"scenario-cmd-title\"></span>",
+      "g_th": "<span class=\"scenario-cmd-title\"></span>",
+      "g_tw": "<span class=\"scenario-cmd-title\"></span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\"></span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;아우스플뤼글러린과 우아한 휴일",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 1046815759,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Knock_01"
+    }
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_DoorOpen_01"
+    }
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 3,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 4
+    }
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 4,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "失礼します。",
+      "j_ko": "실례합니다.",
+      "g_ja": "",
+      "g_ko": "실례합니다.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;03;실례합니다.\\n#3;greeting\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……コーヒー、空じゃないですか。<br/>仕方ないですね。ポット、借りますよ。",
+      "j_ko": "아, 오늘 커피 안 따르셨네요. 포트 좀 빌릴게요.",
+      "g_ja": "",
+      "g_ko": "아, 오늘 커피 안 따르셨네요. 포트 좀 빌릴게요.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;02;아, 오늘 커피 안 따르셨네요. 포트 좀 빌릴게요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 8,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 10,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_03"
+    }
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "湯を沸かしてる間に、お菓子の準備を……あれ？ない。",
+      "j_ko": "물이 끓는 동안, 저번에 사둔 과자가…….",
+      "g_ja": "",
+      "g_ko": "물이 끓는 동안, 저번에 사둔 과자가…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "#na;이로하;물이 끓는 동안, 저번에 사둔 과자가…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ああ、棚に入れたんでしたっけ。",
+      "j_ko": "아참, 선반에 넣어뒀었죠.",
+      "g_ja": "",
+      "g_ko": "아참, 선반에 넣어뒀었죠.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "#na;이로하;아참, 선반에 넣어뒀었죠.",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Bulb",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 15,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SlideOpen_01"
+    }
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あとはソファを整えたら……。",
+      "j_ko": "그리고, 마지막으로 소파를 세팅하면.",
+      "g_ja": "",
+      "g_ko": "그리고, 마지막으로 소파를 세팅하면.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;01;그리고, 마지막으로 소파를 세팅하면.\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 20,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふぅ……これで完璧です。",
+      "j_ko": "……좋아, 이걸로 완벽하네요.",
+      "g_ja": "",
+      "g_ko": "……좋아, 이걸로 완벽하네요.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;03;……좋아, 이걸로 완벽하네요.\\n#3;em;[재잘]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……なんです？",
+      "j_ko": "왜 그러세요, 선생님?",
+      "g_ja": "",
+      "g_ko": "왜 그러세요, 선생님?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;02;왜 그러세요, 선생님?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"いえ、何でもありません。\"",
+      "j_ko": " \"아뇨, 아무것도 아닙니다.\"",
+      "g_ja": "",
+      "g_ko": " \"아뇨, 아무것도 아닙니다.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"아뇨, 아무것도 아닙니다.\"\\n[s2] \"지적하면 지는 거라 생각해.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"言ったら負けかな……。\"",
+      "j_ko": " \"지적하면 지는 거라 생각해.\"",
+      "g_ja": "",
+      "g_ko": " \"지적하면 지는 거라 생각해.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"아뇨, 아무것도 아닙니다.\"\\n[s2] \"지적하면 지는 거라 생각해.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 26,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こちらのことはお構いなく。",
+      "j_ko": "그런가요? 뭐, 너무 신경 쓰지 마세요.",
+      "g_ja": "",
+      "g_ko": "그런가요? 뭐, 너무 신경 쓰지 마세요.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;01;그런가요? 뭐, 너무 신경 쓰지 마세요.\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今日は邪魔するつもりはありませんから。<br/><ruby>万魔殿の仕事で<rp>(</rp><rt>パンデモニウム・ソサエティー</rt><rp>)</rp></ruby>来たわけでもないですし。",
+      "j_ko": "오늘은 딱히 방해할 생각 없거든요. 만마전 일로 방문한 것도 아니고.",
+      "g_ja": "",
+      "g_ko": "오늘은 딱히 방해할 생각 없거든요. 만마전 일로 방문한 것도 아니고.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;99;오늘은 딱히 방해할 생각 없거든요. 만마전 일로 방문한 것도 아니고.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 28,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "おとなしく読書してるので、仕事に集中してもらえれば。",
+      "j_ko": "얌전히 책만 읽을 테니까, 편하게 일하고 계세요.",
+      "g_ja": "",
+      "g_ko": "얌전히 책만 읽을 테니까, 편하게 일하고 계세요.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;03;얌전히 책만 읽을 테니까, 편하게 일하고 계세요.\\n#3;em;[음표]",
+    "BGMId": 999,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 29,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 30,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clock_02"
+    }
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 31,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（2時間後）",
+      "j_ko": "(2시간 후…….)",
+      "g_ja": "",
+      "g_ko": "(2시간 후…….)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(2시간 후…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 32,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1046815759
+    }
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 22
+    }
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_02"
+    }
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 33,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "…………。",
+      "j_ko": "………….",
+      "g_ja": "",
+      "g_ko": "………….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;01;………….\\n#3;greeting",
+    "BGMId": 22,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 36,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_02"
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（言葉通り、イロハはずっと本を読んでいた）",
+      "j_ko": "(평소와 똑같이 이로하는 책만 읽고 있다.)",
+      "g_ja": "",
+      "g_ko": "(평소와 똑같이 이로하는 책만 읽고 있다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "5;투명;00\\n#na;(평소와 똑같이 이로하는 책만 읽고 있다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 40,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_02"
+    }
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"えっと……。\"",
+      "j_ko": " \"저기, 그…….\"",
+      "g_ja": "",
+      "g_ko": " \"저기, 그…….\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns3] \"저기, 그…….\"\\n[ns4] \"내가 말하는 것도 우습긴 한데.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"私が言うのもあれだけどさ。\"",
+      "j_ko": " \"내가 말하는 것도 우습긴 한데.\"",
+      "g_ja": "",
+      "g_ko": " \"내가 말하는 것도 우습긴 한데.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns3] \"저기, 그…….\"\\n[ns4] \"내가 말하는 것도 우습긴 한데.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はい？どうかしましたか？",
+      "j_ko": "……네? 무슨 일인가요?",
+      "g_ja": "",
+      "g_ko": "……네? 무슨 일인가요?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;02;……네? 무슨 일인가요?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"せっかくの夏休みなんだし。\"",
+      "j_ko": " \"모처럼 여름휴가인데…….\"",
+      "g_ja": "",
+      "g_ko": " \"모처럼 여름휴가인데…….\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"모처럼 여름휴가인데…….\"\\n[s6] \"좀 더 여름휴가다운 휴양을 하는 게…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"もう少し夏らしく過ごすとかは……。\"",
+      "j_ko": " \"좀 더 여름휴가다운 휴양을 하는 게…….\"",
+      "g_ja": "",
+      "g_ko": " \"좀 더 여름휴가다운 휴양을 하는 게…….\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"모처럼 여름휴가인데…….\"\\n[s6] \"좀 더 여름휴가다운 휴양을 하는 게…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 48,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "…….",
+      "g_ja": "",
+      "g_ko": "…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;01;…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "…………。",
+      "j_ko": "………….",
+      "g_ja": "",
+      "g_ko": "………….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;99;………….\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 52,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_04"
+    }
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 53,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "なるほど。",
+      "j_ko": "아아, 과연. 이해했습니다.",
+      "g_ja": "",
+      "g_ko": "아아, 과연. 이해했습니다.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;03;아아, 과연. 이해했습니다.\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 54,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "では、出てってもらえますか？",
+      "j_ko": "잠깐 나가 주시겠어요?",
+      "g_ja": "",
+      "g_ko": "잠깐 나가 주시겠어요?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;02;잠깐 나가 주시겠어요?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 55,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"え？\"",
+      "j_ko": " \"네?\"",
+      "g_ja": "",
+      "g_ko": " \"네?\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"네?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私としてはどちらでも構いませんけど。",
+      "j_ko": "뭐, 저는 딱히 계셔도 상관은 없지만.",
+      "g_ja": "",
+      "g_ko": "뭐, 저는 딱히 계셔도 상관은 없지만.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;99;뭐, 저는 딱히 계셔도 상관은 없지만.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 57,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "残ると言うなら――",
+      "j_ko": "그렇게 되면…….",
+      "g_ja": "",
+      "g_ko": "그렇게 되면…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;01;그렇게 되면…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "責任、取っていただきますよ？",
+      "j_ko": "제대로 '책임'져 주실 거죠?",
+      "g_ja": "",
+      "g_ko": "제대로 '책임'져 주실 거죠?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "3;이로하;03;제대로 '책임'져 주실 거죠?\\n#3;a\\n#3;closeup\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 64,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 65,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（不安になり、急いで外に出た）",
+      "j_ko": "(불안한 마음이 들어, 서둘러 사무실 바깥으로 나왔다.)",
+      "g_ja": "",
+      "g_ko": "(불안한 마음이 들어, 서둘러 사무실 바깥으로 나왔다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(불안한 마음이 들어, 서둘러 사무실 바깥으로 나왔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 66,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（扉の前でしばらく待っていると……）",
+      "j_ko": "(그리고, 잠시 후…….)",
+      "g_ja": "",
+      "g_ko": "(그리고, 잠시 후…….)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그리고, 잠시 후…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "どうぞ。もういいですよ。",
+      "j_ko": "이제 들어오셔도 돼요.",
+      "g_ja": "",
+      "g_ko": "이제 들어오셔도 돼요.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2806697779,
+    "DataType": "speaker",
+    "Script": "#na;이로하;이제 들어오셔도 돼요.",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 68,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1046815759
+    }
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 68,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_DoorOpen_01"
+    }
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"聞きたいことは山ほどあるけど……。\"",
+      "j_ko": " \"그, 묻고 싶은 건 많은데. \"",
+      "g_ja": "",
+      "g_ko": " \"그, 묻고 싶은 건 많은데. \"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"그, 묻고 싶은 건 많은데. \"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"その格好は？\"",
+      "j_ko": " \"어째서 수영복 차림?\"",
+      "g_ja": "",
+      "g_ko": " \"어째서 수영복 차림?\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"어째서 수영복 차림?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 73,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "とぼけないでください。",
+      "j_ko": "네? 설마 발뺌하시는 건가요?",
+      "g_ja": "",
+      "g_ko": "네? 설마 발뺌하시는 건가요?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3009492682,
+    "DataType": "speaker",
+    "Script": "3;이로하 수영복;04;네? 설마 발뺌하시는 건가요?\\n#3;m4\\n#3;jump\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 74,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "水着姿を見たいと言ったのは先生じゃないですか。",
+      "j_ko": "조금 전에 제 수영복 차림이 보고 싶다고 그렇게 떼쓰셨잖아요?",
+      "g_ja": "",
+      "g_ko": "조금 전에 제 수영복 차림이 보고 싶다고 그렇게 떼쓰셨잖아요?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3009492682,
+    "DataType": "speaker",
+    "Script": "3;이로하 수영복;06;조금 전에 제 수영복 차림이 보고 싶다고 그렇게 떼쓰셨잖아요?\\n#3;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"言ったかなぁ！？\"",
+      "j_ko": " \"금시초문인데요?!\"",
+      "g_ja": "",
+      "g_ko": " \"금시초문인데요?!\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"금시초문인데요?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私はソファをお借りしている身。<br/>言われたら従うほかありません。",
+      "j_ko": "저로서는, 소파를 빌려 쓰는 입장이라 어쩔 수 없네요.",
+      "g_ja": "",
+      "g_ko": "저로서는, 소파를 빌려 쓰는 입장이라 어쩔 수 없네요.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3009492682,
+    "DataType": "speaker",
+    "Script": "3;이로하 수영복;14;저로서는, 소파를 빌려 쓰는 입장이라 어쩔 수 없네요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 77,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ですから、渋々、この格好で過ごしてあげます。",
+      "j_ko": "오늘 하루는 이 차림으로 보내는 수밖에요.",
+      "g_ja": "",
+      "g_ko": "오늘 하루는 이 차림으로 보내는 수밖에요.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3009492682,
+    "DataType": "speaker",
+    "Script": "3;이로하 수영복;15;오늘 하루는 이 차림으로 보내는 수밖에요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 78,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "…….",
+      "g_ja": "",
+      "g_ko": "…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3009492682,
+    "DataType": "speaker",
+    "Script": "3;이로하 수영복;18;…….\\n#3;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 79,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "では、読書に戻ります。",
+      "j_ko": "그러면, 다시 독서로 돌아갈 테니까, 이만.",
+      "g_ja": "",
+      "g_ko": "그러면, 다시 독서로 돌아갈 테니까, 이만.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3009492682,
+    "DataType": "speaker",
+    "Script": "3;이로하 수영복;24;그러면, 다시 독서로 돌아갈 테니까, 이만.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 82,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_01"
+    }
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 83,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……結局読書なんだね。\"",
+      "j_ko": " \"……복장은 바뀌어도, 하는 건 같구나.\"",
+      "g_ja": "",
+      "g_ko": " \"……복장은 바뀌어도, 하는 건 같구나.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"……복장은 바뀌어도, 하는 건 같구나.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 84,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もちろんです。",
+      "j_ko": "네? 뭐…… 그렇죠?",
+      "g_ja": "",
+      "g_ko": "네? 뭐…… 그렇죠?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3009492682,
+    "DataType": "speaker",
+    "Script": "3;이로하 수영복;02;네? 뭐…… 그렇죠?\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 88,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もしかして……この格好らしい「何か」をお望みですか？",
+      "j_ko": "아니면, 혹시 수영복 차림에 맞는 무언가를 하길 바라시는 걸까요?",
+      "g_ja": "",
+      "g_ko": "아니면, 혹시 수영복 차림에 맞는 무언가를 하길 바라시는 걸까요?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3009492682,
+    "DataType": "speaker",
+    "Script": "3;이로하 수영복;16;아니면, 혹시 수영복 차림에 맞는 무언가를 하길 바라시는 걸까요?\\n#3;a\\n#3;em;[하트]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Heart",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 89,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 7,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"いえ、とんでもない。\"",
+      "j_ko": " \"아뇨, 아닙니다.\"",
+      "g_ja": "",
+      "g_ko": " \"아뇨, 아닙니다.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"아뇨, 아닙니다.\"\\n[s8] \"독서는 훌륭하다고 생각합니다.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 89,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 8,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"読書っていいよね。\"",
+      "j_ko": " \"독서는 훌륭하다고 생각합니다.\"",
+      "g_ja": "",
+      "g_ko": " \"독서는 훌륭하다고 생각합니다.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"아뇨, 아닙니다.\"\\n[s8] \"독서는 훌륭하다고 생각합니다.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 93,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 94,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_02"
+    }
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 95,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_02"
+    }
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 96,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（イロハは最後まで水着姿で……そのまま帰った）",
+      "j_ko": "(결국, 그날 하루 종일 이로하는 수영복 차림으로 책을 읽다가 돌아갔다.)",
+      "g_ja": "",
+      "g_ko": "(결국, 그날 하루 종일 이로하는 수영복 차림으로 책을 읽다가 돌아갔다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(결국, 그날 하루 종일 이로하는 수영복 차림으로 책을 읽다가 돌아갔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 97,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（シャーレは生徒を水着姿で働かせている、という噂が広まった）",
+      "j_ko": "(몹시나 억울하게도, 샬레의 선생님이 학생을 수영복 차림으로 일하게 한다는 소문이 퍼졌다.)",
+      "g_ja": "",
+      "g_ko": "(몹시나 억울하게도, 샬레의 선생님이 학생을 수영복 차림으로 일하게 한다는 소문이 퍼졌다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(몹시나 억울하게도, 샬레의 선생님이 학생을 수영복 차림으로 일하게 한다는 소문이 퍼졌다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

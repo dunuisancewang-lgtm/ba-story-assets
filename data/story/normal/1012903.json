@@ -1,0 +1,2787 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1182291250
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">目が眩むほどに堂々と</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">눈이 멀 정도로 당당하게</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">目が眩むほどに堂々と</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">눈이 멀 정도로 당당하게</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">To Believe So Blindingly</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">โดดเด่นจนละสายตาไม่ได้</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">耀眼得令人眩目</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">耀眼得令人眩目</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;눈이 멀 정도로 당당하게",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 1182291250,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Bird_01"
+    }
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（今日も平和だなぁ……）",
+      "j_ko": "(오늘도 평화롭구나.)",
+      "g_ja": "（今日も平和だなぁ……）",
+      "g_ko": "(오늘도 평화롭구나.)",
+      "g_en": "It was another peaceful day...",
+      "g_th": "(วันนี้ช่างเป็นวันที่สงบสุขจริงๆ)",
+      "g_tw": "（今天也很和平呢）",
+      "g_tw_cn": "（今天也很和平呢）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(오늘도 평화롭구나.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 3,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（そんなことを思いながら、公園のベンチに座っていると……）",
+      "j_ko": "(라고 생각하며, 공원 벤치에 앉아 있었다.)",
+      "g_ja": "（そんなことを思いながら、公園のベンチに座っていると……）",
+      "g_ko": "(라고 생각하며, 공원 벤치에 앉아 있었다.)",
+      "g_en": "...or so I thought. I sat on a park bench.",
+      "g_th": "(คุณครูคิดแบบนั้นเลยออกมานั่งที่สวนสาธารณะ)",
+      "g_tw": "（正當懷抱著這樣的心情，坐在公園的長椅上時……）",
+      "g_tw_cn": "（正当怀抱着这样的心情，坐在公园的长椅上时……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(라고 생각하며, 공원 벤치에 앉아 있었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 7,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 8,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_05"
+    }
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 9,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1182291250
+    }
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 9,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 129
+    }
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生！",
+      "j_ko": "선생님!!",
+      "g_ja": "先生！",
+      "g_ko": "선생님!!",
+      "g_en": "Sensei!",
+      "g_th": "คุณครู!!",
+      "g_tw": "老師！！",
+      "g_tw_cn": "老师！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;06;선생님!!\\n#3;em;[!]\\n#3;closeup\\n#fontsize;80",
+    "BGMId": 129,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 1182291250,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "少し、後ろをお借りします！",
+      "j_ko": "잠시 벤치 뒤 좀 빌리겠습니다, 실례합니다!",
+      "g_ja": "少し、後ろをお借りします！",
+      "g_ko": "잠시 벤치 뒤 좀 빌리겠습니다, 실례합니다!",
+      "g_en": "I'll be requisitioning the space behind the bench for a moment. Please do not mind!",
+      "g_th": "ขอโทษนะคะ ฉันขอใช้พื้นที่ด้านหลังม้านั่งหน่อยนะคะ!",
+      "g_tw": "稍微借用一下長椅後方，恕我失禮了！",
+      "g_tw_cn": "稍微借用一下长椅后方，恕我失礼了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;05;잠시 벤치 뒤 좀 빌리겠습니다, 실례합니다!\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"スズミ！？どうしたの！？\"",
+      "j_ko": "\"스즈미?! 갑자기 왜??\"",
+      "g_ja": " \"スズミ！？どうしたの！？\"",
+      "g_ko": "\"스즈미?! 갑자기 왜??\"",
+      "g_en": "\"Suzumi?! What's happening?\"",
+      "g_th": " \"สึซึมิ?! จู่ๆ มีอะไรเหรอ??\"",
+      "g_tw": "「鈴美！？突然怎麼了？」",
+      "g_tw_cn": "「铃美！？突然怎么了？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s]\"스즈미?! 갑자기 왜??\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 14,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 15,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "前を向いて、素知らぬ顔をしていてください。",
+      "j_ko": "앞을 보고 태연하게 행동해 주십시오.",
+      "g_ja": "前を向いて、素知らぬ顔をしていてください。",
+      "g_ko": "앞을 보고 태연하게 행동해 주십시오.",
+      "g_en": "Keep your eyes forward. Act natural. Don't look at me.",
+      "g_th": "ช่วยมองไปข้างหน้าและทำนิ่งๆ ไว้ด้วยค่ะ",
+      "g_tw": "請您裝作若無其事地看向前方。",
+      "g_tw_cn": "请您装作若无其事地看向前方。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "#na;스즈미;앞을 보고 태연하게 행동해 주십시오.\\n#fontsize;50",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 18,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "追っ手がいます。",
+      "j_ko": "쫓기고 있습니다.",
+      "g_ja": "追っ手がいます。",
+      "g_ko": "쫓기고 있습니다.",
+      "g_en": "I am being pursued.",
+      "g_th": "ฉันถูกไล่ตามอยู่ค่ะ",
+      "g_tw": "我正在被人追趕。",
+      "g_tw_cn": "我正在被人追赶。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "#na;스즈미;쫓기고 있습니다.\\n#fontsize;50",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 19,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " 言う通りにする。",
+      "j_ko": "스즈미의 말에 따른다.",
+      "g_ja": " 言う通りにする。",
+      "g_ko": "스즈미의 말에 따른다.",
+      "g_en": "Follow Suzumi's orders.",
+      "g_th": " ทำตามที่สึซึมิบอก",
+      "g_tw": " 遵從鈴美的指示",
+      "g_tw_cn": " 遵从铃美的指示",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s]스즈미의 말에 따른다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 20,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1182291250
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 22,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_02"
+    }
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 24,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こっちにきたはずだ！",
+      "j_ko": "어디 갔어? 분명 이쪽으로 갔는데?",
+      "g_ja": "こっちにきたはずだ！",
+      "g_ko": "어디 갔어? 분명 이쪽으로 갔는데?",
+      "g_en": "Where'd she go? She went this way, right?",
+      "g_th": "หายไปไหนแล้วน่ะ? เห็นวิ่งมาทางนี้อยู่นะ",
+      "g_tw": "跑哪去了？明明是這個方向沒錯啊？",
+      "g_tw_cn": "跑哪去了？明明是这个方向没错啊？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1761870018,
+    "DataType": "speaker",
+    "Script": "1;불량배 스케반 A;02;어디 갔어? 분명 이쪽으로 갔는데?\\n#1;em;[빠직]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Angry",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 25,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 25,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あいつ、捕まえたら倍返しにしてやる！！",
+      "j_ko": "잡히면 똑같이 갚아주마!!!",
+      "g_ja": "あいつ、捕まえたら倍返しにしてやる！！",
+      "g_ko": "잡히면 똑같이 갚아주마!!!",
+      "g_en": "Catch her and make her pay! This is personal!",
+      "g_th": "ถ้าจับได้จะเอาคืนให้สาสมเลย!!!",
+      "g_tw": "抓到之後一定要給他好看！！！",
+      "g_tw_cn": "抓到之后一定要给他好看！！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2080377079,
+    "DataType": "speaker",
+    "Script": "3;불량배 스케반 B;02;잡히면 똑같이 갚아주마!!!\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 26,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_BoomEffect_01"
+    }
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 26,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "絶対逃がすなよ！",
+      "j_ko": "공원을 포위해!! 절대 못 나가게 해!!",
+      "g_ja": "絶対逃がすなよ！",
+      "g_ko": "공원을 포위해!! 절대 못 나가게 해!!",
+      "g_en": "Surround the park! Don't let her get out!",
+      "g_th": "ล้อมสวนสาธารณะไว้!! ห้ามให้ยัยนั่นออกไปได้เด็ดขาด!!",
+      "g_tw": "把公園包圍起來！！絕對不能讓他逃了！！",
+      "g_tw_cn": "把公园包围起来！！绝对不能让他逃了！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3861431074,
+    "DataType": "speaker",
+    "Script": "5;불량배 스케반 C;05;공원을 포위해!! 절대 못 나가게 해!!\\n#5;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "全員、公園を包囲しろ！",
+      "j_ko": "모두, 공원을 둘러싸!!",
+      "g_ja": "全員、公園を包囲しろ！",
+      "g_ko": "모두, 공원을 둘러싸!!",
+      "g_en": "Got it! Cover all the exits!",
+      "g_th": "พวกเรา! ไปล้อมสวนสาธารณะไว้!!",
+      "g_tw": "大家，圍住這個公園！！",
+      "g_tw_cn": "大家，围住这个公园！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3861431074,
+    "DataType": "speaker",
+    "Script": "5;불량배 스케반 C;02;모두, 공원을 둘러싸!!\\n#5;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "白い髪で、グレーのトリニティの制服だ。<br/>見つけたらその場でやっちまえ！",
+      "j_ko": "하얀 머리에 회색 트리니티 교복을 입은 녀석이 나오면 바로 작살내버려!",
+      "g_ja": "白い髪で、グレーのトリニティの制服だ。<br/>見つけたらその場でやっちまえ！",
+      "g_ko": "하얀 머리에 회색 트리니티 교복을 입은 녀석이 나오면 바로 작살내버려!",
+      "g_en": "If you see some white-haired pale freak in a Trinity uniform, take her out!",
+      "g_th": "ถ้าเจอยัยเด็กหัวขาวใส่ชุดนักเรียนทรีนิตี้สีเทาละก็จัดหนักได้เลย!",
+      "g_tw": "一旦看到白色頭髮、穿灰色三一制服的傢伙就直接幹掉！",
+      "g_tw_cn": "一旦看到白色头发、穿灰色三一制服的家伙就直接干掉！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3861431074,
+    "DataType": "speaker",
+    "Script": "5;불량배 스케반 C;02;하얀 머리에 회색 트리니티 교복을 입은 녀석이 나오면 바로 작살내버려!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_02"
+    }
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 33,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"スズミのファン？\"",
+      "j_ko": "\"팬들이야?\"",
+      "g_ja": " \"スズミのファン？\"",
+      "g_ko": "\"팬들이야?\"",
+      "g_en": "\"Your fans?\"",
+      "g_th": " \"กลุ่มแฟนคลับเหรอ?\"",
+      "g_tw": "「是你的粉絲嗎？」",
+      "g_tw_cn": "「是你的粉丝吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1]\"팬들이야?\"\\n[ns2]\"친구들이야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 33,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"スズミのお友達？\"",
+      "j_ko": "\"친구들이야?\"",
+      "g_ja": " \"スズミのお友達？\"",
+      "g_ko": "\"친구들이야?\"",
+      "g_en": "\"Your friends?\"",
+      "g_th": " \"เพื่อนๆ เหรอ?\"",
+      "g_tw": "「是你的朋友嗎？」",
+      "g_tw_cn": "「是你的朋友吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1]\"팬들이야?\"\\n[ns2]\"친구들이야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 36,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ではありません。",
+      "j_ko": "그럴 리가 없잖습니까.",
+      "g_ja": "……ではありません。",
+      "g_ko": "그럴 리가 없잖습니까.",
+      "g_en": "Quite the opposite.",
+      "g_th": "ใช่ที่ไหนกันล่ะคะ",
+      "g_tw": "……並不是這樣的。",
+      "g_tw_cn": "……并不是这样的。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "#na;스즈미;그럴 리가 없잖습니까.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 39,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 40,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "公園の外側の方へ行ったようですね……。",
+      "j_ko": "일단 공원 외곽으로 물러났군요.",
+      "g_ja": "公園の外側の方へ行ったようですね……。",
+      "g_ko": "일단 공원 외곽으로 물러났군요.",
+      "g_en": "They've retreated to the park outskirts for now.",
+      "g_th": "ดูเหมือนจะกระจายกันไปบริเวณรอบๆ สวนสาธารณะแล้วนะคะ",
+      "g_tw": "他們好像到公園外圍去了呢。",
+      "g_tw_cn": "他们好像到公园外围去了呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;02;일단 공원 외곽으로 물러났군요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "服のお直しに向かう途中で、奇襲を受けたんです。",
+      "j_ko": "알려주신 수선집에 가고 있었는데, 갑자기 기습당했습니다.",
+      "g_ja": "服のお直しに向かう途中で、奇襲を受けたんです。",
+      "g_ko": "알려주신 수선집에 가고 있었는데, 갑자기 기습당했습니다.",
+      "g_en": "You see, I was heading to the tailoring shop you mentioned, but was suddenly ambushed.",
+      "g_th": "ฉันกำลังเดินทางไปร้านซ่อมที่คุณครูบอก แต่จู่ๆ ก็โดนลอบโจมตีค่ะ",
+      "g_tw": "我正打算前往您推薦的修補店，結果就突然遭到了襲擊。",
+      "g_tw_cn": "我正打算前往您推荐的修补店，结果就突然遭到了袭击。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;05;알려주신 수선집에 가고 있었는데, 갑자기 기습당했습니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "弾薬が底をついてしまい、正面突破も難しく……。",
+      "j_ko": "애초에 노리고 함정을 판 모양입니다. 싸워보려 했지만, 탄약도 다 떨어졌습니다.",
+      "g_ja": "弾薬が底をついてしまい、正面突破も難しく……。",
+      "g_ko": "애초에 노리고 함정을 판 모양입니다. 싸워보려 했지만, 탄약도 다 떨어졌습니다.",
+      "g_en": "I believe it was an intentional trap. I attempted to defend myself, but ran out of ammo.",
+      "g_th": "ดูเหมือนจะวางกับดักไว้ตั้งแต่แรกแล้วด้วย ฉันพยายามตอบโต้แล้วแต่กระสุนดันมาหมดซะก่อนค่ะ",
+      "g_tw": "似乎是早已設下陷阱，打算在這裡埋伏我。<br/>雖然想試著反擊，不過手邊的彈藥已經用完了。",
+      "g_tw_cn": "似乎是早已设下陷阱，打算在这里埋伏我。<br/>虽然想试着反击，不过手边的弹药已经用完了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;04;애초에 노리고 함정을 판 모양입니다. 싸워보려 했지만, 탄약도 다 떨어졌습니다.\\n#3;em;[속상함]\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Upset",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生のおかげで危機は脱したものの、これからどうすれば良いか……。",
+      "j_ko": "선생님 덕분에 숨은 돌렸습니다만, 어떻게 해야 할지…….",
+      "g_ja": "先生のおかげで危機は脱したものの、これからどうすれば良いか……。",
+      "g_ko": "선생님 덕분에 숨은 돌렸습니다만, 어떻게 해야 할지…….",
+      "g_en": "Thanks to you, I can now catch my breath. Though, how I should proceed is unclear.",
+      "g_th": "ฉันรอดมาได้หวุดหวิดเพราะคุณครูเลย แต่ตอนนี้จะทำยังไงดี...",
+      "g_tw": "幸虧老師讓我有了喘息的機會，可是接下來該怎麼辦呢……",
+      "g_tw_cn": "幸亏老师让我有了喘息的机会，可是接下来该怎么办呢……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;99;선생님 덕분에 숨은 돌렸습니다만, 어떻게 해야 할지…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"相手は何人いるの？\"",
+      "j_ko": "\"상대가 몇 명이나 되는데?\"",
+      "g_ja": " \"相手は何人いるの？\"",
+      "g_ko": "\"상대가 몇 명이나 되는데?\"",
+      "g_en": "\"How many thugs are there?\"",
+      "g_th": " \"อีกฝ่ายมีกี่คนเหรอ?\"",
+      "g_tw": "「對方有多少人？」",
+      "g_tw_cn": "「对方有多少人？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s]\"상대가 몇 명이나 되는데?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "正確な数はわかりません……。",
+      "j_ko": "자세한 수치는 모르겠습니다만…….",
+      "g_ja": "正確な数はわかりません……。",
+      "g_ko": "자세한 수치는 모르겠습니다만…….",
+      "g_en": "I couldn't make an exact calculation.",
+      "g_th": "ฉันไม่รู้จำนวนที่แน่นอนหรอกค่ะ...",
+      "g_tw": "確切的人數我也不太清楚……",
+      "g_tw_cn": "确切的人数我也不太清楚……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;02;자세한 수치는 모르겠습니다만…….\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "道中で90人ほど制圧しましたが、まだ2倍以上の人数が残っているようで。",
+      "j_ko": "대충 90명까지는 제압했습니다만, 아직 두 배 이상은 남아있는 것 같습니다.",
+      "g_ja": "道中で90人ほど制圧しましたが、まだ2倍以上の人数が残っているようで。",
+      "g_ko": "대충 90명까지는 제압했습니다만, 아직 두 배 이상은 남아있는 것 같습니다.",
+      "g_en": "While I defeated roughly 90 people, I fear that was less than half of their true number.",
+      "g_th": "ฉันจับกุมไปคร่าวๆ แล้วประมาณ 90 คน น่าจะเหลืออีกสักประมาณ 180 คนได้ค่ะ",
+      "g_tw": "截至目前大約壓制了90人左右，但敵人還剩下兩倍以上。",
+      "g_tw_cn": "截至目前大约压制了90人左右，但敌人还剩下两倍以上。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;01;대충 90명까지는 제압했습니다만, 아직 두 배 이상은 남아있는 것 같습니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"90人！？\"",
+      "j_ko": "\"90명?!\"",
+      "g_ja": " \"90人！？\"",
+      "g_ko": "\"90명?!\"",
+      "g_en": "\"90?!\"",
+      "g_th": " \"จับไป 90 คนเรอะ?!\"",
+      "g_tw": "「90個人！？」",
+      "g_tw_cn": "「90个人！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3]\"90명?!\"\\n[s4]\"남은 상대는 그럼 200명 정도 되는 건가?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"あと200人はいるってこと！？\"",
+      "j_ko": "\"남은 상대는 그럼 200명 정도 되는 건가?\"",
+      "g_ja": " \"あと200人はいるってこと！？\"",
+      "g_ko": "\"남은 상대는 그럼 200명 정도 되는 건가?\"",
+      "g_en": "\"So, you're fighting against 200 people?\"",
+      "g_th": " \"เหลืออีกประมาณ 200 คนเหรอ?\"",
+      "g_tw": "「所以剩下的敵人還有200人左右？」",
+      "g_tw_cn": "「所以剩下的敌人还有200人左右？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3]\"90명?!\"\\n[s4]\"남은 상대는 그럼 200명 정도 되는 건가?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 50,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はい、おそらく。",
+      "j_ko": "아마…… 그럴 거라고 생각합니다.",
+      "g_ja": "はい、おそらく。",
+      "g_ko": "아마…… 그럴 거라고 생각합니다.",
+      "g_en": "That...may be accurate.",
+      "g_th": "ฉันคิดว่า... ประมาณนั้นค่ะ",
+      "g_tw": "我想……應該相去不遠。",
+      "g_tw_cn": "我想……应该相去不远。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;05;아마…… 그럴 거라고 생각합니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あの数を正面から相手にするのは難しいでしょう。",
+      "j_ko": "이대로라면 포위를 뚫고 나가기 힘들어 보입니다.",
+      "g_ja": "あの数を正面から相手にするのは難しいでしょう。",
+      "g_ko": "이대로라면 포위를 뚫고 나가기 힘들어 보입니다.",
+      "g_en": "Escaping appears to be....quite the challenge.",
+      "g_th": "ดูแล้วน่าจะฝ่าวงล้อมออกไปลำบากค่ะ",
+      "g_tw": "照這樣下去，恐怕很難突破包圍。",
+      "g_tw_cn": "照这样下去，恐怕很难突破包围。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;02;이대로라면 포위를 뚫고 나가기 힘들어 보입니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ふぅ。",
+      "j_ko": "……후…….",
+      "g_ja": "……ふぅ。",
+      "g_ko": "……후…….",
+      "g_en": "*sigh*",
+      "g_th": "ฮู่ว...",
+      "g_tw": "呼……",
+      "g_tw_cn": "呼……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;99;……후…….\\n#3;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 53,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ですが、先生のおかげで少し休めました。<br/>包囲が手薄なところをなんとか突破できないか、試してみます。",
+      "j_ko": "감사합니다. 선생님. 충분히 휴식했으니 약한 포위망은 뚫고 나갈 수 있을 겁니다.",
+      "g_ja": "ですが、先生のおかげで少し休めました。<br/>包囲が手薄なところをなんとか突破できないか、試してみます。",
+      "g_ko": "감사합니다. 선생님. 충분히 휴식했으니 약한 포위망은 뚫고 나갈 수 있을 겁니다.",
+      "g_en": "Thank you, Sensei. I think I've recovered slightly. I have assessed a weak point and will now rush to freedom.",
+      "g_th": "ขอบคุณนะคะ คุณครู ตอนนี้ฉันพักเพียงพอแล้ว มีแรงพอที่จะตีฝ่าวงล้อมออกไปแล้วค่ะ",
+      "g_tw": "謝謝您，老師。<br/>我已經休息夠了，應該能設法從較弱的地點加以突破。",
+      "g_tw_cn": "谢谢您，老师。<br/>我已经休息够了，应该能设法从较弱的地点加以突破。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;01;감사합니다. 선생님. 충분히 휴식했으니 약한 포위망은 뚫고 나갈 수 있을 겁니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 54,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "急いで公園を離れてください。巻き込むわけにはいきません。",
+      "j_ko": "휘말리지 않게 먼저 공원을 빠져나가십시오.",
+      "g_ja": "急いで公園を離れてください。 巻き込むわけにはいきません。",
+      "g_ko": "휘말리지 않게 먼저 공원을 빠져나가십시오.",
+      "g_en": "Please exit the park peacefully before then. I don't want you to be caught in the crossfire.",
+      "g_th": "คุณครูรีบออกไปจากสวนสาธารณะก่อนเถอะค่ะ จะได้ไม่โดนลูกหลงไปด้วย",
+      "g_tw": "為了避免受到波及，請您趕緊離開這座公園吧。",
+      "g_tw_cn": "为了避免受到波及，请您赶紧离开这座公园吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;05;휘말리지 않게 먼저 공원을 빠져나가십시오.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 57,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 59,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うっ……。",
+      "j_ko": "아얏…….",
+      "g_ja": "うっ……。",
+      "g_ko": "아얏…….",
+      "g_en": "Ow... Ah....",
+      "g_th": "อ๊ะ...",
+      "g_tw": "好痛……",
+      "g_tw_cn": "好痛……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;04;아얏…….\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 60,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"スズミ！怪我してる？\"",
+      "j_ko": "\"괜찮아? 다쳤어?\"",
+      "g_ja": " \"スズミ！怪我してる？\"",
+      "g_ko": "\"괜찮아? 다쳤어?\"",
+      "g_en": "\"Oh, are you hurt?\"",
+      "g_th": " \"เป็นอะไรรึเปล่า? บาดเจ็บเหรอ?\"",
+      "g_tw": "「還好嗎？是不是受傷了？」",
+      "g_tw_cn": "「还好吗？是不是受伤了？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s]\"괜찮아? 다쳤어?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "少し、足を捻ったみたいです。",
+      "j_ko": "살짝 삔 모양입니다.",
+      "g_ja": "少し、足を捻ったみたいです。",
+      "g_ko": "살짝 삔 모양입니다.",
+      "g_en": "I may have....slightly sprained my ankle.",
+      "g_th": "สงสัยว่าขาจะพลิกน่ะค่ะ",
+      "g_tw": "好像稍微扭到腳了。",
+      "g_tw_cn": "好像稍微扭到脚了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;06;살짝 삔 모양입니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 62,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "走れはしませんが……大丈夫です。",
+      "j_ko": "뛰기는 힘들겠군요. 그래도 어떻게든 해보면…….",
+      "g_ja": "走れはしませんが……大丈夫です。",
+      "g_ko": "뛰기는 힘들겠군요. 그래도 어떻게든 해보면…….",
+      "g_en": "I don't think I can run. But, perhaps, I can crawl my way to—",
+      "g_th": "แบบนี้คงจะวิ่งไม่ได้แล้ว แต่ยังไงก็ต้องลองดู...",
+      "g_tw": "要跑起來可能有點困難，不過總會有辦法的……",
+      "g_tw_cn": "要跑起来可能有点困难，不过总会有办法的……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;04;뛰기는 힘들겠군요. 그래도 어떻게든 해보면…….\\n#3;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Upset",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 63,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"無理しちゃダメ！\"",
+      "j_ko": "\"무리하면 안 돼!\"",
+      "g_ja": " \"無理しちゃダメ！\"",
+      "g_ko": "\"무리하면 안 돼!\"",
+      "g_en": "\"Don't overexert yourself!\"",
+      "g_th": " \"ห้ามฝืนตัวเองเด็ดขาดเลยนะ!\"",
+      "g_tw": "「不能勉強自己！」",
+      "g_tw_cn": "「不能勉强自己！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5]\"무리하면 안 돼!\"\\n[s6]\"다른 방법을 찾아보자!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 63,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"何か方法を探そう！\"",
+      "j_ko": "\"다른 방법을 찾아보자!\"",
+      "g_ja": " \"何か方法を探そう！\"",
+      "g_ko": "\"다른 방법을 찾아보자!\"",
+      "g_en": "\"Let's find another way!\"",
+      "g_th": " \"มาหาวิธีอื่นกันเถอะ!\"",
+      "g_tw": "「我們找找其他辦法吧！」",
+      "g_tw_cn": "「我们找找其他办法吧！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5]\"무리하면 안 돼!\"\\n[s6]\"다른 방법을 찾아보자!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 66,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03b"
+    }
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 66,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "彼女たちは私の姿を知っています。<br/>脱出時の衝突は……避けられません。",
+      "j_ko": "상대가 제 인상착의를 공유했기에 포위를 뚫으려면 충돌이 불가피합니다.",
+      "g_ja": "彼女たちは私の姿を知っています。<br/>脱出時の衝突は……避けられません。",
+      "g_ko": "상대가 제 인상착의를 공유했기에 포위를 뚫으려면 충돌이 불가피합니다.",
+      "g_en": "They...already know my appearance. They called me \"pale!\" I think a confrontation is inevitable, as I cannot sneak by.",
+      "g_th": "อีกฝ่ายเปิดเผยเรื่องลักษณะของฉันไปแล้ว ถ้าจะตีฝ่าวงล้อมออกไป การปะทะกันคงเป็นเรื่องที่หลีกเลี่ยงไม่ได้ค่ะ",
+      "g_tw": "對方已經掌握了我的特徵……想突破包圍勢必會引發衝突。",
+      "g_tw_cn": "对方已经掌握了我的特征……想突破包围势必会引发冲突。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;05;상대가 제 인상착의를 공유했기에 포위를 뚫으려면 충돌이 불가피합니다.\\n#3;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ここは私に任せて、先生はどうか……。",
+      "j_ko": "괜찮습니다. 제가 어떻게든 해볼 테니, 선생님은 부디…….",
+      "g_ja": "ここは私に任せて、先生はどうか……。",
+      "g_ko": "괜찮습니다. 제가 어떻게든 해볼 테니, 선생님은 부디…….",
+      "g_en": "It's all right. I'll do something about it, so you should...",
+      "g_th": "ไม่เป็นไรหรอกค่ะ ฉันจะลองหาทางเอง เพราะงั้น...",
+      "g_tw": "不必擔心，我會想辦法的。<br/>還請老師務必……",
+      "g_tw_cn": "不必担心，我会想办法的。<br/>还请老师务必……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;02;괜찮습니다. 제가 어떻게든 해볼 테니, 선생님은 부디…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 7,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……良い案を思いついたよ。\"",
+      "j_ko": "\"방법이 있긴 한데…….\"",
+      "g_ja": " \"……良い案を思いついたよ。\"",
+      "g_ko": "\"방법이 있긴 한데…….\"",
+      "g_en": "\"I have a good idea...\"",
+      "g_th": " \"ครูมีวิธีนะ...\"",
+      "g_tw": "「其實我有個好辦法……」",
+      "g_tw_cn": "「其实我有个好办法……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7]\"방법이 있긴 한데…….\"\\n[s8]\"내 말을 따라줬으면 좋겠어.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 8,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"私の言う通りにして。\"",
+      "j_ko": "\"내 말을 따라줬으면 좋겠어.\"",
+      "g_ja": " \"私の言う通りにして。\"",
+      "g_ko": "\"내 말을 따라줬으면 좋겠어.\"",
+      "g_en": "\"Please listen to me.\"",
+      "g_th": " \"ทำตามครูแล้วกันนะ\"",
+      "g_tw": "「希望你能按照我說的去做。」",
+      "g_tw_cn": "「希望你能按照我说的去做。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7]\"방법이 있긴 한데…….\"\\n[s8]\"내 말을 따라줬으면 좋겠어.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 71,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いえ、先生を危険にさらすなんて……！",
+      "j_ko": "선생님을 위험에 휘말리게 할 수는 없습니다!",
+      "g_ja": "いえ、先生を危険にさらすなんて……！",
+      "g_ko": "선생님을 위험에 휘말리게 할 수는 없습니다!",
+      "g_en": "I can't put you in danger, Sensei!",
+      "g_th": "ฉันคงทำเรื่องที่จะทำให้คุณครูเป็นอันตรายไม่ได้หรอกค่ะ!",
+      "g_tw": "我不能讓老師陷入危險！",
+      "g_tw_cn": "我不能让老师陷入危险！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;06;선생님을 위험에 휘말리게 할 수는 없습니다!\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"私はスズミの先生だよ？\"",
+      "j_ko": "\"나는 스즈미의 선생님인걸?\"",
+      "g_ja": " \"私はスズミの先生だよ？\"",
+      "g_ko": "\"나는 스즈미의 선생님인걸?\"",
+      "g_en": "\"But I'm YOUR Sensei, Suzumi.\"",
+      "g_th": " \"ครูเป็นครูของสึซึมินะ?\"",
+      "g_tw": "「我可是鈴美的老師哦？」",
+      "g_tw_cn": "「我可是铃美的老师哦？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s]\"나는 스즈미의 선생님인걸?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……分かりました。一体、どのような策なのでしょうか？",
+      "j_ko": "아…… 알겠습니다. 그러면 어떻게 해야…….",
+      "g_ja": "……分かりました。一体、どのような策なのでしょうか？",
+      "g_ko": "아…… 알겠습니다. 그러면 어떻게 해야…….",
+      "g_en": "O-Okay. Then what should I...",
+      "g_th": "ขะ... เข้าใจแล้วค่ะ ถ้างั้นต้องทำยังไงคะ...",
+      "g_tw": "啊……我明白了。<br/>那麼該怎麼做呢……",
+      "g_tw_cn": "啊……我明白了。<br/>那么该怎么做呢……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "3;스즈미;04;아…… 알겠습니다. 그러면 어떻게 해야…….\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 77,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 77,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 78,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_02"
+    }
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 79,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "せ、先生――",
+      "j_ko": "서, 선생님…….",
+      "g_ja": "せ、先生――",
+      "g_ko": "서, 선생님…….",
+      "g_en": "S-Sensei...",
+      "g_th": "คะ... คุณครู...",
+      "g_tw": "老，老師……",
+      "g_tw_cn": "老，老师……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1034441153,
+    "DataType": "speaker",
+    "Script": "#na;스즈미;서, 선생님…….",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 80,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1182291250
+    }
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 82,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 3
+    }
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 82,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Close_01"
+    }
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 82,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "この服を着るのが「良い案」なんですか！？",
+      "j_ko": "이 옷을 입는 게 '좋은 방법'인 건가요?!",
+      "g_ja": "この服を着るのが「良い案」なんですか！？",
+      "g_ko": "이 옷을 입는 게 '좋은 방법'인 건가요?!",
+      "g_en": "So...this outfit was your \"good idea\"?",
+      "g_th": "การใส่เสื้อตัวนี้คือ 'วิธีดีๆ' งั้นเหรอคะ?!",
+      "g_tw": "穿上這套衣服就是您所謂的「好辦法」嗎！？",
+      "g_tw_cn": "穿上这套衣服就是您所谓的「好办法」吗！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "3;스즈미 매지컬;17;이 옷을 입는 게 '좋은 방법'인 건가요?!\\n#3;closeup\\n#bgshake\\n#fontsize;80",
+    "BGMId": 3,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 83,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"直しに行く前でよかった！\"",
+      "j_ko": "\"마침 수선집에 가던 길이라서 다행이네!\"",
+      "g_ja": " \"直しに行く前でよかった！\"",
+      "g_ko": "\"마침 수선집에 가던 길이라서 다행이네!\"",
+      "g_en": "\"You already had it! You were on your way to the tailor!\"",
+      "g_th": " \"ค่อยยังชั่วที่กำลังจะเอาชุดไปซ่อมพอดีเลย!\"",
+      "g_tw": "「你剛好要去修補店，真是太巧了！」",
+      "g_tw_cn": "「你刚好要去修补店，真是太巧了！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s]\"마침 수선집에 가던 길이라서 다행이네!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 84,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "数で勝る相手に、これでは動きづらくて不利です。",
+      "j_ko": "수적으로 열세에 활동도 불편해서 오히려 불리할 겁니다.",
+      "g_ja": "数で勝る相手に、これでは動きづらくて不利です。",
+      "g_ko": "수적으로 열세에 활동도 불편해서 오히려 불리할 겁니다.",
+      "g_en": "This is a tactical disadvantage. We are outnumbered and this dress limits my maneuverability.",
+      "g_th": "ด้วยจำนวนที่น้อยกว่าและเคลื่อนไหวไม่สะดวกจะทำให้เป็นฝ่ายเสียเปรียบได้ค่ะ",
+      "g_tw": "人數本就屈於劣勢，行動不便又會導致情況更加不利。",
+      "g_tw_cn": "人数本就屈于劣势，行动不便又会导致情况更加不利。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "3;스즈미 매지컬;19;수적으로 열세에 활동도 불편해서 오히려 불리할 겁니다.\\n#3;em;[///]\\n#3;stiff\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 85,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もしかして……この状況でご冗談を……！？",
+      "j_ko": "자, 장난치시는 건가요?!",
+      "g_ja": "もしかして……この状況でご冗談を……！？",
+      "g_ko": "자, 장난치시는 건가요?!",
+      "g_en": "I-Is this a joke?!",
+      "g_th": "นะ... นี่กำลังล้อฉันเล่นอยู่เหรอคะ?!",
+      "g_tw": "您，您是在開玩笑嗎！？",
+      "g_tw_cn": "您，您是在开玩笑吗！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "3;스즈미 매지컬;00;자, 장난치시는 건가요?!\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 86,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 9,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"さっきの会話、聞こえてたでしょ？\"",
+      "j_ko": "\"아까 저기서 말했잖아?\"",
+      "g_ja": " \"さっきの 会 話、聞こえてたでしょ？\"",
+      "g_ko": "\"아까 저기서 말했잖아?\"",
+      "g_en": "\"But you heard them, right?\"",
+      "g_th": " \"เมื่อกี้พวกนั้นพูดมาแล้วนี่นา\"",
+      "g_tw": "「他們剛才不是這麼說的嗎？」",
+      "g_tw_cn": "「他们刚才不是这么说的吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s9]\"아까 저기서 말했잖아?\"\\n[s10]\"'회색 트리니티 교복을 입은 녀석'을 잡으라고.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 86,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 10,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"「グレーのトリニティの制服」って。\"",
+      "j_ko": "\"'회색 트리니티 교복을 입은 녀석'을 잡으라고.\"",
+      "g_ja": " \"「グレ ーのトリニティの制服」って。 \"",
+      "g_ko": "\"'회색 트리니티 교복을 입은 녀석'을 잡으라고.\"",
+      "g_en": "\"They're looking for a Trinity girl.\"",
+      "g_th": " \"พวกนั้นบอกว่าจะจับ 'เด็กที่ใส่ชุดนักเรียนทรีนิตี้สีเทา' น่ะ\"",
+      "g_tw": "「『穿灰色三一制服的傢伙』。」",
+      "g_tw_cn": "「『穿灰色三一制服的家伙』。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s9]\"아까 저기서 말했잖아?\"\\n[s10]\"'회색 트리니티 교복을 입은 녀석'을 잡으라고.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 89,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "！！",
+      "j_ko": "!!",
+      "g_ja": "！！",
+      "g_ko": "!!",
+      "g_en": "!",
+      "g_th": "!!",
+      "g_tw": "！！",
+      "g_tw_cn": "！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "3;스즈미 매지컬;14;!!\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 90,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そう、でしたね……。",
+      "j_ko": "그렇…… 군요. 확실히…….",
+      "g_ja": "そう、でしたね……。",
+      "g_ko": "그렇…… 군요. 확실히…….",
+      "g_en": "You're...compelling. Now that I consider it...",
+      "g_th": "อย่างนี้... นี่เอง... ",
+      "g_tw": "原來如此……",
+      "g_tw_cn": "原来如此……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "3;스즈미 매지컬;04;그렇…… 군요. 확실히…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 91,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "彼女たちの知る私の特徴は、すべて伝聞によるもの。",
+      "j_ko": "상대는 제 특징을 대부분 구두로 전달받았을 테고,",
+      "g_ja": "彼女たちの知る私の特徴は、すべて伝聞によるもの。",
+      "g_ko": "상대는 제 특징을 대부분 구두로 전달받았을 테고,",
+      "g_en": "They probably are looking for a girl in a gray Trinity uniform.",
+      "g_th": "อีกฝ่ายได้รับข้อมูลเกี่ยวกับลักษณะของฉันแค่การบอกปากต่อปาก",
+      "g_tw": "對方大多是以口頭方式傳達我的特徵……",
+      "g_tw_cn": "对方大多是以口头方式传达我的特征……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "3;스즈미 매지컬;99;상대는 제 특징을 대부분 구두로 전달받았을 테고,",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 92,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "写真は撮られていないようですので、具体的な見た目までは知らないはず。",
+      "j_ko": "제 구체적인 외모에 대해서 사진 같은 것이 없기에 그렇게 전파했을 겁니다.",
+      "g_ja": "写真は撮られていないようですので、具体的な見た目までは知らないはず。",
+      "g_ko": "제 구체적인 외모에 대해서 사진 같은 것이 없기에 그렇게 전파했을 겁니다.",
+      "g_en": "And I don't think they have a picture of me.",
+      "g_th": "ฉันคิดว่าพวกเขาคงจะแค่บอกต่อกันไปโดยไม่ได้มีรูปหรืออะไรที่บ่งบอกถึงตัวตนของฉันมากกว่านั้นค่ะ",
+      "g_tw": "就是因為沒有照片這類具體的外貌資訊，所以才會選擇這樣的方式吧。",
+      "g_tw_cn": "就是因为没有照片这类具体的外貌信息，所以才会选择这样的方式吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "3;스즈미 매지컬;01;제 구체적인 외모에 대해서 사진 같은 것이 없기에 그렇게 전파했을 겁니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 93,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "変装すれば……衝突なく抜け出せるかもしれません。",
+      "j_ko": "그래서 변장하면…… 충돌 없이 벗어날 수 있겠군요.",
+      "g_ja": "変装すれば……衝突なく抜け出せるかもしれません。",
+      "g_ko": "그래서 변장하면…… 충돌 없이 벗어날 수 있겠군요.",
+      "g_en": "Which is why, if I...may be so audacious, could I possibly sneak by with this disguise?",
+      "g_th": "เพราะงั้นถ้าปลอมตัวละก็... คงจะหลีกเลี่ยงการปะทะกันได้สินะคะ",
+      "g_tw": "因此只要變裝……就能在不引發衝突的情況下順利脫身。",
+      "g_tw_cn": "因此只要变装……就能在不引发冲突的情况下顺利脱身。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "3;스즈미 매지컬;16;그래서 변장하면…… 충돌 없이 벗어날 수 있겠군요.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 94,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 94,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でもこの格好は……やはり恥ずかしいです……!",
+      "j_ko": "그래도 이 모습은 역시 너무 부끄럽습니다……!",
+      "g_ja": "でもこの格好は……やはり恥ずかしいです……!",
+      "g_ko": "그래도 이 모습은 역시 너무 부끄럽습니다……!",
+      "g_en": "But still, this is too embarrassing...!",
+      "g_th": "แต่ถึงยังไงให้ใส่ชุดนี้ฉันก็เขินนะคะ...!",
+      "g_tw": "話雖如此，這副打扮還是太害羞了……！",
+      "g_tw_cn": "话虽如此，这副打扮还是太害羞了……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "3;스즈미 매지컬;19;그래도 이 모습은 역시 너무 부끄럽습니다……!\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 95,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 11,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"魔法少女は、正義の味方だから……。\"",
+      "j_ko": "\"마법소녀는 싸우는 정의의 투사.\"",
+      "g_ja": " \"魔法少女は、正義の味方だから……。\"",
+      "g_ko": "\"마법소녀는 싸우는 정의의 투사.\"",
+      "g_en": "\"Magical girls are warriors of justice.\"",
+      "g_th": " \"สาวน้อยเวทมนตร์คือผู้ที่ต่อสู้เพื่อความยุติธรรมนะ\"",
+      "g_tw": "「魔法少女是戰鬥的正義使者。」",
+      "g_tw_cn": "「魔法少女是战斗的正义使者。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s11]\"마법소녀는 싸우는 정의의 투사.\"\\n[s12]\"옷이 상황에 맞는 것 아닐까?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 95,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 12,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"まさに、この状況にピッタリだよ。\"",
+      "j_ko": "\"옷이 상황에 맞는 것 아닐까?\"",
+      "g_ja": " \"まさに、この 状況にピッタリだよ。 \"",
+      "g_ko": "\"옷이 상황에 맞는 것 아닐까?\"",
+      "g_en": "\"Don't you think the outfit suits the situation?\"",
+      "g_th": " \"ชุดมันก็เหมาะกับสถานการณ์ดีไม่ใช่เหรอ?\"",
+      "g_tw": "「這套服裝不是正好符合現在的情境嗎？」",
+      "g_tw_cn": "「这套服装不是正好符合现在的情境吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s11]\"마법소녀는 싸우는 정의의 투사.\"\\n[s12]\"옷이 상황에 맞는 것 아닐까?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 98,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そんなことを言われましても……<br/>はぁ、承知しました。",
+      "j_ko": "그렇게 말씀하신들……. 하아, 알겠습니다.",
+      "g_ja": "そんなことを言われましても……<br/>はぁ、承知しました。",
+      "g_ko": "그렇게 말씀하신들……. 하아, 알겠습니다.",
+      "g_en": "Even if you say that... *sigh* Fine.",
+      "g_th": "ถ้าคุณครูพูดถึงขนาดนั้น... เฮ้อ เข้าใจแล้วค่ะ",
+      "g_tw": "就算您這麼說……唉，好吧。",
+      "g_tw_cn": "就算您这么说……唉，好吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "3;스즈미 매지컬;06;그렇게 말씀하신들……. 하아, 알겠습니다.\\n#3;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Upset",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 99,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ひとまず、危険ですので先生は離れていてください。",
+      "j_ko": "선생님께서는 일단 안전을 위해 거리를 둬 주십시오.",
+      "g_ja": "ひとまず、危険ですので先生は離れていてください。",
+      "g_ko": "선생님께서는 일단 안전을 위해 거리를 둬 주십시오.",
+      "g_en": "But you should maintain some distance for your safety, Sensei.",
+      "g_th": "แต่ยังไงคุณครูก็ช่วยเว้นระยะเพื่อความปลอดภัยของตัวเองด้วยนะคะ",
+      "g_tw": "那麼為了安全起見，請老師先跟我保持距離。",
+      "g_tw_cn": "那么为了安全起见，请老师先跟我保持距离。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "3;스즈미 매지컬;00;선생님께서는 일단 안전을 위해 거리를 둬 주십시오.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 100,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 100,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"えっと、実は作戦には続きがあって――\"",
+      "j_ko": "\"사실, 계획이 한 단계 더 있는데…….\"",
+      "g_ja": " \"えっと、実は作戦には続きがあって――\"",
+      "g_ko": "\"사실, 계획이 한 단계 더 있는데…….\"",
+      "g_en": "\"Sorry. I still have a role to play.\"",
+      "g_th": " \"ที่จริงครูยังมีแผนอีกอย่างหนึ่งนะ\"",
+      "g_tw": "「其實我的計畫還有下一步……」",
+      "g_tw_cn": "「其实我的计划还有下一步……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s]\"사실, 계획이 한 단계 더 있는데…….\"",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 104,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2456616693
+    }
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 105,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 106,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 108,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 16
+    }
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 108,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今のところ見てないよな？例のトリニティの制服。",
+      "j_ko": "아직 안 나타났지? 트리니티 교복을 입은 녀석.",
+      "g_ja": "今のところ見てないよな？例のトリニティの制服。",
+      "g_ko": "아직 안 나타났지? 트리니티 교복을 입은 녀석.",
+      "g_en": "You haven't seen her, right? That Trinity girl?",
+      "g_th": "ยังไม่เจอตัวยัยเด็กที่ใส่ชุดนักเรียนทรีนิตี้ใช่มั้ย?",
+      "g_tw": "還沒出現對吧？那個穿著三一制服的傢伙。",
+      "g_tw_cn": "还没出现对吧？那个穿着三一制服的家伙。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2585557995,
+    "DataType": "speaker",
+    "Script": "4;불량배 스케반 X;05;아직 안 나타났지? 트리니티 교복을 입은 녀석.\\n#4;em;[반응]",
+    "BGMId": 16,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 109,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ああ、でも関係ないやつは外に出してるからな。<br/>時間の問題だ。",
+      "j_ko": "응. 다른 사람들은 포위를 풀어서 통과시키긴 했어.",
+      "g_ja": "ああ、でも関係ないやつは外に出してるからな。<br/>時間の問題だ。",
+      "g_ko": "응. 다른 사람들은 포위를 풀어서 통과시키긴 했어.",
+      "g_en": "Not yet. Plenty of others have come through, though...",
+      "g_th": "อื้อ ตอนนี้ก็ให้คนอื่นๆ ทยอยออกไปหาแล้วละ",
+      "g_tw": "嗯，其他人已經解除包圍放行了。",
+      "g_tw_cn": "嗯，其他人已经解除包围放行了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1440618627,
+    "DataType": "speaker",
+    "Script": "2;불량배 스케반 Y;05;응. 다른 사람들은 포위를 풀어서 통과시키긴 했어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 110,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Tampe_01"
+    }
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 110,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あいつ、絶対捕まえてボコボコに……！",
+      "j_ko": "걸리기만 해봐라, 아주 작살을 내줄 테니까!!",
+      "g_ja": "あいつ、絶対捕まえてボコボコに……！",
+      "g_ko": "걸리기만 해봐라, 아주 작살을 내줄 테니까!!",
+      "g_en": "She better start praying! I'll tear her apart!",
+      "g_th": "ถ้าจับได้จะขยี้ให้แหลกเลยคอยดู!!",
+      "g_tw": "要是被我逮到，絕對讓他吃不完兜著走！！",
+      "g_tw_cn": "要是被我逮到，绝对让他吃不完兜着走！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2585557995,
+    "DataType": "speaker",
+    "Script": "4;불량배 스케반 X;02;걸리기만 해봐라, 아주 작살을 내줄 테니까!!\\n#4;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 113,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 96,
+    "AbsolutePos": 114,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 97,
+    "AbsolutePos": 114,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_BushRusting_01a"
+    }
+  },
+  {
+    "ActualPos": 98,
+    "AbsolutePos": 115,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2456616693
+    }
+  },
+  {
+    "ActualPos": 99,
+    "AbsolutePos": 116,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……うん？",
+      "j_ko": "뭐야 저거?",
+      "g_ja": "……うん？",
+      "g_ko": "뭐야 저거?",
+      "g_en": "Who's that?",
+      "g_th": "นั่นอะไรน่ะ?",
+      "g_tw": "那是什麼？",
+      "g_tw_cn": "那是什么？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1440618627,
+    "DataType": "speaker",
+    "Script": "2;불량배 스케반 Y;00;뭐야 저거?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 100,
+    "AbsolutePos": 117,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "popup",
+      "Id": "popup30"
+    }
+  },
+  {
+    "ActualPos": 101,
+    "AbsolutePos": 118,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "popup",
+      "Id": "popup30"
+    }
+  },
+  {
+    "ActualPos": 102,
+    "AbsolutePos": 119,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound_popup",
+      "Data": [
+        "SE_Gear_02",
+        "popup30"
+      ]
+    }
+  },
+  {
+    "ActualPos": 103,
+    "AbsolutePos": 120,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 302
+    }
+  },
+  {
+    "ActualPos": 104,
+    "AbsolutePos": 120,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup30",
+    "Message": {
+      "j_ja": "て、テルミットホワイト、登場～！",
+      "j_ko": "테, 테르밋 화이트. 등장~!",
+      "g_ja": "て、テルミットホワイト、登場～！",
+      "g_ko": "테, 테르밋 화이트. 등장~!",
+      "g_en": "Th-Thermite White has arrived!",
+      "g_th": "ทะ... เทอร์ไมต์ ไวต์ปรากฏตัวแล้ว~!",
+      "g_tw": "Thermite White，登場～！",
+      "g_tw_cn": "Thermite White，登场～！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "3;스즈미 매지컬;17;테, 테르밋 화이트. 등장~!\\n#3;em;[///]\\n#3;closeup\\n#fontsize;80",
+    "BGMId": 302,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 105,
+    "AbsolutePos": 121,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "popup",
+      "Id": "popup30"
+    }
+  },
+  {
+    "ActualPos": 106,
+    "AbsolutePos": 121,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup30",
+    "Message": {
+      "j_ja": "",
+      "j_ko": "None",
+      "g_ja": "",
+      "g_ko": "None",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[0,0];instant;1;",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 107,
+    "AbsolutePos": 122,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "popup",
+      "Id": "popup30"
+    }
+  },
+  {
+    "ActualPos": 108,
+    "AbsolutePos": 123,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "popup",
+      "Id": "popup30"
+    }
+  },
+  {
+    "ActualPos": 109,
+    "AbsolutePos": 125,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "？？？？？",
+      "j_ko": "?????",
+      "g_ja": "？？？？？",
+      "g_ko": "?????",
+      "g_en": "?",
+      "g_th": "?????",
+      "g_tw": "？？？？？",
+      "g_tw_cn": "？？？？？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2585557995,
+    "DataType": "speaker",
+    "Script": "4;불량배 스케반 X;04;?????\\n#4;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 110,
+    "AbsolutePos": 126,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あれ、隣にいるのってシャーレの先生じゃね？",
+      "j_ko": "옆에 샬레의 선생 아냐?",
+      "g_ja": "あれ、隣にいるのってシャーレの先生じゃね？",
+      "g_ko": "옆에 샬레의 선생 아냐?",
+      "g_en": "Isn't that Schale's Sensei next to her?",
+      "g_th": "ข้างๆ นั่นคุณครูจากชาเล่ต์ใช่รึเปล่า?",
+      "g_tw": "旁邊那個人不是夏萊的老師嗎？",
+      "g_tw_cn": "旁边那个人不是夏莱的老师吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1440618627,
+    "DataType": "speaker",
+    "Script": "2;불량배 스케반 Y;04;옆에 샬레의 선생 아냐?\\n#2;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 111,
+    "AbsolutePos": 127,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "スマホで動画撮ってる……？",
+      "j_ko": "핸드폰으로 영상 찍고 있잖아?",
+      "g_ja": "スマホで動画撮ってる……？",
+      "g_ko": "핸드폰으로 영상 찍고 있잖아?",
+      "g_en": "They're taking a video with their phone?",
+      "g_th": "แถมกำลังใช้มือถือถ่ายวิดีโออยู่ด้วย?",
+      "g_tw": "是在用手機拍影片……？",
+      "g_tw_cn": "是在用手机拍视频……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2585557995,
+    "DataType": "speaker",
+    "Script": "4;불량배 스케반 X;06;핸드폰으로 영상 찍고 있잖아?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 112,
+    "AbsolutePos": 129,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup30",
+    "Message": {
+      "j_ja": "準備オッケーのシューターから、撃ち方～始め～！☆",
+      "j_ko": "준비된 사수로부터, 사격 개시! ☆",
+      "g_ja": "準備オッケーのシューターから、撃ち方～始め～！☆",
+      "g_ko": "준비된 사수로부터, 사격 개시! ☆",
+      "g_en": "The marksman is ready, fire! Pew! ☆",
+      "g_th": "เตรียมพร้อม... เปิดฉากยิงได้! ☆",
+      "g_tw": "從準備OK的Shooter開始射擊！☆",
+      "g_tw_cn": "从准备OK的Shooter开始射击！☆",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "3;스즈미 매지컬;13;준비된 사수로부터, 사격 개시! ☆\\n#3;em;[반짝]\\n#3;greeting\\n#3;closeup\\n#fontsize;80",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 113,
+    "AbsolutePos": 130,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup30",
+    "Message": {
+      "j_ja": " \"いいよいいよ！その照れがいい！サイコー！\"",
+      "j_ko": "\"좀 더 부끄러운 표정으로!\"",
+      "g_ja": " \"いいよいいよ！その照れがいい！サイコー！\"",
+      "g_ko": "\"좀 더 부끄러운 표정으로!\"",
+      "g_en": "\"A little more coy! Work it!\"",
+      "g_th": " \"ทำหน้าเขินๆ กว่านี้อีกหน่อยสิ!\"",
+      "g_tw": "「表情再害羞一點！」",
+      "g_tw_cn": "「表情再害羞一点！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s]\"좀 더 부끄러운 표정으로!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 114,
+    "AbsolutePos": 131,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "popup",
+      "Id": "popup30"
+    }
+  },
+  {
+    "ActualPos": 115,
+    "AbsolutePos": 131,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup30",
+    "Message": {
+      "j_ja": "",
+      "j_ko": "None",
+      "g_ja": "",
+      "g_ko": "None",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[0,0];instant;1;",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 116,
+    "AbsolutePos": 132,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "popup",
+      "Id": "popup30"
+    }
+  },
+  {
+    "ActualPos": 117,
+    "AbsolutePos": 133,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "popup",
+      "Id": "popup30"
+    }
+  },
+  {
+    "ActualPos": 118,
+    "AbsolutePos": 134,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "popup30",
+    "Message": {
+      "j_ja": "あ、あなたの瞳に……フラッシュバ～ン☆",
+      "j_ko": "다, 당신의 눈동자에…… 플래시뱅~☆",
+      "g_ja": "あ、あなたの瞳に……フラッシュバ～ン☆",
+      "g_ko": "다, 당신의 눈동자에…… 플래시뱅~☆",
+      "g_en": "R-Right in your eyes... Flashbang! ☆",
+      "g_th": "ดะ... ดวงตาของคุณ... กระแทกใจ~☆",
+      "g_tw": "向，向你的眼眸……釋放Flashbang～☆",
+      "g_tw_cn": "向，向你的眼眸……释放Flashbang～☆",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "3;스즈미 매지컬;18;다, 당신의 눈동자에…… 플래시뱅~☆\\n#3;closeup\\n#fontsize;80",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 119,
+    "AbsolutePos": 136,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生って、ああいう趣味なんだ……。",
+      "j_ko": "샬레의 선생님은 저런 취미가 있구나…….",
+      "g_ja": "先生って、ああいう趣味なんだ……。",
+      "g_ko": "샬레의 선생님은 저런 취미가 있구나…….",
+      "g_en": "So this is what Schale's Sensei is into...",
+      "g_th": "คุณครูของชาเล่ต์มีงานอดิเรกแบบนี้สินะ...",
+      "g_tw": "原來夏萊的老師有這種癖好啊……",
+      "g_tw_cn": "原来夏莱的老师有这种癖好啊……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2585557995,
+    "DataType": "speaker",
+    "Script": "2;불량배 스케반 Y;04\\n4;불량배 스케반 X;04;샬레의 선생님은 저런 취미가 있구나…….\\n#4;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 120,
+    "AbsolutePos": 137,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 121,
+    "AbsolutePos": 137,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "お、おい……こっちに来るぞ。退いてやれ。",
+      "j_ko": "야, 이쪽으로 온다. 포위 풀어서 비켜줘.",
+      "g_ja": "お、おい……こっちに来るぞ。退いてやれ。",
+      "g_ko": "야, 이쪽으로 온다. 포위 풀어서 비켜줘.",
+      "g_en": "They're gradually coming this way. Just let them pass.",
+      "g_th": "นี่ พวกเขามาทางนี้แล้ว หลีกทางไปเร็ว",
+      "g_tw": "喂，他往這邊過來了。<br/>解除包圍讓他通過吧。",
+      "g_tw_cn": "喂，他往这边过来了。<br/>解除包围让他通过吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1440618627,
+    "DataType": "speaker",
+    "Script": "4;불량배 스케반 X;04\\n2;불량배 스케반 Y;04;야, 이쪽으로 온다. 포위 풀어서 비켜줘.\\n#2;m3\\n#4;m5",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 122,
+    "AbsolutePos": 138,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……あれが噂の……シャーレの当番の仕事、なんだな。",
+      "j_ko": "저게 샬레에서 한다는 당번이 하는 일인가 봐.",
+      "g_ja": "……あれが噂の……シャーレの当番の仕事、なんだな。",
+      "g_ko": "저게 샬레에서 한다는 당번이 하는 일인가 봐.",
+      "g_en": "I guess this is standard Student Rep duty.",
+      "g_th": "สงสัยนั่นจะเป็นงาน 'เข้าเวรตัวแทน' ที่เลื่องลือของชาเล่ต์ละมั้ง",
+      "g_tw": "這就是夏萊的值日生工作嗎？",
+      "g_tw_cn": "这就是夏莱的值日生工作吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2585557995,
+    "DataType": "speaker",
+    "Script": "4;불량배 스케반 X;05;저게 샬레에서 한다는 당번이 하는 일인가 봐.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 123,
+    "AbsolutePos": 139,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "大変そうだ……。",
+      "j_ko": "어후…… 고생이 많네…….",
+      "g_ja": "大変そうだ……。",
+      "g_ko": "어후…… 고생이 많네…….",
+      "g_en": "Damn... These students have it rough...",
+      "g_th": "เฮ้อ... ดูเหนื่อยน่าดูเลย...",
+      "g_tw": "哇……真是太辛苦了……",
+      "g_tw_cn": "哇……真是太辛苦了……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1440618627,
+    "DataType": "speaker",
+    "Script": "2;불량배 스케반 Y;99;어후…… 고생이 많네…….\\n#2;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 124,
+    "AbsolutePos": 140,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "み、道をあけてくれてありがとうね！妖精さんたち！",
+      "j_ko": "비, 비켜줘서 고마워요. 요정 여러분!",
+      "g_ja": "み、道をあけてくれてありがとうね！妖精さんたち！",
+      "g_ko": "비, 비켜줘서 고마워요. 요정 여러분!",
+      "g_en": "Th-Thank you for letting us pass, my supportive fairies! Blessings upon you!",
+      "g_th": "ขะ... ขอบคุณที่เปิดทางให้นะคะ เหล่าภูตน้อย!",
+      "g_tw": "謝，謝謝你們讓我通過，各位妖精們！",
+      "g_tw_cn": "谢，谢谢你们让我通过，各位妖精们！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "1;스즈미 매지컬;13;비, 비켜줘서 고마워요. 요정 여러분!\\n#1;em;[반짝]\\n#1;ar\\n#1;hophop",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 125,
+    "AbsolutePos": 141,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、はい……。",
+      "j_ko": "아…… 네…….",
+      "g_ja": "あ、はい……。",
+      "g_ko": "아…… 네…….",
+      "g_en": "Ah... Sure...",
+      "g_th": "อ่า... ค่ะ...",
+      "g_tw": "啊……嗯……",
+      "g_tw_cn": "啊……嗯……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2585557995,
+    "DataType": "speaker",
+    "Script": "4;불량배 스케반 X;04;아…… 네…….\\n#4;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 126,
+    "AbsolutePos": 142,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "い、行こうぜ、先生と目合わせんなよ……。",
+      "j_ko": "가자, 선생하고 눈 마주칠라…….",
+      "g_ja": "い、行こうぜ、先生と目合わせんなよ……。",
+      "g_ko": "가자, 선생하고 눈 마주칠라…….",
+      "g_en": "Let's just beat it. Don't make eye contact with the teacher...",
+      "g_th": "ไปกันเถอะ อย่าไปสบตากับครูเข้าล่ะ...",
+      "g_tw": "快點走吧，免得跟那個老師對上視線……",
+      "g_tw_cn": "快点走吧，免得跟那个老师对上视线……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1440618627,
+    "DataType": "speaker",
+    "Script": "2;불량배 스케반 Y;01;가자, 선생하고 눈 마주칠라…….\\n#2;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 127,
+    "AbsolutePos": 145,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 128,
+    "AbsolutePos": 145,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 129,
+    "AbsolutePos": 146,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 130,
+    "AbsolutePos": 148,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……本当に、うまくいきましたね。",
+      "j_ko": "진짜로 먹혀들었군요.",
+      "g_ja": "……本当に、うまくいきましたね。",
+      "g_ko": "진짜로 먹혀들었군요.",
+      "g_en": "It actually worked.",
+      "g_th": "ได้ผลจริงๆ ด้วยค่ะ",
+      "g_tw": "真的成功了呢。",
+      "g_tw_cn": "真的成功了呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "1;스즈미 매지컬;06;진짜로 먹혀들었군요.\\n#1;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 131,
+    "AbsolutePos": 149,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まさか先生もカメラマンに「変身」する作戦とは……。",
+      "j_ko": "설마, 선생님께서도 카메라맨으로 '변신'하는 작전일 줄은…….",
+      "g_ja": "まさか先生もカメラマンに「変身」する作戦とは……。",
+      "g_ko": "설마, 선생님께서도 카메라맨으로 '변신'하는 작전일 줄은…….",
+      "g_en": "I appreciate your role, Sensei. Evidently, I needed a director.",
+      "g_th": "ฉันนึกไม่ถึงเลยว่าคุณครูจะวางแผน 'แปลงโฉม' เป็นตากล้องแบบนี้ด้วย...",
+      "g_tw": "沒想到老師的「變身」計劃，居然是擔任攝影師……",
+      "g_tw_cn": "没想到老师的「变身」计划，居然是担任摄影师……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "1;스즈미 매지컬;00;설마, 선생님께서도 카메라맨으로 '변신'하는 작전일 줄은…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 132,
+    "AbsolutePos": 150,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 262
+    }
+  },
+  {
+    "ActualPos": 133,
+    "AbsolutePos": 150,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 13,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"あ、今のところカットで。\"",
+      "j_ko": "\"아, 지금 건 편집할게.\"",
+      "g_ja": " \"あ、今のところカットで。\"",
+      "g_ko": "\"아, 지금 건 편집할게.\"",
+      "g_en": "\"We'll fix it in the edits.\"",
+      "g_th": " \"อ๋อ เดี๋ยวครูเอาไปตัดต่อให้นะ พูดต่อเลยๆ\"",
+      "g_tw": "「啊，剛才那段我會剪掉的。」",
+      "g_tw_cn": "「啊，刚才那段我会剪掉的。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s13]\"아, 지금 건 편집할게.\"\\n[s14]\"대사 계속 해! 테르밋 화이트!\"",
+    "BGMId": 262,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 134,
+    "AbsolutePos": 150,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 14,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"セリフを続けて！テルミットホワイト！\"",
+      "j_ko": "\"대사 계속 해! 테르밋 화이트!\"",
+      "g_ja": " \"セリフを 続けて！テルミットホワイト！ \"",
+      "g_ko": "\"대사 계속 해! 테르밋 화이트!\"",
+      "g_en": "\"Keep selling your lines, Thermite White!\"",
+      "g_th": " \"เอ้า ต่อบทได้เลย เทอร์ไมต์ ไวต์!\"",
+      "g_tw": "「繼續說台詞吧！Thermite White！」",
+      "g_tw_cn": "「继续说台词吧！Thermite White！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s13]\"아, 지금 건 편집할게.\"\\n[s14]\"대사 계속 해! 테르밋 화이트!\"",
+    "BGMId": 262,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 135,
+    "AbsolutePos": 155,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1693520842
+    }
+  },
+  {
+    "ActualPos": 136,
+    "AbsolutePos": 156,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Boom_02"
+    }
+  },
+  {
+    "ActualPos": 137,
+    "AbsolutePos": 156,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ほ、本当にカメラを回していたんですか！？",
+      "j_ko": "정말 찍고 계셨던 겁니까!!!!",
+      "g_ja": "ほ、本当にカメラを回していたんですか！？",
+      "g_ko": "정말 찍고 계셨던 겁니까!!!!",
+      "g_en": "Wait, you're really filming!?",
+      "g_th": "นี่คือกะถ่ายจริงจังเหรอคะ!!!!",
+      "g_tw": "原來您真的在拍嗎！！！！",
+      "g_tw_cn": "原来您真的在拍吗！！！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3323672404,
+    "DataType": "speaker",
+    "Script": "#na;스즈미 매지컬;정말 찍고 계셨던 겁니까!!!!\\n#fontsize;100\\n#bgshake",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 138,
+    "AbsolutePos": 157,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 139,
+    "AbsolutePos": 158,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（その後も、スケバンたちは私を避けていき……）",
+      "j_ko": "(이후, 스즈미와 함께 공원을 벗어났다.)",
+      "g_ja": "（その後も、スケバンたちは私を避けていき……）",
+      "g_ko": "(이후, 스즈미와 함께 공원을 벗어났다.)",
+      "g_en": "I escaped the park with Suzumi.",
+      "g_th": "(หลังจากนั้น คุณครูกับสึซึมิก็ออกมาจากสวนสาธารณะ)",
+      "g_tw": "（之後和鈴美一起離開了公園）",
+      "g_tw_cn": "（之后和铃美一起离开了公园）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(이후, 스즈미와 함께 공원을 벗어났다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 140,
+    "AbsolutePos": 159,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（スズミと無事、公園を抜け出すことができた）",
+      "j_ko": "(다른 불량배들도 날 보고 멀찌감치 피해주었다.)",
+      "g_ja": "（スズミと無事、公園を抜け出すことができた）",
+      "g_ko": "(다른 불량배들도 날 보고 멀찌감치 피해주었다.)",
+      "g_en": "The other thugs never suspected a thing. We passed through without issue.",
+      "g_th": "(กลุ่มนักเลงก็คอยเลี่ยงไม่เข้ามาใกล้ทั้งสองคนอีก)",
+      "g_tw": "（途中就算被其他太妹們看見，他們也都遠遠地避開了）",
+      "g_tw_cn": "（途中就算被其他太妹们看见，他们也都远远地避开了）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(다른 불량배들도 날 보고 멀찌감치 피해주었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

@@ -1,0 +1,1606 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2478421354
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 33
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">適切な温度について</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">적절한 온도에 대하여</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\"></span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">적절한 온도에 대하여</span>",
+      "g_en": "<span class=\"scenario-cmd-title\"></span>",
+      "g_th": "<span class=\"scenario-cmd-title\"></span>",
+      "g_tw": "<span class=\"scenario-cmd-title\"></span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\"></span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;적절한 온도에 대하여",
+    "BGMId": 33,
+    "Sound": "",
+    "BGName": 2478421354,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SlideOpen_01"
+    }
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ふぅ……。\"",
+      "j_ko": " \"후우…….\"",
+      "g_ja": "",
+      "g_ko": " \"후우…….\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"후우…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 3,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 4,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "お、上がったか。",
+      "j_ko": "오, 나왔구만. 나왔구만.",
+      "g_ja": "",
+      "g_ko": "오, 나왔구만. 나왔구만.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "#na;카스미 수영복;오, 나왔구만. 나왔구만.",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 7,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 8,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2478421354
+    }
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "堪能してもらえたかね？",
+      "j_ko": "탕은 좀 맞았어? 온도는 적절했고?",
+      "g_ja": "",
+      "g_ko": "탕은 좀 맞았어? 온도는 적절했고?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;00;탕은 좀 맞았어? 온도는 적절했고?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"良い湯加減だったよ。\"",
+      "j_ko": " \"딱 좋았어.\"",
+      "g_ja": "",
+      "g_ko": " \"딱 좋았어.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"딱 좋았어.\"\\n[s2] \"최고였어…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"最高だった……。\"",
+      "j_ko": " \"최고였어…….\"",
+      "g_ja": "",
+      "g_ko": " \"최고였어…….\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"딱 좋았어.\"\\n[s2] \"최고였어…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そうかそうか。みんなにも言ってやってくれ。喜ぶだろうからな。",
+      "j_ko": "이야, 부원들이 기뻐하겠구만.",
+      "g_ja": "",
+      "g_ko": "이야, 부원들이 기뻐하겠구만.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;14;이야, 부원들이 기뻐하겠구만.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 14,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "にしても、ここに温泉を作ったのは正解だった。道路を潰した甲斐があったな！",
+      "j_ko": "역시 도로를 허물고 온천을 지은 건 정답이었어.",
+      "g_ja": "",
+      "g_ko": "역시 도로를 허물고 온천을 지은 건 정답이었어.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;10;역시 도로를 허물고 온천을 지은 건 정답이었어.\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……なんて？\"",
+      "j_ko": " \"네?\"",
+      "g_ja": "",
+      "g_ko": " \"네?\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"네?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 16,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ああ、気にする必要は無い。温泉はぬる湯より――",
+      "j_ko": "아아, 신경 쓰지 마. 역시 온천수는 미지근한 것보다…….",
+      "g_ja": "",
+      "g_ko": "아아, 신경 쓰지 마. 역시 온천수는 미지근한 것보다…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;00;아아, 신경 쓰지 마. 역시 온천수는 미지근한 것보다…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 19,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 20,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_03"
+    }
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 21,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2478421354
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 21,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 22,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "部長、大変！風紀委員が来た！！",
+      "j_ko": "부장! 큰일이야! 선도부가 나타났어!",
+      "g_ja": "",
+      "g_ko": "부장! 큰일이야! 선도부가 나타났어!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1263855748,
+    "DataType": "speaker",
+    "Script": "3;온천개발부 부원;06;부장! 큰일이야! 선도부가 나타났어!\\n#3;hophop\\n#fontsize;80",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うん？計算通りなら、まだ2時間程度の猶予はあったはずだが……。",
+      "j_ko": "응? 내 계산에 따르면, 2시간은 더 걸릴 줄 알았는데?",
+      "g_ja": "",
+      "g_ko": "응? 내 계산에 따르면, 2시간은 더 걸릴 줄 알았는데?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;08;응? 내 계산에 따르면, 2시간은 더 걸릴 줄 알았는데?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 24,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ちっ、見回りのスケジュールが変わったのか？ツイてないな。",
+      "j_ko": "재수 없게 지나가는 선도부 순찰이라도 있었나.",
+      "g_ja": "",
+      "g_ko": "재수 없게 지나가는 선도부 순찰이라도 있었나.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;07;재수 없게 지나가는 선도부 순찰이라도 있었나.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……致し方あるまい。",
+      "j_ko": "……뭐.",
+      "g_ja": "",
+      "g_ko": "……뭐.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;10;……뭐.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "温泉で体もほぐれたことだ。ひとっ走りいこうじゃあないか！",
+      "j_ko": "모처럼 온천으로 몸도 가벼워졌으니까, 뛰어 보실까!",
+      "g_ja": "",
+      "g_ko": "모처럼 온천으로 몸도 가벼워졌으니까, 뛰어 보실까!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;03;모처럼 온천으로 몸도 가벼워졌으니까, 뛰어 보실까!\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ええっ！？\"",
+      "j_ko": " \"네?!\"",
+      "g_ja": "",
+      "g_ko": " \"네?!\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"네?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_03"
+    }
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 34,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1693520842
+    }
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 36,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_02"
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 37,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 39,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_PrisonDoor_01_Open"
+    }
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 40,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3265139521
+    }
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 40,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_PrisonDoor_01_Close"
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 41,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 130
+    }
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ハーハッハッハッハ！あっさり捕まってしまったな！",
+      "j_ko": "와~하하핫! 꼼짝없이 붙잡혔구만!",
+      "g_ja": "",
+      "g_ko": "와~하하핫! 꼼짝없이 붙잡혔구만!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;03;와~하하핫! 꼼짝없이 붙잡혔구만!\\n#3;em;[재잘]\\n#3;hophop\\n#3;a",
+    "BGMId": 130,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"どうして私まで……。\"",
+      "j_ko": " \"나는 왜……?\"",
+      "g_ja": "",
+      "g_ko": " \"나는 왜……?\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"나는 왜……?\"\\n[s4] \"뭐지, 버근가?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"なんでこんなことに……。\"",
+      "j_ko": " \"뭐지, 버근가?\"",
+      "g_ja": "",
+      "g_ko": " \"뭐지, 버근가?\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"나는 왜……?\"\\n[s4] \"뭐지, 버근가?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "心配しなくとも大丈夫さ。",
+      "j_ko": "뭐, 뭐, 걱정하지 말라고.",
+      "g_ja": "",
+      "g_ko": "뭐, 뭐, 걱정하지 말라고.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;10;뭐, 뭐, 걱정하지 말라고.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私はともかく、先生の潔白はすぐ明らかになるだろうからな。",
+      "j_ko": "나는 몰라도 선생님이야 곧 무고하다는 게 밝혀질 테니까.",
+      "g_ja": "",
+      "g_ko": "나는 몰라도 선생님이야 곧 무고하다는 게 밝혀질 테니까.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;01;나는 몰라도 선생님이야 곧 무고하다는 게 밝혀질 테니까.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私とて長居するつもりはないがね。",
+      "j_ko": "금방 나갈 거야. 물론, 나도 그렇고. 와하하핫!",
+      "g_ja": "",
+      "g_ko": "금방 나갈 거야. 물론, 나도 그렇고. 와하하핫!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;12;금방 나갈 거야. 물론, 나도 그렇고. 와하하핫!\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "にしても、よもや先生と一緒に放り込まれる日が来るとは。",
+      "j_ko": "……이야, 그렇다 해도, 설마 선생님이랑 깜방밥 먹는 사이가 될 줄이야.",
+      "g_ja": "",
+      "g_ko": "……이야, 그렇다 해도, 설마 선생님이랑 깜방밥 먹는 사이가 될 줄이야.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;15;……이야, 그렇다 해도, 설마 선생님이랑 깜방밥 먹는 사이가 될 줄이야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "人生とは予想外なことばかりだ。",
+      "j_ko": "정말 인생은 한치 앞도 모르겠구만.",
+      "g_ja": "",
+      "g_ko": "정말 인생은 한치 앞도 모르겠구만.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;10;정말 인생은 한치 앞도 모르겠구만.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 53,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まあ、これもまた醍醐味か。",
+      "j_ko": "그것이 삶의 즐거움 아니겠어?",
+      "g_ja": "",
+      "g_ko": "그것이 삶의 즐거움 아니겠어?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;11;그것이 삶의 즐거움 아니겠어?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 57,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……先生？",
+      "j_ko": "……음. 선생님?",
+      "g_ja": "",
+      "g_ko": "……음. 선생님?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;02;……음. 선생님?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 58,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "さっきから静かだが……。",
+      "j_ko": "아까부터 말이 없는데…….",
+      "g_ja": "",
+      "g_ko": "아까부터 말이 없는데…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;08;아까부터 말이 없는데…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 59,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……もしや怒っているのか？",
+      "j_ko": "……혹시 화가 났다든지?",
+      "g_ja": "",
+      "g_ko": "……혹시 화가 났다든지?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;07;……혹시 화가 났다든지?\\n#3;em;[땀]\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 60,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "弱ったな……今回ばかりは弁解の余地が……。",
+      "j_ko": "뭐, 이번 일은, 입이 백 개라도 할 말이 없기는 한데.",
+      "g_ja": "",
+      "g_ko": "뭐, 이번 일은, 입이 백 개라도 할 말이 없기는 한데.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;99;뭐, 이번 일은, 입이 백 개라도 할 말이 없기는 한데.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "強いて言えば、ちゃんと確認せず連行した風紀委員にも多少なり非は――",
+      "j_ko": "그렇지만 제대로 알아보지 않고 붙잡은 선도부 잘못도 없지는 않다고 생각하는데…….",
+      "g_ja": "",
+      "g_ko": "그렇지만 제대로 알아보지 않고 붙잡은 선도부 잘못도 없지는 않다고 생각하는데…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;01;그렇지만 제대로 알아보지 않고 붙잡은 선도부 잘못도 없지는 않다고 생각하는데…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 62,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"あ、違う違う。\"",
+      "j_ko": " \"아니, 그런 건 아니지만…….\"",
+      "g_ja": "",
+      "g_ko": " \"아니, 그런 건 아니지만…….\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"아니, 그런 건 아니지만…….\"\\n[s6] \"저번에 만났을 때랑 너무 달라져서.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 62,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"なんか、この間とカスミの印象が変わった気がして。\"",
+      "j_ko": " \"저번에 만났을 때랑 너무 달라져서.\"",
+      "g_ja": "",
+      "g_ko": " \"저번에 만났을 때랑 너무 달라져서.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"아니, 그런 건 아니지만…….\"\\n[s6] \"저번에 만났을 때랑 너무 달라져서.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 65,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "何の話だ？",
+      "j_ko": "응? 무슨 얘기일까?",
+      "g_ja": "",
+      "g_ko": "응? 무슨 얘기일까?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;02;응? 무슨 얘기일까?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 66,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "変わった……私が？",
+      "j_ko": "달라졌다고? 내가?",
+      "g_ja": "",
+      "g_ko": "달라졌다고? 내가?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;08;달라졌다고? 내가?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ああ、なるほど。それは少し違うな。",
+      "j_ko": "……아~ 과연~",
+      "g_ja": "",
+      "g_ko": "……아~ 과연~",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;99;……아~ 과연~",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<ruby>私<rp>(</rp><rt>・</rt><rp>)</rp></ruby><ruby>は<rp>(</rp><rt>・</rt><rp>)</rp></ruby>変わっていない。至っていつも通りだ。",
+      "j_ko": "반대야, 반대. 잘 생각해 봐. 나는 언제나 이랬어.",
+      "g_ja": "",
+      "g_ko": "반대야, 반대. 잘 생각해 봐. 나는 언제나 이랬어.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;10;반대야, 반대. 잘 생각해 봐. 나는 언제나 이랬어.\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "温泉のためなら何だってする、爆破と開発をこよなく愛する狂人。",
+      "j_ko": "온천을 위해서는 뭐든지 하는 괴짜. 발파와 개발을 너무나도 사랑하는 광인.",
+      "g_ja": "",
+      "g_ko": "온천을 위해서는 뭐든지 하는 괴짜. 발파와 개발을 너무나도 사랑하는 광인.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;14;온천을 위해서는 뭐든지 하는 괴짜. 발파와 개발을 너무나도 사랑하는 광인.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……そうだろう？",
+      "j_ko": "……그렇지?",
+      "g_ja": "",
+      "g_ko": "……그렇지?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;11;……그렇지?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 71,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 7,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"どっちが素なの？\"",
+      "j_ko": " \"어느 쪽이 진짜야?\"",
+      "g_ja": "",
+      "g_ko": " \"어느 쪽이 진짜야?\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"어느 쪽이 진짜야?\"\\n[s8] \"본심은?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 71,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 8,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"カスミの本心は？\"",
+      "j_ko": " \"본심은?\"",
+      "g_ja": "",
+      "g_ko": " \"본심은?\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"어느 쪽이 진짜야?\"\\n[s8] \"본심은?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 74,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "有利な方さ！",
+      "j_ko": "유리한 쪽!",
+      "g_ja": "",
+      "g_ko": "유리한 쪽!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;03;유리한 쪽!\\n#3;em;[음표]\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……そんな目で見ないでくれたまえ。どう思われるかに興味は無いのだよ。<br/>大事なのは、どう思わせるか、だ。",
+      "j_ko": "……너무 그렇게 보지 말라고. 나는 목적만 달성되면 그만인 사람이라.",
+      "g_ja": "",
+      "g_ko": "……너무 그렇게 보지 말라고. 나는 목적만 달성되면 그만인 사람이라.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;10;……너무 그렇게 보지 말라고. 나는 목적만 달성되면 그만인 사람이라.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生といる時は大人しくしている方が円満に終わりやすい。",
+      "j_ko": "선생님이랑 있을 때는 얌전하게 있는 편이 조용하고 원만하게 끝나지.",
+      "g_ja": "",
+      "g_ko": "선생님이랑 있을 때는 얌전하게 있는 편이 조용하고 원만하게 끝나지.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;11;선생님이랑 있을 때는 얌전하게 있는 편이 조용하고 원만하게 끝나지.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 77,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "しかし残念ながらほとんどの場合……。",
+      "j_ko": "하지만 유감스럽게도, 대부분 상황에서는…….",
+      "g_ja": "",
+      "g_ko": "하지만 유감스럽게도, 대부분 상황에서는…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;99;하지만 유감스럽게도, 대부분 상황에서는…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 78,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "だから、そうだな……大人しく捕まったと思わせておいて――",
+      "j_ko": "그, 뭐라고 할까, 예를 들자면, 순순히 붙잡힌 줄 알았더니…….",
+      "g_ja": "",
+      "g_ko": "그, 뭐라고 할까, 예를 들자면, 순순히 붙잡힌 줄 알았더니…….",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;15;그, 뭐라고 할까, 예를 들자면, 순순히 붙잡힌 줄 알았더니…….\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 82,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Boom_03_b"
+    }
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 83,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Boom_03_c"
+    }
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 84,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 85,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Boom_01"
+    }
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 86,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 556878083
+    }
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 88,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 88,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "げほっ、げほっ……！",
+      "j_ko": "콜록, 콜록……!",
+      "g_ja": "",
+      "g_ko": "콜록, 콜록……!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;07;콜록, 콜록……!\\n#3;stiff\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 89,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "思いの外ホコリが舞うな。次は別の方法にしよう。",
+      "j_ko": "이거 생각보다 먼지가 많이 날리네. 다음에는 방식을 좀 바꿔야지 원.",
+      "g_ja": "",
+      "g_ko": "이거 생각보다 먼지가 많이 날리네. 다음에는 방식을 좀 바꿔야지 원.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;10;이거 생각보다 먼지가 많이 날리네. 다음에는 방식을 좀 바꿔야지 원.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 92,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_02"
+    }
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 94,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "助けに来たよ！",
+      "j_ko": "부장! 선생님! 구하러 왔어!",
+      "g_ja": "",
+      "g_ko": "부장! 선생님! 구하러 왔어!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2731799849,
+    "DataType": "speaker",
+    "Script": "5;온천개발부 부원 A;00\\n1;온천개발부 부원 A;00\\n2;온천개발부 부원 A;03;부장! 선생님! 구하러 왔어!\\n#2;em;[!]\\n#2;jump",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 95,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "しばらく隠れてたら、みんなどっか行っちゃったの！部長の言う通りだったね！",
+      "j_ko": "부장이 말한 시간만큼 기다렸더니 진짜로 건물이 텅 비었네?",
+      "g_ja": "",
+      "g_ko": "부장이 말한 시간만큼 기다렸더니 진짜로 건물이 텅 비었네?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 354306519,
+    "DataType": "speaker",
+    "Script": "5;온천개발부 부원 A;00\\n1;온천개발부 부원 A;00\\n2;온천개발부 부원 A;03\\n4;온천개발부 부원 B;02;부장이 말한 시간만큼 기다렸더니 진짜로 건물이 텅 비었네?\\n#4;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 97,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そりゃあ本隊がまだだからな。陽動を仕掛ければ釣られてくれるだろうさ。",
+      "j_ko": "그야 본대가 안 왔으니까. 양동을 돌리면 당연히 한쪽이 비지.",
+      "g_ja": "",
+      "g_ko": "그야 본대가 안 왔으니까. 양동을 돌리면 당연히 한쪽이 비지.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;10;그야 본대가 안 왔으니까. 양동을 돌리면 당연히 한쪽이 비지.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 98,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……それで、何を話していたのだったか。",
+      "j_ko": "……아, 맞다. 어디까지 말했더라?",
+      "g_ja": "",
+      "g_ko": "……아, 맞다. 어디까지 말했더라?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;02;……아, 맞다. 어디까지 말했더라?\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 99,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3322378874
+    }
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 101,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ああ、そうだ。<br/>温泉は熱いに越したことは無いってことさ。",
+      "j_ko": "역시 온천수는 미지근한 것보다, 화끈한 편이 좋다는 거야.",
+      "g_ja": "",
+      "g_ko": "역시 온천수는 미지근한 것보다, 화끈한 편이 좋다는 거야.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "#na;카스미 수영복;역시 온천수는 미지근한 것보다, 화끈한 편이 좋다는 거야.",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

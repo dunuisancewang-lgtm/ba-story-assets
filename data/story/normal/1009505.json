@@ -1,0 +1,3238 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1194944144
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 6
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">覚えててくださいね、先生！</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">메이드를 기억해 주세요, 선생님.</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">覚えててくださいね、先生！</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">메이드를 기억해 주세요, 선생님.</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Please Remember the Maid, Sensei</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ช่วยจดจำเมดไว้ด้วยนะคะคุณครู</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">請別忘記女僕，老師</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">请别忘记女仆，老师</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;메이드를 기억해 주세요, 선생님.",
+    "BGMId": 6,
+    "Sound": "",
+    "BGName": 1194944144,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生、大変です！",
+      "j_ko": "그런데 생각해 보니 큰일 났어요!",
+      "g_ja": "先生、大変です！",
+      "g_ko": "그런데 생각해 보니 큰일 났어요!",
+      "g_en": "Now that I think about it, this is a big problem!",
+      "g_th": "พอมาคิดดู ฉันว่าเกิดเรื่องใหญ่แล้วค่ะ!",
+      "g_tw": "大事不好了！",
+      "g_tw_cn": "大事不好了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;10;그런데 생각해 보니 큰일 났어요!\\n#3;a\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"どうしたの？\"",
+      "j_ko": " \"갑자기 무슨 일이야, 미도리?!\"",
+      "g_ja": " \"どうしたの？\"",
+      "g_ko": " \"갑자기 무슨 일이야, 미도리?!\"",
+      "g_en": " \"What is it all of a sudden, Midori?!\"",
+      "g_th": " \"จู่ๆ มีเรื่องอะไรเหรอ มิโดริ?!\"",
+      "g_tw": "「突然怎麼了，綠！？」",
+      "g_tw_cn": "「突然怎么了，绿！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"갑자기 무슨 일이야, 미도리?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 3,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私が今回メイドになったのは、ゲームのキャラデザのためでした。",
+      "j_ko": "그, 제가 선생님만의 메이드가 되겠다고 한 건, 메이드가 주인공인 게임의 원화를 구상하기 위해서였잖아요?",
+      "g_ja": "私が今回メイドになったのは、ゲームのキャラデザのためでした。",
+      "g_ko": "그, 제가 선생님만의 메이드가 되겠다고 한 건, 메이드가 주인공인 게임의 원화를 구상하기 위해서였잖아요?",
+      "g_en": "The reason I agreed to be your personal maid was to help with creating the concept art for a game about a maid, right?",
+      "g_th": "เอ่อ ที่ฉันบอกว่าจะเป็นเมดให้คุณครู เพื่อวาดรูปต้นแบบของเกมที่มีเมดเป็นตัวละครหลักน่ะค่ะ",
+      "g_tw": "我之所以說要當老師的專屬女僕，是為了構想以女僕為主角的遊戲原畫對吧？",
+      "g_tw_cn": "我之所以说要当老师的专属女仆，是为了构想以女仆为主角的游戏原画对吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;07;그, 제가 선생님만의 메이드가 되겠다고 한 건, 메이드가 주인공인 게임의 원화를 구상하기 위해서였잖아요?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 4,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それなのに、思い返してみると……。",
+      "j_ko": "그런데 떠올려 보니…….",
+      "g_ja": "それなのに、思い返してみると……。",
+      "g_ko": "그런데 떠올려 보니…….",
+      "g_en": "But come to think of it...",
+      "g_th": "แต่พอมาคิดดูแล้ว...",
+      "g_tw": "可是現在回頭想想……",
+      "g_tw_cn": "可是现在回头想想……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;99;그런데 떠올려 보니…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 5,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 6,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1194944144
+    }
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 8,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 9,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4109704018
+    }
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 11,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 12,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3142076176
+    }
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 14,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 15,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1194944144
+    }
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 16,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私、先生と遊んでばかりだった気がします！",
+      "j_ko": "저, 지금까지 선생님과 놀기만 한 것 같아요!",
+      "g_ja": "私、先生と遊んでばかりだった気がします！",
+      "g_ko": "저, 지금까지 선생님과 놀기만 한 것 같아요!",
+      "g_en": "It seems like I've just been having fun with you this whole time!",
+      "g_th": "มะ... เหมือนที่ผ่านมาฉันเอาแต่เที่ยวเล่นกับคุณครูเลยค่ะ!",
+      "g_tw": "到現在為止，我好像一直都在跟老師玩！",
+      "g_tw_cn": "到现在为止，我好像一直都在跟老师玩！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;12;저, 지금까지 선생님과 놀기만 한 것 같아요!\\n#3;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Upset",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"大丈夫、大丈夫……。\"",
+      "j_ko": " \"괜찮아, 괜찮아…….\"",
+      "g_ja": " \"大丈夫、大丈夫……。\"",
+      "g_ko": " \"괜찮아, 괜찮아…….\"",
+      "g_en": " \"It's okay, it's okay...\"",
+      "g_th": " \"ไม่เป็นไรหรอก ไม่เป็นไร...\"",
+      "g_tw": "「沒關係沒關係……」",
+      "g_tw_cn": "「没关系没关系……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"괜찮아, 괜찮아…….\"\\n[s2] \"학생은 원래 놀면서 크는 거야…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"遊びながら学んでいくものだよ。\"",
+      "j_ko": " \"학생은 원래 놀면서 크는 거야…….\"",
+      "g_ja": " \"遊びながら学んでいくものだよ。\"",
+      "g_ko": " \"학생은 원래 놀면서 크는 거야…….\"",
+      "g_en": " \"Students are supposed to have fun while they're growing up...\"",
+      "g_th": " \"เป็นนักเรียนก็ต้องเที่ยวเล่นแบบนี้ละ...\"",
+      "g_tw": "「學生本來就是邊玩邊長大……」",
+      "g_tw_cn": "「学生本来就是边玩边长大……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"괜찮아, 괜찮아…….\"\\n[s2] \"학생은 원래 놀면서 크는 거야…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 20,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でも、学生の本分は勉強のはずですよね？",
+      "j_ko": "그렇지만 학생의 본분은 원래 공부 아닌가요?",
+      "g_ja": "でも、学生の本分は勉強のはずですよね？",
+      "g_ko": "그렇지만 학생의 본분은 원래 공부 아닌가요?",
+      "g_en": "Yeah, but students are also supposed to study!",
+      "g_th": "แต่หน้าที่หลักของนักเรียนคือการเรียนหนังสือไม่ใช่เหรอคะ?",
+      "g_tw": "可是讀書不是學生的本分嗎？",
+      "g_tw_cn": "可是读书不是学生的本分吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;02;그렇지만 학생의 본분은 원래 공부 아닌가요?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"み、ミドリ……！\"",
+      "j_ko": " \"아아, 미도리가 그런 말을 하다니…….\" ",
+      "g_ja": " \"み、ミドリ……！\"",
+      "g_ko": " \"아아, 미도리가 그런 말을 하다니…….\" ",
+      "g_en": " \"Wow, to hear you say that...\"",
+      "g_th": " \"ว้าว มิโดริพูดแบบนี้เลยเหรอ...\" ",
+      "g_tw": "「啊啊，綠居然會說這種話……」",
+      "g_tw_cn": "「啊啊，绿居然会说这种话……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"아아, 미도리가 그런 말을 하다니…….\" \\n[s4] \"선생님은 대견해서 눈물이 나올 것 같구나…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"そんな模範的な言葉、何だか泣けてくるよ……。\"",
+      "j_ko": " \"선생님은 대견해서 눈물이 나올 것 같구나…….\"",
+      "g_ja": " \"そんな模範的な言葉、何だか泣けてくるよ……。\"",
+      "g_ko": " \"선생님은 대견해서 눈물이 나올 것 같구나…….\"",
+      "g_en": " \"I'm so proud, it almost brings me to tears...\"",
+      "g_th": " \"ครูภูมิใจจนน้ำตาจะไหลเลย...\"",
+      "g_tw": "「老師好感動，眼淚都快流下來了……」",
+      "g_tw_cn": "「老师好感动，眼泪都快流下来了……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"아아, 미도리가 그런 말을 하다니…….\" \\n[s4] \"선생님은 대견해서 눈물이 나올 것 같구나…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "とにかく、このままじゃダメです！",
+      "j_ko": "아무튼 이대로는 안 돼요!",
+      "g_ja": "とにかく、このままじゃダメです！",
+      "g_ko": "아무튼 이대로는 안 돼요!",
+      "g_en": "Anyway, this can't go on.",
+      "g_th": "เอาเถอะค่ะ ฉันว่าเราจะอยู่อย่างนี้กันไม่ได้แล้วค่ะ!",
+      "g_tw": "總之，這樣下去不行！",
+      "g_tw_cn": "总之，这样下去不行！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;13;아무튼 이대로는 안 돼요!\\n#3;em;[!]\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今日一日だけでも、きちんとメイドの仕事をしないと！",
+      "j_ko": "오늘 하루만이라도 제대로 된 메이드 일을 해야겠어요!",
+      "g_ja": "今日一日だけでも、きちんとメイドの仕事をしないと！",
+      "g_ko": "오늘 하루만이라도 제대로 된 메이드 일을 해야겠어요!",
+      "g_en": "Even if it's just for today, I need to properly perform my duties as a maid!",
+      "g_th": "วันนี้ฉันต้องไปทำงานของเมดอย่างจริงจังแล้วค่ะ!",
+      "g_tw": "就算只有今天也要做好女僕的工作！",
+      "g_tw_cn": "就算只有今天也要做好女仆的工作！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;05;오늘 하루만이라도 제대로 된 메이드 일을 해야겠어요!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 29,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生！今からシャーレに戻るんですよね？<br/>ご一緒させてください！",
+      "j_ko": "선생님! 지금부터 샬레로 가실 거죠? 같이 가요!",
+      "g_ja": "先生！今からシャーレに戻るんですよね？<br/>ご一緒させてください！",
+      "g_ko": "선생님! 지금부터 샬레로 가실 거죠? 같이 가요!",
+      "g_en": "Sensei! You're heading to Schale now, right? Take me with you!",
+      "g_th": "ตอนนี้คุณครูจะไปที่ชาเล่ต์ใช่มั้ยคะ? ฉันไปด้วยค่ะ!",
+      "g_tw": "老師！你現在要回夏萊對吧？我們一起走吧！",
+      "g_tw_cn": "老师！你现在要回夏莱对吧？我们一起走吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;11;선생님! 지금부터 샬레로 가실 거죠? 같이 가요!\\n#3;m2",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ま、待ってミドリ……！\"",
+      "j_ko": " \"미도리? 그렇게 잡아 끌지 마! 미도리~?!?!\"",
+      "g_ja": " \"ま、待ってミドリ……！\"",
+      "g_ko": " \"미도리? 그렇게 잡아 끌지 마! 미도리~?!?!\"",
+      "g_en": " \"Midori? Stop pulling me like that! Midori?!\"",
+      "g_th": " \"มิโดริ? เดี๋ยวก่อนสิ! มิโดริ~?!?!\"",
+      "g_tw": "「綠？別拉我啊！綠～！？！？」",
+      "g_tw_cn": "「绿？别拉我啊！绿～！？！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"미도리? 그렇게 잡아 끌지 마! 미도리~?!?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 32,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1046815759
+    }
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 32,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 201
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 33,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そういえば、先生はメイドの種類についてご存知ですか？",
+      "j_ko": "그러고 보니 선생님께서는 메이드의 종류에 대해 알고 계신가요?",
+      "g_ja": "そういえば、先生はメイドの種類についてご存知ですか？",
+      "g_ko": "그러고 보니 선생님께서는 메이드의 종류에 대해 알고 계신가요?",
+      "g_en": "By the way, Sensei, are you familiar with the different types of maids?",
+      "g_th": "จะว่าไปแล้ว คุณครูรู้เกี่ยวกับประเภทของเมดมั้ยคะ?",
+      "g_tw": "對了，老師知道女僕的種類嗎？",
+      "g_tw_cn": "对了，老师知道女仆的种类吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;02;그러고 보니 선생님께서는 메이드의 종류에 대해 알고 계신가요?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"全然知らないかも……。\"",
+      "j_ko": " \"전혀 모르겠는데……?\"",
+      "g_ja": " \"全然知らないかも……。\"",
+      "g_ko": " \"전혀 모르겠는데……?\"",
+      "g_en": " \"Not at all.\"",
+      "g_th": " \"มีประเภทด้วยเหรอ ไม่รู้เลยแฮะ...?\"",
+      "g_tw": "「好像完全沒概念……？」",
+      "g_tw_cn": "「好像完全没概念……？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"전혀 모르겠는데……?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 35,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私、調べてみたんです！",
+      "j_ko": "그렇군요……!",
+      "g_ja": "私、調べてみたんです！",
+      "g_ko": "그렇군요……!",
+      "g_en": "I see!",
+      "g_th": "งั้นสินะคะ...!",
+      "g_tw": "這樣啊……！",
+      "g_tw_cn": "这样啊……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;01;그렇군요……!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 36,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 36,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まず……メイドのなかで一番良い待遇を受けていたのは、<br/>「レディースメイド」だったそうです。",
+      "j_ko": "흠, 흠. 우선…… 가장 높은 대접을 받았던 것은 레이디스 메이드라는 직책이었대요.",
+      "g_ja": "まず……メイドのなかで一番良い待遇を受けていたのは、<br/>「レディースメイド」だったそうです。",
+      "g_ko": "흠, 흠. 우선…… 가장 높은 대접을 받았던 것은 레이디스 메이드라는 직책이었대요.",
+      "g_en": "Hm, hmm... First off, the most respected position was the lady's maid.",
+      "g_th": "อืม... อันดับแรกก็จะมีตำแหน่ง <เลดี้ส์เมด> ที่ได้รับการปฏิบัติตัวอย่างดีที่สุดค่ะ",
+      "g_tw": "首先……聽說受到最高待遇的是「侍女」這個職務。",
+      "g_tw_cn": "首先……听说受到最高待遇的是「侍女」这个职务。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;99;흠, 흠. 우선…… 가장 높은 대접을 받았던 것은 레이디스 메이드라는 직책이었대요.\\n#3;m2",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "主な仕事は衣類やアクセサリの管理、着替えや化粧の手伝いで……。",
+      "j_ko": "옷가지와 장신구를 관리하고, 옷 입기와 화장 등을 조력하는 것이 주된 임무였죠.",
+      "g_ja": "主な仕事は衣類やアクセサリの管理、着替えや化粧の手伝いで……。",
+      "g_ko": "옷가지와 장신구를 관리하고, 옷 입기와 화장 등을 조력하는 것이 주된 임무였죠.",
+      "g_en": "The primary duties were managing the wardrobe and accessories, as well as assisting with dressing and makeup.",
+      "g_th": "หน้าที่หลักของพวกเธอก็คือการดูแลเสื้อผ้า เครื่องประดับ ช่วยเหลือเรื่องการแต่งตัวและการแต่งหน้าค่ะ",
+      "g_tw": "侍女的主要任務是管理衣物和飾品，協助穿衣化妝等等。",
+      "g_tw_cn": "侍女的主要任务是管理衣物和饰品，协助穿衣化妆等等。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;01;옷가지와 장신구를 관리하고, 옷 입기와 화장 등을 조력하는 것이 주된 임무였죠.\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 38,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "お屋敷の女主人から直接雇われて、管理されていたそうです。",
+      "j_ko": "집의 안주인이 직접 고용하며 별도의 관리를 받았다고 해요.",
+      "g_ja": "お屋敷の女主人から直接雇われて、管理されていたそうです。",
+      "g_ko": "집의 안주인이 직접 고용하며 별도의 관리를 받았다고 해요.",
+      "g_en": "The lady of the house would hire them directly, and they were managed separately.",
+      "g_th": "ว่ากันว่าเจ้าของบ้านจะจ้างพวกเธอเองโดยตรง และจะได้รับการดูแลต่างหากค่ะ",
+      "g_tw": "據說是由家中的女主人親自僱用並另行管理。",
+      "g_tw_cn": "据说是由家中的女主人亲自雇用并另行管理。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;02;집의 안주인이 직접 고용하며 별도의 관리를 받았다고 해요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 39,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03b"
+    }
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 39,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それと同じくらいの待遇を受けていたのが、「ハウスキーパー」。",
+      "j_ko": "그와 비슷한 정도의 대접을 받았던 것이 하우스키퍼.",
+      "g_ja": "それと同じくらいの待遇を受けていたのが、「ハウスキーパー」。",
+      "g_ko": "그와 비슷한 정도의 대접을 받았던 것이 하우스키퍼.",
+      "g_en": "The housekeeper was also held in high regard.",
+      "g_th": "แล้วก็จะมี <เฮ้าส์คีปเปอร์> ที่ได้รับการปฏิบัติตัวในระดับใกล้เคียงกันค่ะ",
+      "g_tw": "受到類似待遇的是女管家。",
+      "g_tw_cn": "受到类似待遇的是女管家。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;99;그와 비슷한 정도의 대접을 받았던 것이 하우스키퍼.\\n#3;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 40,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ハウスキーパーは正確にはメイドではなくて……。<br/>家事を取りまとめているマネージャーのようなものだったそうですが。",
+      "j_ko": "하우스키퍼는 정확히 말하면 메이드에 들어가지 않아요. 집안 살림을 총괄하는 관리직에 가까웠죠.",
+      "g_ja": "ハウスキーパーは正確にはメイドではなくて……。<br/>家事を取りまとめているマネージャーのようなものだったそうですが。",
+      "g_ko": "하우스키퍼는 정확히 말하면 메이드에 들어가지 않아요. 집안 살림을 총괄하는 관리직에 가까웠죠.",
+      "g_en": "To be precise, the housekeeper wasn't classified as a maid. Their role was more like a management position, supervising household affairs.",
+      "g_th": "ถ้าจะพูดให้ถูก เฮ้าส์คีปเปอร์ไม่ใช่ประเภทของเมดค่ะ เรียกว่าเป็นตำแหน่งผู้จัดการทั้งเรื่องงาน และข้าวของในบ้านทั้งหมดจะถูกต้องกว่าค่ะ",
+      "g_tw": "準確來說，女管家不屬於女僕，而是更接近掌管家務的管理職位。",
+      "g_tw_cn": "准确来说，女管家不属于女仆，而是更接近掌管家务的管理职位。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;02;하우스키퍼는 정확히 말하면 메이드에 들어가지 않아요. 집안 살림을 총괄하는 관리직에 가까웠죠.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "他の使用人をまとめる一番偉い立場で、人事も担当していました。",
+      "j_ko": "메이드를 포함한 다른 사용인들을 다루는 최고위 관리직이면서, 인사 담당자이기도 했어요.",
+      "g_ja": "他の使用人をまとめる一番偉い立場で、人事も担当していました。",
+      "g_ko": "메이드를 포함한 다른 사용인들을 다루는 최고위 관리직이면서, 인사 담당자이기도 했어요.",
+      "g_en": "They were the highest-ranking manager, overseeing other servants, including maids, and also handling personnel matters.",
+      "g_th": "เรียกได้ว่าพวกเธออยู่ในตำแหน่งสูงสุด และทำหน้าที่บริหารบุคลากรในบ้านที่รวมถึงเมดด้วยค่ะ",
+      "g_tw": "也就是負責管理女僕及其他傭人的最高管理職，同時也是人事負責人。",
+      "g_tw_cn": "也就是负责管理女仆及其他佣人的最高管理职，同时也是人事负责人。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;01;메이드를 포함한 다른 사용인들을 다루는 최고위 관리직이면서, 인사 담당자이기도 했어요.\\n#3;em;[!]\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"沢山調べたんだね！\"",
+      "j_ko": " \"오오……. 지식이 늘고 있어……!\"",
+      "g_ja": " \"沢山調べたんだね！\"",
+      "g_ko": " \"오오……. 지식이 늘고 있어……!\"",
+      "g_en": " \"Oh! I'm learning so much...!\"",
+      "g_th": " \"โอ้ว... เหมือนได้ความรู้ใหม่เลย...!\"",
+      "g_tw": "「哦哦……學到了一課……！」",
+      "g_tw_cn": "「哦哦……学到了一课……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"오오……. 지식이 늘고 있어……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふふっ、はい！",
+      "j_ko": "그 아래로 있는 것이 하우스 메이드.",
+      "g_ja": "ふふっ、はい！",
+      "g_ko": "그 아래로 있는 것이 하우스 메이드.",
+      "g_en": "The position just below that was the housemaid.",
+      "g_th": "ส่วนตำแหน่งรองลงมาก็คือ <เฮ้าส์เมด> ค่ะ",
+      "g_tw": "接著在女管家底下的就是家務女僕。",
+      "g_tw_cn": "接着在女管家底下的就是家务女仆。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;99;그 아래로 있는 것이 하우스 메이드.\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ハウスキーパーの下には「ハウスメイド」<br/>こちらは部屋を整えたり、掃除したり……。<br/>主にお屋敷を綺麗に保つ仕事をしていたそうです。",
+      "j_ko": "방의 관리와 청소 등, 주로 청결을 유지하는 작업을 도맡아 했다고 해요.",
+      "g_ja": "ハウスキーパーの下には「ハウスメイド」<br/>こちらは部屋を整えたり、掃除したり……。<br/>主にお屋敷を綺麗に保つ仕事をしていたそうです。",
+      "g_ko": "방의 관리와 청소 등, 주로 청결을 유지하는 작업을 도맡아 했다고 해요.",
+      "g_en": "They were mainly in charge of cleaning tasks and managing the rooms.",
+      "g_th": "ตามที่ฉันศึกษามา เฮ้าส์เมดคือคนที่รับผิดชอบเรื่องความสะอาด พวกเธอจะจัดการ และก็ทำความ<br/>สะอาดห้องต่างๆ ค่ะ",
+      "g_tw": "主要負責房間的整理，以及打掃這類維持整潔的工作。",
+      "g_tw_cn": "主要负责房间的整理，以及打扫这类维持整洁的工作。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;02;방의 관리와 청소 등, 주로 청결을 유지하는 작업을 도맡아 했다고 해요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そして子どもの世話をする「ナースメイド」。<br/>厨房で料理や給仕をサポートする「キッチンメイド」。",
+      "j_ko": "그리고 아이를 돌보는 너서리 메이드, 주방을 보조하는 키친 메이드.",
+      "g_ja": "そして子どもの世話をする「ナースメイド」。<br/>厨房で料理や給仕をサポートする「キッチンメイド」。",
+      "g_ko": "그리고 아이를 돌보는 너서리 메이드, 주방을 보조하는 키친 메이드.",
+      "g_en": "Then there was the nursery maid, who cared for the children, and the kitchen maid, who, obviously, assisted in the kitchen.",
+      "g_th": "แล้วก็ยังมี <เนอร์สเซอรี่เมด> ที่มีหน้าที่ดูแลเด็ก และ <คิทเช่นเมด> ที่เป็นผู้ช่วยในครัว",
+      "g_tw": "此外還有照顧小孩的保姆女僕、輔助廚房事務的廚房女僕……",
+      "g_tw_cn": "此外还有照顾小孩的保姆女仆、辅助厨房事务的厨房女仆……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;01;그리고 아이를 돌보는 너서리 메이드, 주방을 보조하는 키친 메이드.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "洗濯を担当する「ランドリーメイド」。<br/>雑務を担当する「チェインバーメイド」……などなど。",
+      "j_ko": " 빨래를 담당하는 론드리 메이드, 일반적인 잡무를 도맡아 하는 체임버 메이드 등이 있었다죠.",
+      "g_ja": "洗濯を担当する「ランドリーメイド」。<br/>雑務を担当する「チェインバーメイド」……などなど。",
+      "g_ko": " 빨래를 담당하는 론드리 메이드, 일반적인 잡무를 도맡아 하는 체임버 메이드 등이 있었다죠.",
+      "g_en": " Also, there was the laundry maid, in charge of washing clothes, and the chamber maid, who handled more general tasks.",
+      "g_th": "ทั้งยังมี <ลอนดรี้เมด> ที่ดูแลเรื่องการซักผ้า และ <แชมเบอร์> ที่รับผิดชอบงานเบ็ดเตล็ดทั่วไปด้วยค่ะ",
+      "g_tw": "以及負責洗衣服的洗衣女僕、包攬一般雜務的女服務生等等。",
+      "g_tw_cn": "以及负责洗衣服的洗衣女仆、包揽一般杂务的女服务生等等。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;01; 빨래를 담당하는 론드리 메이드, 일반적인 잡무를 도맡아 하는 체임버 메이드 등이 있었다죠.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こうして挙げると、色々なメイドがいたように思えますが……。",
+      "j_ko": "이렇게 여러 직책의 메이드들이 있었던 것으로 보이지만…….",
+      "g_ja": "こうして挙げると、色々なメイドがいたように思えますが……。",
+      "g_ko": "이렇게 여러 직책의 메이드들이 있었던 것으로 보이지만…….",
+      "g_en": "So there were lots of distinct maid roles, but...",
+      "g_th": "ถึงเมดจะมีด้วยกันอยู่หลายตำแหน่งตามที่ฉันบอก...",
+      "g_tw": "雖然女僕的種類聽起來相當多……",
+      "g_tw_cn": "虽然女仆的种类听起来相当多……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;99;이렇게 여러 직책의 메이드들이 있었던 것으로 보이지만…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 48,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "最も一般的なメイドは、「メイド・オブ・オール・ワーク」と呼ばれる――",
+      "j_ko": "사실 가장 많은 수의 메이드 직책을 차지하고 있었던 것은, 메이드 오브 올 워크스라고 불리는.",
+      "g_ja": "最も一般的なメイドは、「メイド・オブ・オール・ワーク」と呼ばれる――",
+      "g_ko": "사실 가장 많은 수의 메이드 직책을 차지하고 있었던 것은, 메이드 오브 올 워크스라고 불리는.",
+      "g_en": "...the most common position was the \"maid-of-all-work.\"",
+      "g_th": "แต่เมดที่มีจำนวนมากที่สุดก็คือ <เมดออฟออลเวิร์กส์>",
+      "g_tw": "但當中最常見的，其實是人稱「Maid of All Works」的──",
+      "g_tw_cn": "但当中最常见的，其实是人称「Maid of All Works」的──",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;02;사실 가장 많은 수의 메이드 직책을 차지하고 있었던 것은, 메이드 오브 올 워크스라고 불리는.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "すべての仕事を、一人でこなすメイドだったそうです。",
+      "j_ko": "모든 일을 도맡아 하는 1인 메이드였다네요.",
+      "g_ja": "すべての仕事を、一人でこなすメイドだったそうです。",
+      "g_ko": "모든 일을 도맡아 하는 1인 메이드였다네요.",
+      "g_en": "A single maid who managed all tasks on her own.",
+      "g_th": "หรือก็คือเมดที่รับหน้าที่ทุกอย่างคนเดียวค่ะ",
+      "g_tw": "身兼所有工作的一人女僕。",
+      "g_tw_cn": "身兼所有工作的一人女仆。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;11;모든 일을 도맡아 하는 1인 메이드였다네요.\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 50,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "多分ですが……メイドを何人も雇うような力のあるお屋敷が、<br/>それほど多くなかったからだと思います。",
+      "j_ko": "대부분은…… 메이드를 1명 이상 고용할 만큼 재정이 넉넉하지 않았기 때문이라는 것 같아요.",
+      "g_ja": "多分ですが……メイドを何人も雇うような力のあるお屋敷が、<br/>それほど多くなかったからだと思います。",
+      "g_ko": "대부분은…… 메이드를 1명 이상 고용할 만큼 재정이 넉넉하지 않았기 때문이라는 것 같아요.",
+      "g_en": "Most households couldn't afford more than one maid.",
+      "g_th": "เหตุผลน่าจะเป็นเพราะ... ผู้ว่าจ้างส่วนมากไม่มีเงินมากพอที่จะจ้างเมดมากกว่า 1 คนค่ะ",
+      "g_tw": "原因似乎是因為大多數的人……經濟狀況並沒有富裕到能僱用一名以上的女僕。",
+      "g_tw_cn": "原因似乎是因为大多数的人……经济状况并没有富裕到能雇用一名以上的女仆。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;03;대부분은…… 메이드를 1명 이상 고용할 만큼 재정이 넉넉하지 않았기 때문이라는 것 같아요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"なるほど……勉強になった！\"",
+      "j_ko": " \"많이 알고 있구나.\"",
+      "g_ja": " \"なるほど……勉強になった！\"",
+      "g_ko": " \"많이 알고 있구나.\"",
+      "g_en": " \"You really know your stuff!\"",
+      "g_th": " \"มิโดริข้อมูลแน่นจังเลยนะ\"",
+      "g_tw": "「綠真了解呢。」",
+      "g_tw_cn": "「绿真了解呢。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"많이 알고 있구나.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それは良かったです！<br/>イラストを描きながら、色々調べた甲斐がありました。",
+      "j_ko": "네. 일러스트를 준비하면서 여러 가지로 조사했거든요.",
+      "g_ja": "それは良かったです！<br/>イラストを描きながら、色々調べた甲斐がありました。",
+      "g_ko": "네. 일러스트를 준비하면서 여러 가지로 조사했거든요.",
+      "g_en": "I do! I always do my research when I start illustrations.",
+      "g_th": "ค่ะ ระหว่างเตรียมวาดภาพ ฉันก็ค้นคว้ามาหลายเรื่องค่ะ",
+      "g_tw": "嗯，我在準備插畫的同時也做了各種調查。",
+      "g_tw_cn": "嗯，我在准备插画的同时也做了各种调查。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;11;네. 일러스트를 준비하면서 여러 가지로 조사했거든요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 56,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 57,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03b"
+    }
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 58,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03c"
+    }
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 59,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "下調べはばっちりです！あとは……<br/>今日一日だけでも、ちゃんとしたメイドになりきらないと！",
+      "j_ko": "그러니 저는! 오늘 하루만이라도 제대로 된 메이드가 되겠어요!",
+      "g_ja": "下調べはばっちりです！あとは……<br/>今日一日だけでも、ちゃんとしたメイドになりきらないと！",
+      "g_ko": "그러니 저는! 오늘 하루만이라도 제대로 된 메이드가 되겠어요!",
+      "g_en": "So again, even if it's just for one day, I'm determined to be a proper maid!",
+      "g_th": "เพราะงั้น! วันนี้ฉันก็เลยจะเป็นเมดอย่างจริงจังดูค่ะ!",
+      "g_tw": "所以我！就算只有今天也要做個稱職的女僕！",
+      "g_tw_cn": "所以我！就算只有今天也要做个称职的女仆！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;13;그러니 저는! 오늘 하루만이라도 제대로 된 메이드가 되겠어요!\\n#3;em;[!]\\n#3;a\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 60,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 60,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生……いえ、ご主人様！<br/>シャーレの雑務は、すべて私にお任せください！",
+      "j_ko": "샬레의 잡무는 모두 저에게 맡겨 주세요!",
+      "g_ja": "先生……いえ、ご主人様！<br/>シャーレの雑務は、すべて私にお任せください！",
+      "g_ko": "샬레의 잡무는 모두 저에게 맡겨 주세요!",
+      "g_en": "Leave all of Schale's tasks to me!",
+      "g_th": "ขอให้ฉันได้จัดการงานเล็กๆ น้อยๆ ของชาเล่ต์นะคะ!",
+      "g_tw": "夏萊的雜務就全部交給我吧！",
+      "g_tw_cn": "夏莱的杂务就全部交给我吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;05;샬레의 잡무는 모두 저에게 맡겨 주세요!\\n#3;greeting\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 61,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 62,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 62,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（やる気にあふれたミドリの、一日メイド実習？が始まった……！）",
+      "j_ko": "(그렇게 기운 넘치는, 미도리의 일일 메이드 실습(?)이 시작되었다……!)",
+      "g_ja": "（やる気にあふれたミドリの、一日メイド実習？が始まった……！）",
+      "g_ko": "(그렇게 기운 넘치는, 미도리의 일일 메이드 실습(?)이 시작되었다……!)",
+      "g_en": "And with that, Midori's energetic one-day maid experience began...",
+      "g_th": "(แล้วการฝึกงานเป็นเมดของมิโดริที่ไฟแรงก็เริ่มขึ้น...)",
+      "g_tw": "（於是活力充沛的綠的一日女僕實習(?)就這樣開始了……！）",
+      "g_tw_cn": "（于是活力充沛的绿的一日女仆实习(?)就这样开始了……！）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 기운 넘치는, 미도리의 일일 메이드 실습(?)이 시작되었다……!)",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 63,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1046815759
+    }
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 63,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 13
+    }
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 64,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "メイドの基本と言えば！まずは掃除ですね！",
+      "j_ko": "메이드의 기본이라고 하면, 우선 청소겠죠!",
+      "g_ja": "メイドの基本と言えば！まずは掃除ですね！",
+      "g_ko": "메이드의 기본이라고 하면, 우선 청소겠죠!",
+      "g_en": "A maid's most basic duty is cleaning, of course!",
+      "g_th": "งานพื้นฐานของเมดคงหนีไม่พ้นการทำความสะอาดใช่มั้ยคะ?",
+      "g_tw": "說到女僕的基本功，首先想到的應該是打掃吧！",
+      "g_tw_cn": "说到女仆的基本功，首先想到的应该是打扫吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;11;메이드의 기본이라고 하면, 우선 청소겠죠!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……執務室の隅、ほこりがすごいですね。",
+      "j_ko": "……집무실 구석에 먼지가 엄청나네요…….",
+      "g_ja": "……執務室の隅、ほこりがすごいですね。",
+      "g_ko": "……집무실 구석에 먼지가 엄청나네요…….",
+      "g_en": "There's a ton of dust in the corner of this office...",
+      "g_th": "ตามมุมต่างๆ ของสำนักงานมีฝุ่นเพียบเลยค่ะ...",
+      "g_tw": "辦公室角落的灰塵真多……",
+      "g_tw_cn": "办公室角落的灰尘真多……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;12;……집무실 구석에 먼지가 엄청나네요…….\\n#3;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Upset",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こういう場所は普段からちゃんと整理しないと、すぐにほこりが溜まりがちです。",
+      "j_ko": "보통 이런 곳은 꼼꼼히 정리하지 않아 먼지가 쌓이기 마련이기는 하죠.",
+      "g_ja": "こういう場所は普段からちゃんと整理しないと、すぐにほこりが溜まりがちです。",
+      "g_ko": "보통 이런 곳은 꼼꼼히 정리하지 않아 먼지가 쌓이기 마련이기는 하죠.",
+      "g_en": "Dust tends to accumulate in spots like this because they usually aren't cleaned thoroughly enough.",
+      "g_th": "ปกติแล้วถ้าไม่ดูแลที่แบบนี้ให้ดี ฝุ่นก็จะมาเกาะจนเขรอะแบบนี้ค่ะ",
+      "g_tw": "通常這種地方不會仔細清理，所以會有灰塵堆積。",
+      "g_tw_cn": "通常这种地方不会仔细清理，所以会有灰尘堆积。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;07;보통 이런 곳은 꼼꼼히 정리하지 않아 먼지가 쌓이기 마련이기는 하죠.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "なにせ、ゲーム開発部の部室もそうで……。",
+      "j_ko": "사실 저희 게임개발부실이라고 해서 다를 것도 없구요…….",
+      "g_ja": "なにせ、ゲーム開発部の部室もそうで……。",
+      "g_ko": "사실 저희 게임개발부실이라고 해서 다를 것도 없구요…….",
+      "g_en": "To be honest, the Game Development Department club room is usually the same way...",
+      "g_th": "ที่จริงชมรมพัฒนาเกมของฉันก็เป็นเหมือนกันค่ะ...",
+      "g_tw": "其實我們遊戲開發部也一樣……",
+      "g_tw_cn": "其实我们游戏开发部也一样……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;12;사실 저희 게임개발부실이라고 해서 다를 것도 없구요…….\\n#fontsize;50\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 71,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "し、心配しないでください、先生！<br/>滑って転んでしまうほど、つるぴかに掃除しておきます！",
+      "j_ko": "걱정 마세요, 선생님! 잘못 밞으면 미끄러져서 넘어질 정도로 깨끗하게 청소해 놓을게요!",
+      "g_ja": "し、心配しないでください、先生！<br/>滑って転んでしまうほど、つるぴかに掃除しておきます！",
+      "g_ko": "걱정 마세요, 선생님! 잘못 밞으면 미끄러져서 넘어질 정도로 깨끗하게 청소해 놓을게요!",
+      "g_en": "Don't worry, Sensei! I'll clean it so thoroughly that you'll have to watch your step so you don't slip!",
+      "g_th": "แต่ไม่ต้องห่วงนะคะคุณครู! ฉันจะทำความสะอาดให้เงาวับ ขนาดที่ถ้าเดินไม่ดีจะลื่นล้มเอาเลยค่ะ!",
+      "g_tw": "不過請不必擔心，老師！<br/>我會打掃得乾淨到一不小心就會滑倒的！",
+      "g_tw_cn": "不过请不必担心，老师！<br/>我会打扫得干净到一不小心就会滑倒的！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;05;걱정 마세요, 선생님! 잘못 밞으면 미끄러져서 넘어질 정도로 깨끗하게 청소해 놓을게요!\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"滑らない程度にお願いします！\"",
+      "j_ko": " \"그래도 사람이 미끄러지면 안 되지 않을까?!\"",
+      "g_ja": " \"滑らない程度にお願いします！\"",
+      "g_ko": " \"그래도 사람이 미끄러지면 안 되지 않을까?!\"",
+      "g_en": " \"Shouldn't we keep the place safe, though?\"",
+      "g_th": " \"แต่เราก็ไม่ควรจะลื่นล้มหรือเปล่า?!\"",
+      "g_tw": "「讓人滑倒不好吧！？」",
+      "g_tw_cn": "「让人滑倒不好吧！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그래도 사람이 미끄러지면 안 되지 않을까?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 73,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 74,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1046815759
+    }
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 75,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "次は、お食事のサポートですね！",
+      "j_ko": "다음은 식사 보조로군요!",
+      "g_ja": "次は、お食事のサポートですね！",
+      "g_ko": "다음은 식사 보조로군요!",
+      "g_en": "The next task is meal assistance!",
+      "g_th": "ต่อไปก็คืองานผู้ช่วยเรื่องอาหารสินะคะ!",
+      "g_tw": "接下來是輔助用餐！",
+      "g_tw_cn": "接下来是辅助用餐！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;05;다음은 식사 보조로군요!\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "これについては、出前の後片付けくらいになりますが……。",
+      "j_ko": "그렇다고 해 봤자, 배달 음식의 뒤처리 정도이긴 하지만요…….",
+      "g_ja": "これについては、出前の後片付けくらいになりますが……。",
+      "g_ko": "그렇다고 해 봤자, 배달 음식의 뒤처리 정도이긴 하지만요…….",
+      "g_en": "Which in this case, is honestly mostly just cleaning up the mess from the take-out food...",
+      "g_th": "ถึงจะพูดสวยหรูว่าผู้ช่วยเรื่องอาหาร แต่ก็คงทำได้แค่ช่วยเก็บกวาดอาหารที่สั่งมาทานค่ะ...",
+      "g_tw": "雖然這麼說，其實只是外送食物的善後處理……",
+      "g_tw_cn": "虽然这么说，其实只是外送食物的善后处理……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;12;그렇다고 해 봤자, 배달 음식의 뒤처리 정도이긴 하지만요…….\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 77,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "出前の容器がちょっと……いえ、だいぶ積まれてますね。",
+      "j_ko": "그와는 별개로, 배달 음식 용기가…… 좀…… 많이 쌓여 있긴 하네요.",
+      "g_ja": "出前の容器がちょっと……いえ、だいぶ積まれてますね。",
+      "g_ko": "그와는 별개로, 배달 음식 용기가…… 좀…… 많이 쌓여 있긴 하네요.",
+      "g_en": "And on that note, look at all these old containers.",
+      "g_th": "แต่จะว่าไป ถ้วยชามอาหารที่คุณครูสั่งมาทาน... มันเยอะ... เป็นภูเขาเลยนะคะ",
+      "g_tw": "話說外送食物的容器……堆積得……有點多耶。",
+      "g_tw_cn": "话说外送食物的容器……堆积得……有点多耶。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;12;그와는 별개로, 배달 음식 용기가…… 좀…… 많이 쌓여 있긴 하네요.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 78,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "分別しておきます！",
+      "j_ko": "일단은, 분리수거를 하고 오겠습니다.",
+      "g_ja": "分別しておきます！",
+      "g_ko": "일단은, 분리수거를 하고 오겠습니다.",
+      "g_en": "Let me take care of the recycling first.",
+      "g_th": "ฉันจะไปจัดการถ้วยชามพวกนั้นก่อนแล้วกันค่ะ",
+      "g_tw": "我先來分類好了。",
+      "g_tw_cn": "我先来分类好了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;01;일단은, 분리수거를 하고 오겠습니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 79,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"お手数おかけします……。\"",
+      "j_ko": " \"면목이 없습니다…….\"",
+      "g_ja": " \"お手数おかけします……。\"",
+      "g_ko": " \"면목이 없습니다…….\"",
+      "g_en": " \"Now I'm embarrassed...\"",
+      "g_th": " \"น่าขายหน้าจริงๆ เลย...\"",
+      "g_tw": "「我很慚愧……」",
+      "g_tw_cn": "「我很惭愧……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"면목이 없습니다…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 80,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いえ、お任せください。<br/>私はご主人様の忠実なメイドですから！",
+      "j_ko": "괜찮아요. 메이드니까요.",
+      "g_ja": "いえ、お任せください。<br/>私はご主人様の忠実なメイドですから！",
+      "g_ko": "괜찮아요. 메이드니까요.",
+      "g_en": "It's all right. After all, I am a maid.",
+      "g_th": "ไม่หรอกค่ะ ก็ฉันเป็นเมดนี่คะ",
+      "g_tw": "沒關係的，畢竟我是老師的女僕。",
+      "g_tw_cn": "没关系的，毕竟我是老师的女仆。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;99;괜찮아요. 메이드니까요.\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 81,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 82,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1046815759
+    }
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 83,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "服の着替えを手伝うのも、メイドの仕事ですよね？",
+      "j_ko": "옷 단장을 보조해 드리는 것도 메이드의 역할이겠죠?",
+      "g_ja": "服の着替えを手伝うのも、メイドの仕事ですよね？",
+      "g_ko": "옷 단장을 보조해 드리는 것도 메이드의 역할이겠죠?",
+      "g_en": "...I suppose helping you get dressed is part of a maid's duties too, right?",
+      "g_th": "การช่วยแต่งตัวก็เป็นหน้าที่หนึ่งของเมดใช่มั้ยคะ?",
+      "g_tw": "輔助打扮也是女僕的責任吧？",
+      "g_tw_cn": "辅助打扮也是女仆的责任吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;03;옷 단장을 보조해 드리는 것도 메이드의 역할이겠죠?\\n#3;em;[하트]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Heart",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 84,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"えっと、ミドリさん……？\"",
+      "j_ko": " \"저기, 미도리? 미도리 씨……?\"",
+      "g_ja": " \"えっと、ミドリさん……？\"",
+      "g_ko": " \"저기, 미도리? 미도리 씨……?\"",
+      "g_en": " \"Umm... Midori? Miss Midori...?\"",
+      "g_th": " \"เอ่อ มิโดริ? คุณมิโดริ...?\"",
+      "g_tw": "「那個，綠？綠同學……？」",
+      "g_tw_cn": "「那个，绿？绿同学……？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"저기, 미도리? 미도리 씨……?\"\\n[s6] \"뭔가 기세가 심상치 않으십니다만……?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 84,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"何かちょっと怖いんだけど……？\"",
+      "j_ko": " \"뭔가 기세가 심상치 않으십니다만……?\"",
+      "g_ja": " \"何かちょっと怖いんだけど……？\"",
+      "g_ko": " \"뭔가 기세가 심상치 않으십니다만……?\"",
+      "g_en": " \"Something feels a bit unusual about your energy...?\"",
+      "g_th": " \"ดูกระตือรือร้นมากไปแล้วหรือเปล่า...?",
+      "g_tw": "「感覺你的氣勢很不尋常……？」",
+      "g_tw_cn": "「感觉你的气势很不寻常……？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"저기, 미도리? 미도리 씨……?\"\\n[s6] \"뭔가 기세가 심상치 않으십니다만……?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 87,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "大丈夫です、先生！<br/>身のまわりのことはすべて任せてください。",
+      "j_ko": "괜찮아요. 선생님. 저에게 몸도 마음도 모두 맡겨 주세요.",
+      "g_ja": "大丈夫です、先生！<br/>身のまわりのことはすべて任せてください。",
+      "g_ko": "괜찮아요. 선생님. 저에게 몸도 마음도 모두 맡겨 주세요.",
+      "g_en": "It's okay, Sensei. Leave everything to me, both physically and mentally.",
+      "g_th": "ไม่หรอกค่ะ คุณครู ให้ฉันดูแลคุณครูทั้งกายและใจเถอะนะคะ",
+      "g_tw": "不用擔心，老師。<br/>請把身心全都交給我吧。",
+      "g_tw_cn": "不用担心，老师。<br/>请把身心全都交给我吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;11;괜찮아요. 선생님. 저에게 몸도 마음도 모두 맡겨 주세요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 91,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 92,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03b"
+    }
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 93,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03c"
+    }
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 94,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "この辺りが少し……整えますね。",
+      "j_ko": "자, 옷매무새가 흐트러졌어요. 제대로 정리해 드릴게요.",
+      "g_ja": "この辺りが少し……整えますね。",
+      "g_ko": "자, 옷매무새가 흐트러졌어요. 제대로 정리해 드릴게요.",
+      "g_en": "Your outfit looks a bit messy. Let me straighten it out for you.",
+      "g_th": "เสื้อผ้าของคุณครูไม่เป็นระเบียบเรียบร้อยเลยค่ะ ให้ฉันช่วยจัดให้นะคะ",
+      "g_tw": "這邊的衣服有點凌亂哦。我來幫你好好整理。",
+      "g_tw_cn": "这边的衣服有点凌乱哦。我来帮你好好整理。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;03;자, 옷매무새가 흐트러졌어요. 제대로 정리해 드릴게요.\\n#3;a\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 97,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_02"
+    }
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 98,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_02"
+    }
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 99,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はい、さらに立派なお姿になりました！<br/>あ、鏡もお持ちしましょうか？",
+      "j_ko": "네. 잘 되었네요. 거울도 가져다드릴까요?",
+      "g_ja": "はい、さらに立派なお姿になりました！<br/>あ、鏡もお持ちしましょうか？",
+      "g_ko": "네. 잘 되었네요. 거울도 가져다드릴까요?",
+      "g_en": "There, it's all set. Shall I bring a mirror for you as well?",
+      "g_th": "ค่ะ ตอนนี้โอเคแล้วค่ะ ให้ฉันเอากระจกมาให้ดูมั้ยคะ?",
+      "g_tw": "嗯，感覺好多了。要幫你拿鏡子嗎？",
+      "g_tw_cn": "嗯，感觉好多了。要帮你拿镜子吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;11;네. 잘 되었네요. 거울도 가져다드릴까요?\\n#3;closeup\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 100,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 101,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1046815759
+    }
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 102,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 102,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "皿洗いも、メイドの大事な仕事ですよね！",
+      "j_ko": "설거지도 메이드의 중요한 일이죠!",
+      "g_ja": "皿洗いも、メイドの大事な仕事ですよね！",
+      "g_ko": "설거지도 메이드의 중요한 일이죠!",
+      "g_en": "Dishwashing is another important task for a maid!",
+      "g_th": "การล้างจานก็เป็นงานสำคัญของเมดค่ะ!",
+      "g_tw": "洗碗也是女僕的重要工作！",
+      "g_tw_cn": "洗碗也是女仆的重要工作！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;11;설거지도 메이드의 중요한 일이죠!\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 96,
+    "AbsolutePos": 106,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "マグカップが、えっと……5段重ねになっていますね……。",
+      "j_ko": "……머그컵이, 조금 과장해서, 5층으로 쌓여 있네요…….",
+      "g_ja": "マグカップが、えっと……5段重ねになっていますね……。",
+      "g_ko": "……머그컵이, 조금 과장해서, 5층으로 쌓여 있네요…….",
+      "g_en": "...Which brings us to this mountain of piled-up mugs.",
+      "g_th": "แก้วมัคของคุณครู... วางซ้อนกันไว้ 5 ชั้นแล้วนะคะ...",
+      "g_tw": "馬克杯居然堆了5層……好像有點……",
+      "g_tw_cn": "马克杯居然堆了5层……好像有点……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;12;……머그컵이, 조금 과장해서, 5층으로 쌓여 있네요…….\\n#3;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Upset",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 97,
+    "AbsolutePos": 107,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"申し開きもございません！\"",
+      "j_ko": " \"그저, 죄송합니다…….\"",
+      "g_ja": " \"申し開きもございません！\"",
+      "g_ko": " \"그저, 죄송합니다…….\"",
+      "g_en": " \"I'm just...sorry, really sorry...\"",
+      "g_th": " \"ยอมรับผิดแล้ว...\"",
+      "g_tw": "「我很抱歉……」",
+      "g_tw_cn": "「我很抱歉……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그저, 죄송합니다…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 98,
+    "AbsolutePos": 108,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_02"
+    }
+  },
+  {
+    "ActualPos": 99,
+    "AbsolutePos": 108,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いえ、お任せください。<br/>私はご主人様の忠実なメイドですから！",
+      "j_ko": "괜찮아요. 메이드니까요.",
+      "g_ja": "いえ、お任せください。<br/>私はご主人様の忠実なメイドですから！",
+      "g_ko": "괜찮아요. 메이드니까요.",
+      "g_en": "It's all right. After all, I am a maid.",
+      "g_th": "ไม่หรอกค่ะ ก็ฉันเป็นเมดนี่คะ",
+      "g_tw": "沒關係的，畢竟我是老師的女僕。",
+      "g_tw_cn": "没关系的，毕竟我是老师的女仆。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;99;괜찮아요. 메이드니까요.\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 100,
+    "AbsolutePos": 109,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……一言一句同じセリフを、さっき聞いたような？\"",
+      "j_ko": " \"그 말은 이미 하지 않았어……?\"",
+      "g_ja": " \"……一言一句同じセリフを、さっき聞いたような？\"",
+      "g_ko": " \"그 말은 이미 하지 않았어……?\"",
+      "g_en": " \"Didn't you already say that...?\"",
+      "g_th": " \"เมื่อกี้ก็พูดแบบนี้ไปแล้วไม่ใช่เหรอ...?\"",
+      "g_tw": "「那句話不是說過了嗎……？」",
+      "g_tw_cn": "「那句话不是说过了吗……？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그 말은 이미 하지 않았어……?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 101,
+    "AbsolutePos": 110,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はい。キャラ立ちを考えると、決めセリフが必要かなと！",
+      "j_ko": "네. 자주 하지 않게 되었으면 좋겠네요.",
+      "g_ja": "はい。キャラ立ちを考えると、決めセリフが必要かなと！",
+      "g_ko": "네. 자주 하지 않게 되었으면 좋겠네요.",
+      "g_en": "Yes. And I wish I didn't have to say it so often.",
+      "g_th": "ค่ะ หวังว่าจะไม่มีเรื่องให้ต้องพูดประโยคเดิมบ่อยๆ นะคะ",
+      "g_tw": "是啊，希望不要太常說這句話。",
+      "g_tw_cn": "是啊，希望不要太常说这句话。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;12;네. 자주 하지 않게 되었으면 좋겠네요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 102,
+    "AbsolutePos": 111,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 103,
+    "AbsolutePos": 112,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1693520842
+    }
+  },
+  {
+    "ActualPos": 104,
+    "AbsolutePos": 113,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WipingGlasses_02"
+    }
+  },
+  {
+    "ActualPos": 105,
+    "AbsolutePos": 114,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Whip_01"
+    }
+  },
+  {
+    "ActualPos": 106,
+    "AbsolutePos": 115,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Whip_01"
+    }
+  },
+  {
+    "ActualPos": 107,
+    "AbsolutePos": 116,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Whip_01"
+    }
+  },
+  {
+    "ActualPos": 108,
+    "AbsolutePos": 117,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Whip_01"
+    }
+  },
+  {
+    "ActualPos": 109,
+    "AbsolutePos": 118,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1046815759
+    }
+  },
+  {
+    "ActualPos": 110,
+    "AbsolutePos": 119,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今日は何だか、とっても充実していた気がします！",
+      "j_ko": "오늘 하루는 왠지 보람찼던 것 같아요!",
+      "g_ja": "今日は何だか、とっても充実していた気がします！",
+      "g_ko": "오늘 하루는 왠지 보람찼던 것 같아요!",
+      "g_en": "This has been a very rewarding day!",
+      "g_th": "วันนี้ฉันรู้สึกภูมิใจมากเลยค่ะ!",
+      "g_tw": "總覺得今天似乎充滿意義呢！",
+      "g_tw_cn": "总觉得今天似乎充满意义呢！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;11;오늘 하루는 왠지 보람찼던 것 같아요!\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 111,
+    "AbsolutePos": 120,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "このままずっと……。<br/>先生のメイドになってもいいんじゃないかな、って思うくらい……。",
+      "j_ko": "이대로 쭉…… 선생님의 메이드가 되어도 괜찮지 않을까, 하는 생각마저 들 정도로요…….",
+      "g_ja": "このままずっと……。<br/>先生のメイドになってもいいんじゃないかな、って思うくらい……。",
+      "g_ko": "이대로 쭉…… 선생님의 메이드가 되어도 괜찮지 않을까, 하는 생각마저 들 정도로요…….",
+      "g_en": "I almost feel like...I could stay as your maid forever...",
+      "g_th": "ฉันถึงกับคิดเลยนะคะ... ว่าจะมาเป็นเมดถาวรให้คุณครูเลยดีมั้ย...",
+      "g_tw": "甚至覺得就這樣一直……當老師的女僕也不錯……",
+      "g_tw_cn": "甚至觉得就这样一直……当老师的女仆也不错……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;03;이대로 쭉…… 선생님의 메이드가 되어도 괜찮지 않을까, 하는 생각마저 들 정도로요…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 112,
+    "AbsolutePos": 121,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ミドリ、学生の本分を忘れちゃダメだよ！？\"",
+      "j_ko": " \"어, 음. 네. 그건 조금 곤란할 것 같아요…….\"",
+      "g_ja": " \"ミドリ、学生の本分を忘れちゃダメだよ！？\"",
+      "g_ko": " \"어, 음. 네. 그건 조금 곤란할 것 같아요…….\"",
+      "g_en": " \"Um, hmm... No, that might be a little difficult...\"",
+      "g_th": " \"อ่า... อืม แบบนั้นครูน่าจะไม่สะดวกเท่าไร...\"",
+      "g_tw": "「唔嗯……那好像有點困難……」",
+      "g_tw_cn": "「唔嗯……那好像有点困难……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"어, 음. 네. 그건 조금 곤란할 것 같아요…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 113,
+    "AbsolutePos": 123,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"とにかく、ゲーム開発の勉強になったなら良かった。\"",
+      "j_ko": " \"게임 개발을 위한 메이드 체험은, 잘 된 것 같아?\"",
+      "g_ja": " \"とにかく、ゲーム開発の勉強になったなら良かった。\"",
+      "g_ko": " \"게임 개발을 위한 메이드 체험은, 잘 된 것 같아?\"",
+      "g_en": " \"Did you get enough maid experience for your game?\"",
+      "g_th": " \"การลองเป็นเมดเพื่อการพัฒนาเกมถือว่าสำเร็จด้วยดีมั้ย?\"",
+      "g_tw": "「為了開發遊戲而進行的女僕體驗，你覺得還順利嗎？」",
+      "g_tw_cn": "「为了开发游戏而进行的女仆体验，你觉得还顺利吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"게임 개발을 위한 메이드 체험은, 잘 된 것 같아?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 114,
+    "AbsolutePos": 124,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……？",
+      "j_ko": "네……?",
+      "g_ja": "……？",
+      "g_ko": "그런…… 가요?",
+      "g_en": "Is that so...?",
+      "g_th": "อย่างงั้น... เหรอคะ?",
+      "g_tw": "是……嗎？",
+      "g_tw_cn": "是……吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;01;그런…… 가요?\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 115,
+    "AbsolutePos": 128,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……そ、そうでした！",
+      "j_ko": "아……!",
+      "g_ja": "……そ、そうでした！",
+      "g_ko": "아……!",
+      "g_en": "Oh!",
+      "g_th": "อ่า...!",
+      "g_tw": "啊……！",
+      "g_tw_cn": "啊……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;02;아……!\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 116,
+    "AbsolutePos": 129,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "また本来の目的をすっかり忘れて……。",
+      "j_ko": "깜빡 잊고 있었어요…….",
+      "g_ja": "また本来の目的をすっかり忘れて……。",
+      "g_ko": "깜빡 잊고 있었어요…….",
+      "g_en": "I completely forgot...",
+      "g_th": "ฉันลืมเรื่องนี้ไปเลยค่ะ...",
+      "g_tw": "我完全忘了……",
+      "g_tw_cn": "我完全忘了……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;10;깜빡 잊고 있었어요…….\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 117,
+    "AbsolutePos": 130,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……？た、確かに……。<br/>それくらい熱中していた、ということかもしれません。",
+      "j_ko": "네? 그런 것도 잊을 만큼 푹 빠져서 메이드 일을 수행했으니…… 오히려 확실한 경험이 되었을 거라고요?",
+      "g_ja": "……？た、確かに……。<br/>それくらい熱中していた、ということかもしれません。",
+      "g_ko": "네? 그런 것도 잊을 만큼 푹 빠져서 메이드 일을 수행했으니…… 오히려 확실한 경험이 되었을 거라고요?",
+      "g_en": "I was so focused on all my duties that I wasn't even thinking about that... Do you think it was a valuable experience?",
+      "g_th": "ว่าไงนะคะ? ถ้าฉันสนุกกับงานเมดจนลืมเรื่องนั้นไป... ก็ถือว่านี่เป็นประสบการณ์ที่ยอดเยี่ยมเลย งั้นเหรอคะ?",
+      "g_tw": "咦？全心投入女僕的工作，結果忘了女僕體驗這回事……反而會是很確實的經驗？",
+      "g_tw_cn": "咦？全心投入女仆的工作，结果忘了女仆体验这回事……反而会是很确实的经验？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;02;네? 그런 것도 잊을 만큼 푹 빠져서 메이드 일을 수행했으니…… 오히려 확실한 경험이 되었을 거라고요?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 118,
+    "AbsolutePos": 131,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "良い経験になりました……！",
+      "j_ko": "위로해 주시는 것은 감사하지만요…….",
+      "g_ja": "良い経験になりました……！",
+      "g_ko": "위로해 주시는 것은 감사하지만요…….",
+      "g_en": "I'm thankful for your support, but...",
+      "g_th": "ขอบคุณนะคะที่ช่วยพูดปลอบกันอย่างนี้...",
+      "g_tw": "謝謝老師的安慰……",
+      "g_tw_cn": "谢谢老师的安慰……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;12;위로해 주시는 것은 감사하지만요…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 119,
+    "AbsolutePos": 132,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 120,
+    "AbsolutePos": 132,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……そ、その、先生！",
+      "j_ko": "그, 그러면요! 마지막으로!",
+      "g_ja": "……そ、その、先生！",
+      "g_ko": "그, 그러면요! 마지막으로!",
+      "g_en": "W-Well, then! As a final request...",
+      "g_th": "ถะ... ถ้างั้น!",
+      "g_tw": "那，那麼最後！",
+      "g_tw_cn": "那，那么最后！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;10;그, 그러면요! 마지막으로!\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 121,
+    "AbsolutePos": 133,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "最後にひとつ、お願いしても良いでしょうか……？",
+      "j_ko": "한 가지, 부탁드리고 싶은 것이 있는데요……?",
+      "g_ja": "最後にひとつ、お願いしても良いでしょうか……？",
+      "g_ko": "한 가지, 부탁드리고 싶은 것이 있는데요……?",
+      "g_en": "...may I ask you for one...favor?",
+      "g_th": "ฉันขอร้องอะไรเป็นอย่างสุดท้ายได้มั้ยคะ?",
+      "g_tw": "我想拜託老師一件事……",
+      "g_tw_cn": "我想拜托老师一件事……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;10;한 가지, 부탁드리고 싶은 것이 있는데요……?\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 122,
+    "AbsolutePos": 134,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"うん、何かな？\"",
+      "j_ko": " \"부탁? 뭔데?\"",
+      "g_ja": " \"うん、何かな？\"",
+      "g_ko": " \"부탁? 뭔데?\"",
+      "g_en": " \"What kind of favor?\"",
+      "g_th": " \"ขออะไรเหรอ?\"",
+      "g_tw": "「拜託？是什麼事呢？」",
+      "g_tw_cn": "「拜托？是什么事呢？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"부탁? 뭔데?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 123,
+    "AbsolutePos": 135,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "え、えっと、その……！",
+      "j_ko": "그, 저기, 그러니까요……!",
+      "g_ja": "え、えっと、その……！",
+      "g_ko": "그, 저기, 그러니까요……!",
+      "g_en": "Um, so the thing is...!",
+      "g_th": "เอ่อ... คือว่า คือว่าเรื่องนั้น...!",
+      "g_tw": "那，那個，該怎麼說呢……！",
+      "g_tw_cn": "那，那个，该怎么说呢……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;10;그, 저기, 그러니까요……!\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 124,
+    "AbsolutePos": 136,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……",
+      "j_ko": "…….",
+      "g_ja": "……",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;10;…….\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 125,
+    "AbsolutePos": 137,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "写真、を……。",
+      "j_ko": "표지에 사용될지 어떨지는, 지금으로선 모르겠지만…….",
+      "g_ja": "写真、を……。",
+      "g_ko": "표지에 사용될지 어떨지는, 지금으로선 모르겠지만…….",
+      "g_en": "I'm not sure if I'll ever use it, but...",
+      "g_th": "ถึงจะยังไม่แน่ใจว่าจะใช้เป็นรูปหน้าปกหรือเปล่า...",
+      "g_tw": "雖然還不確定會不會用在封面上……",
+      "g_tw_cn": "虽然还不确定会不会用在封面上……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;99;표지에 사용될지 어떨지는, 지금으로선 모르겠지만…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 126,
+    "AbsolutePos": 138,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今この時を、残しておきたくって……。",
+      "j_ko": "저의, 메이드로서 컨셉 샷을, 남기고 싶어요…….",
+      "g_ja": "今この時を、残しておきたくって……。",
+      "g_ko": "저의, 메이드로서 컨셉 샷을, 남기고 싶어요…….",
+      "g_en": "I want to capture a concept shot of myself as a maid...",
+      "g_th": "แต่ฉันอยากถ่ายรูปคอนเซ็ปต์ตอนที่ฉันเป็นเมดไว้น่ะค่ะ...",
+      "g_tw": "但我想留下自己作為女僕的概念照……",
+      "g_tw_cn": "但我想留下自己作为女仆的概念照……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;05;저의, 메이드로서 컨셉 샷을, 남기고 싶어요…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 127,
+    "AbsolutePos": 139,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "なので、よろしければ……。",
+      "j_ko": "그러니까…… 괜찮으시다면…….",
+      "g_ja": "なので、よろしければ……。",
+      "g_ko": "그러니까…… 괜찮으시다면…….",
+      "g_en": "So...if it's okay with you...",
+      "g_th": "เพราะงั้น... ถ้าคุณครูไม่ว่าอะไร...",
+      "g_tw": "所以……如果老師不介意的話……",
+      "g_tw_cn": "所以……如果老师不介意的话……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;10;그러니까…… 괜찮으시다면…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 128,
+    "AbsolutePos": 140,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生に写真を、撮っていただけないでしょうか……！",
+      "j_ko": "선생님께서 그걸, 찍어 주셨으면, 좋겠어요……!",
+      "g_ja": "先生に写真を、撮っていただけないでしょうか……！",
+      "g_ko": "선생님께서 그걸, 찍어 주셨으면, 좋겠어요……!",
+      "g_en": "I was hoping you could take the picture for me...!",
+      "g_th": "คุณครูช่วยถ่ายรูปฉันให้หน่อยได้มั้ยคะ...!",
+      "g_tw": "希望老師能幫我拍攝……！",
+      "g_tw_cn": "希望老师能帮我拍摄……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;13;선생님께서 그걸, 찍어 주셨으면, 좋겠어요……!\\n#3;jump\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 129,
+    "AbsolutePos": 141,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 130,
+    "AbsolutePos": 141,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 131,
+    "AbsolutePos": 142,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clock_03a"
+    }
+  },
+  {
+    "ActualPos": 132,
+    "AbsolutePos": 143,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clock_03a"
+    }
+  },
+  {
+    "ActualPos": 133,
+    "AbsolutePos": 144,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clock_03a"
+    }
+  },
+  {
+    "ActualPos": 134,
+    "AbsolutePos": 145,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ミドリのオーダーに応え、まずはシャーレで良さそうな場所を探してみた）",
+      "j_ko": "(미도리에게 컨셉 샷에 대한 설정과 정황을 듣고, 샬레의 공간 중 적당한 장소를 찾아보았다.)",
+      "g_ja": "（ミドリのオーダーに応え、まずはシャーレで良さそうな場所を探してみた）",
+      "g_ko": "(미도리에게 컨셉 샷에 대한 설정과 정황을 듣고, 샬레의 공간 중 적당한 장소를 찾아보았다.)",
+      "g_en": "After discussing the setup and context for the concept shot with Midori, I searched Schale for a suitable location.",
+      "g_th": "(เมื่อได้ฟังบรีฟการถ่ายรูปคอนเซ็ปต์จากมิโดริ คุณครูก็หาจุดถ่ายรูปที่เหมาะสมในชาเล่ต์ให้)",
+      "g_tw": "（聽綠說完有關概念照的設定和情境後，試著在夏萊尋找適合的地方）",
+      "g_tw_cn": "（听绿说完有关概念照的设置和情境后，试着在夏莱寻找适合的地方）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(미도리에게 컨셉 샷에 대한 설정과 정황을 듣고, 샬레의 공간 중 적당한 장소를 찾아보았다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 135,
+    "AbsolutePos": 146,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（やたら凝った設定を踏まえつつ、撮影が始まり……）",
+      "j_ko": "(미도리가 설명해 준 컨셉이란, 바로……!)",
+      "g_ja": "（やたら凝った設定を踏まえつつ、撮影が始まり……）",
+      "g_ko": "(미도리가 설명해 준 컨셉이란, 바로……!)",
+      "g_en": "Midori's idea for the concept was...",
+      "g_th": "(และคอนเซ็ปต์ตามบรีฟของมิโดริก็คือ...!)",
+      "g_tw": "（至於綠說明的概念則是……！）",
+      "g_tw_cn": "（至于绿说明的概念则是……！）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(미도리가 설명해 준 컨셉이란, 바로……!)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 136,
+    "AbsolutePos": 147,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3308266121
+    }
+  },
+  {
+    "ActualPos": 137,
+    "AbsolutePos": 147,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 220
+    }
+  },
+  {
+    "ActualPos": 138,
+    "AbsolutePos": 150,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2497844078
+    }
+  },
+  {
+    "ActualPos": 139,
+    "AbsolutePos": 150,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:790]― <cmd-char>미도리 메이드</cmd-char>も、[wa:1280]申し訳ございません。[wa:1680]ご主人様！",
+      "j_ko": "[wa:830]― <cmd-char>미도리 메이드</cmd-char>죄, [wa:1200]죄송합니다. [wa:1760]주인님!",
+      "g_ja": "[wa:790]― <cmd-char>미도리 메이드</cmd-char>も、[wa:1280]申し訳ございません。[wa:1680]ご主人様！",
+      "g_ko": "[wa:830]― <cmd-char>미도리 메이드</cmd-char>죄, [wa:1200]죄송합니다. [wa:1760]주인님!",
+      "g_en": "― <cmd-char>미도리 메이드</cmd-char>I'm...sorry...Master![wa:3510] ",
+      "g_th": "― <cmd-char>미도리 메이드</cmd-char>ขะ... ขอโทษค่ะ นายท่าน![wa:3430] ",
+      "g_tw": "― <cmd-char>미도리 메이드</cmd-char>非，非常抱歉。主人！[wa:3950] ",
+      "g_tw_cn": "― <cmd-char>미도리 메이드</cmd-char>非，非常抱歉。主人！[wa:3950] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:830]― [log=미도리 메이드]죄, [wa:1200]죄송합니다. [wa:1760]주인님![/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 2497844078,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 140,
+    "AbsolutePos": 151,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2640]― <cmd-char>미도리 메이드</cmd-char>私、[wa:1400]また間違っちゃって、[wa:1780]転んじゃって……。",
+      "j_ko": "[wa:2400]― <cmd-char>미도리 메이드</cmd-char>저, [wa:1160]또 다시 실수해 버려서, [wa:1900]넘어져서…….",
+      "g_ja": "[wa:2640]― <cmd-char>미도리 메이드</cmd-char>私、[wa:1400]また間違っちゃって、[wa:1780]転んじゃって……。",
+      "g_ko": "[wa:2400]― <cmd-char>미도리 메이드</cmd-char>저, [wa:1160]또 다시 실수해 버려서, [wa:1900]넘어져서…….",
+      "g_en": "― <cmd-char>미도리 메이드</cmd-char>I...I made another mistake and...fell over...[wa:4620] ",
+      "g_th": "― <cmd-char>미도리 메이드</cmd-char>ฉันเผลอทำพลาด จนหกล้มอีกแล้ว...[wa:5180] ",
+      "g_tw": "― <cmd-char>미도리 메이드</cmd-char>我，又不小心搞錯，跌倒了……[wa:5860] ",
+      "g_tw_cn": "― <cmd-char>미도리 메이드</cmd-char>我，又不小心搞错，跌倒了……[wa:5860] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:2400]― [log=미도리 메이드]저, [wa:1160]또 다시 실수해 버려서, [wa:1900]넘어져서…….[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 141,
+    "AbsolutePos": 154,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1659150266
+    }
+  },
+  {
+    "ActualPos": 142,
+    "AbsolutePos": 154,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1210]― <cmd-char>미도리 메이드</cmd-char>大丈夫……[wa:1100]です。[wa:1660]ご主人様からの、[wa:1660]お叱りなら……。",
+      "j_ko": "[wa:1330]― <cmd-char>미도리 메이드</cmd-char>괜찮…… [wa:1060]습니다. [wa:1700]주인님께서, 내리시는 질책이라면…….",
+      "g_ja": "[wa:1210]― <cmd-char>미도리 메이드</cmd-char>大丈夫……[wa:1100]です。[wa:1660]ご主人様からの、[wa:1660]お叱りなら……。",
+      "g_ko": "[wa:1330]― <cmd-char>미도리 메이드</cmd-char>괜찮…… [wa:1060]습니다. [wa:1700]주인님께서, 내리시는 질책이라면…….",
+      "g_en": "― <cmd-char>미도리 메이드</cmd-char>But...don't worry about me. Reprimand me as you will, Master...[wa:2770] ",
+      "g_th": "― <cmd-char>미도리 메이드</cmd-char>ไม่เป็นไร... หรอกค่ะ ถ้าเป็นการตำหนิจากนายท่านละก็...[wa:3170] ",
+      "g_tw": "― <cmd-char>미도리 메이드</cmd-char>沒關係……的。如果是主人的指責……[wa:4610] ",
+      "g_tw_cn": "― <cmd-char>미도리 메이드</cmd-char>没关系……的。如果是主人的指责……[wa:4610] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1330]― [log=미도리 메이드]괜찮…… [wa:1060]습니다. [wa:1700]주인님께서, 내리시는 질책이라면…….[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1659150266,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 143,
+    "AbsolutePos": 155,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:3110]― <cmd-char>미도리 메이드</cmd-char>どんなものでも……[wa:2100]受け止めますから……。",
+      "j_ko": "[wa:2650]― <cmd-char>미도리 메이드</cmd-char>어떤 것이라도…… [wa:1980]받아들일 테니까요…….",
+      "g_ja": "[wa:3110]― <cmd-char>미도리 메이드</cmd-char>どんなものでも……[wa:2100]受け止めますから……。",
+      "g_ko": "[wa:2650]― <cmd-char>미도리 메이드</cmd-char>어떤 것이라도…… [wa:1980]받아들일 테니까요…….",
+      "g_en": "― <cmd-char>미도리 메이드</cmd-char>No matter what... I'll accept it...[wa:4110] ",
+      "g_th": "― <cmd-char>미도리 메이드</cmd-char>ไม่ว่าจะเป็นอะไร... ฉันก็จะรับไว้ค่ะ...[wa:3950] ",
+      "g_tw": "― <cmd-char>미도리 메이드</cmd-char>無論什麼……我都願意接受……[wa:4950] ",
+      "g_tw_cn": "― <cmd-char>미도리 메이드</cmd-char>无论什么……我都愿意接受……[wa:4950] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:2650]― [log=미도리 메이드]어떤 것이라도…… [wa:1980]받아들일 테니까요…….[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 144,
+    "AbsolutePos": 158,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3845279245
+    }
+  },
+  {
+    "ActualPos": 145,
+    "AbsolutePos": 158,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:670]― <cmd-char>미도리 메이드</cmd-char>……ど、[wa:1360]どうでしょう？",
+      "j_ko": "[wa:830]― <cmd-char>미도리 메이드</cmd-char>……어, [wa:1240]어떤가요?",
+      "g_ja": "[wa:670]― <cmd-char>미도리 메이드</cmd-char>……ど、[wa:1360]どうでしょう？",
+      "g_ko": "[wa:830]― <cmd-char>미도리 메이드</cmd-char>……어, [wa:1240]어떤가요?",
+      "g_en": "― <cmd-char>미도리 메이드</cmd-char>What...do you think?[wa:1670] ",
+      "g_th": "― <cmd-char>미도리 메이드</cmd-char>ปะ... เป็นยังไงบ้างคะ?[wa:1590] ",
+      "g_tw": "― <cmd-char>미도리 메이드</cmd-char>……感，感覺怎麼樣？[wa:2070] ",
+      "g_tw_cn": "― <cmd-char>미도리 메이드</cmd-char>……感，感觉怎么样？[wa:2070] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:830]― [log=미도리 메이드]……어, [wa:1240]어떤가요?[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 3845279245,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 146,
+    "AbsolutePos": 161,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……何だかとっても良くない感じがする！\"",
+      "j_ko": " \"지금 뭔가 엄청나게 하면 안 되는 일을 하는 것 같아!\"",
+      "g_ja": " \"……何だかとっても良くない感じがする！\"",
+      "g_ko": " \"지금 뭔가 엄청나게 하면 안 되는 일을 하는 것 같아!\"",
+      "g_en": " \"I think we really shouldn't be doing this!\"",
+      "g_th": " \"รู้สึกเหมือนกำลังทำสิ่งที่ไม่ควรทำมากๆ เลยน่ะ!\"",
+      "g_tw": "「總覺得好像在做什麼不該做的事！」",
+      "g_tw_cn": "「总觉得好像在做什么不该做的事！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"지금 뭔가 엄청나게 하면 안 되는 일을 하는 것 같아!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 147,
+    "AbsolutePos": 162,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4055330292
+    }
+  },
+  {
+    "ActualPos": 148,
+    "AbsolutePos": 162,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:670]― <cmd-char>미도리 메이드</cmd-char>で、[wa:610]でもこれは[wa:1020]そういうシチュエーションですし！",
+      "j_ko": "[wa:830]― <cmd-char>미도리 메이드</cmd-char>하, [wa:490]하지만 [wa:1060]이건 그런 상황이니까요!",
+      "g_ja": "[wa:670]― <cmd-char>미도리 메이드</cmd-char>で、[wa:610]でもこれは[wa:1020]そういうシチュエーションですし！",
+      "g_ko": "[wa:830]― <cmd-char>미도리 메이드</cmd-char>하, [wa:490]하지만 [wa:1060]이건 그런 상황이니까요!",
+      "g_en": "― <cmd-char>미도리 메이드</cmd-char>B-But...this is the scenario we're in![wa:1660] ",
+      "g_th": "― <cmd-char>미도리 메이드</cmd-char>ตะ... แต่ว่า เรากำลังอยู่ในสถานการณ์แบบนั้นนี่คะ![wa:1220] ",
+      "g_tw": "― <cmd-char>미도리 메이드</cmd-char>可，可是這就是那種情境呀！[wa:2660] ",
+      "g_tw_cn": "― <cmd-char>미도리 메이드</cmd-char>可，可是这就是那种情境呀！[wa:2660] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:830]― [log=미도리 메이드]하, [wa:490]하지만 [wa:1060]이건 그런 상황이니까요![/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 4055330292,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 149,
+    "AbsolutePos": 163,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:3330]― <cmd-char>미도리 메이드</cmd-char>写真を撮ってほしいと[wa:1360]お願いしたのは、[wa:2010]私ですし……。",
+      "j_ko": "[wa:2790]― <cmd-char>미도리 메이드</cmd-char>사진을 찍어달라고 부탁한 건, [wa:3470]제 쪽이었고……",
+      "g_ja": "[wa:3330]― <cmd-char>미도리 메이드</cmd-char>写真を撮ってほしいと[wa:1360]お願いしたのは、[wa:2010]私ですし……。",
+      "g_ko": "[wa:2790]― <cmd-char>미도리 메이드</cmd-char>사진을 찍어달라고 부탁한 건, [wa:3470]제 쪽이었고……",
+      "g_en": "― <cmd-char>미도리 메이드</cmd-char>I'm the one who asked you to...do this...[wa:5620] ",
+      "g_th": "― <cmd-char>미도리 메이드</cmd-char>แล้วคนที่ขอให้ช่วยถ่ายรูปให้ ก็คือฉัน...[wa:5660] ",
+      "g_tw": "― <cmd-char>미도리 메이드</cmd-char>請你幫我拍照的人，也是我……[wa:6700] ",
+      "g_tw_cn": "― <cmd-char>미도리 메이드</cmd-char>请你帮我拍照的人，也是我……[wa:6700] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:2790]― [log=미도리 메이드]사진을 찍어달라고 부탁한 건, [wa:3470]제 쪽이었고……[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 150,
+    "AbsolutePos": 166,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 848166752
+    }
+  },
+  {
+    "ActualPos": 151,
+    "AbsolutePos": 166,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1330]― <cmd-char>미도리 메이드</cmd-char>えっと、[wa:1960]先生？",
+      "j_ko": "[wa:1330]― <cmd-char>미도리 메이드</cmd-char>저기, [wa:1960]선생님?",
+      "g_ja": "[wa:1330]― <cmd-char>미도리 메이드</cmd-char>えっと、[wa:1960]先生？",
+      "g_ko": "[wa:1330]― <cmd-char>미도리 메이드</cmd-char>저기, [wa:1960]선생님?",
+      "g_en": "― <cmd-char>미도리 메이드</cmd-char>Umm, Sensei?[wa:3130] ",
+      "g_th": "― <cmd-char>미도리 메이드</cmd-char>คือว่า คุณครูคะ?[wa:2970] ",
+      "g_tw": "― <cmd-char>미도리 메이드</cmd-char>那個，老師？[wa:3370] ",
+      "g_tw_cn": "― <cmd-char>미도리 메이드</cmd-char>那个，老师？[wa:3370] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1330]― [log=미도리 메이드]저기, [wa:1960]선생님?[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 848166752,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 152,
+    "AbsolutePos": 167,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2540]― <cmd-char>미도리 메이드</cmd-char>本日のメイドミドリは、[wa:2720]ご満足いただけたでしょうか？",
+      "j_ko": "[wa:2340]― <cmd-char>미도리 메이드</cmd-char>오늘의 메이드 미도리는, [wa:2800]만족스러우셨나요?",
+      "g_ja": "[wa:2540]― <cmd-char>미도리 메이드</cmd-char>本日のメイドミドリは、[wa:2720]ご満足いただけたでしょうか？",
+      "g_ko": "[wa:2340]― <cmd-char>미도리 메이드</cmd-char>오늘의 메이드 미도리는, [wa:2800]만족스러우셨나요?",
+      "g_en": "― <cmd-char>미도리 메이드</cmd-char>Did you find today's maid experience with Midori...satisfying?[wa:3580] ",
+      "g_th": "― <cmd-char>미도리 메이드</cmd-char>วันนี้เมดมิโดริ ทำได้น่าพอใจมั้ยคะ?[wa:4660] ",
+      "g_tw": "― <cmd-char>미도리 메이드</cmd-char>今天的女僕綠，您還滿意嗎？[wa:5540] ",
+      "g_tw_cn": "― <cmd-char>미도리 메이드</cmd-char>今天的女仆绿，您还满意吗？[wa:5540] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:2340]― [log=미도리 메이드]오늘의 메이드 미도리는, [wa:2800]만족스러우셨나요?[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 153,
+    "AbsolutePos": 169,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1046815759
+    }
+  },
+  {
+    "ActualPos": 154,
+    "AbsolutePos": 170,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "んんっ……なんだか、すっきりしました。",
+      "j_ko": "후아……. 뭔가, 개운한 기분이네요.",
+      "g_ja": "んんっ……なんだか、すっきりしました。",
+      "g_ko": "후아……. 뭔가, 개운한 기분이네요.",
+      "g_en": "*sigh* I feel...oddly invigorated.",
+      "g_th": "ฮู่ว... รู้สึกเบาใจขึ้นมายังไงไม่รู้ค่ะ",
+      "g_tw": "呼啊……感覺很舒暢。",
+      "g_tw_cn": "呼啊……感觉很舒畅。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;99;후아……. 뭔가, 개운한 기분이네요.\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 155,
+    "AbsolutePos": 171,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ありがとうございます。先生も、お疲れ様でした。",
+      "j_ko": "감사합니다. 선생님. 수고 많으셨어요.",
+      "g_ja": "ありがとうございます。先生も、お疲れ様でした。",
+      "g_ko": "감사합니다. 선생님. 수고 많으셨어요.",
+      "g_en": "Thank you, Sensei. You've worked hard.",
+      "g_th": "ขอบคุณนะคะ คุณครูทำได้ดีเลยค่ะ ",
+      "g_tw": "謝謝你，老師，辛苦了。",
+      "g_tw_cn": "谢谢你，老师，辛苦了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;11;감사합니다. 선생님. 수고 많으셨어요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 156,
+    "AbsolutePos": 175,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あの……どうかされましたか？",
+      "j_ko": "어라, 표정이 왜 그러세요?",
+      "g_ja": "あの……どうかされましたか？",
+      "g_ko": "어라, 표정이 왜 그러세요?",
+      "g_en": "Huh? What's with that look?",
+      "g_th": "เอ๋ ทำไมทำหน้าอย่างนั้นล่ะคะ?",
+      "g_tw": "咦，為什麼露出那種表情？",
+      "g_tw_cn": "咦，为什么露出那种表情？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;02;어라, 표정이 왜 그러세요?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 157,
+    "AbsolutePos": 176,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"素数って、途中から数えるの難しくてちょうど良いなって。\"",
+      "j_ko": " \"별거 아니야. 소수를 세고 있었어.\"",
+      "g_ja": " \"素数って、途中から数えるの難しくてちょうど良いなって。\"",
+      "g_ko": " \"별거 아니야. 소수를 세고 있었어.\"",
+      "g_en": " \"It's nothing. I was just counting prime numbers.\"",
+      "g_th": " \"ไม่มีอะไรมากหรอก ครูแค่นับเลขในใจเพื่อตั้งสติอยู่น่ะ\"",
+      "g_tw": "「沒事，我只是在數質數而已。」",
+      "g_tw_cn": "「没事，我只是在数质数而已。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"별거 아니야. 소수를 세고 있었어.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 158,
+    "AbsolutePos": 177,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……？",
+      "j_ko": "그런…… 가요?",
+      "g_ja": "……？",
+      "g_ko": "그런…… 가요?",
+      "g_en": "Is that so...?",
+      "g_th": "อย่างงั้น... เหรอคะ?",
+      "g_tw": "是……嗎？",
+      "g_tw_cn": "是……吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;01;그런…… 가요?\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 159,
+    "AbsolutePos": 178,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ふふっ。",
+      "j_ko": "……후훗.",
+      "g_ja": "……ふふっ。",
+      "g_ko": "……후훗.",
+      "g_en": "...Heehee.",
+      "g_th": "ฮุฮุ...",
+      "g_tw": "……呵呵。",
+      "g_tw_cn": "……呵呵。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;11;……후훗.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 160,
+    "AbsolutePos": 179,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生。私、今回のイラスト、全力で描き上げます。",
+      "j_ko": "선생님. 저, 이번 일러스트는 정말로 최선을 다해 볼 거예요.",
+      "g_ja": "先生。私、今回のイラスト、全力で描き上げます。",
+      "g_ko": "선생님. 저, 이번 일러스트는 정말로 최선을 다해 볼 거예요.",
+      "g_en": "Sensei, I'll give this illustration my best efforts.",
+      "g_th": "คุณครู ครั้งนี้ฉันจะตั้งใจวาดรูปออกมาให้ดีเลยค่ะ",
+      "g_tw": "老師，這次的插畫，我會全力以赴的。",
+      "g_tw_cn": "老师，这次的插画，我会全力以赴的。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;03;선생님. 저, 이번 일러스트는 정말로 최선을 다해 볼 거예요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 161,
+    "AbsolutePos": 180,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ですから、その……もしよろしければ……。",
+      "j_ko": "그리고 괜찮으시다면…….",
+      "g_ja": "ですから、その……もしよろしければ……。",
+      "g_ko": "그리고 괜찮으시다면…….",
+      "g_en": "And if you don't mind...",
+      "g_th": "และถ้าคุณครูไม่ว่าอะไร...",
+      "g_tw": "還有，如果可以的話……",
+      "g_tw_cn": "还有，如果可以的话……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;03;그리고 괜찮으시다면…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 162,
+    "AbsolutePos": 181,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "完成したら、一番に先生に見てほしいんです。",
+      "j_ko": "누구보다 먼저, 완성품을 보여드리고 싶은데. 괜찮으실까요?",
+      "g_ja": "完成したら、一番に先生に見てほしいんです。",
+      "g_ko": "누구보다 먼저, 완성품을 보여드리고 싶은데. 괜찮으실까요?",
+      "g_en": "I'd love to show you the finished piece before anyone else. Would that be okay?",
+      "g_th": "ฉันอยากให้คุณครูได้เห็นภาพที่วาดเสร็จเป็นคนแรกเลยค่ะ จะได้มั้ยคะ?",
+      "g_tw": "我想第一個把完成品給你看，可以嗎？",
+      "g_tw_cn": "我想第一个把完成品给你看，可以吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;11;누구보다 먼저, 완성품을 보여드리고 싶은데. 괜찮으실까요?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 163,
+    "AbsolutePos": 182,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"うん、楽しみにしてるね。\"",
+      "j_ko": " \"응. 기대할게.\"",
+      "g_ja": " \"うん、楽しみにしてるね。\"",
+      "g_ko": " \"응. 기대할게.\"",
+      "g_en": " \"Of course. I can't wait to see it.\"",
+      "g_th": " \"อื้ม ครูจะตั้งตารอนะ\"",
+      "g_tw": "「嗯，我很期待哦。」",
+      "g_tw_cn": "「嗯，我很期待哦。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"응. 기대할게.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 164,
+    "AbsolutePos": 183,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はい！",
+      "j_ko": "네!",
+      "g_ja": "はい！",
+      "g_ko": "네!",
+      "g_en": "Yes, sir!",
+      "g_th": "ค่ะ!",
+      "g_tw": "是！",
+      "g_tw_cn": "是！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1196971520,
+    "DataType": "speaker",
+    "Script": "3;미도리 메이드;11;네!\\n#3;em;[반짝]\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

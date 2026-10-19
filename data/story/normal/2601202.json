@@ -1,0 +1,1773 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 914457591
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 4
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">人命救助訓練</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">수상안전을 위한 노력</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">人命救助訓練</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">수상안전을 위한 노력</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Water Safety Endeavors</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ความพยายามเพื่อความปลอดภัยทางน้ำ</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">為維繫水上安全而努力</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">为维系水上安全而努力</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;수상안전을 위한 노력",
+    "BGMId": 4,
+    "Sound": "",
+    "BGName": 914457591,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（キリノの頼みを受け、ヴァルキューレ警察学校に向かった）",
+      "j_ko": "(키리노의 부탁을 받고 발키리 경찰학교 수영 훈련장으로 향했다.)",
+      "g_ja": "（キリノの頼みを受け、ヴァルキューレ警察学校に向かった）",
+      "g_ko": "(키리노의 부탁을 받고 발키리 경찰학교 수영 훈련장으로 향했다.)",
+      "g_en": "At Kirino's request, I went to Valkyrie Police School's swim training facility.",
+      "g_th": "(คุณครูได้รับคำขอความช่วยเหลือจากคิริโนะ ก็เลยมุ่งหน้าไปยังสระฝึกว่ายน้ำของสถาบันฝึกตำรวจ<br/>วัลคิรี่)",
+      "g_tw": "（受桐乃之託，前往了女武神警察學園的游泳訓練場）",
+      "g_tw_cn": "（受桐乃之托，前往了女武神警察学园的游泳训练场）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(키리노의 부탁을 받고 발키리 경찰학교 수영 훈련장으로 향했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[USERNAME]先生、お待ちしておりました！",
+      "j_ko": "아! [USERNAME] 선생님! 와주셨군요!",
+      "g_ja": "[USERNAME]先生、お待ちしておりました！",
+      "g_ko": "아! [USERNAME] 선생님! 와주셨군요!",
+      "g_en": "Ah, [USERNAME] Sensei! You made it!",
+      "g_th": "อ๊ะ! คุณครู [USERNAME]! มาจริงๆ ด้วยนะคะ!",
+      "g_tw": "啊！[USERNAME]老師！歡迎您！",
+      "g_tw_cn": "啊！[USERNAME]老师！欢迎您！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;00;아! [USERNAME] 선생님! 와주셨군요!\\n#3;em;[!]\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 6,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "任務開始まで時間がないもので、<br/>どうすれば良いのかと本当に困っていました……。",
+      "j_ko": "임무 시작까지 남은 시간이 얼마 없어 달리 도움을 요청할 곳이 없었습니다…….",
+      "g_ja": "任務開始まで時間がないもので、<br/>どうすれば良いのかと本当に困っていました……。",
+      "g_ko": "임무 시작까지 남은 시간이 얼마 없어 달리 도움을 요청할 곳이 없었습니다…….",
+      "g_en": "Pardon the short notice. This mission's about to start, and there was no one else available to help.",
+      "g_th": "ฉันต้องไปเริ่มภารกิจไลฟ์การ์ดในเร็วๆ นี้แล้ว ก็เลยไม่รู้จะไปขอให้ใครช่วยแล้วน่ะค่ะ...",
+      "g_tw": "距離任務開始沒剩下多少時間，我實在找不到其他能求助的人……",
+      "g_tw_cn": "距离任务开始没剩下多少时间，我实在找不到其他能求助的人……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;06;임무 시작까지 남은 시간이 얼마 없어 달리 도움을 요청할 곳이 없었습니다…….\\n#3;em;[세로선]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sad",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"大丈夫だよ、いつでも呼んでね。\"",
+      "j_ko": " \"괜찮아. 언제든지 불러 줘.\"",
+      "g_ja": " \"大丈夫だよ、いつでも呼んでね。\"",
+      "g_ko": " \"괜찮아. 언제든지 불러 줘.\"",
+      "g_en": " \"No worries. Feel free to call me anytime.\"",
+      "g_th": " \"ไม่เป็นไรหรอก เรียกครูได้ตลอดเลย\"",
+      "g_tw": "「沒關係，隨時都可以找我。」",
+      "g_tw_cn": "「没关系，随时都可以找我。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"괜찮아. 언제든지 불러 줘.\"\\n[s2] \"괜찮아. 나도 수영장은 좋아하니까.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"私も泳ぐのは好きだから。\"",
+      "j_ko": " \"괜찮아. 나도 수영장은 좋아하니까.\"",
+      "g_ja": " \"私も泳ぐのは好きだから。\"",
+      "g_ko": " \"괜찮아. 나도 수영장은 좋아하니까.\"",
+      "g_en": " \"I'm always happy to go to the swimming pool.\"",
+      "g_th": " \"ไม่เป็นไรหรอก ครูชอบว่ายน้ำอยู่แล้ว\"",
+      "g_tw": "「沒關係，我也很喜歡游泳池。」",
+      "g_tw_cn": "「没关系，我也很喜欢游泳池。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"괜찮아. 언제든지 불러 줘.\"\\n[s2] \"괜찮아. 나도 수영장은 좋아하니까.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 10,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はい、ありがとうございます！",
+      "j_ko": "네! 감사합니다!",
+      "g_ja": "はい、ありがとうございます！",
+      "g_ko": "네! 감사합니다!",
+      "g_en": "I appreciate it. Thank you.",
+      "g_th": "ค่ะ! ขอบคุณค่ะ!",
+      "g_tw": "是！謝謝您！",
+      "g_tw_cn": "是！谢谢您！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;03;네! 감사합니다!\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生がいらっしゃる前に準備運動は済ませておきました！<br/>いつでも訓練を開始できます！",
+      "j_ko": "선생님이 오시기 전에 준비운동은 미리 끝내 둔 참이니 바로 시작할 수 있습니다!",
+      "g_ja": "先生がいらっしゃる前に準備運動は済ませておきました！<br/>いつでも訓練を開始できます！",
+      "g_ko": "선생님이 오시기 전에 준비운동은 미리 끝내 둔 참이니 바로 시작할 수 있습니다!",
+      "g_en": "I've already finished warming up, so we can get right into it.",
+      "g_th": "ฉันอบอุ่นร่างกายไปแล้วก่อนที่คุณครูจะมา งั้นเราก็เริ่มกันได้เลยค่ะ!",
+      "g_tw": "在老師來之前，我已經先做好熱身運動了，隨時可以開始！",
+      "g_tw_cn": "在老师来之前，我已经先做好热身运动了，随时可以开始！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;12;선생님이 오시기 전에 준비운동은 미리 끝내 둔 참이니 바로 시작할 수 있습니다!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"じゃあ、まずは今の実力を見せてもらっても良い？\"",
+      "j_ko": " \"그럼 우선, 실력을 한 번 볼까?\"",
+      "g_ja": " \"じゃあ、まずは今の実力を見せてもらっても良い？\"",
+      "g_ko": " \"그럼 우선, 실력을 한 번 볼까?\"",
+      "g_en": " \"You need me to help evaluate your skills?\"",
+      "g_th": " \"งั้นมาดูทักษะการว่ายน้ำก่อนดีมั้ย?\"",
+      "g_tw": "「那就先讓我看看你的實力吧？」",
+      "g_tw_cn": "「那就先让我看看你的实力吧？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그럼 우선, 실력을 한 번 볼까?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もちろんです！<br/>反対側まで泳いできます！",
+      "j_ko": "네! 그럼 저쪽 벽을 찍고 돌아오겠습니다!",
+      "g_ja": "もちろんです！<br/>反対側まで泳いできます！",
+      "g_ko": "네! 그럼 저쪽 벽을 찍고 돌아오겠습니다!",
+      "g_en": "That's right. To start with, I'll swim over to that wall over there and then come back.",
+      "g_th": "ค่ะ! งั้นฉันจะว่ายไปถึงฝั่งโน้นแล้วว่ายกลับมานะคะ!",
+      "g_tw": "好的！那麼我先折返一趟！",
+      "g_tw_cn": "好的！那么我先折返一趟！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;00;네! 그럼 저쪽 벽을 찍고 돌아오겠습니다!\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 16,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 17,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 18,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Water_In_01"
+    }
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 19,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterShot_02"
+    }
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 20,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterShot_02"
+    }
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " （犬かき……？）",
+      "j_ko": " (개헤엄……?)",
+      "g_ja": " （犬かき……？）",
+      "g_ko": " (개헤엄……?)",
+      "g_en": " \"(She's dog paddling?)\"",
+      "g_th": " (ท่าลูกหมาตกน้ำเหรอ...?)",
+      "g_tw": " （狗爬式……？）",
+      "g_tw_cn": " （狗爬式……？）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns3] (개헤엄……?)\\n[ns4] (그렇지만 실력 자체는 나쁘지 않은걸……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " （ちゃんと前には進んでるけど……）",
+      "j_ko": " (그렇지만 실력 자체는 나쁘지 않은걸……)",
+      "g_ja": " （ちゃんと前には進んでるけど……）",
+      "g_ko": " (그렇지만 실력 자체는 나쁘지 않은걸……)",
+      "g_en": " \"(She IS pretty good at dog paddling...)\"",
+      "g_th": " (แต่ความสามารถก็ไม่เลวนะ...)",
+      "g_tw": " （不過實力還挺不錯的……）",
+      "g_tw_cn": " （不过实力还挺不错的……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns3] (개헤엄……?)\\n[ns4] (그렇지만 실력 자체는 나쁘지 않은걸……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 24,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 914457591
+    }
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 25,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ぷはっ！<br/>ただいま戻りました！",
+      "j_ko": "푸하! 다녀왔습니다!",
+      "g_ja": "ぷはっ！<br/>ただいま戻りました！",
+      "g_ko": "푸하! 다녀왔습니다!",
+      "g_en": "Phew! I'm back!",
+      "g_th": "แฮ่ก! กลับมาแล้วค่า!",
+      "g_tw": "噗哈！我回來了！",
+      "g_tw_cn": "噗哈！我回来了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;11;푸하! 다녀왔습니다!\\n#3;em;[한숨]\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 26,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "どうでしたか、本官の実力は！",
+      "j_ko": "어떻게 보셨나요, 본관의 수영 실력!",
+      "g_ja": "どうでしたか、本官の実力は！",
+      "g_ko": "어떻게 보셨나요, 본관의 수영 실력!",
+      "g_en": "So what's your evaluation?",
+      "g_th": "เป็นยังไงบ้างคะ ฉันว่ายน้ำเก่งมั้ยคะ?",
+      "g_tw": "本官的游泳實力，您覺得如何呢！",
+      "g_tw_cn": "本官的游泳实力，您觉得如何呢！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;12;어떻게 보셨나요, 본관의 수영 실력!\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ばっちりだよ。\"",
+      "j_ko": " \"상당한 실력이었어.\"",
+      "g_ja": " \"ばっちりだよ。\"",
+      "g_ko": " \"상당한 실력이었어.\"",
+      "g_en": " \"Your skills were notable.\"",
+      "g_th": " \"ค่อนข้างเก่งเลยละ\"",
+      "g_tw": "「相當厲害。」",
+      "g_tw_cn": "「相当厉害。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"상당한 실력이었어.\"\\n[s6] \"상당히 빠르던걸.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"速くて驚いたよ。\"",
+      "j_ko": " \"상당히 빠르던걸.\"",
+      "g_ja": " \"速くて驚いたよ。\"",
+      "g_ko": " \"상당히 빠르던걸.\"",
+      "g_en": " \"Impressively fast.\"",
+      "g_th": " \"ว่ายเร็วอยู่นะ\"",
+      "g_tw": "「你游得很快。」",
+      "g_tw_cn": "「你游得很快。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"상당한 실력이었어.\"\\n[s6] \"상당히 빠르던걸.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふふっ、ありがとうございます。",
+      "j_ko": "헤헤, 감사합니다.",
+      "g_ja": "ふふっ、ありがとうございます。",
+      "g_ko": "헤헤, 감사합니다.",
+      "g_en": "Heehee, thank you.",
+      "g_th": "แหะๆ ขอบคุณค่ะ",
+      "g_tw": "呵呵，謝謝誇獎。",
+      "g_tw_cn": "呵呵，谢谢夸奖。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;10;헤헤, 감사합니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 31,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ですが、人命救助においては特別な泳法があると聞きました。",
+      "j_ko": "하지만, 수상 인명구조를 위해서는 특별한 영법을 사용해야 한다고 들었습니다.",
+      "g_ja": "ですが、人命救助においては特別な泳法があると聞きました。",
+      "g_ko": "하지만, 수상 인명구조를 위해서는 특별한 영법을 사용해야 한다고 들었습니다.",
+      "g_en": "That being said, I understand that rescue swimming requires certain strokes.",
+      "g_th": "แต่ฉันได้ยินมาว่าเราต้องใช้เทคนิคว่ายน้ำแบบพิเศษสำหรับการช่วยชีวิตทางน้ำค่ะ",
+      "g_tw": "但是本官聽說進行水上救援時，必須使用特別的泳法。",
+      "g_tw_cn": "但是本官听说进行水上救援时，必须使用特别的泳法。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;05;하지만, 수상 인명구조를 위해서는 특별한 영법을 사용해야 한다고 들었습니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 32,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先ほどのように、ただ泳ぐだけでは救助できませんから。",
+      "j_ko": "방금처럼 앞으로 나아가기만 해서는 사람을 구조할 수 없으니까요.",
+      "g_ja": "先ほどのように、ただ泳ぐだけでは救助できませんから。",
+      "g_ko": "방금처럼 앞으로 나아가기만 해서는 사람을 구조할 수 없으니까요.",
+      "g_en": "You can't save a person just by swimming forward like that.",
+      "g_th": "แค่ว่ายไปข้างหน้าแบบเมื่อกี้ไม่น่าจะช่วยคนได้",
+      "g_tw": "因為像剛才那樣只往前游是沒辦法救人的。",
+      "g_tw_cn": "因为像刚才那样只往前游是没办法救人的。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;01;방금처럼 앞으로 나아가기만 해서는 사람을 구조할 수 없으니까요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 33,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そこで、訓練マニュアルを見たところ……よい、しょ！",
+      "j_ko": "그래서 여러모로 조사해 본 결과……읏차!",
+      "g_ja": "そこで、訓練マニュアルを見たところ……よい、しょ！",
+      "g_ko": "그래서 여러모로 조사해 본 결과……읏차!",
+      "g_en": "So, after looking into it thoroughly...ta-da!",
+      "g_th": "ฉันก็เลยไปค้นคว้ามาจากหลายๆ แหล่ง และได้ผลออกมาว่าต้องใช้... อันนี้ค่ะ!",
+      "g_tw": "根據各方面的調查結果……嘿咻！",
+      "g_tw_cn": "根据各方面的调查结果……嘿咻！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;12;그래서 여러모로 조사해 본 결과……읏차!\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……重り？\"",
+      "j_ko": " \"그건……무게추?\"",
+      "g_ja": " \"……重り？\"",
+      "g_ko": " \"그건……무게추?\"",
+      "g_en": " \"Is that...a weight?\"",
+      "g_th": " \"นั่นมัน... ตุ้มน้ำหนัก?\"",
+      "g_tw": "「那是……加重塊嗎？」",
+      "g_tw_cn": "「那是……加重块吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그건……무게추?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 35,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はい！この重りを水に溺れた人と想定して、<br/>片腕で救出できなければならないそうです。",
+      "j_ko": "그렇습니다! 이 무게추를 물에 빠진 사람으로 생각하고, 한 팔로 끌어안고 밖으로 나올 수 있어야 한다고 합니다.",
+      "g_ja": "はい！この重りを水に溺れた人と想定して、<br/>片腕で救出できなければならないそうです。",
+      "g_ko": "그렇습니다! 이 무게추를 물에 빠진 사람으로 생각하고, 한 팔로 끌어안고 밖으로 나올 수 있어야 한다고 합니다.",
+      "g_en": "That's right! I'm using it to simulate a swimmer in distress. I should be able to lift them out with one arm.",
+      "g_th": "ใช่แล้วค่ะ! เราต้องคิดว่าตุ้มน้ำหนักอันนี้คือคนที่จมน้ำ แล้วลากขึ้นมาด้วยแขนข้างเดียวให้ได้ค่ะ",
+      "g_tw": "沒錯！聽說必須把這個加重塊當作溺水的人，以單手抱著將其救出來。",
+      "g_tw_cn": "没错！听说必须把这个加重块当作溺水的人，以单手抱着将其救出来。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;00;그렇습니다! 이 무게추를 물에 빠진 사람으로 생각하고, 한 팔로 끌어안고 밖으로 나올 수 있어야 한다고 합니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 36,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……あれ。<br/>これ、5kgしかありませんよ。人の体重と比べたら軽すぎないでしょうか？",
+      "j_ko": "음……그런데 5kg밖에 안 되네요. 익수자 대용으로 사용하기에는 너무 가볍지 않을까요?",
+      "g_ja": "……あれ。<br/>これ、5kgしかありませんよ。人の体重と比べたら軽すぎないでしょうか？",
+      "g_ko": "음……그런데 5kg밖에 안 되네요. 익수자 대용으로 사용하기에는 너무 가볍지 않을까요?",
+      "g_en": "Hmm...but it's a five-kilogram weight. Wouldn't a real person be heavier than that?",
+      "g_th": "อืม... แต่มันหนักแค่ 5 กิโลเอง ถ้าจะใช้แทนคนจมน้ำ ก็น่าจะเบาไปหรือเปล่าคะ?",
+      "g_tw": "嗯……可是這只有5kg。<br/>用來代替溺水的人會不會太輕了？",
+      "g_tw_cn": "嗯……可是这只有5kg。<br/>用来代替溺水的人会不会太轻了？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;09;음……그런데 5kg밖에 안 되네요. 익수자 대용으로 사용하기에는 너무 가볍지 않을까요?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"浮力の関係で、そうなってるんだと思う。\"",
+      "j_ko": " \"괜찮을 거야. 실제로는 부력 때문에 몸무게가 가벼워질 테니까.\"",
+      "g_ja": " \"浮力の関係で、そうなってるんだと思う。\"",
+      "g_ko": " \"괜찮을 거야. 실제로는 부력 때문에 몸무게가 가벼워질 테니까.\"",
+      "g_en": " \"It should be okay. People feel lighter in the water, because of buoyancy and all.\"",
+      "g_th": " \"ไม่เป็นไรหรอก ตอนอยู่ในน้ำ แรงลอยตัวจะทำให้เราตัวเบาลงน่ะ\"",
+      "g_tw": "「應該不會。因為有浮力的關係，體重也會變輕。」",
+      "g_tw_cn": "「应该不会。因为有浮力的关系，体重也会变轻。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"괜찮을 거야. 실제로는 부력 때문에 몸무게가 가벼워질 테니까.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"水中では、体重が10％くらいになるって聞いたよ。\"",
+      "j_ko": " \"책에서 읽었는데, 물속에서는 원래 몸무게의 10% 밖에 나가지 않는다 하더라고.\"",
+      "g_ja": " \"水中では、体重が10％くらいになるって聞いたよ。\"",
+      "g_ko": " \"책에서 읽었는데, 물속에서는 원래 몸무게의 10% 밖에 나가지 않는다 하더라고.\"",
+      "g_en": " \"I've read that in water, a person's weight feels like 10% of their actual weight.\"",
+      "g_th": " \"ครูเคยอ่านเจอว่าเวลาอยู่ในน้ำ เราจะหนักแค่ 10% ของน้ำหนักตัวเอง\"",
+      "g_tw": " 「我在書上看過，人在水中時的重量只有原本體重的10%哦。」",
+      "g_tw_cn": " 「我在书上看过，人在水中时的重量只有原本体重的10%哦。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"책에서 읽었는데, 물속에서는 원래 몸무게의 10% 밖에 나가지 않는다 하더라고.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、そうなんですね！",
+      "j_ko": "아, 그렇군요!",
+      "g_ja": "あ、そうなんですね！",
+      "g_ko": "아, 그렇군요!",
+      "g_en": "Ah, I see!",
+      "g_th": "อ่า อย่างนี้นี่เองสินะคะ!",
+      "g_tw": "啊，原來如此！",
+      "g_tw_cn": "啊，原来如此！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;09;아, 그렇군요!\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "では、本官の体重は水中だと……。",
+      "j_ko": "그럼 물속에서 본관의 몸무게는 약…….",
+      "g_ja": "では、本官の体重は水中だと……。",
+      "g_ko": "그럼 물속에서 본관의 몸무게는 약…….",
+      "g_en": "So, in the water, my weight would be roughly...",
+      "g_th": "ถ้างั้นน้ำหนักของฉันเมื่ออยู่ในน้ำก็ราวๆ...",
+      "g_tw": "所以本官在水中的體重大約是……",
+      "g_tw_cn": "所以本官在水中的体重大约是……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;03;그럼 물속에서 본관의 몸무게는 약…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はっ！？",
+      "j_ko": "핫?!",
+      "g_ja": "はっ！？",
+      "g_ko": "핫?!",
+      "g_en": "Ooh...!",
+      "g_th": "เฮือก!! ",
+      "g_tw": "哈！？",
+      "g_tw_cn": "哈！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;04;핫?!\\n#3;shake\\n#3;em;[?!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Surprise",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 48,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 48,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ゆ、誘導尋問にうっかり引っかかるところでした！",
+      "j_ko": "이, 이런 식으로 유도신문을 하시다니, 깜빡 넘어갈 뻔했습니다!",
+      "g_ja": "ゆ、誘導尋問にうっかり引っかかるところでした！",
+      "g_ko": "이, 이런 식으로 유도신문을 하시다니, 깜빡 넘어갈 뻔했습니다!",
+      "g_en": "I-I almost fell for that!",
+      "g_th": "เมื่อกี้คุณครูพูดชี้นำฉันหรอกเหรอ ฉันเกือบจะเชื่อแล้วนะคะ!",
+      "g_tw": "居然用這種方式進行誘導性提問，差點就上當了！",
+      "g_tw_cn": "居然用这种方式进行诱导性提问，差点就上当了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;05;이, 이런 식으로 유도신문을 하시다니, 깜빡 넘어갈 뻔했습니다!\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "やりますね、先生……！",
+      "j_ko": "선생님, 무서운 분이셨군요……!",
+      "g_ja": "やりますね、先生……！",
+      "g_ko": "선생님, 무서운 분이셨군요……!",
+      "g_en": "Nice try, Sensei!",
+      "g_th": "คุณครูเป็นคนน่ากลัวสินะคะ...!",
+      "g_tw": "老師，您果然不容小覷呢……！",
+      "g_tw_cn": "老师，您果然不容小觑呢……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;08;선생님, 무서운 분이셨군요……!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 50,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……えっ？\"",
+      "j_ko": " \"응? 그게 무슨 소리야?\"",
+      "g_ja": " \"……えっ？\"",
+      "g_ko": " \"응? 그게 무슨 소리야?\"",
+      "g_en": " \"Huh? What do you mean?\"",
+      "g_th": " \"หืม? หมายความว่ายังไงน่ะ?\"",
+      "g_tw": "「嗯？什麼意思？」",
+      "g_tw_cn": "「嗯？什么意思？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"응? 그게 무슨 소리야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "な、何でもありません！<br/>では、訓練を開始しましょう！",
+      "j_ko": "아, 아무것도 아닙니다! 그럼 바로 훈련에 들어가도록 하죠!",
+      "g_ja": "な、何でもありません！<br/>では、訓練を開始しましょう！",
+      "g_ko": "아, 아무것도 아닙니다! 그럼 바로 훈련에 들어가도록 하죠!",
+      "g_en": "Um, forget it. Let's just do the eval!",
+      "g_th": "มะ... ไม่มีอะไรค่ะ! ถ้างั้นก็มาเริ่มฝึกกันเถอะค่ะ!",
+      "g_tw": "沒，沒什麼！那我們就開始訓練吧！",
+      "g_tw_cn": "没，没什么！那我们就开始训练吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;13;아, 아무것도 아닙니다! 그럼 바로 훈련에 들어가도록 하죠!\\n#3;em;[///]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生、この重りをプールに投げていただけますか？<br/>本官が引き上げますので！",
+      "j_ko": "그럼 이 무게추를 수영장으로 던져 주시겠습니까? 본관이 가서 구해 오겠습니다.",
+      "g_ja": "先生、この重りをプールに投げていただけますか？<br/>本官が引き上げますので！",
+      "g_ko": "그럼 이 무게추를 수영장으로 던져 주시겠습니까? 본관이 가서 구해 오겠습니다.",
+      "g_en": "You throw the weight into the pool, and I'll go bring it back.",
+      "g_th": "คุณครูช่วยโยนตุ้มน้ำหนักนี้ลงไปในสระว่ายน้ำหน่อยนะคะ แล้วฉันจะไปเอาขึ้นมาเองค่ะ",
+      "g_tw": "可以請老師把這個加重塊丟進游泳池嗎？本官會去救它的。",
+      "g_tw_cn": "可以请老师把这个加重块丢进游泳池吗？本官会去救它的。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;10;그럼 이 무게추를 수영장으로 던져 주시겠습니까? 본관이 가서 구해 오겠습니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 53,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 7,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " 重りを軽く投げる。",
+      "j_ko": " 무게추를 던진다.",
+      "g_ja": " 重りを軽く投げる。",
+      "g_ko": " 무게추를 던진다.",
+      "g_en": " Throw the weight.",
+      "g_th": " โยนตุ้มน้ำหนัก",
+      "g_tw": " 丟加重塊",
+      "g_tw_cn": " 丢加重块",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns7] 무게추를 던진다.\\n[ns8] 무게추를 힘껏 던진다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 53,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 8,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " 重りを思いっきり投げる。",
+      "j_ko": " 무게추를 힘껏 던진다.",
+      "g_ja": " 重りを思いっきり投げる。",
+      "g_ko": " 무게추를 힘껏 던진다.",
+      "g_en": " Throw the weight with all your might.",
+      "g_th": " โยนตุ้มน้ำหนักสุดแรง",
+      "g_tw": " 用力丟加重塊",
+      "g_tw_cn": " 用力丢加重块",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns7] 무게추를 던진다.\\n[ns8] 무게추를 힘껏 던진다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 56,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 57,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Wind_03"
+    }
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 60,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 61,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Wind_03"
+    }
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 62,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Wind_05"
+    }
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 63,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Water_In_01"
+    }
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 64,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 914457591
+    }
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 64,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "落水者を発見しました！",
+      "j_ko": "앗, 익수자 발생! 긴급상황! 긴급상황!",
+      "g_ja": "落水者を発見しました！",
+      "g_ko": "앗, 익수자 발생! 긴급상황! 긴급상황!",
+      "g_en": "Oh no, someone's drowning! Emergency! Emergency!",
+      "g_th": "อ๊ะ เกิดเหตุด่วน! มีคนจมน้ำ! มีคนจมน้ำ!",
+      "g_tw": "發現有人溺水！緊急狀況！緊急狀況！",
+      "g_tw_cn": "发现有人溺水！紧急状况！紧急状况！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;08;앗, 익수자 발생! 긴급상황! 긴급상황!\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 914457591,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 65,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そこの方、救急車を呼ん<ruby>で、AEDを持<rp>(</rp><rt>自動体外式除細動器</rt><rp>)</rp></ruby>ってきてください！",
+      "j_ko": "거기, 선생님께서는 바로 구급차를 불러 주시고, 만일의 상황을 대비하<ruby>여 AED도 <rp>(</rp><rt>자동심장제세동기</rt><rp>)</rp></ruby>부탁드리겠습니다!",
+      "g_ja": "そこの方、救急車を呼ん<ruby>で、AEDを持<rp>(</rp><rt>自動体外式除細動器</rt><rp>)</rp></ruby>ってきてください！",
+      "g_ko": "거기, 선생님께서는 바로 구급차를 불러 주시고, 만일의 상황을 대비하<ruby>여 AED도 <rp>(</rp><rt>자동심장제세동기</rt><rp>)</rp></ruby>부탁드리겠습니다!",
+      "g_en": "Sensei, I need you to call an ambulance right away. Get an AED ready, just in case.",
+      "g_th": "คุณครูช่วยเรียกรถพยาบาลก่อนเลยค่ะ แล้วก็ช่วยเตรียมเครื่องเออีดีที่ใช้กระตุกไฟฟ้าหัวใจอัตโนมัติ<br/>ให้ด้วยนะคะ!",
+      "g_tw": "請老師馬上叫救護車，為了預防萬一，也請您準<ruby>備AED！<rp>(</rp><rt>自動體外去顫器</rt><rp>)</rp></ruby>",
+      "g_tw_cn": "请老师马上叫救护车，为了预防万一，也请您准<ruby>备AED！<rp>(</rp><rt>自动体外去颤器</rt><rp>)</rp></ruby>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;05;거기, 선생님께서는 바로 구급차를 불러 주시고, 만일의 상황을 대비하[ruby=자동심장제세동기]여 AED도 [/ruby]부탁드리겠습니다!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 66,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " （実際の現場を想定した本格的な訓練だった）",
+      "j_ko": " (거기서부터 시작하는 거구나…….)",
+      "g_ja": " （実際の現場を想定した本格的な訓練だった）",
+      "g_ko": " (거기서부터 시작하는 거구나…….)",
+      "g_en": " \"(So that's Step One...)\"",
+      "g_th": " (เอาจริงขนาดนี้เลยสินะ...)",
+      "g_tw": " （原來要從這個步驟開始啊……）",
+      "g_tw_cn": " （原来要从这个步骤开始啊……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] (거기서부터 시작하는 거구나…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "行きます！えいっ！",
+      "j_ko": "갑니다! 에잇!",
+      "g_ja": "行きます！えいっ！",
+      "g_ko": "갑니다! 에잇!",
+      "g_en": "I'm on my way! Ack!",
+      "g_th": "เอาละ ฉันจะไปช่วยเดี๋ยวนี้!",
+      "g_tw": "實施救援！嘿！",
+      "g_tw_cn": "实施救援！嘿！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;08;갑니다! 에잇!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 70,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 71,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 72,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Water_In_01"
+    }
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 73,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterShot_02"
+    }
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 74,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterShot_02"
+    }
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふうっ！",
+      "j_ko": "흐읍!",
+      "g_ja": "ふうっ！",
+      "g_ko": "흐읍!",
+      "g_en": "Haaah!",
+      "g_th": "ฮึบ!",
+      "g_tw": "呼！",
+      "g_tw_cn": "呼！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "#na;키리노 수영복;흐읍!",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 78,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Water_In_01"
+    }
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 81,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 82,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……。\"",
+      "j_ko": " \"…….\"",
+      "g_ja": " \"……。\"",
+      "g_ko": " \"…….\"",
+      "g_en": " \"...\"",
+      "g_th": " \"...\"",
+      "g_tw": "「……」",
+      "g_tw_cn": "「……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 86,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"き、キリノ！？\"",
+      "j_ko": " \"키, 키리노?!\"",
+      "g_ja": " \"き、キリノ！？\"",
+      "g_ko": " \"키, 키리노?!\"",
+      "g_en": " \"K-Kirino?!\"",
+      "g_th": " \"คะ... คิริโนะ?\"!\"",
+      "g_tw": "「桐，桐乃！？」",
+      "g_tw_cn": "「桐，桐乃！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"키, 키리노?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 87,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 130
+    }
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 87,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 87,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ぷへえっ！",
+      "j_ko": "푸헤엑!",
+      "g_ja": "ぷへえっ！",
+      "g_ko": "푸헤엑!",
+      "g_en": "Ugh!",
+      "g_th": "แฮ่กก!",
+      "g_tw": "噗咳咳！",
+      "g_tw_cn": "噗咳咳！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "#na;키리노 수영복;푸헤엑!",
+    "BGMId": 130,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 88,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "お、重すぎます！",
+      "j_ko": "너, 너무 무겁습니다!",
+      "g_ja": "お、重すぎます！",
+      "g_ko": "너, 너무 무겁습니다!",
+      "g_en": "Th-This is way too heavy!",
+      "g_th": "นะ... หนักมากเลยค่ะ!",
+      "g_tw": "太，太重了！",
+      "g_tw_cn": "太，太重了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "#na;키리노 수영복;너, 너무 무겁습니다!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 89,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それに、ぷはっ！<br/>ち、力が入らなっ……！",
+      "j_ko": "게다가, 푸헥! 히, 힘이 빠져서……!",
+      "g_ja": "それに、ぷはっ！<br/>ち、力が入らなっ……！",
+      "g_ko": "게다가, 푸헥! 히, 힘이 빠져서……!",
+      "g_en": "Ugh... I don't think I can do this much longer...!",
+      "g_th": "แล้วฉันก็... แฮ่ก! มะ... หมดแรงแล้ว...!",
+      "g_tw": "而且……咳咳！快，快沒力氣了……！",
+      "g_tw_cn": "而且……咳咳！快，快没力气了……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "#na;키리노 수영복;게다가, 푸헥! 히, 힘이 빠져서……!",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 90,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 9,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"落ち着いて、これを掴んで！\"",
+      "j_ko": " \"키리노! 침착하고 이걸 잡아!\"",
+      "g_ja": " \"落ち着いて、これを掴んで！\"",
+      "g_ko": " \"키리노! 침착하고 이걸 잡아!\"",
+      "g_en": " \"Kirino! Stay calm and grab this!\"",
+      "g_th": " \"คิริโนะ! ตั้งสติแล้วจับอันนี้ไว้!\"",
+      "g_tw": "「桐乃！冷靜下來抓住這個！」",
+      "g_tw_cn": "「桐乃！冷静下来抓住这个！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s9] \"키리노! 침착하고 이걸 잡아!\"\\n[s10] \"키리노! 내가 구해 줄게!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 90,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 10,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"キリノ！すぐ助けてあげる！\"",
+      "j_ko": " \"키리노! 내가 구해 줄게!\"",
+      "g_ja": " \"キリノ！すぐ助けてあげる！\"",
+      "g_ko": " \"키리노! 내가 구해 줄게!\"",
+      "g_en": " \"Kirino! I'll save you!\"",
+      "g_th": " \"คิริโนะ! ครูจะช่วยเอง!\"",
+      "g_tw": "「桐乃！我馬上來救你！」",
+      "g_tw_cn": "「桐乃！我马上来救你！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s9] \"키리노! 침착하고 이걸 잡아!\"\\n[s10] \"키리노! 내가 구해 줄게!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 93,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 914457591
+    }
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 96,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 914457591
+    }
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 97,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 98,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Water_In_01"
+    }
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 99,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 914457591
+    }
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 99,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "きゅ、救命浮き輪、掴みました！",
+      "j_ko": "구, 구명튜브! 잡았습니다!",
+      "g_ja": "きゅ、救命浮き輪、掴みました！",
+      "g_ko": "구, 구명튜브! 잡았습니다!",
+      "g_en": "Life preserver, got it! I'm holding on!",
+      "g_th": "หะ... ห่วงยางชูชีพ! จับไว้ได้แล้วค่ะ!",
+      "g_tw": "抓，抓到救生圈了！",
+      "g_tw_cn": "抓，抓到救生圈了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "#zmc;instant;0,-444;1850\\n#na;키리노 수영복;구, 구명튜브! 잡았습니다!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 914457591,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 100,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"引っ張るからしっかり掴んでて！\"",
+      "j_ko": " \"끌어당길 테니 꽉 잡고 있어!\"",
+      "g_ja": " \"引っ張るからしっかり掴んでて！\"",
+      "g_ko": " \"끌어당길 테니 꽉 잡고 있어!\"",
+      "g_en": " \"Good, keep holding on! I'll pull you in!\"",
+      "g_th": " \"จับไว้ให้ดีนะ ครูจะดึงขึ้นมาเอง!\"",
+      "g_tw": "「我會拉你上來，你抓緊了！」",
+      "g_tw_cn": "「我会拉你上来，你抓紧了！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "#zmc;instant;0,-444;1850\\n[s] \"끌어당길 테니 꽉 잡고 있어!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 102,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 914457591
+    }
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 104,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 104,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "げほげほ、けふっ！",
+      "j_ko": "콜록콜록, 케흑!",
+      "g_ja": "げほげほ、けふっ！",
+      "g_ko": "콜록콜록, 케흑!",
+      "g_en": "*cough* *cough* *hack*",
+      "g_th": "แค่ก แค่ก! แค่กๆ",
+      "g_tw": "咳咳，咳咳！",
+      "g_tw_cn": "咳咳，咳咳！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;11;콜록콜록, 케흑!\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 105,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 11,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"はぁ、はぁ……。\"",
+      "j_ko": " \"헉, 헉…….\"",
+      "g_ja": " \"はぁ、はぁ……。\"",
+      "g_ko": " \"헉, 헉…….\"",
+      "g_en": " \"*pant* *pant*\"",
+      "g_th": " \"แฮ่ก... แฮ่ก...\"",
+      "g_tw": "「哈啊，哈啊……」",
+      "g_tw_cn": "「哈啊，哈啊……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s11] \"헉, 헉…….\"\\n[s12] \"키리노, 괜찮아?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 105,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 12,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"キリノ、大丈夫？\"",
+      "j_ko": " \"키리노, 괜찮아?\"",
+      "g_ja": " \"キリノ、大丈夫？\"",
+      "g_ko": " \"키리노, 괜찮아?\"",
+      "g_en": " \"Are you okay?\"",
+      "g_th": " \"คิริโนะ เป็นยังไงบ้าง?\"",
+      "g_tw": "「桐乃，你沒事吧？」",
+      "g_tw_cn": "「桐乃，你没事吧？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s11] \"헉, 헉…….\"\\n[s12] \"키리노, 괜찮아?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 108,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はっ、はい……大丈夫です。<br/>助けていただきありがとうございます、先生。",
+      "j_ko": "네, 조금 지친 것 말고는 괜찮습니다. 감사합니다, 선생님. 도움을 받고 말았네요…….",
+      "g_ja": "はっ、はい……大丈夫です。<br/>助けていただきありがとうございます、先生。",
+      "g_ko": "네, 조금 지친 것 말고는 괜찮습니다. 감사합니다, 선생님. 도움을 받고 말았네요…….",
+      "g_en": "I'm fine, just a little exhausted. Thanks, Sensei. I really appreciate your help...",
+      "g_th": "ถ้าไม่นับเรื่องที่หมดแรงก็ยังไหวค่ะ ขอบคุณนะคะคุณครู คุณครูต้องมาช่วยฉันจนได้...",
+      "g_tw": "我沒事，只是有點累而已。<br/>謝謝您，老師。結果反而是老師救了我……",
+      "g_tw_cn": "我没事，只是有点累而已。<br/>谢谢您，老师。结果反而是老师救了我……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;06;네, 조금 지친 것 말고는 괜찮습니다. 감사합니다, 선생님. 도움을 받고 말았네요…….\\n#3;em;[훌쩍]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Tear",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 109,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まさか、ライフセーバーが溺れるだなんて……。",
+      "j_ko": "라이프가드가 물에 빠지다니, 이런 부끄러운 일이…….",
+      "g_ja": "まさか、ライフセーバーが溺れるだなんて……。",
+      "g_ko": "라이프가드가 물에 빠지다니, 이런 부끄러운 일이…….",
+      "g_en": "A lifeguard falling into the water. How humiliating...",
+      "g_th": "ฉันเป็นไลฟ์การ์ดแท้ๆ แต่กลับมาจมน้ำซะเอง น่าอายจังเลยค่ะ...",
+      "g_tw": "身為救生員居然溺水，真是太丟臉了……",
+      "g_tw_cn": "身为救生员居然溺水，真是太丢脸了……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;06;라이프가드가 물에 빠지다니, 이런 부끄러운 일이…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 110,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "やはり、もっと訓練をしなければなりませんね。",
+      "j_ko": "아무래도 더더욱 연습을 해야겠습니다…….",
+      "g_ja": "やはり、もっと訓練をしなければなりませんね。",
+      "g_ko": "아무래도 더더욱 연습을 해야겠습니다…….",
+      "g_en": "I think I need to train harder...",
+      "g_th": "ฉันน่าจะต้องฝึกว่ายน้ำให้มากกว่านี้แล้วละค่ะ...",
+      "g_tw": "看來我必須更努力練習……",
+      "g_tw_cn": "看来我必须更努力练习……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2865277265,
+    "DataType": "speaker",
+    "Script": "3;키리노 수영복;06;아무래도 더더욱 연습을 해야겠습니다…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 111,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 112,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（その後も一緒に、人命救助訓練を続けた）",
+      "j_ko": "(이후 키리노와 함께 인명구조 훈련을 계속했다…….)",
+      "g_ja": "（その後も一緒に、人命救助訓練を続けた）",
+      "g_ko": "(이후 키리노와 함께 인명구조 훈련을 계속했다…….)",
+      "g_en": "Afterward, Kirino and I continued her lifeguard training together.",
+      "g_th": "(หลังจากนั้นคุณครูกับคิริโนะก็ฝึกว่ายน้ำเพื่อช่วยชีวิตกันต่อ...)",
+      "g_tw": "（之後和桐乃繼續進行救生訓練……）",
+      "g_tw_cn": "（之后和桐乃继续进行救生训练……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(이후 키리노와 함께 인명구조 훈련을 계속했다…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

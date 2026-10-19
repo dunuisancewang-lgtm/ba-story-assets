@@ -1,0 +1,1563 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1780944237
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 186
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">放課後「鼓動」</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">새벽의 북소리</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">放課後「鼓動」</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">새벽의 북소리</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Drums of Dawn</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">เสียงกลองยามรุ่งอรุณ</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">黎明的鼓聲</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">黎明的鼓声</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;새벽의 북소리",
+    "BGMId": 186,
+    "Sound": "",
+    "BGName": 1780944237,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（深夜になっても仕事が終わらず――）",
+      "j_ko": "(밤을 새우며 새벽까지 밀린 업무를 처리하던 중……)",
+      "g_ja": "（深夜になっても仕事が終わらず――）",
+      "g_ko": "(밤을 새우며 새벽까지 밀린 업무를 처리하던 중……)",
+      "g_en": "I was pulling an all-nighter and catching up on work before the deadline...",
+      "g_th": "(ระหว่างที่นั่งจัดการงานที่กองสูงอยู่จนไม่ได้นอน...)",
+      "g_tw": "（熬夜處理積壓的工作直到清晨……）",
+      "g_tw_cn": "（熬夜处理积压的工作直到清晨……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(밤을 새우며 새벽까지 밀린 업무를 처리하던 중……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（眠気を覚ますため、散歩に出た）",
+      "j_ko": "(이대로 가다간 그대로 잠에 들 것 같아 바람을 쐬러 강변으로 나갔다.)",
+      "g_ja": "（眠気を覚ますため、散歩に出た）",
+      "g_ko": "(이대로 가다간 그대로 잠에 들 것 같아 바람을 쐬러 강변으로 나갔다.)",
+      "g_en": "Feeling frazzled and needing a break, I ventured outside for some fresh air.",
+      "g_th": "(คุณครูรู้สึกว่าถ้าขืนยังฝืนนั่งทำต่อไปอาจจะผล็อยหลับได้ เลยลุกเดินออกไปสูดอากาศให้หายง่วง)",
+      "g_tw": "（感覺再這樣下去會直接睡著，於是決定到河邊吹吹風）",
+      "g_tw_cn": "（感觉再这样下去会直接睡着，于是决定到河边吹吹风）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(이대로 가다간 그대로 잠에 들 것 같아 바람을 쐬러 강변으로 나갔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 5,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 6,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2992070342
+    }
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 7,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cricket_01"
+    }
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 8,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cricket_02"
+    }
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 9,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cricket_01"
+    }
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（あてどなく歩いていると……）",
+      "j_ko": "(그렇게 강가를 서성이며 잠을 깨우던 중…….)",
+      "g_ja": "（あてどなく歩いていると……）",
+      "g_ko": "(그렇게 강가를 서성이며 잠을 깨우던 중…….)",
+      "g_en": "And who did I find at the river's side, but...",
+      "g_th": "(ขณะเดินเล่นริมน้ำให้หายง่วง...)",
+      "g_tw": "（在河邊徘徊，試圖讓自己清醒時……）",
+      "g_tw_cn": "（在河边徘徊，试图让自己清醒时……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 강가를 서성이며 잠을 깨우던 중…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あれ？先生？",
+      "j_ko": "음? 선생님?",
+      "g_ja": "あれ？先生？",
+      "g_ko": "음? 선생님?",
+      "g_en": "Hm? Sensei?",
+      "g_th": "หืม? คุณครู?",
+      "g_tw": "嗯？老師？",
+      "g_tw_cn": "嗯？老师？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2746145574,
+    "DataType": "speaker",
+    "Script": "#na;???;음? 선생님?",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 14,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こんな時間にどうしたの？",
+      "j_ko": "이 시간에 강변에는 어쩐 일이야?",
+      "g_ja": "こんな時間にどうしたの？",
+      "g_ko": "이 시간에 강변에는 어쩐 일이야?",
+      "g_en": "What brings you here so late? Or is it early?",
+      "g_th": "ออกมาทำอะไรที่ริมแม่น้ำในเวลาแบบนี้น่ะ?",
+      "g_tw": "你怎麼這個時間跑來河邊？",
+      "g_tw_cn": "你怎么这个时间跑来河边？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;00;이 시간에 강변에는 어쩐 일이야?\\n#3;a\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 16,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "残業……眠気覚まし……？",
+      "j_ko": "뭐? 밤을 새우면서 서류 작업 중이었다고?",
+      "g_ja": "残業……眠気覚まし……？",
+      "g_ko": "뭐? 밤을 새우면서 서류 작업 중이었다고?",
+      "g_en": "Oh my. You were working all night?",
+      "g_th": "ว่าไงนะ? ทำงานเอกสารจนยังไม่ได้นอนทั้งคืนเลยเหรอ?",
+      "g_tw": "咦？熬夜處理文書工作？",
+      "g_tw_cn": "咦？熬夜处理文书工作？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;04;뭐? 밤을 새우면서 서류 작업 중이었다고?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……大人は大変だねぇ。",
+      "j_ko": "……역시 어른이 된다는 건 쉬운 일이 아니구나.",
+      "g_ja": "……大人は大変だねぇ。",
+      "g_ko": "……역시 어른이 된다는 건 쉬운 일이 아니구나.",
+      "g_en": "...Responsibility is a double-edged sword.",
+      "g_th": "คิดแล้วเชียวว่าการเป็นผู้ใหญ่เนี่ยไม่ใช่เรื่องง่ายๆ เลยนะ",
+      "g_tw": "……大人果然很辛苦呢。",
+      "g_tw_cn": "……大人果然很辛苦呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;06;……역시 어른이 된다는 건 쉬운 일이 아니구나.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 18,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ナツはなにをしてたの？\"",
+      "j_ko": " \"그런데 나츠는 어쩐 일이야?\"",
+      "g_ja": " \"ナツはなにをしてたの？\"",
+      "g_ko": " \"그런데 나츠는 어쩐 일이야?\"",
+      "g_en": " \"What brings YOU here, Natsu?\"",
+      "g_th": " \"ว่าแต่ว่านัตสึออกมาทำอะไรเหรอ?\"",
+      "g_tw": "「那夏又怎麼會在這裡？」",
+      "g_tw_cn": "「那夏又怎么会在这里？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그런데 나츠는 어쩐 일이야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 19,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ジョギングだよ。",
+      "j_ko": "나는 조깅 중이었지.",
+      "g_ja": "ジョギングだよ。",
+      "g_ko": "나는 조깅 중이었지.",
+      "g_en": "I was jogging.",
+      "g_th": "ฉันกำลังวิ่งจ็อกกิ้งอยู่น่ะสิ",
+      "g_tw": "我正在慢跑。",
+      "g_tw_cn": "我正在慢跑。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;01;나는 조깅 중이었지.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 20,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "バンドを始めてから、毎日走ってるんだ。",
+      "j_ko": "밴드 연습을 시작하고 나서부터 매일 새벽에 강변을 뛰고 있어.",
+      "g_ja": "バンドを始めてから、毎日走ってるんだ。",
+      "g_ko": "밴드 연습을 시작하고 나서부터 매일 새벽에 강변을 뛰고 있어.",
+      "g_en": "Since starting the band, I've been running along the river every morning.",
+      "g_th": "ตั้งแต่เริ่มฟอร์มวงดนตรีฉันก็ออกมาวิ่งตอนเช้าตรู่ทุกวัน",
+      "g_tw": "自從開始樂團練習後，我每天清晨都會來河邊跑步。",
+      "g_tw_cn": "自从开始乐团练习后，我每天清晨都会来河边跑步。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;02;밴드 연습을 시작하고 나서부터 매일 새벽에 강변을 뛰고 있어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ドラマーは体力勝負だからね。",
+      "j_ko": "드럼 연주는 보기보다 체력 소모가 꽤 큰 작업이거든.",
+      "g_ja": "ドラマーは体力勝負だからね。",
+      "g_ko": "드럼 연주는 보기보다 체력 소모가 꽤 큰 작업이거든.",
+      "g_en": "Banging on the drums is a lot more physically demanding than you may think.",
+      "g_th": "การซ้อมตีกลองมันใช้พลังกายมากกว่าที่คิดอีกน่ะ",
+      "g_tw": "因為打鼓其實比看起來更需要體力。",
+      "g_tw_cn": "因为打鼓其实比看起来更需要体力。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;06;드럼 연주는 보기보다 체력 소모가 꽤 큰 작업이거든.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "少しでも鍛えておかないと。",
+      "j_ko": "그래서 체력을 기르기 위해 이렇게 운동을 하는 거야.",
+      "g_ja": "少しでも鍛えておかないと。",
+      "g_ko": "그래서 체력을 기르기 위해 이렇게 운동을 하는 거야.",
+      "g_en": "So I'm working to improve my stamina.",
+      "g_th": "เพราะงั้นเลยต้องออกกำลังกายแบบนี้เพื่อเพิ่มสมรรถนะให้ร่างกาย",
+      "g_tw": "所以我才會為了培養體力而運動。",
+      "g_tw_cn": "所以我才会为了培养体力而运动。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;99;그래서 체력을 기르기 위해 이렇게 운동을 하는 거야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "本番は練習のように、練習は本番のように……ってね。",
+      "j_ko": "요컨대…… 무대에서 힘을 내기 위해서 무대 밖에선 힘을 빼고 있는 것이지.",
+      "g_ja": "本番は練習のように、練習は本番のように……ってね。",
+      "g_ko": "요컨대…… 무대에서 힘을 내기 위해서 무대 밖에선 힘을 빼고 있는 것이지.",
+      "g_en": "You could say that I...am exhausting power offstage in order to exert my power onstage.",
+      "g_th": "สรุปก็คือ... ออกมาวิ่งใช้พลังงานเพื่อจะทุ่มสุดตัวได้บนเวทีไงล่ะ",
+      "g_tw": "換句話說……為了在舞台上全力以赴，舞台下就必須先放鬆。",
+      "g_tw_cn": "换句话说……为了在舞台上全力以赴，舞台下就必须先放松。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;05;요컨대…… 무대에서 힘을 내기 위해서 무대 밖에선 힘을 빼고 있는 것이지.\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 24,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ナツは努力家なんだね。\"",
+      "j_ko": " \"나츠는 노력가구나.\"",
+      "g_ja": " \"ナツは努力家なんだね。\"",
+      "g_ko": " \"나츠는 노력가구나.\"",
+      "g_en": " \"You're a hard worker, Natsu.\"",
+      "g_th": " \"นัตสึเป็นพวกพยายามสุดๆ เลยสินะ\"",
+      "g_tw": "「夏真是個努力家啊。」",
+      "g_tw_cn": "「夏真是个努力家啊。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"나츠는 노력가구나.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 25,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ふふ。",
+      "j_ko": "……후후.",
+      "g_ja": "……ふふ。",
+      "g_ko": "……후후.",
+      "g_en": "Hah.",
+      "g_th": "ฮุฮุ...",
+      "g_tw": "……呵呵。",
+      "g_tw_cn": "……呵呵。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;99;……후후.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 26,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "できることをしているだけだよ。",
+      "j_ko": "칭찬 고마워, 선생님.",
+      "g_ja": "できることをしているだけだよ。",
+      "g_ko": "칭찬 고마워, 선생님.",
+      "g_en": "You're one to talk, Sensei.",
+      "g_th": "ขอบคุณที่ชมนะ คุณครู",
+      "g_tw": "謝謝你的稱讚，老師。",
+      "g_tw_cn": "谢谢你的称赞，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;08;칭찬 고마워, 선생님.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"頑張っている生徒には……。\"",
+      "j_ko": " \"그럼 노력하는 학생에게는…….\"",
+      "g_ja": " \"頑張っている生徒には……。\"",
+      "g_ko": " \"그럼 노력하는 학생에게는…….\"",
+      "g_en": " \"A hard-working student...\"",
+      "g_th": " \"งั้นต้องมีรางวัลให้นักเรียนคนเก่งด้วยสิ...\"",
+      "g_tw": "「那麼，對於努力的學生……」",
+      "g_tw_cn": "「那么，对于努力的学生……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"그럼 노력하는 학생에게는…….\"\\n[s2] \"상을 줘야지.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ご褒美をあげないとだね。\"",
+      "j_ko": " \"상을 줘야지.\"",
+      "g_ja": " \"ご褒美をあげないとだね。\"",
+      "g_ko": " \"상을 줘야지.\"",
+      "g_en": " \"...needs a treat.\"",
+      "g_th": " \"งั้นต้องมีรางวัลให้นักเรียนที่พยายามสุดๆ แล้ว\"",
+      "g_tw": "「當然要給予獎勵才行。」 ",
+      "g_tw_cn": "「当然要给予奖励才行。」 ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"그럼 노력하는 학생에게는…….\"\\n[s2] \"상을 줘야지.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 34,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_VendingMachine_01"
+    }
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 35,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（近くの自販機で缶コーヒーを二つ買って、一つはナツにあげた）",
+      "j_ko": "(근처 자판기로 가서, 블랙커피 두 캔을 뽑아 하나를 나츠에게 내밀었다.)",
+      "g_ja": "（近くの自販機で缶コーヒーを二つ買って、一つはナツにあげた）",
+      "g_ko": "(근처 자판기로 가서, 블랙커피 두 캔을 뽑아 하나를 나츠에게 내밀었다.)",
+      "g_en": "I bought two cans of black coffee at a nearby vending machine and handed one to Natsu.",
+      "g_th": "(คุณครูเดินไปที่ตู้ขายน้ำอัตโนมัติที่อยู่ใกล้ๆ แล้วกดกาแฟดำมาสองกระป๋อง และยื่นให้นัตสึไป 1 กระป๋อง)",
+      "g_tw": "（走到附近的自動販賣機買了兩罐黑咖啡，並將其中一罐遞給了夏）",
+      "g_tw_cn": "（走到附近的自动贩卖机买了两罐黑咖啡，并将其中一罐递给了夏）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(근처 자판기로 가서, 블랙커피 두 캔을 뽑아 하나를 나츠에게 내밀었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 36,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2992070342
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "おお、感謝ー。",
+      "j_ko": "오오, 감사, 선생님.",
+      "g_ja": "おお、感謝ー。",
+      "g_ko": "오오, 감사, 선생님.",
+      "g_en": "Oh, thank you, Sensei.",
+      "g_th": "โอ้ ขอบคุณนะคุณครู",
+      "g_tw": "哦哦，謝啦老師。",
+      "g_tw_cn": "哦哦，谢啦老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;03;오오, 감사, 선생님.\\n#3;a\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 38,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "夜のコーヒー……大人の雰囲気……。",
+      "j_ko": "제로칼로리의 커피라, 운동 후의 디저트로는 최고네.",
+      "g_ja": "夜のコーヒー……大人の雰囲気……。",
+      "g_ko": "제로칼로리의 커피라, 운동 후의 디저트로는 최고네.",
+      "g_en": "Zero-calorie coffee...a unique post-exercise dessert.",
+      "g_th": "กาแฟดำไร้แคลอรี่ถือเป็นของหวานอย่างดีหลังออกกำลังกายเลย",
+      "g_tw": "零卡路里的咖啡，當成運動後的甜點再適合不過了。",
+      "g_tw_cn": "零卡路里的咖啡，当成运动后的甜点再适合不过了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;08;제로칼로리의 커피라, 운동 후의 디저트로는 최고네.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 39,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ナツと近くのベンチに座った）",
+      "j_ko": "(나츠와 함께 벤치에 앉았다.)",
+      "g_ja": "（ナツと近くのベンチに座った）",
+      "g_ko": "(나츠와 함께 벤치에 앉았다.)",
+      "g_en": "I sat on a bench with Natsu.",
+      "g_th": "(คุณครูกับนัตสึเดินมานั่งที่ม้านั่ง)",
+      "g_tw": "（和夏一起坐到了長椅上）",
+      "g_tw_cn": "（和夏一起坐到了长椅上）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(나츠와 함께 벤치에 앉았다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 42,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ドラムはさ、アンチノミーって言葉がぴったりな楽器なんだ。",
+      "j_ko": "연습하면서 느낀 건데, 드럼은 안티노미라는 말이 딱 맞는 악기인 것 같아.",
+      "g_ja": "ドラムはさ、アンチノミーって言葉がぴったりな楽器なんだ。",
+      "g_ko": "연습하면서 느낀 건데, 드럼은 안티노미라는 말이 딱 맞는 악기인 것 같아.",
+      "g_en": "While I was practicing, I realized the drums perfectly demonstrate the concept of \"antinomy.\"",
+      "g_th": "ตอนซ้อมจู่ๆ ฉันก็รู้สึกขึ้นมาน่ะว่ากลองเป็นเครื่องดนตรีที่เหมาะกับคำว่า \"ความขัดแย้ง\" มากเลยนะ",
+      "g_tw": "我在練習的時候發現，鼓真的是一種充滿矛盾的樂器呢。",
+      "g_tw_cn": "我在练习的时候发现，鼓真的是一种充满矛盾的乐器呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;02;연습하면서 느낀 건데, 드럼은 안티노미라는 말이 딱 맞는 악기인 것 같아.\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ステージの一番奥で、視覚的に目立つことはない。",
+      "j_ko": "드럼은 무대의 가장 뒤에 있어서, 제일 눈에 띄지 않아.",
+      "g_ja": "ステージの一番奥で、視覚的に目立つことはない。",
+      "g_ko": "드럼은 무대의 가장 뒤에 있어서, 제일 눈에 띄지 않아.",
+      "g_en": "Consider the drummer, seated at the back of the stage, mostly unnoticed.",
+      "g_th": "ตอนอยู่บนเวที กลองเป็นเครื่องดนตรีที่วางอยู่ด้านหลังสุด และไม่โดดเด่นที่สุด",
+      "g_tw": "明明是在舞台最後方、最不顯眼的位置。",
+      "g_tw_cn": "明明是在舞台最后方、最不显眼的位置。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;00;드럼은 무대의 가장 뒤에 있어서, 제일 눈에 띄지 않아.\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でも、演奏を作るのはドラムの音。",
+      "j_ko": "그렇지만 연주를 가장 앞서서 끌고 나가는 건 드럼의 소리지.",
+      "g_ja": "でも、演奏を作るのはドラムの音。",
+      "g_ko": "그렇지만 연주를 가장 앞서서 끌고 나가는 건 드럼의 소리지.",
+      "g_en": "They are the least seen, yet their beat leads the performance.",
+      "g_th": "แต่สิ่งที่ขับเคลื่อนการแสดงให้โดดเด่นที่สุดก็คือเสียงกลอง",
+      "g_tw": "然而引領整場演奏的，卻是鼓的聲音。",
+      "g_tw_cn": "然而引领整场演奏的，却是鼓的声音。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;08;그렇지만 연주를 가장 앞서서 끌고 나가는 건 드럼의 소리지.\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "バンドでは、ドラムのリズムが曲をリードしていく。",
+      "j_ko": "모든 악기들이 드럼의 박자를 따라오니까.",
+      "g_ja": "バンドでは、ドラムのリズムが曲をリードしていく。",
+      "g_ko": "모든 악기들이 드럼의 박자를 따라오니까.",
+      "g_en": "All instruments follow their lead, their driving rhythm.",
+      "g_th": "เพราะเครื่องดนตรีทุกอย่างจะต้องฟังเสียงจังหวะจากกลอง",
+      "g_tw": "所有樂器都會跟著鼓的節奏走。",
+      "g_tw_cn": "所有乐器都会跟着鼓的节奏走。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;01;모든 악기들이 드럼의 박자를 따라오니까.\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "だから、ドラムはバンドの要なんだよね。",
+      "j_ko": "그래서 다른 멤버들이 흥에 겨워 템포를 높여도, 드럼만은 그래서는 안 돼.",
+      "g_ja": "だから、ドラムはバンドの要なんだよね。",
+      "g_ko": "그래서 다른 멤버들이 흥에 겨워 템포를 높여도, 드럼만은 그래서는 안 돼.",
+      "g_en": "While other members may want to rush the tempo, the drummer must remain steady.",
+      "g_th": "เพราะงั้นต่อให้สมาชิกคนอื่นๆ จะตื่นเต้นและเร้าจังหวะไป แต่กลองจะทำแบบนั้นไม่ได้",
+      "g_tw": "所以即使其他成員因為興奮而加快節奏，鼓也不能跟著亂掉。",
+      "g_tw_cn": "所以即使其他成员因为兴奋而加快节奏，鼓也不能跟着乱掉。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;05;그래서 다른 멤버들이 흥에 겨워 템포를 높여도, 드럼만은 그래서는 안 돼.\\n#3;closeup\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 48,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "常に平常心で、自分のリズムを維持するのが大事。",
+      "j_ko": "냉정히 자신의 박자를 지켜야 하지.",
+      "g_ja": "常に平常心で、自分のリズムを維持するのが大事。",
+      "g_ko": "냉정히 자신의 박자를 지켜야 하지.",
+      "g_en": "She must stay calm and keep the beating heart of the song on track.",
+      "g_th": "กลองจะต้องรักษาจังหวะเอาไว้ให้ได้อย่างใจเย็น",
+      "g_tw": "必須冷靜地保持自己的拍子才行。",
+      "g_tw_cn": "必须冷静地保持自己的拍子才行。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;99;냉정히 자신의 박자를 지켜야 하지.\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "一番大きな音を出す楽器なのに、一番落ち着いて演奏しなきゃいけないんだ。",
+      "j_ko": "가장 큰 소리를 내는 악기지만, 최대한 침착하게 가라앉은 마음으로 연주해야 하는 거야.",
+      "g_ja": "一番大きな音を出す楽器なのに、一番落ち着いて演奏しなきゃいけないんだ。",
+      "g_ko": "가장 큰 소리를 내는 악기지만, 최대한 침착하게 가라앉은 마음으로 연주해야 하는 거야.",
+      "g_en": "So even though I play the loudest instrument, I must do so with a calm mind and composed heart.",
+      "g_th": "ถึงจะเป็นเครื่องดนตรีที่เสียงดังที่สุด แต่ก็ต้องเล่นด้วยจิตใจที่สงบเยือกเย็นที่สุด",
+      "g_tw": "雖然是聲音最大的樂器，卻要用最沉著的心態去演奏。",
+      "g_tw_cn": "虽然是声音最大的乐器，却要用最沉着的心态去演奏。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;00;가장 큰 소리를 내는 악기지만, 최대한 침착하게 가라앉은 마음으로 연주해야 하는 거야.\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 50,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、もちろん楽器に優劣をつけるつもりじゃないよ。",
+      "j_ko": "물론 그렇다고 드럼이 다른 악기들보다 우월하다거나, 그렇다는 이야기는 절대 아니야.",
+      "g_ja": "あ、もちろん楽器に優劣をつけるつもりじゃないよ。",
+      "g_ko": "물론 그렇다고 드럼이 다른 악기들보다 우월하다거나, 그렇다는 이야기는 절대 아니야.",
+      "g_en": "Of course, I don't mean to imply that the drummer is the most important.",
+      "g_th": "แต่ก็ไม่ได้หมายความว่ากลองจะมีอภิสิทธิ์อะไรเหนือเครื่องดนตรีอื่นหรอกนะ",
+      "g_tw": "當然這並不代表鼓比其他樂器優越。",
+      "g_tw_cn": "当然这并不代表鼓比其他乐器优越。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;05;물론 그렇다고 드럼이 다른 악기들보다 우월하다거나, 그렇다는 이야기는 절대 아니야.\\n#3;closeup\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それぞれに役割があるよねって話。",
+      "j_ko": "그저 각자의 역할이 다를 뿐이지.",
+      "g_ja": "それぞれに役割があるよねって話。",
+      "g_ko": "그저 각자의 역할이 다를 뿐이지.",
+      "g_en": "Every role has its place.",
+      "g_th": "แค่บทบาทของเครื่องดนตรีแต่ละประเภทมันก็ต่างกันไปก็เท่านั้น",
+      "g_tw": "只是各自的角色不同而已。",
+      "g_tw_cn": "只是各自的角色不同而已。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;02;그저 각자의 역할이 다를 뿐이지.\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……案外、やりがいのある楽器だなって、思ってるんだ。",
+      "j_ko": "뭐 그래서, 꽤 보람이 느껴지는 악기라는 거야.",
+      "g_ja": "……案外、やりがいのある楽器だなって、思ってるんだ。",
+      "g_ko": "뭐 그래서, 꽤 보람이 느껴지는 악기라는 거야.",
+      "g_en": "But, to me, the drums are very rewarding.",
+      "g_th": "เพราะงั้นเลยทำให้ภูมิใจมากเลยละ",
+      "g_tw": "總之，這真的是種讓人很有成就感的樂器。",
+      "g_tw_cn": "总之，这真的是种让人很有成就感的乐器。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;08;뭐 그래서, 꽤 보람이 느껴지는 악기라는 거야.\\n#3;closeup\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 53,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "だから――",
+      "j_ko": "그래서……",
+      "g_ja": "だから――",
+      "g_ko": "그래서……",
+      "g_en": "So...",
+      "g_th": "ดังนั้น...",
+      "g_tw": "所以說……",
+      "g_tw_cn": "所以说……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "3;나츠 밴드;99;그래서……\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 56,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 58,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cricket_01"
+    }
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 60,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（紛らわせていた眠気が、再び襲い掛かってきた）",
+      "j_ko": "(그렇게 나츠의 말을 듣는 사이……)",
+      "g_ja": "（紛らわせていた眠気が、再び襲い掛かってきた）",
+      "g_ko": "(그렇게 나츠의 말을 듣는 사이……)",
+      "g_en": "I continued to listen to Natsu, but...",
+      "g_th": "(ระหว่างที่ฟังนัตสึอยู่...)",
+      "g_tw": "（就在聽著夏說話的同時……）",
+      "g_tw_cn": "（就在听着夏说话的同时……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 나츠의 말을 듣는 사이……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ナツの話を聞かないと――）",
+      "j_ko": "(커피로도 막지 못한 졸음이 쏟아져왔다.)",
+      "g_ja": "（ナツの話を聞かないと――）",
+      "g_ko": "(커피로도 막지 못한 졸음이 쏟아져왔다.)",
+      "g_en": "I was so sleepy that not even the coffee could keep me awake.",
+      "g_th": "(คุณครูก็เกิดง่วงขึ้นมาขนาดฤทธิ์ของคาเฟอีนยังต้านไม่อยู่)",
+      "g_tw": "（連咖啡都擋不住的睡意再次襲來）",
+      "g_tw_cn": "（连咖啡都挡不住的睡意再次袭来）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(커피로도 막지 못한 졸음이 쏟아져왔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 64,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2992070342
+    }
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 66,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2992070342
+    }
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 68,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2992070342
+    }
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 70,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 71,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（その思いに反して瞼は重くなり……意識が遠のいていく……）",
+      "j_ko": "(점점 눈꺼풀이 무거워지고, 의식은 멀어져갔다…….)",
+      "g_ja": "（その思いに反して瞼は重くなり……意識が遠のいていく……）",
+      "g_ko": "(점점 눈꺼풀이 무거워지고, 의식은 멀어져갔다…….)",
+      "g_en": "My eyelids grew heavy, and I began to drift...",
+      "g_th": "(คุณครูรู้สึกเปลือกตาทั้งสองข้างเริ่มหนักอึ้ง จนสุดท้ายก็ผล็อยหลับไป...)",
+      "g_tw": "（眼皮越來越沉，意識逐漸遠去……）",
+      "g_tw_cn": "（眼皮越来越沉，意识逐渐远去……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(점점 눈꺼풀이 무거워지고, 의식은 멀어져갔다…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 74,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Fall_01"
+    }
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "せ、先生……？",
+      "j_ko": "서, 선생님……?",
+      "g_ja": "せ、先生……？",
+      "g_ko": "서, 선생님……?",
+      "g_en": "S-Sensei...?",
+      "g_th": "คะ... คุณครู...?",
+      "g_tw": "老，老師……？",
+      "g_tw_cn": "老，老师……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "#na;나츠 밴드;서, 선생님……?",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Surprise",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "肩、に……。",
+      "j_ko": "어깨, 에…….",
+      "g_ja": "肩、に……。",
+      "g_ko": "어깨, 에…….",
+      "g_en": "My shoulders...",
+      "g_th": "ไหล่ฉะ... ฉัน...",
+      "g_tw": "肩膀，呃……",
+      "g_tw_cn": "肩膀，呃……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "#na;나츠 밴드;어깨, 에…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 77,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Heartbeat_01"
+    }
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 77,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "…………。",
+      "j_ko": "………….",
+      "g_ja": "…………。",
+      "g_ko": "………….",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "…………",
+      "g_tw_cn": "…………",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "#na;나츠 밴드;………….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 78,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……………………！",
+      "j_ko": "………………!",
+      "g_ja": "……………………！",
+      "g_ko": "………………!",
+      "g_en": "...!",
+      "g_th": "......!",
+      "g_tw": "………………！",
+      "g_tw_cn": "………………！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "#na;나츠 밴드;………………!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 79,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Heartbeat_01"
+    }
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 79,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ドクン、ドクン、ドクン、ドクン）",
+      "j_ko": "쿵, 쿵, 쿵, 쿵.",
+      "g_ja": "（ドクン、ドクン、ドクン、ドクン）",
+      "g_ko": "쿵, 쿵, 쿵, 쿵.",
+      "g_en": "*ba-dum* *ba-dum*",
+      "g_th": "ตึง ตึง ตึง ตึง",
+      "g_tw": "咚，咚，咚，咚。",
+      "g_tw_cn": "咚，咚，咚，咚。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;쿵, 쿵, 쿵, 쿵.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 80,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "え……。",
+      "j_ko": "그……",
+      "g_ja": "え……。",
+      "g_ko": "그……",
+      "g_en": "Um...",
+      "g_th": "คือว่า...",
+      "g_tw": "那個……",
+      "g_tw_cn": "那个……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "#na;나츠 밴드;그……\\n#fontsize;50",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 81,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Heartbeat_01"
+    }
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 81,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "せ、せんせ……？",
+      "j_ko": "선생님……?",
+      "g_ja": "せ、せんせ……？",
+      "g_ko": "선생님……?",
+      "g_en": "Sensei...?",
+      "g_th": "คุณครู...?",
+      "g_tw": "老師……？",
+      "g_tw_cn": "老师……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "#na;나츠 밴드;선생님……?\\n#fontsize;50",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 82,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うぅ……。",
+      "j_ko": "우으…….",
+      "g_ja": "うぅ……。",
+      "g_ko": "우으…….",
+      "g_en": "Uhh...",
+      "g_th": "งือ...",
+      "g_tw": "嗚……",
+      "g_tw_cn": "呜……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "#na;나츠 밴드;우으…….\\n#fontsize;50",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 83,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Heartbeat_01"
+    }
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 83,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "…….",
+      "g_ja": "……。",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "......",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "#na;나츠 밴드;…….\\n#fontsize;50",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 84,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ど、どうしよう……。",
+      "j_ko": "안 되는데…….",
+      "g_ja": "ど、どうしよう……。",
+      "g_ko": "안 되는데…….",
+      "g_en": "This is concerning...",
+      "g_th": "แบบนี้ไม่ได้สิ...",
+      "g_tw": "不行……",
+      "g_tw_cn": "不行……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "#na;나츠 밴드;안 되는데…….\\n#fontsize;50",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 85,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "リズム、こんなに早まっちゃ……ダメ、なのに……。",
+      "j_ko": "박자가 이렇게 빠르면… 안 되는데…….",
+      "g_ja": "リズム、こんなに早まっちゃ……ダメ、なのに……。",
+      "g_ko": "박자가 이렇게 빠르면… 안 되는데…….",
+      "g_en": "The beat shouldn't be...this fast...",
+      "g_th": "มันไม่ควรจะ... จังหวะเร็วแบบนี้สิ...",
+      "g_tw": "節奏變得這麼快……是不行的啊……",
+      "g_tw_cn": "节奏变得这么快……是不行的啊……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2659769664,
+    "DataType": "speaker",
+    "Script": "#na;나츠 밴드;박자가 이렇게 빠르면… 안 되는데…….\\n#fontsize;50",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 86,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1853860068
+    }
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 86,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cricket_01"
+    }
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 89,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cricket_01"
+    }
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 90,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cricket_02"
+    }
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 91,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 91,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cricket_01"
+    }
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 92,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（目を覚ますまで、ナツは待ってくれていた）",
+      "j_ko": "(몇 분 뒤 눈을 뜨자, 나츠가 샬레까지 바래다 주었다.)",
+      "g_ja": "（目を覚ますまで、ナツは待ってくれていた）",
+      "g_ko": "(몇 분 뒤 눈을 뜨자, 나츠가 샬레까지 바래다 주었다.)",
+      "g_en": "I woke up a few minutes later. Natsu had somehow dragged me back to Schale.",
+      "g_th": "(พอคุณครูลืมตาขึ้นในอีกไม่กี่นาทีต่อมา นัตสึก็ช่วยเดินมาส่งถึงที่ชาเล่ต์)",
+      "g_tw": "（等幾分鐘後再次睜開眼時，已經被夏送回了夏萊）",
+      "g_tw_cn": "（等几分钟后再次睁开眼时，已经被夏送回了夏莱）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(몇 분 뒤 눈을 뜨자, 나츠가 샬레까지 바래다 주었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 93,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（その後、ナツは帰り道にまで付き添ってくれたものの……<br/>シャーレに着くなり、すごいスピードで帰っていった）",
+      "j_ko": "(……그 직후 나츠는 말도 없이 엄청난 속도로 새벽 어스름 속으로 사라졌다.)",
+      "g_ja": "（その後、ナツは帰り道にまで付き添ってくれたものの……<br/>シャーレに着くなり、すごいスピードで帰っていった）",
+      "g_ko": "(……그 직후 나츠는 말도 없이 엄청난 속도로 새벽 어스름 속으로 사라졌다.)",
+      "g_en": "As soon as she saw that I was well, she quickly disappeared into the dawn without another word.",
+      "g_th": "(หลังจากนั้นนัตสึก็หายตัวไปในความมืดของรุ่งอรุณอย่างรวดเร็ว)",
+      "g_tw": "（……接著夏一句話也沒說，便以驚人的速度消失在了黎明的微光中）",
+      "g_tw_cn": "（……接着夏一句话也没说，便以惊人的速度消失在了黎明的微光中）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(……그 직후 나츠는 말도 없이 엄청난 속도로 새벽 어스름 속으로 사라졌다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

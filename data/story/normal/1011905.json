@@ -1,0 +1,2373 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">辿り着いた夜明け</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">동트기 전의 어둠</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">辿り着いた夜明け</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">동트기 전의 어둠</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Darkness Before Dawn</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ความมืดก่อนรุ่งสาง</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">黎明前的黑暗</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">黎明前的黑暗</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;동트기 전의 어둠",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（日が沈む頃、ナグサと合流してパトロールを始めた）",
+      "j_ko": "(늦은 저녁. 숙소로 돌아가지 않고 배회하는 불량 학생들을 단속하기 위해, 나구사와 함께 백귀야행의 거리를 순찰하기로 했다.)",
+      "g_ja": "（日が沈む頃、ナグサと合流してパトロールを始めた）",
+      "g_ko": "(늦은 저녁. 숙소로 돌아가지 않고 배회하는 불량 학생들을 단속하기 위해, 나구사와 함께 백귀야행의 거리를 순찰하기로 했다.)",
+      "g_en": "I decided to go meet up with Nagusa to patrol the Hyakkiyako streets, ready to send any late-night troublemakers home.",
+      "g_th": "(คุณครูตัดสินใจไปเดินลาดตระเวนกับนางุสะเพื่อปรามกลุ่มเด็กเกเรที่ไม่กลับที่พักและออกมาเตร็ดเตร่<br/>ยามค่ำคืน)",
+      "g_tw": "（深夜，為了取締在外遊蕩的不良學生，與名草一起巡視著百鬼夜行的街道）",
+      "g_tw_cn": "（深夜，为了取缔在外游荡的不良学生，与名草一起巡视着百鬼夜行的街道）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(늦은 저녁. 숙소로 돌아가지 않고 배회하는 불량 학생들을 단속하기 위해, 나구사와 함께 백귀야행의 거리를 순찰하기로 했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（広い範囲ではないし、早めに終わると思ったけれど……）",
+      "j_ko": "(순찰 구역이 넓지 않아 일찍 끝날 거라 생각했지만……)",
+      "g_ja": "（広い範囲ではないし、早めに終わると思ったけれど……）",
+      "g_ko": "(순찰 구역이 넓지 않아 일찍 끝날 거라 생각했지만……)",
+      "g_en": "It's not that big of an area, so I didn't think it would take too long, but...",
+      "g_th": "(คุณครูคิดว่างานคงเสร็จได้เร็ว เพราะพื้นที่ลาดตระเวนไม่ได้กว้างขวางมากนัก...)",
+      "g_tw": "（原以為範圍不大，很快就能結束……）",
+      "g_tw_cn": "（原以为范围不大，很快就能结束……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(순찰 구역이 넓지 않아 일찍 끝날 거라 생각했지만……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 3,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（その予想は大きく外れるのだった）",
+      "j_ko": "(……금세 예상 밖의 난관에 봉착했다.)",
+      "g_ja": "（その予想は大きく外れるのだった）",
+      "g_ko": "(……금세 예상 밖의 난관에 봉착했다.)",
+      "g_en": "...we soon ran into unexpected difficulty.",
+      "g_th": "(แต่เดินลาดตระเวนได้ไม่นานก็เจออุปสรรคที่คาดไม่ถึง...)",
+      "g_tw": "（……卻立刻遇上了意料之外的難題）",
+      "g_tw_cn": "（……却立刻遇上了意料之外的难题）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(……금세 예상 밖의 난관에 봉착했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 4,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 554636238
+    }
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 5,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 130
+    }
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こんな時間に出歩いてたら危ないよ。",
+      "j_ko": "저기, 이런 늦은 시간에 어째서 공원 근처를 배회하고 있는 거야?",
+      "g_ja": "こんな時間に出歩いてたら危ないよ。",
+      "g_ko": "저기, 이런 늦은 시간에 어째서 공원 근처를 배회하고 있는 거야?",
+      "g_en": "Excuse me, why are you loitering in the park so late?",
+      "g_th": "นี่ ดึกดื่นแบบนี้ทำไมถึงมาเดินเตร็ดเตร่แถวสวนสาธารณะอยู่ล่ะ?",
+      "g_tw": "現在這麼晚了，你為什麼還在公園附近遊蕩？",
+      "g_tw_cn": "现在这么晚了，你为什么还在公园附近游荡？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;02;저기, 이런 늦은 시간에 어째서 공원 근처를 배회하고 있는 거야?\\n#3;a\\n#3;em;[반응]",
+    "BGMId": 130,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 6,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……あんたとは関係ないじゃん。",
+      "j_ko": "……알 필요 없잖아.",
+      "g_ja": "……あんたとは関係ないじゃん。",
+      "g_ko": "……알 필요 없잖아.",
+      "g_en": "...None of your business.",
+      "g_th": "ไม่ใช่เรื่องของเธอสักหน่อย...",
+      "g_tw": "……不用你管吧。",
+      "g_tw_cn": "……不用你管吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2052380769,
+    "DataType": "speaker",
+    "Script": "3;방황하는 학생;06;……알 필요 없잖아.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そうだね。",
+      "j_ko": "물론 자치구 내에서 어딜 가든 학생의 자유이긴 하지만……",
+      "g_ja": "そうだね。",
+      "g_ko": "물론 자치구 내에서 어딜 가든 학생의 자유이긴 하지만……",
+      "g_en": "You are, of course, free to be here as a student...",
+      "g_th": "จริงอยู่ที่นักเรียนทุกคนมีอิสระที่จะไปไหนมาไหนในเขตปกครองตนเองก็ได้...",
+      "g_tw": "當然，在自治區想去哪裡都是學生的自由……",
+      "g_tw_cn": "当然，在自治区想去哪里都是学生的自由……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;01;물론 자치구 내에서 어딜 가든 학생의 자유이긴 하지만……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 8,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でも、見てしまったから。<br/>どうせなら、近くのファミレスとかカフェに行った方がいいよ。",
+      "j_ko": "이 근처는 인적이 드물어 사고에 휘말리기 쉬우니 가까운 패밀리 레스토랑이나 카페에서 쉬는 건 어떨까?",
+      "g_ja": "でも、見てしまったから。<br/>どうせなら、近くのファミレスとかカフェに行った方がいいよ。",
+      "g_ko": "이 근처는 인적이 드물어 사고에 휘말리기 쉬우니 가까운 패밀리 레스토랑이나 카페에서 쉬는 건 어떨까?",
+      "g_en": "...but this place is remote, and potentially unsafe at this hour. If you must be out, consider a family restaurant or a cafe instead.",
+      "g_th": "แต่แถวนี้ไม่ค่อยมีผู้คนสัญจรผ่านและเกิดอุบัติเหตุได้ง่าย เธอไปนั่งพักในร้านอาหารสำหรับครอบครัว<br/>หรือคาเฟ่ไม่ดีกว่าเหรอ?",
+      "g_tw": "不過這附近人煙稀少，很容易發生意外……<br/>你要不要改去附近的家庭餐廳或咖啡廳休息一下？",
+      "g_tw_cn": "不过这附近人烟稀少，很容易发生意外……<br/>你要不要改去附近的家庭餐厅或咖啡厅休息一下？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;01;이 근처는 인적이 드물어 사고에 휘말리기 쉬우니 가까운 패밀리 레스토랑이나 카페에서 쉬는 건 어떨까?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "嫌だね。お姉に会っちまう。",
+      "j_ko": "싫어. 그랬다가는 언니와 마주칠지도 모르잖아.",
+      "g_ja": "嫌だね。お姉に会っちまう。",
+      "g_ko": "싫어. 그랬다가는 언니와 마주칠지도 모르잖아.",
+      "g_en": "Nah. I might run into my sister there.",
+      "g_th": "ไม่เอาหรอก แบบนั้นเดี๋ยวก็ได้เจอพี่สาวกันพอดี",
+      "g_tw": "不要。那樣搞不好會碰到姐姐。",
+      "g_tw_cn": "不要。那样搞不好会碰到姐姐。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2052380769,
+    "DataType": "speaker",
+    "Script": "5;방황하는 학생;02;싫어. 그랬다가는 언니와 마주칠지도 모르잖아.\\n#3;m2\\n#5;em;[속상함]\\n#5;a",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Upset",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……お姉さん？",
+      "j_ko": "……언니?",
+      "g_ja": "……お姉さん？",
+      "g_ko": "……언니?",
+      "g_en": "...Your sister?",
+      "g_th": "พี่สาวเหรอ...?",
+      "g_tw": "……姐姐？",
+      "g_tw_cn": "……姐姐？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;02;……언니?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"お姉さんと何かあったの？\"",
+      "j_ko": " \"혹시 집에서 언니와 무슨 문제가 있었니?\"",
+      "g_ja": " \"お姉さんと何かあったの？\"",
+      "g_ko": " \"혹시 집에서 언니와 무슨 문제가 있었니?\"",
+      "g_en": " \"Are you having trouble with your sister at home?\"",
+      "g_th": " \"มีปัญหาอะไรกับพี่ที่บ้านมางั้นเหรอ?\"",
+      "g_tw": "「難道你和姐姐之間發生了什麼嗎？」",
+      "g_tw_cn": "「难道你和姐姐之间发生了什么吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"혹시 집에서 언니와 무슨 문제가 있었니?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……別に。",
+      "j_ko": "……아니거든.",
+      "g_ja": "……別に。",
+      "g_ko": "……아니거든.",
+      "g_en": "...Nah.",
+      "g_th": "ไม่ใช่สักหน่อย...",
+      "g_tw": "……才不是。",
+      "g_tw_cn": "……才不是。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2052380769,
+    "DataType": "speaker",
+    "Script": "5;방황하는 학생;06;……아니거든.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "「喧嘩して勢いで家出したけど、行き先がなかった」ってわけじゃないんだからね！",
+      "j_ko": "언니랑 싸우고 홧김에 나오는 바람에 갈 곳을 정하지 못한 게 아니거든!",
+      "g_ja": "「喧嘩して勢いで家出したけど、行き先がなかった」ってわけじゃないんだからね！",
+      "g_ko": "언니랑 싸우고 홧김에 나오는 바람에 갈 곳을 정하지 못한 게 아니거든!",
+      "g_en": "And I definitely didn't just run off to noplace 'cause I had a fight with her!",
+      "g_th": "ฉันไม่ได้ทะเลาะกับพี่สาวแล้วผลีผลามออกมาโดยไม่รู้ว่าจะไปไหนสักหน่อย!",
+      "g_tw": "我才沒因為跟姐姐吵架，結果一氣之下跑出來後發現沒地方去咧！",
+      "g_tw_cn": "我才没因为跟姐姐吵架，结果一气之下跑出来后发现没地方去咧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2052380769,
+    "DataType": "speaker",
+    "Script": "3;방황하는 학생;02;언니랑 싸우고 홧김에 나오는 바람에 갈 곳을 정하지 못한 게 아니거든!\\n#fontsize;80\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 16,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"もしよかったら相談に乗るよ。\"",
+      "j_ko": " \"……괜찮다면 언니의 어떤 점이 불만인지 말해 줄래?\"",
+      "g_ja": " \"もしよかったら相談に乗るよ。\"",
+      "g_ko": " \"……괜찮다면 언니의 어떤 점이 불만인지 말해 줄래?\"",
+      "g_en": " \"If you'd like to talk about it, we're happy to listen to you.\"",
+      "g_th": " \"ไหนบอกครูได้มั้ยว่าไม่พอใจพี่สาวเรื่องอะไร?\"",
+      "g_tw": "「……不介意的話，能告訴我你對姐姐有什麼不滿嗎？」",
+      "g_tw_cn": "「……不介意的话，能告诉我你对姐姐有什么不满吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"……괜찮다면 언니의 어떤 점이 불만인지 말해 줄래?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 17,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 18,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（家出した生徒の面倒を見たり……）",
+      "j_ko": "(가출 학생의 상담을 들어주기도 하고……)",
+      "g_ja": "（家出した生徒の面倒を見たり……）",
+      "g_ko": "(가출 학생의 상담을 들어주기도 하고……)",
+      "g_en": "We gave the runaway student advice.",
+      "g_th": "(แล้วคุณครูก็ให้คำปรึกษากับนักเรียนที่หนีออกจากบ้านมา...)",
+      "g_tw": "（有時必須傾聽離家出走學生的煩惱……）",
+      "g_tw_cn": "（有时必须倾听离家出走学生的烦恼……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(가출 학생의 상담을 들어주기도 하고……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 19,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1035083758
+    }
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 20,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 21,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_05"
+    }
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 23,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 24,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ねぇ。",
+      "j_ko": "……저기.",
+      "g_ja": "……ねぇ。",
+      "g_ko": "……저기.",
+      "g_en": "Hm.",
+      "g_th": "นี่...",
+      "g_tw": "……打擾一下。",
+      "g_tw_cn": "……打扰一下。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;01;……저기.\\n#3;a\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 25,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "え、私ですか？",
+      "j_ko": "으, 으응? 무, 무슨 일이신가요?",
+      "g_ja": "え、私ですか？",
+      "g_ko": "으, 으응? 무, 무슨 일이신가요?",
+      "g_en": "H-Huh? Wh-Who's there?",
+      "g_th": "หะ... หืม? มะ... มีเรื่องอะไรเหรอคะ?",
+      "g_tw": "嗯？請，請問有什麼事嗎？",
+      "g_tw_cn": "嗯？请，请问有什么事吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1832922255,
+    "DataType": "speaker",
+    "Script": "3;수상한 학생 용역부;08;으, 으응? 무, 무슨 일이신가요?\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 26,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ここで何をしてるの？",
+      "j_ko": "여기서 무얼 하고 있는 거지?",
+      "g_ja": "ここで何をしてるの？",
+      "g_ko": "여기서 무얼 하고 있는 거지?",
+      "g_en": "What exactly are you up to?",
+      "g_th": "ทำอะไรอยู่ตรงนี้เหรอ?",
+      "g_tw": "你們在這裡做什麼？",
+      "g_tw_cn": "你们在这里做什么？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "1;나구사ND;02;여기서 무얼 하고 있는 거지?\\n#3;m5\\n#1;ar\\n#1;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "見ての通り、こ、工事ですよ。",
+      "j_ko": "보시다시피 고, 공사를 진행하고 있었답니다.",
+      "g_ja": "見ての通り、こ、工事ですよ。",
+      "g_ko": "보시다시피 고, 공사를 진행하고 있었답니다.",
+      "g_en": "Uh, construction. We're doin' construction.",
+      "g_th": "ก็อย่างที่เห็นเลยค่ะ ฉันกำลังทำงานซ่อมแซมอยู่",
+      "g_tw": "如你所見，我們正在施工！",
+      "g_tw_cn": "如你所见，我们正在施工！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1832922255,
+    "DataType": "speaker",
+    "Script": "3;수상한 학생 용역부;08;보시다시피 고, 공사를 진행하고 있었답니다.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ここに埋もれた下水道……いや、上水道の交換で……！",
+      "j_ko": "여기에 파묻힌 하수도…… 아니, 상수도를 교체해야 해서……!",
+      "g_ja": "ここに埋もれた下水道……いや、上水道の交換で……！",
+      "g_ko": "여기에 파묻힌 하수도…… 아니, 상수도를 교체해야 해서……!",
+      "g_en": "We're workin' on the sewers— I mean the waterworks!",
+      "g_th": "ฉันต้องเปลี่ยนท่อระบายน้ำเสียที่ฝังไว้ตรงนั้น... ไม่สิ ต้องเปลี่ยนท่อน้ำประปาเฉยๆ...!",
+      "g_tw": "因為這裡埋的下水道……不對，是自來水管需要更換……！",
+      "g_tw_cn": "因为这里埋的下水道……不对，是自来水管需要更换……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1832922255,
+    "DataType": "speaker",
+    "Script": "3;수상한 학생 용역부;08;여기에 파묻힌 하수도…… 아니, 상수도를 교체해야 해서……!\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私が知る限りだと、この辺で水道管工事の予定はなかったと思うけど。",
+      "j_ko": "내가 알기로는 이 근처에서 진행 중인 수도 공사는 없었던 것으로 아는데.",
+      "g_ja": "私が知る限りだと、この辺で水道管工事の予定はなかったと思うけど。",
+      "g_ko": "내가 알기로는 이 근처에서 진행 중인 수도 공사는 없었던 것으로 아는데.",
+      "g_en": "Odd. I haven't heard of any waterworks project in this area.",
+      "g_th": "เท่าที่ฉันรู้ แถวนี้ไม่น่าจะมีงานซ่อมระบบประปาในตอนนี้นะ",
+      "g_tw": "據我所知，這附近並沒有自來水工程正在進行。",
+      "g_tw_cn": "据我所知，这附近并没有自来水工程正在进行。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "1;나구사ND;99;내가 알기로는 이 근처에서 진행 중인 수도 공사는 없었던 것으로 아는데.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "しかも、こんな遅い時間に。",
+      "j_ko": "그것도 이런 늦은 밤에……",
+      "g_ja": "しかも、こんな遅い時間に。",
+      "g_ko": "그것도 이런 늦은 밤에……",
+      "g_en": "Certainly nothing scheduled for this hour of the night.",
+      "g_th": "แล้วยังมาทำในเวลาดึกดื่นแบบนี้...",
+      "g_tw": "而且現在都這麼晚了……",
+      "g_tw_cn": "而且现在都这么晚了……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "1;나구사ND;02;그것도 이런 늦은 밤에……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "荷物の中身、見せてくれる？",
+      "j_ko": "잠깐 그쪽에 있는 짐을 확인해 봐도 괜찮을까?",
+      "g_ja": "荷物の中身、見せてくれる？",
+      "g_ko": "잠깐 그쪽에 있는 짐을 확인해 봐도 괜찮을까?",
+      "g_en": "Would you mind if I check your equipment?",
+      "g_th": "ฉันขอตรวจดูของที่อยู่ตรงนั้นสักเดี๋ยวได้มั้ย?",
+      "g_tw": "能讓我檢查一下那邊的物資嗎？",
+      "g_tw_cn": "能让我检查一下那边的物资吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;수상한 학생 용역부;08\\n1;나구사ND;01;잠깐 그쪽에 있는 짐을 확인해 봐도 괜찮을까?\\n#3;dr\\n#1;m3\\n#1;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 35,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ううっ……！",
+      "j_ko": "으읏……",
+      "g_ja": "ううっ……！",
+      "g_ko": "으읏……",
+      "g_en": "Ugh...",
+      "g_th": "อึก...",
+      "g_tw": "唔唔……",
+      "g_tw_cn": "唔唔……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1832922255,
+    "DataType": "speaker",
+    "Script": "1;용역알바 A;08\\n3;용역알바 A;08\\n5;수상한 학생 용역부;08;으읏……\\n#5;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 39,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 39,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_02"
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 40,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1035083758
+    }
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "くそっ！みんな逃げろ！",
+      "j_ko": "젠장, 들켰다! 모두 도망쳐!",
+      "g_ja": "くそっ！みんな逃げろ！",
+      "g_ko": "젠장, 들켰다! 모두 도망쳐!",
+      "g_en": "Damn it, they're onto us! Run!",
+      "g_th": "ซวยแล้วไง โดนจับได้แล้ว! หนีเร็วเข้าทุกคน!",
+      "g_tw": "可惡，被發現了！大家快逃！",
+      "g_tw_cn": "可恶，被发现了！大家快逃！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1603680377,
+    "DataType": "speaker",
+    "Script": "3;망량즈 A;06;젠장, 들켰다! 모두 도망쳐!\\n#3;em;[!]\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "わざわざ暗くなってからやってたのにーっ！",
+      "j_ko": "이 시간에 백화요란이 나타나다니, 이게 도대체 어떻게 된 일이야?",
+      "g_ja": "わざわざ暗くなってからやってたのにーっ！",
+      "g_ko": "이 시간에 백화요란이 나타나다니, 이게 도대체 어떻게 된 일이야?",
+      "g_en": "Hold up— there's still Hyakkaryourans walking around here?",
+      "g_th": "นี่มันอะไรกัน ทำไมเฮียกกะเรียวรันถึงโผล่มาที่นี่ในเวลานี้ล่ะ?",
+      "g_tw": "百花繚亂竟然會在這種時候出現，這到底是怎麼回事？",
+      "g_tw_cn": "百花缭乱竟然会在这种时候出现，这到底是怎么回事？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3465809443,
+    "DataType": "speaker",
+    "Script": "1;망량즈 B;04;이 시간에 백화요란이 나타나다니, 이게 도대체 어떻게 된 일이야?\\n#1;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "完璧な計画がこんなところでーっ！",
+      "j_ko": "쳇, 축제가 시작되기 전에 폭탄을 파묻어 훼방을 놓으려던 계획이……",
+      "g_ja": "完璧な計画がこんなところでーっ！",
+      "g_ko": "쳇, 축제가 시작되기 전에 폭탄을 파묻어 훼방을 놓으려던 계획이……",
+      "g_en": "So much for our bomb plot...",
+      "g_th": "ชิ แผนการฝังระเบิดเพื่อขัดขวางงานเทศกาลพังไม่เป็นท่าเลย...",
+      "g_tw": "嘖，本來計畫在慶典開始前埋炸彈搗亂的說……",
+      "g_tw_cn": "啧，本来计划在庆典开始前埋炸弹捣乱的说……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1603680377,
+    "DataType": "speaker",
+    "Script": "3;망량즈 A;01;쳇, 축제가 시작되기 전에 폭탄을 파묻어 훼방을 놓으려던 계획이……\\n#3;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Upset",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 46,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_01"
+    }
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 47,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07b"
+    }
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 48,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Reload_04"
+    }
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……逃がさない。",
+      "j_ko": "……놓치지 않아.",
+      "g_ja": "……逃がさない。",
+      "g_ko": "……놓치지 않아.",
+      "g_en": "Oh, you're not getting away.",
+      "g_th": "ฉันไม่ยอมให้หนีหรอก...",
+      "g_tw": "……別想逃。",
+      "g_tw_cn": "……别想逃。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "1;나구사ND;02;……놓치지 않아.\\n#1;em;[...]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 51,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_01"
+    }
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 53,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 54,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Shot_01"
+    }
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 55,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Shot_01"
+    }
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 56,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Shot_01"
+    }
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 57,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Shot_01"
+    }
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 58,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Shot_01"
+    }
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 59,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Shot_01"
+    }
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 60,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1035083758
+    }
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 61,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Fall_03"
+    }
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 62,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Fall_04"
+    }
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 63,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（魑魅一座の企みを阻止したり……）",
+      "j_ko": "(말썽을 부리려는 망량즈를 저지하기도 하고……)",
+      "g_ja": "（魑魅一座の企みを阻止したり……）",
+      "g_ko": "(말썽을 부리려는 망량즈를 저지하기도 하고……)",
+      "g_en": "We stopped the Mouryo gang from causing trouble.",
+      "g_th": "(แล้วคุณครูก็ช่วยสกัดพวกปีศาจที่จะก่อปัญหา...)",
+      "g_tw": "（還得阻止想惹事的妖怪劇團……）",
+      "g_tw_cn": "（还得阻止想惹事的妖怪剧团……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(말썽을 부리려는 망량즈를 저지하기도 하고……)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 64,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1346537302
+    }
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 65,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"失礼ですが……お宅はどちらですか？\"",
+      "j_ko": " \"저…… 어르신. 그래서 댁이 어디신가요?\"",
+      "g_ja": " \"失礼ですが……お宅はどちらですか？\"",
+      "g_ko": " \"저…… 어르신. 그래서 댁이 어디신가요?\"",
+      "g_en": " \"Hi there. Shouldn't you be home?\"",
+      "g_th": " \"เอ่อ... ลุง ตกลงว่าบ้านอยู่ทางไหนล่ะ?\"",
+      "g_tw": "「那個……不好意思，能問一下你家住在哪裡嗎？」",
+      "g_tw_cn": "「那个……不好意思，能问一下你家住在哪里吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"저…… 어르신. 그래서 댁이 어디신가요?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 66,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "家～？この空が屋根！その下はぜ～んぶ家なんだ～。",
+      "j_ko": "내 집~? 하늘 아래 내가 발 뻗고 누울 수 있는 곳이 다~ 내 집이지~",
+      "g_ja": "家～？この空が屋根！その下はぜ～んぶ家なんだ～。",
+      "g_ko": "내 집~? 하늘 아래 내가 발 뻗고 누울 수 있는 곳이 다~ 내 집이지~",
+      "g_en": "Home? *hic* Anyplace I can shtretch out under the shky's my home!",
+      "g_th": "บ้านฉันเหรอ~? ไม่ว่าที่ไหนใต้หล้า ที่ฉันนอนยืดแขนขาได้เต็มที่ก็คือบ้านของฉันทั้งนั้นละ~",
+      "g_tw": "我家～？<br/>天底下能讓我伸腿躺平的地方，全都是我家～",
+      "g_tw_cn": "我家～？<br/>天底下能让我伸腿躺平的地方，全都是我家～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1632267819,
+    "DataType": "speaker",
+    "Script": "3;만취한 주민;00;내 집~? 하늘 아래 내가 발 뻗고 누울 수 있는 곳이 다~ 내 집이지~\\n#3;stiff\\n#3;em;[재잘]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "自分の家で寝てて……なんか文句あんのか！？",
+      "j_ko": "이 세상이 다~ 내 집인데 눈치 볼 필요가 있겠나~?",
+      "g_ja": "自分の家で寝てて……なんか文句あんのか！？",
+      "g_ko": "이 세상이 다~ 내 집인데 눈치 볼 필요가 있겠나~?",
+      "g_en": "This whole WORLD'SH my home. What'sh the problem with that?",
+      "g_th": "ทุกที่ในโลกก็เหมือนบ้านฉัน~ แล้วฉันจะต้องสนใจคนอื่นด้วยเหรอ~?",
+      "g_tw": "這個世界就是我的家～難道還得看別人臉色嗎～？",
+      "g_tw_cn": "这个世界就是我的家～难道还得看别人脸色吗～？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1632267819,
+    "DataType": "speaker",
+    "Script": "3;만취한 주민;00;이 세상이 다~ 내 집인데 눈치 볼 필요가 있겠나~?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"こんなところで寝るのは危ないので――\"",
+      "j_ko": " \"죄송하지만, 여기 누워 계시면 통행에 방해가 되거든요.\"",
+      "g_ja": " \"こんなところで寝るのは危ないので――\"",
+      "g_ko": " \"죄송하지만, 여기 누워 계시면 통행에 방해가 되거든요.\"",
+      "g_en": " \"I'm sorry, but you'll get in people's way if you lie here.\"",
+      "g_th": " \"ขอโทษนะลุง แต่ถ้านอนตรงนี้มันกีดขวางการจราจร\"",
+      "g_tw": "「不好意思，你躺在這裡會妨礙通行。」",
+      "g_tw_cn": "「不好意思，你躺在这里会妨碍通行。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"죄송하지만, 여기 누워 계시면 통행에 방해가 되거든요.\"\\n[s2] \"일단 가까운 발키리 경찰서까지 안내해 드려도 괜찮을까요?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"近くのヴァルキューレ交番までご案内します。\"",
+      "j_ko": " \"일단 가까운 발키리 경찰서까지 안내해 드려도 괜찮을까요?\"",
+      "g_ja": " \"近くのヴァルキューレ交番までご案内します。\"",
+      "g_ko": " \"일단 가까운 발키리 경찰서까지 안내해 드려도 괜찮을까요?\"",
+      "g_en": " \"I could walk you to the nearest Valkyrie station, if you like.\"",
+      "g_th": " \"พวกเราจะพาไปพักที่สถานีตำรวจวัลคิรี่ใกล้ๆ ก่อนนะ\"",
+      "g_tw": "「可以先讓我們帶你到附近的女武神警察局嗎？」",
+      "g_tw_cn": "「可以先让我们带你到附近的女武神警察局吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"죄송하지만, 여기 누워 계시면 통행에 방해가 되거든요.\"\\n[s2] \"일단 가까운 발키리 경찰서까지 안내해 드려도 괜찮을까요?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 71,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "何～！？警察に引き渡すってか！？",
+      "j_ko": "뭐어~?! 그 참새 녀석들에게 나를 넘기겠다고?!!",
+      "g_ja": "何～！？警察に引き渡すってか！？",
+      "g_ko": "뭐어~?! 그 참새 녀석들에게 나를 넘기겠다고?!!",
+      "g_en": "What?! You're gonna hand me over to those brats?!",
+      "g_th": "ว่าไงนะ~?! จะส่งฉันไปให้นกกระจอกพวกนั้นงั้นเหรอ?!!",
+      "g_tw": "什麼～！？想把我交給那群麻雀！？",
+      "g_tw_cn": "什么～！？想把我交给那群麻雀！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1632267819,
+    "DataType": "speaker",
+    "Script": "3;만취한 주민;00;뭐어~?! 그 참새 녀석들에게 나를 넘기겠다고?!!\\n#3;em;[?!]\\n#3;shake",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Surprise",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 72,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そうはさせないぞ！かかってこい！",
+      "j_ko": "누가 맘대로 끌려갈 줄 알고! 자, 덤벼!",
+      "g_ja": "そうはさせないぞ！かかってこい！",
+      "g_ko": "누가 맘대로 끌려갈 줄 알고! 자, 덤벼!",
+      "g_en": "I'm not goin' down without a fight! Bring it on!",
+      "g_th": "ใครจะยอมไปด้วยกันเล่า! หรือถ้าแน่จริงก็เข้ามาเลย!",
+      "g_tw": "誰會乖乖被你們帶走啊！有本事就來啊！",
+      "g_tw_cn": "谁会乖乖被你们带走啊！有本事就来啊！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1632267819,
+    "DataType": "speaker",
+    "Script": "3;만취한 주민;00;누가 맘대로 끌려갈 줄 알고! 자, 덤벼!\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 73,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "面倒だから暴れないで。",
+      "j_ko": "……선생님, 내가 '처리'할까?",
+      "g_ja": "面倒だから暴れないで。",
+      "g_ko": "……선생님, 내가 '처리'할까?",
+      "g_en": "...Sensei, would you like me to \"take care\" of this one?",
+      "g_th": "คุณครู... ให้ฉัน 'จัดการ' ดีกว่ามั้ย?",
+      "g_tw": "……老師，需要我「處理」一下嗎？",
+      "g_tw_cn": "……老师，需要我「处理」一下吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "1;나구사ND;02;……선생님, 내가 '처리'할까?\\n#1;a\\n#1;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 74,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"や、優しくね……！\"",
+      "j_ko": " \"아, 안 돼……!\"",
+      "g_ja": " \"や、優しくね……！\"",
+      "g_ko": " \"아, 안 돼……!\"",
+      "g_en": " \"N-No...!\"",
+      "g_th": " \"มะ... ไม่ได้นะ...!\"",
+      "g_tw": "「沒，沒關係……！」",
+      "g_tw_cn": "「没，没关系……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"아, 안 돼……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 75,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（酔っぱらいの対応をしたり……思ったより時間がかかってしまった）",
+      "j_ko": "(……만취한 주민을 인계하기도 하면서 생각 외로 오랜 시간이 걸리고 말았다.)",
+      "g_ja": "（酔っぱらいの対応をしたり……思ったより時間がかかってしまった）",
+      "g_ko": "(……만취한 주민을 인계하기도 하면서 생각 외로 오랜 시간이 걸리고 말았다.)",
+      "g_en": "We walked the drunk out of harm's way. It took longer than expected.",
+      "g_th": "(และยังต้องพาชาวเมืองที่เมามาส่งสถานีตำรวจด้วย...)",
+      "g_tw": "（……還要移交醉醺醺的居民，結果花了比預期更久的時間）",
+      "g_tw_cn": "（……还要移交醉醺醺的居民，结果花了比预期更久的时间）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(……만취한 주민을 인계하기도 하면서 생각 외로 오랜 시간이 걸리고 말았다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 77,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1346537302
+    }
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 77,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 78,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"つ、疲れた……。\"",
+      "j_ko": " \"하, 지쳤다…….\"",
+      "g_ja": " \"つ、疲れた……。\"",
+      "g_ko": " \"하, 지쳤다…….\"",
+      "g_en": " \"I'm beat...\"",
+      "g_th": " \"เฮ้อ... เหนื่อยจัง...\"",
+      "g_tw": "「呼啊，真累人……」",
+      "g_tw_cn": "「呼啊，真累人……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"하, 지쳤다…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 79,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "お疲れ様、先生。",
+      "j_ko": "수고 많았어, 선생님.",
+      "g_ja": "お疲れ様、先生。",
+      "g_ko": "수고 많았어, 선생님.",
+      "g_en": "We did well, Sensei.",
+      "g_th": "ต้องเหนื่อยแย่เลยนะ คุณครู",
+      "g_tw": "辛苦你了，老師。",
+      "g_tw_cn": "辛苦你了，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;16;수고 많았어, 선생님.\\n#3;a\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 80,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今日はいつもより多かったかな。",
+      "j_ko": "오늘은 평소보다 심야에 말썽을 부리는 사람들이 많았던 느낌이네.",
+      "g_ja": "今日はいつもより多かったかな。",
+      "g_ko": "오늘은 평소보다 심야에 말썽을 부리는 사람들이 많았던 느낌이네.",
+      "g_en": "Tonight was a rougher night than usual.",
+      "g_th": "รู้สึกเหมือนวันนี้จะมีคนมาก่อความวุ่นวายในช่วงดึกมากกว่าปกติอีกนะ",
+      "g_tw": "今天在深夜惹事的人，感覺比平常更多呢。",
+      "g_tw_cn": "今天在深夜惹事的人，感觉比平常更多呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;02;오늘은 평소보다 심야에 말썽을 부리는 사람들이 많았던 느낌이네.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 81,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こんな時間になるなんて思わなかった。",
+      "j_ko": "시간도 자정을 넘어 새벽이 되어버렸고…… 조금만 더 기다리면 해가 뜨는 걸 지켜볼 수 있을지도 모르겠어.",
+      "g_ja": "こんな時間になるなんて思わなかった。",
+      "g_ko": "시간도 자정을 넘어 새벽이 되어버렸고…… 조금만 더 기다리면 해가 뜨는 걸 지켜볼 수 있을지도 모르겠어.",
+      "g_en": "And it's well past midnight...if we waited a bit, we could see the sunrise.",
+      "g_th": "นี่เวลาก็ล่วงเลยมาจนเกือบจะรุ่งสางแล้ว... ถ้ารออีกหน่อยก็คงได้เห็นพระอาทิตย์ขึ้นแล้วละ",
+      "g_tw": "現在已經快天亮了……再等一下，或許能看到日出呢。",
+      "g_tw_cn": "现在已经快天亮了……再等一下，或许能看到日出呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;01;시간도 자정을 넘어 새벽이 되어버렸고…… 조금만 더 기다리면 해가 뜨는 걸 지켜볼 수 있을지도 모르겠어.\\n#3;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 82,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"そろそろ部室に戻ろうか。\"",
+      "j_ko": " \"그럼 서둘러서 본관으로 돌아갈까?\"",
+      "g_ja": " \"そろそろ部室に戻ろうか。\"",
+      "g_ko": " \"그럼 서둘러서 본관으로 돌아갈까?\"",
+      "g_en": " \"Should we get back to the main building, then?\"",
+      "g_th": " \"งั้นเรารีบกลับไปที่อาคารหลักกันดีมั้ย?\"",
+      "g_tw": "「那我們趕快回本館吧？」",
+      "g_tw_cn": "「那我们赶快回本馆吧？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그럼 서둘러서 본관으로 돌아갈까?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 83,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ちょっと待って。",
+      "j_ko": "잠깐만 기다려줘, 선생님.",
+      "g_ja": "ちょっと待って。",
+      "g_ko": "잠깐만 기다려줘, 선생님.",
+      "g_en": "Just a moment, Sensei.",
+      "g_th": "รอเดี๋ยวก่อนสิ คุณครู",
+      "g_tw": "請稍等一下，老師。",
+      "g_tw_cn": "请稍等一下，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;02;잠깐만 기다려줘, 선생님.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 84,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "一日の中で、この時間帯が一番暗いの。",
+      "j_ko": "이 시간에는 달도 저물어서 빛이 들지 않아 하루 중 제일 어두운 때거든.",
+      "g_ja": "一日の中で、この時間帯が一番暗いの。",
+      "g_ko": "이 시간에는 달도 저물어서 빛이 들지 않아 하루 중 제일 어두운 때거든.",
+      "g_en": "This is the darkest time of night, with the moon having set.",
+      "g_th": "ตอนนี้พระจันทร์ก็ลับขอบฟ้าไปแล้ว พอไม่มีแสงจันทร์ ตอนนี้ก็เลยเป็นช่วงที่มืดที่สุดของค่ำคืน",
+      "g_tw": "這個時間連月亮都看不見，是一天中最黑暗的時候。",
+      "g_tw_cn": "这个时间连月亮都看不见，是一天中最黑暗的时候。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;01;이 시간에는 달도 저물어서 빛이 들지 않아 하루 중 제일 어두운 때거든.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 85,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "足元が見にくいし、いま動くのは得策じゃない。",
+      "j_ko": "이렇게 어두운 때에 산길을 내려가다가는 발목을 접질릴지도 몰라. 어스름이 깔릴 때까지 잠깐만 쉬었다 가자.",
+      "g_ja": "足元が見にくいし、いま動くのは得策じゃない。",
+      "g_ko": "이렇게 어두운 때에 산길을 내려가다가는 발목을 접질릴지도 몰라. 어스름이 깔릴 때까지 잠깐만 쉬었다 가자.",
+      "g_en": "You might stumble and sprain your ankle on the way there. Let us rest until the darkness fades.",
+      "g_th": "ถ้าเราเดินในเส้นทางบนภูเขาในเวลามืดๆ แบบนี้ ดีไม่ดีอาจข้อเท้าพลิกก็ได้ ฉันว่าเราพักจนกว่าจะมี<br/>แสงสลัวจากเช้ามืดดีกว่า",
+      "g_tw": "在這麼暗的時候走山路可能會扭到腳，還是等天色稍微亮一點再走吧。",
+      "g_tw_cn": "在这么暗的时候走山路可能会扭到脚，还是等天色稍微亮一点再走吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;02;이렇게 어두운 때에 산길을 내려가다가는 발목을 접질릴지도 몰라. 어스름이 깔릴 때까지 잠깐만 쉬었다 가자.\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 86,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……戻るなら、もう少し明るくなってから。",
+      "j_ko": "……그리고 나도, 오늘은 지쳐서 조금 쉬고 싶던 참이었고.",
+      "g_ja": "……戻るなら、もう少し明るくなってから。",
+      "g_ko": "……그리고 나도, 오늘은 지쳐서 조금 쉬고 싶던 참이었고.",
+      "g_en": "Besides, I wouldn't mind a breather.",
+      "g_th": "อีกอย่างนะ... คืนนี้ฉันก็เหนื่อยจนอยากนั่งพักสักหน่อยด้วย",
+      "g_tw": "……而且我今天也有點累了，所以想稍微休息一下。",
+      "g_tw_cn": "……而且我今天也有点累了，所以想稍微休息一下。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;12;……그리고 나도, 오늘은 지쳐서 조금 쉬고 싶던 참이었고.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 87,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 88,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（近くにあった喫茶店の縁側を借りて、夜が明けるまで待つことにした）",
+      "j_ko": "(나구사의 제안에 따라 근처의 찻집 툇마루에서 동이 트기를 기다리기로 했다.)",
+      "g_ja": "（近くにあった喫茶店の縁側を借りて、夜が明けるまで待つことにした）",
+      "g_ko": "(나구사의 제안에 따라 근처의 찻집 툇마루에서 동이 트기를 기다리기로 했다.)",
+      "g_en": "At Nagusa's suggestion, we sat down on the veranda of a nearby tea house and waited for sunrise.",
+      "g_th": "(คุณครูตัดสินใจไปนั่งพักที่ระเบียงไม้ของร้านน้ำชาที่อยู่ใกล้ๆ ตามคำแนะนำของนางุสะ)",
+      "g_tw": "（於是依照名草的提議，決定在附近茶館的走廊等待天亮）",
+      "g_tw_cn": "（于是依照名草的提议，决定在附近茶馆的走廊等待天亮）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(나구사의 제안에 따라 근처의 찻집 툇마루에서 동이 트기를 기다리기로 했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 89,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1346537302
+    }
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 90,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……静かだよね。",
+      "j_ko": "……조용하네.",
+      "g_ja": "……静かだよね。",
+      "g_ko": "……조용하네.",
+      "g_en": "...It's so quiet.",
+      "g_th": "เงียบดีจัง...",
+      "g_tw": "……真安靜呢。",
+      "g_tw_cn": "……真安静呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;01;……조용하네.\\n#3;em;[...]\\n#3;a",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 91,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "この喫茶店、いつもお客さんで賑わってるのに……<br/>この時間だと、まるで時が止まったみたい……。",
+      "j_ko": "이 찻집도 하루 종일 손님이 끊이지 않는 시끄러운 장소인데, 이 어중간한 시간만큼은 숨이 멎은 것처럼 아무 소리도 들려 오질 않아.",
+      "g_ja": "この喫茶店、いつもお客さんで賑わってるのに……<br/>この時間だと、まるで時が止まったみたい……。",
+      "g_ko": "이 찻집도 하루 종일 손님이 끊이지 않는 시끄러운 장소인데, 이 어중간한 시간만큼은 숨이 멎은 것처럼 아무 소리도 들려 오질 않아.",
+      "g_en": "This teahouse is so rowdy with customers in the day. But right now...it's as if everything has stopped breathing.",
+      "g_th": "ปกติร้านน้ำชาร้านนี้จอแจอยู่ตลอดเพราะมีลูกค้าเข้ามาอยู่เรื่อยๆ ทั้งวัน แต่ในช่วงเวลานี้กลับไม่ได้ยิน<br/>เสียงอะไรเลย ราวกับว่าลมหายใจหยุดลงอย่างนั้นละ",
+      "g_tw": "這間茶館平常總是客人絡繹不絕，現在卻像屏住呼吸一般悄然無聲。",
+      "g_tw_cn": "这间茶馆平常总是客人络绎不绝，现在却像屏住呼吸一般悄然无声。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;02;이 찻집도 하루 종일 손님이 끊이지 않는 시끄러운 장소인데, 이 어중간한 시간만큼은 숨이 멎은 것처럼 아무 소리도 들려 오질 않아.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 95,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ここ、たまに来るんだ。",
+      "j_ko": "사실 이곳에 온 건 처음이 아니야.",
+      "g_ja": "……ここ、たまに来るんだ。",
+      "g_ko": "사실 이곳에 온 건 처음이 아니야.",
+      "g_en": "This isn't the first time I've done this.",
+      "g_th": "ที่จริงนี่ไม่ใช่ครั้งแรกหรอกนะที่ฉันมาที่นี่",
+      "g_tw": "其實我並不是第一次來這裡了。",
+      "g_tw_cn": "其实我并不是第一次来这里了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;12;사실 이곳에 온 건 처음이 아니야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 96,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今日みたいに帰りが遅くなったとき、この縁側で夜明けを待つの。",
+      "j_ko": "그동안 심야 순찰을 하다가 새벽의 어둠이 깔리면 이곳에 와서 동이 틀 때까지 시간을 죽였거든.",
+      "g_ja": "今日みたいに帰りが遅くなったとき、この縁側で夜明けを待つの。",
+      "g_ko": "그동안 심야 순찰을 하다가 새벽의 어둠이 깔리면 이곳에 와서 동이 틀 때까지 시간을 죽였거든.",
+      "g_en": "Rested here and waited for dawn, I mean. After a long patrol.",
+      "g_th": "พอฉันออกมาลาดตระเวนกลางดึก ฉันจะมานั่งฆ่าเวลาอยู่ตรงนี้จนถึงรุ่งสางเลย",
+      "g_tw": "之前深夜巡邏時，只要黎明前的黑暗降臨，我就會來這裡等到天亮。",
+      "g_tw_cn": "之前深夜巡逻时，只要黎明前的黑暗降临，我就会来这里等到天亮。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;02;그동안 심야 순찰을 하다가 새벽의 어둠이 깔리면 이곳에 와서 동이 틀 때까지 시간을 죽였거든.\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 97,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"気に入ってるんだね。\"",
+      "j_ko": " \"이 장소를 좋아하나 봐?\"",
+      "g_ja": " \"気に入ってるんだね。\"",
+      "g_ko": " \"이 장소를 좋아하나 봐?\"",
+      "g_en": " \"Is there something you like about this place?\"",
+      "g_th": " \"นางุสะชอบที่นี่สินะ?\"",
+      "g_tw": "「看來你挺喜歡這個地方的？」",
+      "g_tw_cn": "「看来你挺喜欢这个地方的？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"이 장소를 좋아하나 봐?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 98,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……そんな明るい理由じゃない。",
+      "j_ko": " ……아니. 사실 그렇게 좋아하진 않아.",
+      "g_ja": "……そんな明るい理由じゃない。",
+      "g_ko": " ……아니. 사실 그렇게 좋아하진 않아.",
+      "g_en": " ...Nothing in particular.",
+      "g_th": "เปล่าหรอก... จริงๆ แล้วฉันก็ไม่ได้ชอบเท่าไร",
+      "g_tw": "……不，不是那樣的。",
+      "g_tw_cn": "……不，不是那样的。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;99; ……아니. 사실 그렇게 좋아하진 않아.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 99,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "怖さを紛らわせるため。",
+      "j_ko": "오히려 무서워서 이곳에 숨어 있다는 표현이 더 맞을 거야.",
+      "g_ja": "怖さを紛らわせるため。",
+      "g_ko": "오히려 무서워서 이곳에 숨어 있다는 표현이 더 맞을 거야.",
+      "g_en": "Well, one thing. It makes a good hiding place...",
+      "g_th": "ถ้าจะพูดให้ถูก ต้องบอกว่าฉันมาซ่อนตัวอยู่ที่นี่เพราะกลัวมากกว่า",
+      "g_tw": "與其說是喜歡，不如說是因為害怕比較貼切。",
+      "g_tw_cn": "与其说是喜欢，不如说是因为害怕比较贴切。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;99;오히려 무서워서 이곳에 숨어 있다는 표현이 더 맞을 거야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 100,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私は……暗闇が怖いの……。",
+      "j_ko": "나는 어둠을 무서워하거든.",
+      "g_ja": "私は……暗闇が怖いの……。",
+      "g_ko": "나는 어둠을 무서워하거든.",
+      "g_en": "...from my fear of the dark.",
+      "g_th": "ฉันกลัวความมืดมิดน่ะ",
+      "g_tw": "我……害怕黑暗。",
+      "g_tw_cn": "我……害怕黑暗。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;12;나는 어둠을 무서워하거든.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 101,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1286140721
+    }
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 101,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 190
+    }
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 103,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3275862634
+    }
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 103,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2040]― <cmd-char>나구사ND</cmd-char>夜が明けるこの瞬間が――",
+      "j_ko": "[wa:2040]― <cmd-char>나구사ND</cmd-char>동이 트기 직전의 이 순간이……",
+      "g_ja": "[wa:2040]― <cmd-char>나구사ND</cmd-char>夜が明けるこの瞬間が――",
+      "g_ko": "[wa:2040]― <cmd-char>나구사ND</cmd-char>동이 트기 직전의 이 순간이……",
+      "g_en": "― <cmd-char>나구사ND</cmd-char>This moment, just before the sun rises...[wa:1080] ",
+      "g_th": "― <cmd-char>나구사ND</cmd-char>ช่วงเวลาก่อนรุ่งสางแบบนี้...[wa:1600] ",
+      "g_tw": "― <cmd-char>나구사ND</cmd-char>黎明前的這個瞬間──[wa:2320] ",
+      "g_tw_cn": "― <cmd-char>나구사ND</cmd-char>黎明前的这个瞬间──[wa:2320] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:2040]― [log=나구사ND]동이 트기 직전의 이 순간이……[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 3275862634,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 104,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2960]― <cmd-char>나구사ND</cmd-char>もっとも[wa:1960]闇が深くなる。",
+      "j_ko": "[wa:2760]― <cmd-char>나구사ND</cmd-char>어둠이 [wa:1960]가장 깊은 때이지.",
+      "g_ja": "[wa:2960]― <cmd-char>나구사ND</cmd-char>もっとも[wa:1960]闇が深くなる。",
+      "g_ko": "[wa:2760]― <cmd-char>나구사ND</cmd-char>어둠이 [wa:1960]가장 깊은 때이지.",
+      "g_en": "― <cmd-char>나구사ND</cmd-char>is when the darkness dominates.[wa:4040] ",
+      "g_th": "― <cmd-char>나구사ND</cmd-char>เป็นช่วงเวลาที่มืดมิดที่สุดเลยละ[wa:4000] ",
+      "g_tw": "― <cmd-char>나구사ND</cmd-char>是黑暗最深沉的時候。[wa:4880] ",
+      "g_tw_cn": "― <cmd-char>나구사ND</cmd-char>是黑暗最深沉的时候。[wa:4880] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:2760]― [log=나구사ND]어둠이 [wa:1960]가장 깊은 때이지.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 107,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>나구사ND</cmd-char>私は……[wa:2380]この漆黒が恐ろしかった。",
+      "j_ko": "― <cmd-char>나구사ND</cmd-char>나는…… [wa:2180]이 칠흑 같은 어둠이 두려웠어. ",
+      "g_ja": "― <cmd-char>나구사ND</cmd-char>私は……[wa:2380]この漆黒が恐ろしかった。",
+      "g_ko": "― <cmd-char>나구사ND</cmd-char>나는…… [wa:2180]이 칠흑 같은 어둠이 두려웠어. ",
+      "g_en": "― <cmd-char>나구사ND</cmd-char>This pitch-black darkness... I've always feared it.[wa:1060] ",
+      "g_th": "― <cmd-char>나구사ND</cmd-char>ฉัน... กลัวความมืดที่ดำสนิทแบบนี้[wa:1780] ",
+      "g_tw": "― <cmd-char>나구사ND</cmd-char>我……曾經害怕著這片漆黑。[wa:2580] ",
+      "g_tw_cn": "― <cmd-char>나구사ND</cmd-char>我……曾经害怕着这片漆黑。[wa:2580] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;― [log=나구사ND]나는…… [wa:2180]이 칠흑 같은 어둠이 두려웠어. [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 96,
+    "AbsolutePos": 110,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1545926768
+    }
+  },
+  {
+    "ActualPos": 97,
+    "AbsolutePos": 110,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1630]― <cmd-char>나구사ND</cmd-char>闇夜を照らすほど[wa:1910]眩しく輝くことも――",
+      "j_ko": "[wa:1630]― <cmd-char>나구사ND</cmd-char>어둠을 밝힐 만큼 [wa:1830]반짝이지도 않고,",
+      "g_ja": "[wa:1630]― <cmd-char>나구사ND</cmd-char>闇夜を照らすほど[wa:1910]眩しく輝くことも――",
+      "g_ko": "[wa:1630]― <cmd-char>나구사ND</cmd-char>어둠을 밝힐 만큼 [wa:1830]반짝이지도 않고,",
+      "g_en": "― <cmd-char>나구사ND</cmd-char>I don't shine enough to lift that darkness.[wa:2500] ",
+      "g_th": "― <cmd-char>나구사ND</cmd-char>ในค่ำคืนที่ไม่มีแสงใดที่ส่องสว่างไล่ความมืดได้[wa:2380] ",
+      "g_tw": "― <cmd-char>나구사ND</cmd-char>無論是眩目到足以點亮闇夜──[wa:3660] ",
+      "g_tw_cn": "― <cmd-char>나구사ND</cmd-char>无论是眩目到足以点亮暗夜──[wa:3660] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1630]― [log=나구사ND]어둠을 밝힐 만큼 [wa:1830]반짝이지도 않고,[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1545926768,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 98,
+    "AbsolutePos": 111,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:3500]― <cmd-char>나구사ND</cmd-char>夜が明けるまで[wa:2150]耐え忍ぶことも、",
+      "j_ko": "[wa:3540]― <cmd-char>나구사ND</cmd-char>밤이 지나가는 걸 [wa:2030]견디는 것조차도……",
+      "g_ja": "[wa:3500]― <cmd-char>나구사ND</cmd-char>夜が明けるまで[wa:2150]耐え忍ぶことも、",
+      "g_ko": "[wa:3540]― <cmd-char>나구사ND</cmd-char>밤이 지나가는 걸 [wa:2030]견디는 것조차도……",
+      "g_en": "― <cmd-char>나구사ND</cmd-char>Nor could I...endure...[wa:5450] ",
+      "g_th": "― <cmd-char>나구사ND</cmd-char>แม้แต่การทนรอให้ค่ำคืนเลยผ่านไป...[wa:5010] ",
+      "g_tw": "― <cmd-char>나구사ND</cmd-char>還是在黎明之前隱忍下去……[wa:5850] ",
+      "g_tw_cn": "― <cmd-char>나구사ND</cmd-char>还是在黎明之前隐忍下去……[wa:5850] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:3540]― [log=나구사ND]밤이 지나가는 걸 [wa:2030]견디는 것조차도……[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 99,
+    "AbsolutePos": 114,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>나구사ND</cmd-char>私には[wa:2330]できなかったから。",
+      "j_ko": "― <cmd-char>나구사ND</cmd-char>나에게는 [wa:2170]힘든 일이었으니까.",
+      "g_ja": "― <cmd-char>나구사ND</cmd-char>私には[wa:2330]できなかったから。",
+      "g_ko": "― <cmd-char>나구사ND</cmd-char>나에게는 [wa:2170]힘든 일이었으니까.",
+      "g_en": "― <cmd-char>나구사ND</cmd-char>through the passing of the night.[wa:1450] ",
+      "g_th": "― <cmd-char>나구사ND</cmd-char>ก็เป็นเรื่องยากสำหรับฉัน[wa:1810] ",
+      "g_tw": "― <cmd-char>나구사ND</cmd-char>我都無法辦到。[wa:2490] ",
+      "g_tw_cn": "― <cmd-char>나구사ND</cmd-char>我都无法办到。[wa:2490] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;― [log=나구사ND]나에게는 [wa:2170]힘든 일이었으니까.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 100,
+    "AbsolutePos": 117,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>나구사ND</cmd-char>他人を演じることで――",
+      "j_ko": "― <cmd-char>나구사ND</cmd-char>다른 이를 연기하며―",
+      "g_ja": "― <cmd-char>나구사ND</cmd-char>他人を演じることで――",
+      "g_ko": "― <cmd-char>나구사ND</cmd-char>다른 이를 연기하며―",
+      "g_en": "― <cmd-char>나구사ND</cmd-char>I had no choice but to hide,",
+      "g_th": "― <cmd-char>나구사ND</cmd-char>ฉันเคยต้องแสดงเป็นคนอื่น",
+      "g_tw": "― <cmd-char>나구사ND</cmd-char>只能藉由扮演他人──",
+      "g_tw_cn": "― <cmd-char>나구사ND</cmd-char>只能借由扮演他人──",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;― [log=나구사ND]다른 이를 연기하며―[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 101,
+    "AbsolutePos": 118,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2680]― <cmd-char>나구사ND</cmd-char>影に紛れて[wa:910]平静を装うことしか、[wa:2660]できなかったの。",
+      "j_ko": "[wa:2640]― <cmd-char>나구사ND</cmd-char>그림자에 섞인 채 [wa:710]평정을 가장하며 [wa:2700]숨어있을 수밖에, 없었던 거야.",
+      "g_ja": "[wa:2680]― <cmd-char>나구사ND</cmd-char>影に紛れて[wa:910]平静を装うことしか、[wa:2660]できなかったの。",
+      "g_ko": "[wa:2640]― <cmd-char>나구사ND</cmd-char>그림자에 섞인 채 [wa:710]평정을 가장하며 [wa:2700]숨어있을 수밖에, 없었던 거야.",
+      "g_en": "― <cmd-char>나구사ND</cmd-char>pretending to be someone else, blending into the shadows, feigning composure.[wa:4410] ",
+      "g_th": "― <cmd-char>나구사ND</cmd-char>ทำตัวกลมกลืนไปกับเงา ต้องแอบซ่อน และแสร้งว่าไม่เป็นไร[wa:5370] ",
+      "g_tw": "― <cmd-char>나구사ND</cmd-char>混入陰影中故作鎮定而已。[wa:7010] ",
+      "g_tw_cn": "― <cmd-char>나구사ND</cmd-char>混入阴影中故作镇定而已。[wa:7010] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:2640]― [log=나구사ND]그림자에 섞인 채 [wa:710]평정을 가장하며 [wa:2700]숨어있을 수밖에, 없었던 거야.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 102,
+    "AbsolutePos": 121,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1184118555
+    }
+  },
+  {
+    "ActualPos": 103,
+    "AbsolutePos": 121,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:750]― <cmd-char>나구사ND</cmd-char>でも――[wa:1900]今は[wa:590]違う。",
+      "j_ko": "― <cmd-char>나구사ND</cmd-char>하지만, [wa:1860]더 이상은 [wa:430]아냐.",
+      "g_ja": "[wa:750]― <cmd-char>나구사ND</cmd-char>でも――[wa:1900]今は[wa:590]違う。",
+      "g_ko": "― <cmd-char>나구사ND</cmd-char>하지만, [wa:1860]더 이상은 [wa:430]아냐.",
+      "g_en": "― <cmd-char>나구사ND</cmd-char>But not anymore.[wa:2210] ",
+      "g_th": "― <cmd-char>나구사ND</cmd-char>แต่ฉันจะไม่ทำอย่างนั้นอีกต่อไปแล้วละ[wa:1410] ",
+      "g_tw": "― <cmd-char>나구사ND</cmd-char>但是──現在不一樣了。[wa:2410] ",
+      "g_tw_cn": "― <cmd-char>나구사ND</cmd-char>但是──现在不一样了。[wa:2410] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;― [log=나구사ND]하지만, [wa:1860]더 이상은 [wa:430]아냐.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1184118555,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 104,
+    "AbsolutePos": 124,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1670428840
+    }
+  },
+  {
+    "ActualPos": 105,
+    "AbsolutePos": 124,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1300]― <cmd-char>나구사ND</cmd-char>明けない夜はないと――",
+      "j_ko": "[wa:1300]― <cmd-char>나구사ND</cmd-char>밤은 언젠가 끝날 테고―",
+      "g_ja": "[wa:1300]― <cmd-char>나구사ND</cmd-char>明けない夜はないと――",
+      "g_ko": "[wa:1300]― <cmd-char>나구사ND</cmd-char>밤은 언젠가 끝날 테고―",
+      "g_en": "― <cmd-char>나구사ND</cmd-char>I know that the night will pass with time...[wa:20] ",
+      "g_th": "― <cmd-char>나구사ND</cmd-char>เพราะฉันรู้ว่าเมื่อค่ำคืนผ่านพ้นไป[wa:420] ",
+      "g_tw": "― <cmd-char>나구사ND</cmd-char>因為我已經明白夜晚終將結束──[wa:1180] ",
+      "g_tw_cn": "― <cmd-char>나구사ND</cmd-char>因为我已经明白夜晚终将结束──[wa:1180] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1300]― [log=나구사ND]밤은 언젠가 끝날 테고―[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1670428840,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 106,
+    "AbsolutePos": 125,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2700]― <cmd-char>나구사ND</cmd-char>私の影が落ちると、[wa:2770]知ったから。",
+      "j_ko": "[wa:2620]― <cmd-char>나구사ND</cmd-char>내 그림자가 [wa:2850]땅에 드리울 것을, 알고 있으니까.",
+      "g_ja": "[wa:2700]― <cmd-char>나구사ND</cmd-char>私の影が落ちると、[wa:2770]知ったから。",
+      "g_ko": "[wa:2620]― <cmd-char>나구사ND</cmd-char>내 그림자가 [wa:2850]땅에 드리울 것을, 알고 있으니까.",
+      "g_en": "― <cmd-char>나구사ND</cmd-char>and my shadow will cast over the earth.[wa:4950] ",
+      "g_th": "― <cmd-char>나구사ND</cmd-char>เงาของฉันก็จะปรากฏที่พื้นในที่สุด[wa:5190] ",
+      "g_tw": "― <cmd-char>나구사ND</cmd-char>我的影子也會落映在地上了。[wa:5990] ",
+      "g_tw_cn": "― <cmd-char>나구사ND</cmd-char>我的影子也会落映在地上了。[wa:5990] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:2620]― [log=나구사ND]내 그림자가 [wa:2850]땅에 드리울 것을, 알고 있으니까.[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 107,
+    "AbsolutePos": 128,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>나구사ND</cmd-char>だから――",
+      "j_ko": "― <cmd-char>나구사ND</cmd-char>그러니―",
+      "g_ja": "― <cmd-char>나구사ND</cmd-char>だから――",
+      "g_ko": "― <cmd-char>나구사ND</cmd-char>그러니―",
+      "g_en": "― <cmd-char>나구사ND</cmd-char>So...",
+      "g_th": "― <cmd-char>나구사ND</cmd-char>เพราะงั้น...",
+      "g_tw": "― <cmd-char>나구사ND</cmd-char>所以──",
+      "g_tw_cn": "― <cmd-char>나구사ND</cmd-char>所以──",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;― [log=나구사ND]그러니―[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 108,
+    "AbsolutePos": 131,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1274804760
+    }
+  },
+  {
+    "ActualPos": 109,
+    "AbsolutePos": 131,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1520]― <cmd-char>나구사ND</cmd-char>黄昏に[wa:2000]名乗りをあげよう――",
+      "j_ko": "[wa:1520]― <cmd-char>나구사ND</cmd-char>황혼 앞에서 [wa:1840]이름을 고한다.[wa:40] ",
+      "g_ja": "[wa:1520]― <cmd-char>나구사ND</cmd-char>黄昏に[wa:2000]名乗りをあげよう――",
+      "g_ko": "[wa:1520]― <cmd-char>나구사ND</cmd-char>황혼 앞에서 [wa:1840]이름을 고한다.[wa:40] ",
+      "g_en": "― <cmd-char>나구사ND</cmd-char>I declare my name to the spirit realm. [wa:2480] ",
+      "g_th": "― <cmd-char>나구사ND</cmd-char>ฉันขอประกาศชื่อของฉันต่อหน้าห้วงอัสดง [wa:2520] ",
+      "g_tw": "― <cmd-char>나구사ND</cmd-char>就讓我向黃昏報上名號吧。[wa:3560] ",
+      "g_tw_cn": "― <cmd-char>나구사ND</cmd-char>就让我向黄昏报上名号吧。[wa:3560] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1520]― [log=나구사ND]황혼 앞에서 [wa:1840]이름을 고한다.[wa:40] [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 1274804760,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 110,
+    "AbsolutePos": 134,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>나구사ND</cmd-char>――私は[wa:1890]百花繚乱紛争調停委員会の[wa:2180]委員長、",
+      "j_ko": "― <cmd-char>나구사ND</cmd-char>……나는 [wa:1850]백화요란 분쟁조정위원회의[wa:2140] 부장,",
+      "g_ja": "― <cmd-char>나구사ND</cmd-char>――私は[wa:1890]百花繚乱紛争調停委員会の[wa:2180]委員長、",
+      "g_ko": "― <cmd-char>나구사ND</cmd-char>……나는 [wa:1850]백화요란 분쟁조정위원회의[wa:2140] 부장,",
+      "g_en": "― <cmd-char>나구사ND</cmd-char>...I am the President of the Hyakkaryouran Resolution Council...[wa:2310] ",
+      "g_th": "― <cmd-char>나구사ND</cmd-char>ฉันคือ... หัวหน้าคณะไกล่เกลี่ยข้อพิพาท เฮียกกะเรียวรัน[wa:2710] ",
+      "g_tw": "― <cmd-char>나구사ND</cmd-char>我是百花繚亂紛爭調停委員會的委員長──[wa:4110] ",
+      "g_tw_cn": "― <cmd-char>나구사ND</cmd-char>我是百花缭乱纷争调停委员会的委员长──[wa:4110] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;― [log=나구사ND]……나는 [wa:1850]백화요란 분쟁조정위원회의[wa:2140] 부장,[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 111,
+    "AbsolutePos": 135,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:2010]― <cmd-char>나구사ND</cmd-char>御稜[wa:460]ナグサ！",
+      "j_ko": "[wa:2010]― <cmd-char>나구사ND</cmd-char>고료 [wa:460]나구사!",
+      "g_ja": "[wa:2010]― <cmd-char>나구사ND</cmd-char>御稜[wa:460]ナグサ！",
+      "g_ko": "[wa:2010]― <cmd-char>나구사ND</cmd-char>고료 [wa:460]나구사!",
+      "g_en": "― <cmd-char>나구사ND</cmd-char>Goryou Nagusa![wa:2190] ",
+      "g_th": "― <cmd-char>나구사ND</cmd-char>โกเรียว นางุสะ![wa:2150] ",
+      "g_tw": "― <cmd-char>나구사ND</cmd-char>御稜名草！[wa:2550] ",
+      "g_tw_cn": "― <cmd-char>나구사ND</cmd-char>御棱名草！[wa:2550] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;[wa:2010]― [log=나구사ND]고료 [wa:460]나구사![/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 112,
+    "AbsolutePos": 137,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1346537302
+    }
+  },
+  {
+    "ActualPos": 113,
+    "AbsolutePos": 138,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そろそろ日が昇る。",
+      "j_ko": "아, 동이 터오기 시작하네.",
+      "g_ja": "そろそろ日が昇る。",
+      "g_ko": "아, 동이 터오기 시작하네.",
+      "g_en": "Ah, and now the sun rises.",
+      "g_th": "อ๊ะ ฟ้าเริ่มสางแล้วละ",
+      "g_tw": "啊，天亮了呢。",
+      "g_tw_cn": "啊，天亮了呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;02;아, 동이 터오기 시작하네.\\n#3;a\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 114,
+    "AbsolutePos": 139,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……散々な夜だったね。",
+      "j_ko": "……정말 혼란스러운 밤이었어. 그렇지?",
+      "g_ja": "……散々な夜だったね。",
+      "g_ko": "……정말 혼란스러운 밤이었어. 그렇지?",
+      "g_en": "...Quite a night, wasn't it?",
+      "g_th": "เป็นค่ำคืนที่วุ่นวายจริงๆ เลย... ว่ามั้ย?",
+      "g_tw": "真是個混亂的夜晚……對吧？",
+      "g_tw_cn": "真是个混乱的夜晚……对吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;03;……정말 혼란스러운 밤이었어. 그렇지?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 115,
+    "AbsolutePos": 140,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ふふっ、本当にね。\"",
+      "j_ko": " \"그러게. 정말 정신없는 밤이었네.\"",
+      "g_ja": " \"ふふっ、本当にね。\"",
+      "g_ko": " \"그러게. 정말 정신없는 밤이었네.\"",
+      "g_en": " \"Yeah, it was really hectic.\"",
+      "g_th": " \"นั่นสินะ เป็นคืนที่งานยุ่งจริงๆ เลย\"",
+      "g_tw": "「嗯，真是忙亂的一夜。」",
+      "g_tw_cn": "「嗯，真是忙乱的一夜。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그러게. 정말 정신없는 밤이었네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 116,
+    "AbsolutePos": 141,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でも、もしかしたら……こんな騒がしくも馬鹿らしい夜こそ――",
+      "j_ko": "온갖 해괴한 꼴을 한 <ruby>망량즈<rp>(</rp><rt>망량들</rt><rp>)</rp></ruby>가 날뛰는 밤이라……",
+      "g_ja": "でも、もしかしたら……こんな騒がしくも馬鹿らしい夜こそ――",
+      "g_ko": "온갖 해괴한 꼴을 한 <ruby>망량즈<rp>(</rp><rt>망량들</rt><rp>)</rp></ruby>가 날뛰는 밤이라……",
+      "g_en": "A night when Mouryos ran wild, in all sorts of strange forms...",
+      "g_th": "ค่ำคืนที่เหล่าปีศาจออกมาวิ่งพล่านในหลายๆ รูปแบบ...",
+      "g_tw": "各式<ruby>妖怪<rp>(</rp><rt>魍魎</rt><rp>)</rp></ruby>橫行的夜晚……",
+      "g_tw_cn": "各式<ruby>妖怪<rp>(</rp><rt>魍魉</rt><rp>)</rp></ruby>横行的夜晚……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;99;온갖 해괴한 꼴을 한 [ruby=망량들]망량즈[/ruby]가 날뛰는 밤이라……",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 117,
+    "AbsolutePos": 142,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "百鬼夜行連合学院の名に相応しいのかもしれないね。",
+      "j_ko": "하지만 어쩌면, 어젯밤이야말로 우리 백귀야행 학원의 이름에 가장 어울리는 날이었을지도 모르겠어.",
+      "g_ja": "百鬼夜行連合学院の名に相応しいのかもしれないね。",
+      "g_ko": "하지만 어쩌면, 어젯밤이야말로 우리 백귀야행 학원의 이름에 가장 어울리는 날이었을지도 모르겠어.",
+      "g_en": "It's fitting for the name of \"Hyakkiyako.\" \"The Night Walk of a Hundred Ghosts.\"",
+      "g_th": "บางทีคืนที่เพิ่งผ่านไปอาจเป็นคืนที่เหมาะกับชื่อของสหพันธ์เฮียกคิยาโคมากที่สุดก็ได้นะ",
+      "g_tw": "或許這才是最符合我們百鬼夜行聯合學園之名的一天也說不定呢。",
+      "g_tw_cn": "或许这才是最符合我们百鬼夜行联合学园之名的一天也说不定呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 515360272,
+    "DataType": "speaker",
+    "Script": "3;나구사ND;16;하지만 어쩌면, 어젯밤이야말로 우리 백귀야행 학원의 이름에 가장 어울리는 날이었을지도 모르겠어.\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

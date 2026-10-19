@@ -1,0 +1,3062 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2588339232
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 6
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">専門家</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">전문가</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">専門家</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">전문가</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Expert</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ผู้เชี่ยวชาญ</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">專家</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">专家</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;전문가",
+    "BGMId": 6,
+    "Sound": "",
+    "BGName": 2588339232,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_02"
+    }
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 3,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_10a"
+    }
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 3,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "おはよう、先生。",
+      "j_ko": "안녕. 선생님.",
+      "g_ja": "おはよう、先生。",
+      "g_ko": "안녕. 선생님.",
+      "g_en": "Hello, Sensei.",
+      "g_th": "สวัสดี คุณครู",
+      "g_tw": "你好，老師。",
+      "g_tw_cn": "你好，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;02;안녕. 선생님.\\n#4;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 4,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"おはよう、意外な場所で驚いたよ。\"",
+      "j_ko": " \"예상외로 엄청 평범한 곳에서 보는구나!\"",
+      "g_ja": " \"おはよう、意外な場所で驚いたよ。\"",
+      "g_ko": " \"예상외로 엄청 평범한 곳에서 보는구나!\"",
+      "g_en": " \"This is a weirdly normal setting to see you in!\"",
+      "g_th": " \"ได้เจอกันในที่ที่ธรรมดาจนผิดคาดเลยนะ!\"",
+      "g_tw": "「沒想到你竟然約在這麼普通的地方！」",
+      "g_tw_cn": "「没想到你竟然约在这么普通的地方！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"예상외로 엄청 평범한 곳에서 보는구나!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……そう？",
+      "j_ko": "음…… 그런가.",
+      "g_ja": "……そう？",
+      "g_ko": "음…… 그런가.",
+      "g_en": "Um... Is that so?",
+      "g_th": "อืม... งั้นเหรอ",
+      "g_tw": "嗯……是嗎？",
+      "g_tw_cn": "嗯……是吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;99;음…… 그런가.\\n#4;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 6,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "買い物は必要。",
+      "j_ko": "그치만 어차피 사야 할 것도 있고 해서.",
+      "g_ja": "買い物は必要。",
+      "g_ko": "그치만 어차피 사야 할 것도 있고 해서.",
+      "g_en": "I had need for some supplies.",
+      "g_th": "แค่พอดีมีของที่ฉันต้องซื้ออยู่น่ะ",
+      "g_tw": "因為我剛好要買點東西。",
+      "g_tw_cn": "因为我刚好要买点东西。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;01;그치만 어차피 사야 할 것도 있고 해서.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "商店街に寄ったら、色々と買っておいたほうが効率的。",
+      "j_ko": "아비도스 상점가에 들릴 때 사지 않으면 여러 가지로 불편해지거든.",
+      "g_ja": "商店街に寄ったら、色々と買っておいたほうが効率的。",
+      "g_ko": "아비도스 상점가에 들릴 때 사지 않으면 여러 가지로 불편해지거든.",
+      "g_en": "I have to purchase them during my visits to the Abydos shopping district, or it becomes a rather large inconvenience later.",
+      "g_th": "ถ้าไม่ซื้อไว้เลยตอนแวะมาย่านการค้าอะบิดอส มันจะลำบากในหลายๆ อย่างน่ะ",
+      "g_tw": "要是不趁路過阿拜多斯商店街的時候買好，之後要買會很麻煩。",
+      "g_tw_cn": "要是不趁路过阿拜多斯商店街的时候买好，之后要买会很麻烦。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;01;아비도스 상점가에 들릴 때 사지 않으면 여러 가지로 불편해지거든.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 8,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生も何か必要？<br/>最近お金をたくさん手に入れたから、買ってあげる。",
+      "j_ko": "온 김에 선생님도 뭔가 살래? 최근 현금을 꽤 확보해서 상황이 괜찮거든. 내가 사줄게.",
+      "g_ja": "先生も何か必要？<br/>最近お金をたくさん手に入れたから、買ってあげる。",
+      "g_ko": "온 김에 선생님도 뭔가 살래? 최근 현금을 꽤 확보해서 상황이 괜찮거든. 내가 사줄게.",
+      "g_en": "Since we've run into each other like this, shall I treat you to something, Sensei? I've recently come into some money.",
+      "g_th": "ไหนๆ ก็มาแล้ว คุณครูจะซื้ออะไรหรือเปล่า? ไม่นานมานี้ฉันได้เงินสดมาจำนวนหนึ่ง ตอนนี้ก็เลย<br/>ไม่ค่อยลำบากเท่าไรแล้ว เดี๋ยวฉันซื้อให้เอง",
+      "g_tw": "既然都來了，老師要不要也買點東西？<br/>我現在手邊有很多現金，經濟情況還算寬裕，我買給你。",
+      "g_tw_cn": "既然都来了，老师要不要也买点东西？<br/>我现在手边有很多现金，经济情况还算宽裕，我买给你。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;02;온 김에 선생님도 뭔가 살래? 최근 현금을 꽤 확보해서 상황이 괜찮거든. 내가 사줄게.\\n#4;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"…………。\"",
+      "j_ko": " \"……………………….\"",
+      "g_ja": " \"…………。\"",
+      "g_ko": " \"……………………….\"",
+      "g_en": " \"...\"",
+      "g_th": " \"......\"",
+      "g_tw": "「……………………」",
+      "g_tw_cn": "「……………………」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"……………………….\"\\n[s2] \"……현금을, 말인가요……?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……たくさんのお金を、どうやって？\"",
+      "j_ko": " \"……현금을, 말인가요……?\"",
+      "g_ja": " \"……たくさんのお金を、どうやって？\"",
+      "g_ko": " \"……현금을, 말인가요……?\"",
+      "g_en": " \"Money...?\"",
+      "g_th": " \"เงินสด... งั้นเหรอ...?\"",
+      "g_tw": "「……你剛才是說現金嗎？」",
+      "g_tw_cn": "「……你刚才是说现金吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"……………………….\"\\n[s2] \"……현금을, 말인가요……?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ん。",
+      "j_ko": "응.",
+      "g_ja": "ん。",
+      "g_ko": "응.",
+      "g_en": "Yes.",
+      "g_th": "อื้อ",
+      "g_tw": "嗯。",
+      "g_tw_cn": "嗯。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;99;응.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"まさか、銀行から……？\"",
+      "j_ko": " \"현금……말이죠? 그러니까…….\"",
+      "g_ja": " \"まさか、銀行から……？\"",
+      "g_ko": " \"현금……말이죠? 그러니까…….\"",
+      "g_en": " \"You have...money...? So you're saying...?\"",
+      "g_th": " \"เมื่อกี้พูดว่าเงินสด... งั้นเหรอ...?\"",
+      "g_tw": "「真的是現金？那個……」",
+      "g_tw_cn": "「真的是现金？那个……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"현금……말이죠? 그러니까…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 14,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ち、違うよ。<br/>銀行は襲ってない。",
+      "j_ko": "None",
+      "g_ja": "……ち、違うよ。<br/>銀行は襲ってない。",
+      "g_ko": "으응……. 딱히 뭔가 문제를 일으키거나 저지르거나 한 건 아니야. ",
+      "g_en": "I have not undertaken any illegal activities. ",
+      "g_th": "อื้อ แต่ฉันไม่ได้ไปก่อเรื่อง หรือสร้างปัญหาอะไรหรอกนะ ",
+      "g_tw": "唔嗯……我並沒有闖禍或製造麻煩。",
+      "g_tw_cn": "唔嗯……我并没有闯祸或制造麻烦。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "4;시로코 테러 무소속;99;으응……. 딱히 뭔가 문제를 일으키거나 저지르거나 한 건 아니야. \\n#4;em;[땀]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 18,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "対策委員会に迷惑はかけたくないし。<br/>もし逮捕されたら、こっちのシロコが誤解されるかもしれないから。",
+      "j_ko": "대책위원회에 폐를 끼치게 되니까. 그리고 만약 들키기라도 한다면 이쪽의 시로코에게 오해가 쌓일 수도 있고.",
+      "g_ja": "対策委員会に迷惑はかけたくないし。<br/>もし逮捕されたら、こっちのシロコが誤解されるかもしれないから。",
+      "g_ko": "대책위원회에 폐를 끼치게 되니까. 그리고 만약 들키기라도 한다면 이쪽의 시로코에게 오해가 쌓일 수도 있고.",
+      "g_en": "I wouldn't want to get caught and incite a situation where people mistake me for this world's Shiroko, creating trouble for her and the Foreclosure Task Force.",
+      "g_th": "เพราะถ้าทำแบบนั้นก็จะทำให้ทางคณะกรรมการแผนงานตกที่นั่งลำบาก และถ้าถูกจับได้ก็จะยิ่งทำให้<br/>ชิโรโกะทางนี้ถูกเข้าใจผิดขึ้นไปอีก",
+      "g_tw": "因為這樣會造成對策委員會的困擾。<br/>而且要是被人發現，會害這個世界的白子被誤會。",
+      "g_tw_cn": "因为这样会造成对策委员会的困扰。<br/>而且要是被人发现，会害这个世界的白子被误会。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;01;대책위원회에 폐를 끼치게 되니까. 그리고 만약 들키기라도 한다면 이쪽의 시로코에게 오해가 쌓일 수도 있고.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 19,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もちろん、私は捕まるわけないけど。",
+      "j_ko": "뭐, 내가 들킬 일은 없지만.",
+      "g_ja": "もちろん、私は捕まるわけないけど。",
+      "g_ko": "뭐, 내가 들킬 일은 없지만.",
+      "g_en": "To clarify, I have not given anyone a reason to pursue me.",
+      "g_th": "ถึงฉันจะไม่มีวันถูกจับได้ก็เถอะ",
+      "g_tw": "雖然我根本不會被抓到就是了。",
+      "g_tw_cn": "虽然我根本不会被抓到就是了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;03;뭐, 내가 들킬 일은 없지만.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 20,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "これは、ちゃんと自分で稼いだお金。<br/>心配しないで、先生。",
+      "j_ko": "정당하게 일해서 번 돈이야. 그러니까 걱정하지 마. 선생님.",
+      "g_ja": "これは、ちゃんと自分で稼いだお金。<br/>心配しないで、先生。",
+      "g_ko": "정당하게 일해서 번 돈이야. 그러니까 걱정하지 마. 선생님.",
+      "g_en": "I've earned this money through legitimate means. Please do not worry, Sensei.",
+      "g_th": "นี่เป็นเงินที่ได้รับมาจากการทำงานที่ถูกต้องตามกฎหมาย เพราะงั้นไม่ต้องกังวลหรอกนะ คุณครู",
+      "g_tw": "這些是我靠正當勞動賺來的錢，所以你不用擔心，老師。",
+      "g_tw_cn": "这些是我靠正当劳动赚来的钱，所以你不用担心，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;03;정당하게 일해서 번 돈이야. 그러니까 걱정하지 마. 선생님.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"アルバイトでもしてるの？\"",
+      "j_ko": " \"아르바이트 같은 걸 하고 있는 거야?\"",
+      "g_ja": " \"アルバイトでもしてるの？\"",
+      "g_ko": " \"아르바이트 같은 걸 하고 있는 거야?\"",
+      "g_en": " \"Did you get a part-time job or something?\"",
+      "g_th": " \"ตอนนี้ทำงานพาร์ทไทม์อยู่เหรอ?\"",
+      "g_tw": "「你找了什麼打工之類的嗎？」",
+      "g_tw_cn": "「你找了什么打工之类的吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"아르바이트 같은 걸 하고 있는 거야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ん、大体そんな感じ。",
+      "j_ko": "비슷한 거야.",
+      "g_ja": "……ん、大体そんな感じ。",
+      "g_ko": "비슷한 거야.",
+      "g_en": "Along those lines.",
+      "g_th": "ก็คล้ายๆ กันน่ะ",
+      "g_tw": "類似吧。",
+      "g_tw_cn": "类似吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;02;비슷한 거야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "最近アビドスにも人が増えてきたおかげで、<br/>稼げるようになってきた。",
+      "j_ko": "최근 아비도스에 사람들이 많아지고 있어서 이런저런 현금을 벌 수 있는 일들이 많거든.",
+      "g_ja": "最近アビドスにも人が増えてきたおかげで、<br/>稼げるようになってきた。",
+      "g_ko": "최근 아비도스에 사람들이 많아지고 있어서 이런저런 현금을 벌 수 있는 일들이 많거든.",
+      "g_en": "With an increase of visitors coming to Abydos, comes an increase in opportunities to make money.",
+      "g_th": "เมื่อเร็วๆ นี้ จำนวนคนที่อยู่ในเขตอะบิดอสเพิ่มขึ้น ก็เลยพอหาเงินได้จากอะไรหลายๆ อย่างน่ะ",
+      "g_tw": "最近來往阿拜多斯的人越來越多，因此能賺錢的工作也跟著增加了。",
+      "g_tw_cn": "最近来往阿拜多斯的人越来越多，因此能赚钱的工作也跟着增加了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;01;최근 아비도스에 사람들이 많아지고 있어서 이런저런 현금을 벌 수 있는 일들이 많거든.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"良かったね。\"",
+      "j_ko": " \"그렇구나…….\"",
+      "g_ja": " \"良かったね。\"",
+      "g_ko": " \"그렇구나…….\"",
+      "g_en": " \"I see...\"",
+      "g_th": " \"อย่างนี้นี่เอง...\"",
+      "g_tw": "「原來如此……」",
+      "g_tw_cn": "「原来如此……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"그렇구나…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 28,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（シロコと買い物をしてから、商店街をあとにした）",
+      "j_ko": "적당히 쇼핑을 마치고, 계산을 끝내고 상점가 밖으로 나왔다.",
+      "g_ja": "（シロコと買い物をしてから、商店街をあとにした）",
+      "g_ko": "적당히 쇼핑을 마치고, 계산을 끝내고 상점가 밖으로 나왔다.",
+      "g_en": "We left the shopping district together after purchasing everything we needed.",
+      "g_th": "(หลังซื้อของและจ่ายเงินเรียบร้อยแล้ว ทั้งสองคนก็ออกมาจากย่านการค้า)",
+      "g_tw": "（稍微逛逛並買完東西之後，跟白子一起離開了商店街）",
+      "g_tw_cn": "（稍微逛逛并买完东西之后，跟白子一起离开了商店街）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;적당히 쇼핑을 마치고, 계산을 끝내고 상점가 밖으로 나왔다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 30,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3331277370
+    }
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 32,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "買い物、楽しかった……ありがとう。",
+      "j_ko": "기대하지 않았는데 선생님 덕분에 즐겁게 쇼핑했던 거 같아. 고마워, 선생님.",
+      "g_ja": "買い物、楽しかった……ありがとう。",
+      "g_ko": "기대하지 않았는데 선생님 덕분에 즐겁게 쇼핑했던 거 같아. 고마워, 선생님.",
+      "g_en": "This shopping experience was unexpectedly enjoyable, thanks to your presence, Sensei.",
+      "g_th": "ฉันไม่ได้คาดหวังอะไรแท้ๆ แต่เพราะมีคุณครูอยู่ก็เลยสนุกกับการซื้อของมากเลยละ ขอบคุณนะ คุณครู",
+      "g_tw": "其實我本來沒抱太大的期待，但多虧有老師在，我逛得很愉快。<br/>謝謝你，老師。",
+      "g_tw_cn": "其实我本来没抱太大的期待，但多亏有老师在，我逛得很愉快。<br/>谢谢你，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;00;기대하지 않았는데 선생님 덕분에 즐겁게 쇼핑했던 거 같아. 고마워, 선생님.\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 35,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あっ、荷物は私が持つよ。",
+      "j_ko": "그런데 쇼핑 봉투 무겁지 않아? 이제 내가 들 테니까, 줘.",
+      "g_ja": "あっ、荷物は私が持つよ。",
+      "g_ko": "그런데 쇼핑 봉투 무겁지 않아? 이제 내가 들 테니까, 줘.",
+      "g_en": "Your bag must be heavy. Allow me to carry it for you.",
+      "g_th": "ว่าแต่ว่าถุงใส่ของมันหนักหรือเปล่า? เดี๋ยวฉันถือให้เอง ส่งมาสิ",
+      "g_tw": "購物袋很重吧？來，交給我提。",
+      "g_tw_cn": "购物袋很重吧？来，交给我提。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;02;그런데 쇼핑 봉투 무겁지 않아? 이제 내가 들 테니까, 줘.\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 36,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"大丈夫、シロコも両手いっぱいでしょ？\"",
+      "j_ko": " \"아냐. 나눠 들면 편하잖아. 시로코도 두 손뿐인데.\"",
+      "g_ja": " \"大丈夫、シロコも両手いっぱいでしょ？\"",
+      "g_ko": " \"아냐. 나눠 들면 편하잖아. 시로코도 두 손뿐인데.\"",
+      "g_en": " \"No, it's easier if both of us carry one. You only have two hands, after all.\"",
+      "g_th": " \"ไม่หรอก แบ่งกันถือแบบนี้ดีกว่า ชิโรโกะก็มีแค่สองมือเองนี่นา\"",
+      "g_tw": "「沒關係，我們分工合作比較輕鬆。更何況你也只有兩隻手。」",
+      "g_tw_cn": "「没关系，我们分工合作比较轻松。更何况你也只有两只手。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"아냐. 나눠 들면 편하잖아. 시로코도 두 손뿐인데.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 37,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でも……。",
+      "j_ko": "응……. 그치만…….",
+      "g_ja": "でも……。",
+      "g_ko": "응……. 그치만…….",
+      "g_en": "Well, I suppose...",
+      "g_th": "อื้อ... แต่ว่า...",
+      "g_tw": "嗯……可是……",
+      "g_tw_cn": "嗯……可是……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;01;응……. 그치만…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 38,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"シロコの家まで運べば良い？\"",
+      "j_ko": " \"쇼핑도 했겠다, 이제 시로코가 지내는 곳으로 가면 되겠네.\"",
+      "g_ja": " \"シロコの家まで運べば良い？\"",
+      "g_ko": " \"쇼핑도 했겠다, 이제 시로코가 지내는 곳으로 가면 되겠네.\"",
+      "g_en": " \"Since we're all done, why don't we head over to wherever you're staying?\"",
+      "g_th": " \"ช็อปปิ้งเสร็จแล้ว ตอนนี้ก็ไปที่ที่ชิโรโกะพักอยู่ได้แล้วสินะ\"",
+      "g_tw": "「既然東西都買完了，我們現在該回你住的地方了吧？」",
+      "g_tw_cn": "「既然东西都买完了，我们现在该回你住的地方了吧？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"쇼핑도 했겠다, 이제 시로코가 지내는 곳으로 가면 되겠네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 39,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私の、家……？",
+      "j_ko": "응? 지내고 있는 곳으로……?",
+      "g_ja": "私の、家……？",
+      "g_ko": "응? 지내고 있는 곳으로……?",
+      "g_en": "Where...I'm staying?",
+      "g_th": "หืม? ไปที่ที่ฉันพักอยู่...?",
+      "g_tw": "嗯？我住的地方……？",
+      "g_tw_cn": "嗯？我住的地方……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;02;응? 지내고 있는 곳으로……?\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 40,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……そ、それは。",
+      "j_ko": "으음……. 그치만…… 그건……. ",
+      "g_ja": "……そ、それは。",
+      "g_ko": "으음……. 그치만…… 그건……. ",
+      "g_en": "But...um...well... ",
+      "g_th": "อะ...อืม แต่ว่า... เรื่องนั้น... ",
+      "g_tw": "唔……可是……那個……",
+      "g_tw_cn": "唔……可是……那个……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;04;으음……. 그치만…… 그건……. \\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "散らかってるから、ちょっと……。",
+      "j_ko": "치우지도 않았고……. 게다가 이것저것 조금 정리도 안되어서…….",
+      "g_ja": "散らかってるから、ちょっと……。",
+      "g_ko": "치우지도 않았고……. 게다가 이것저것 조금 정리도 안되어서…….",
+      "g_en": "I've been neglecting cleaning...so it's a bit messy...",
+      "g_th": "ฉันยังไม่ได้เก็บกวาดเลย... แถมยังมีอะไรหลายๆ อย่างที่ไม่ได้จัดให้เป็นระเบียบด้วย...",
+      "g_tw": "我的東西都沒有整理……所以那裡現在有點亂……",
+      "g_tw_cn": "我的东西都没有整理……所以那里现在有点乱……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;06;치우지도 않았고……. 게다가 이것저것 조금 정리도 안되어서…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"どんな風に暮らしてるのか気になったんだけど……。\"",
+      "j_ko": " \"괜찮아. 시로코가 어떻게 지내는지 눈으로 확인하고 싶어서 그래.\"",
+      "g_ja": " \"どんな風に暮らしてるのか気になったんだけど……。\"",
+      "g_ko": " \"괜찮아. 시로코가 어떻게 지내는지 눈으로 확인하고 싶어서 그래.\"",
+      "g_en": " \"That doesn't matter. I just want to make sure you're doing well, Shiroko.\"",
+      "g_th": " \"ไม่เป็นไร ครูแค่อยากไปดูความเป็นอยู่ของชิโรโกะน่ะ\"",
+      "g_tw": "「沒關係，我只是想親眼看看你平常的生活。」",
+      "g_tw_cn": "「没关系，我只是想亲眼看看你平常的生活。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"괜찮아. 시로코가 어떻게 지내는지 눈으로 확인하고 싶어서 그래.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ん、分かった。",
+      "j_ko": "으응. 알았어.",
+      "g_ja": "……ん、分かった。",
+      "g_ko": "으응. 알았어.",
+      "g_en": "Oh... I see.",
+      "g_th": "อื้อ เข้าใจแล้ว...",
+      "g_tw": "嗯，我知道了。",
+      "g_tw_cn": "嗯，我知道了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;99;으응. 알았어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "家庭訪問みたいなものだよね。",
+      "j_ko": "가정 방문 같은 거구나. 이해했어.",
+      "g_ja": "家庭訪問みたいなものだよね。",
+      "g_ko": "가정 방문 같은 거구나. 이해했어.",
+      "g_en": "A home visit, of sorts. Understood.",
+      "g_th": "เหมือนกับการไปเยี่ยมบ้านสินะ เข้าใจแล้วละ",
+      "g_tw": "就像是家庭訪問一樣對吧。",
+      "g_tw_cn": "就像是家庭访问一样对吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;04;가정 방문 같은 거구나. 이해했어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 50,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 50,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_10a"
+    }
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こっち、先生。",
+      "j_ko": "그럼 따라와. 이쪽이야. 선생님.",
+      "g_ja": "こっち、先生。",
+      "g_ko": "그럼 따라와. 이쪽이야. 선생님.",
+      "g_en": "Follow me this way, then, Sensei.",
+      "g_th": "งั้นตามมาทางนี้สิ คุณครู",
+      "g_tw": "往這邊。跟我來，老師。",
+      "g_tw_cn": "往这边。跟我来，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;02;그럼 따라와. 이쪽이야. 선생님.\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 54,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_10"
+    }
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " シロコに付いていく。",
+      "j_ko": " 시로코를 따라간다.",
+      "g_ja": " シロコに付いていく。",
+      "g_ko": " 시로코를 따라간다.",
+      "g_en": " Follow Shiroko.",
+      "g_th": " เดินตามชิโรโกะไป",
+      "g_tw": " 跟著白子走",
+      "g_tw_cn": " 跟著白子走",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] 시로코를 따라간다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 57,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 58,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 59,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 60,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 40551882
+    }
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "廃ビルの入口",
+      "j_ko": "버려진 빌딩 입구",
+      "g_ja": "廃ビルの入口",
+      "g_ko": "버려진 빌딩 입구",
+      "g_en": "Abandoned Building Entrance",
+      "g_th": "ทางเข้าแยกที่ถูกทิ้งร้าง",
+      "g_tw": "廢棄大樓入口",
+      "g_tw_cn": "废弃大楼入口",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "place",
+    "Script": "#place;버려진 빌딩 입구",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 63,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 16
+    }
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 63,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ん。",
+      "j_ko": "이쪽이야.",
+      "g_ja": "ん。",
+      "g_ko": "응.",
+      "g_en": "Yes.",
+      "g_th": "อื้อ",
+      "g_tw": "嗯。",
+      "g_tw_cn": "嗯。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;99;응.",
+    "BGMId": 16,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 64,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"廃墟だよね……？\"",
+      "j_ko": " \"버려진 폐허…….\"",
+      "g_ja": " \"廃墟だよね……？\"",
+      "g_ko": " \"버려진 폐허…….\"",
+      "g_en": " \"Abandoned ruins...?\"",
+      "g_th": " \"อาคารร้าง...\"",
+      "g_tw": "「這座廢墟是……」",
+      "g_tw_cn": "「这座废墟是……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"버려진 폐허…….\"\\n[s4] \"여기서 지내고 있는 거야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 64,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ここに住んでるの……？\"",
+      "j_ko": " \"여기서 지내고 있는 거야?\"",
+      "g_ja": " \"ここに住んでるの……？\"",
+      "g_ko": " \"여기서 지내고 있는 거야?\"",
+      "g_en": " \"This is where you've been staying?\"",
+      "g_th": " \"ชิโรโกะอยู่ที่นี่เหรอ?\"",
+      "g_tw": "「你住在這裡嗎？」",
+      "g_tw_cn": "「你住在这里吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"버려진 폐허…….\"\\n[s4] \"여기서 지내고 있는 거야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ううん、近道だよ。",
+      "j_ko": "응? 아니. 여기는 지름길이야.",
+      "g_ja": "ううん、近道だよ。",
+      "g_ko": "응? 아니. 여기는 지름길이야.",
+      "g_en": "Hm? No. This is a shortcut.",
+      "g_th": "หืม? เปล่าหรอก นี่เป็นทางลัดน่ะ",
+      "g_tw": "嗯？沒有，我只是想抄捷徑而已。",
+      "g_tw_cn": "嗯？没有，我只是想抄捷径而已。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;02;응? 아니. 여기는 지름길이야.\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "この廃墟を通り抜ければ、時間が短縮できる。",
+      "j_ko": "저쪽 반대쪽으로 나가면 더 빨리 갈 수 있거든.",
+      "g_ja": "この廃墟を通り抜ければ、時間が短縮できる。",
+      "g_ko": "저쪽 반대쪽으로 나가면 더 빨리 갈 수 있거든.",
+      "g_en": "We'll get there faster this way.",
+      "g_th": "ถ้าเดินเลยเข้าไปทางด้านโน้นก็จะไปถึงได้เร็วขึ้น",
+      "g_tw": "從這裡穿過去會比較快。",
+      "g_tw_cn": "从这里穿过去会比较快。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;01;저쪽 반대쪽으로 나가면 더 빨리 갈 수 있거든.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……なるほど。\"",
+      "j_ko": " \"아아…… 응.\"",
+      "g_ja": " \"……なるほど。\"",
+      "g_ko": " \"아아…… 응.\"",
+      "g_en": " \"Ah...okay.\"",
+      "g_th": " \"อ้อ... อื้ม\"",
+      "g_tw": "「啊啊……原來如此。」",
+      "g_tw_cn": "「啊啊……原来如此。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"아아…… 응.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まだ、もう少し歩くよ。",
+      "j_ko": "아직 조금 더 가야 해.",
+      "g_ja": "まだ、もう少し歩くよ。",
+      "g_ko": "아직 조금 더 가야 해.",
+      "g_en": "A little further.",
+      "g_th": "ยังต้องไปต่ออีกนิดหน่อย",
+      "g_tw": "還要再走一下子。",
+      "g_tw_cn": "还要再走一下子。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;02;아직 조금 더 가야 해.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 71,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4241418954
+    }
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 73,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 74,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "狭いから気を付けて。",
+      "j_ko": "머리 조심해, 선생님. ",
+      "g_ja": "狭いから気を付けて。",
+      "g_ko": "머리 조심해, 선생님. ",
+      "g_en": "Watch your head, Sensei. ",
+      "g_th": "ระวังหัวด้วยนะ คุณครู ",
+      "g_tw": "小心撞到頭哦，老師。",
+      "g_tw_cn": "小心撞到头哦，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "2;시로코 테러 무소속;01;머리 조심해, 선생님. \\n#2;em;[반응]\\n#2;a",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……まさか、ここで暮らしてるの？\"",
+      "j_ko": " \"설마…… 시로코, 골판지나 텐트로 된 집에서 사는 거야?\"",
+      "g_ja": " \"……まさか、ここで暮らしてるの？\"",
+      "g_ko": " \"설마…… 시로코, 골판지나 텐트로 된 집에서 사는 거야?\"",
+      "g_en": " \"Shiroko... You're not living in a tent or a cardboard house, are you?\"",
+      "g_th": " \"ชิโรโกะ... เธออยู่ในบ้านที่ทำจากกระดาษหรือเต้นท์เหรอ?\"",
+      "g_tw": "「白子……你該不會住在瓦楞紙堆或帳篷裡吧？」",
+      "g_tw_cn": "「白子……你该不会住在瓦楞纸堆或帐篷里吧？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"설마…… 시로코, 골판지나 텐트로 된 집에서 사는 거야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 77,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ここは前の仮住まい。<br/>今はもっとちゃんとした所に住んでるよ。",
+      "j_ko": "응? 아니, 그렇지는 않아. 제대로 된 집이야. 며칠 정도는 그렇게 지내기는 했지만…….",
+      "g_ja": "ここは前の仮住まい。<br/>今はもっとちゃんとした所に住んでるよ。",
+      "g_ko": "응? 아니, 그렇지는 않아. 제대로 된 집이야. 며칠 정도는 그렇게 지내기는 했지만…….",
+      "g_en": "No, not anymore. In the beginning, I did, but I now inhabit a proper house.",
+      "g_th": "หืม? เปล่า ไม่ใช่แบบนั้นหรอก ที่ฉันอยู่ตอนนี้เป็นบ้านจริงๆ ถึงจะเคยอยู่แบบนั้นมาสักสองสามวัน<br/>ก็เถอะ...",
+      "g_tw": "嗯？沒有，我住在正常的房子裡。<br/>雖然之前的確有幾天是住在那種地方……",
+      "g_tw_cn": "嗯？没有，我住在正常的房子里。<br/>虽然之前的确有几天是住在那种地方……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "2;시로코 테러 무소속;02;응? 아니, 그렇지는 않아. 제대로 된 집이야. 며칠 정도는 그렇게 지내기는 했지만…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 78,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ま、前の家！？\"",
+      "j_ko": " \"지내기는 했구나!\"",
+      "g_ja": " \"ま、前の家！？\"",
+      "g_ko": " \"지내기는 했구나!\"",
+      "g_en": " \"You were living in a tent?!\"",
+      "g_th": " \"เคยอยู่แบบนั้นด้วยเรอะ!\"",
+      "g_tw": "「我就知道！」",
+      "g_tw_cn": "「我就知道！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"지내기는 했구나!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 79,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……い、行こうか。",
+      "j_ko": "으음……. 이쪽이야. ",
+      "g_ja": "……い、行こうか。",
+      "g_ko": "으음……. 이쪽이야. ",
+      "g_en": "Um... This way. ",
+      "g_th": "อืม... ทางนี้ ",
+      "g_tw": "唔嗯……這邊。",
+      "g_tw_cn": "唔嗯……这边。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "2;시로코 테러 무소속;04;으음……. 이쪽이야. \\n#2;em;[땀]\\n#2;m1",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 80,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3566524307
+    }
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 82,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "砂に埋もれた住宅街",
+      "j_ko": "모래에 파묻힌 주택가",
+      "g_ja": "砂に埋もれた住宅街",
+      "g_ko": "모래에 파묻힌 주택가",
+      "g_en": "Neighborhood Buried in Sand",
+      "g_th": "บ้านเดี่ยวที่ถูกทรายฝัง",
+      "g_tw": "被沙子掩埋的住宅區",
+      "g_tw_cn": "被沙子掩埋的住宅区",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "place",
+    "Script": "#place;모래에 파묻힌 주택가",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 83,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Wind_01"
+    }
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 84,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SandFootStep_01"
+    }
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 85,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SandFootStep_02"
+    }
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 86,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"捨てられた住宅街……。\"",
+      "j_ko": " \"버려진 주택가…….\" ",
+      "g_ja": " \"捨てられた住宅街……。\"",
+      "g_ko": " \"버려진 주택가…….\" ",
+      "g_en": " \"An abandoned neighborhood...\" ",
+      "g_th": " \"บ้านเดี่ยวที่ถูกทิ้งร้าง...\" ",
+      "g_tw": "「廢棄的住宅區……」",
+      "g_tw_cn": "「废弃的住宅区……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns5] \"버려진 주택가…….\" \\n[ns6] \"그렇구나. 이런 곳에는 빈집이 많으니까.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 86,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"そっか、どこも空き家になってるから……。\"",
+      "j_ko": " \"그렇구나. 이런 곳에는 빈집이 많으니까.\"",
+      "g_ja": " \"そっか、どこも空き家になってるから……。\"",
+      "g_ko": " \"그렇구나. 이런 곳에는 빈집이 많으니까.\"",
+      "g_en": " \"There are a lot of vacant homes in these areas...\"",
+      "g_th": " \"อย่างนี้นี่เอง ที่นี่มีบ้านร้างอยู่เยอะเลยนี่เนอะ\"",
+      "g_tw": "「原來如此，這種地方的確有很多空屋。」",
+      "g_tw_cn": "「原来如此，这种地方的确有很多空屋。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns5] \"버려진 주택가…….\" \\n[ns6] \"그렇구나. 이런 곳에는 빈집이 많으니까.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 89,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ん、有効利用。",
+      "j_ko": "응. 버려진 주택 같은 건 아비도스에 진짜 많으니까.",
+      "g_ja": "ん、有効利用。",
+      "g_ko": "응. 버려진 주택 같은 건 아비도스에 진짜 많으니까.",
+      "g_en": "Yes. There are many unoccupied homes in Abydos.",
+      "g_th": "อื้อ บ้านที่ถูกปล่อยทิ้งร้างแบบบ้านหลังนี้มีอยู่เยอะมากในอะบิดอส",
+      "g_tw": "嗯，阿拜多斯本來就有很多這種廢棄的房屋。",
+      "g_tw_cn": "嗯，阿拜多斯本来就有很多这种废弃的房屋。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;02;응. 버려진 주택 같은 건 아비도스에 진짜 많으니까.\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 90,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 7,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"大変じゃない？\"",
+      "j_ko": " \"힘들지 않아?\" ",
+      "g_ja": " \"大変じゃない？\"",
+      "g_ko": " \"힘들지 않아?\" ",
+      "g_en": " \"Isn't it difficult to live like this?\" ",
+      "g_th": " \"ไม่ลำบากเหรอ?\" ",
+      "g_tw": "「住在這裡不會很不方便嗎？」",
+      "g_tw_cn": "「住在这里不会很不方便吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"힘들지 않아?\" \\n[s8] \"전기도 없고, 수도도 화장실도 없을 텐데…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 90,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 8,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"電気とか水道とか通ってないと思うけど……。\"",
+      "j_ko": " \"전기도 없고, 수도도 화장실도 없을 텐데…….\"",
+      "g_ja": " \"電気とか水道とか通ってないと思うけど……。\"",
+      "g_ko": " \"전기도 없고, 수도도 화장실도 없을 텐데…….\"",
+      "g_en": " \"If you have no electricity, running water, or plumbing...\"",
+      "g_th": " \"คงไม่มีทั้งไฟฟ้า น้ำประปาและห้องน้ำ...\"",
+      "g_tw": "「除了沒水沒電以外，這裡應該也沒有廁所吧……」",
+      "g_tw_cn": "「除了没水没电以外，这里应该也没有厕所吧……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] \"힘들지 않아?\" \\n[s8] \"전기도 없고, 수도도 화장실도 없을 텐데…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 93,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ん？<br/>たしかに、この家は不便だね。",
+      "j_ko": "응? 그거야…… 이런 데서 살면 그렇겠지?",
+      "g_ja": "ん？<br/>たしかに、この家は不便だね。",
+      "g_ko": "응? 그거야…… 이런 데서 살면 그렇겠지?",
+      "g_en": "Hm? I suppose that would be difficult for someone.",
+      "g_th": "หืม? เรื่องนั้น.... ถ้าอยู่ในที่แบบนี้ก็ต้องไม่มีอยู่แล้วสิ",
+      "g_tw": "嗯？如果住在這種地方的話……應該是吧。",
+      "g_tw_cn": "嗯？如果住在这种地方的话……应该是吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;01;응? 그거야…… 이런 데서 살면 그렇겠지?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 94,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……うん？\"",
+      "j_ko": " \"……??\"",
+      "g_ja": " \"……うん？\"",
+      "g_ko": " \"……??\"",
+      "g_en": " \"...?\"",
+      "g_th": " \"......??\"",
+      "g_tw": "「……？？」",
+      "g_tw_cn": "「……？？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"……??\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 95,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、私が住んでるところはまだ先。",
+      "j_ko": "아아. 여기도 아냐, 선생님…….",
+      "g_ja": "あ、私が住んでるところはまだ先。",
+      "g_ko": "아아. 여기도 아냐, 선생님…….",
+      "g_en": "Oh. This isn't it either, Sensei.",
+      "g_th": "อ้อ ไม่ใช่ที่นี่หรอก คุณครู",
+      "g_tw": "啊啊，這裡也不是我住的地方，老師……",
+      "g_tw_cn": "啊啊，这里也不是我住的地方，老师……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;99;아아. 여기도 아냐, 선생님…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 96,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ごめん、説明が足りなかった。",
+      "j_ko": "말한 대로 여기는 머무르기에 거주 환경이 좋지 않으니까. 조금 더 가야 해.",
+      "g_ja": "ごめん、説明が足りなかった。",
+      "g_ko": "말한 대로 여기는 머무르기에 거주 환경이 좋지 않으니까. 조금 더 가야 해.",
+      "g_en": "As you said, it'd be rather uncomfortable to live in this abandoned neighborhood. My home is further ahead.",
+      "g_th": "อย่างที่พูดนั่นแหละว่าที่นี่ไม่เหมาะที่จะอยู่อาศัยน่ะ เพราะงั้นต้องไปต่ออีกหน่อย",
+      "g_tw": "畢竟就像你剛才說的一樣，這裡的環境並不適合久住。<br/>還要再走一小段路。",
+      "g_tw_cn": "毕竟就像你刚才说的一样，这里的环境并不适合久住。<br/>还要再走一小段路。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;02;말한 대로 여기는 머무르기에 거주 환경이 좋지 않으니까. 조금 더 가야 해.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 99,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_SandFootStep_01"
+    }
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 101,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……。\"",
+      "j_ko": " \"………….\"",
+      "g_ja": " \"……。\"",
+      "g_ko": " \"………….\"",
+      "g_en": " \"...\"",
+      "g_th": " \"......\"",
+      "g_tw": "「…………」",
+      "g_tw_cn": "「…………」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"………….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 102,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3941116427
+    }
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 102,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 103,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 104,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 105,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "到着、ここだよ。",
+      "j_ko": "다 왔어. 여기야.",
+      "g_ja": "到着、ここだよ。",
+      "g_ko": "다 왔어. 여기야.",
+      "g_en": "We're here.",
+      "g_th": "มาถึงแล้ว ที่นี่ละ",
+      "g_tw": "到了，就是這裡。",
+      "g_tw_cn": "到了，就是这里。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;02;다 왔어. 여기야.\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 108,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_DoorOpen_02"
+    }
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 109,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "入って。",
+      "j_ko": "들어와. 선생님.",
+      "g_ja": "入って。",
+      "g_ko": "들어와. 선생님.",
+      "g_en": "Come inside, Sensei.",
+      "g_th": "เข้ามาสิ คุณครู",
+      "g_tw": "進來吧。老師。",
+      "g_tw_cn": "进来吧。老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;02;들어와. 선생님.\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 112,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_10"
+    }
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 113,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 114,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 115,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_DoorOpen_01"
+    }
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 117,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1618548366
+    }
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 117,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 210
+    }
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 117,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Fade_02"
+    }
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 118,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3449369851
+    }
+  },
+  {
+    "ActualPos": 96,
+    "AbsolutePos": 120,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 97,
+    "AbsolutePos": 121,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ここが、私の部屋。",
+      "j_ko": "여기가 지금 내 방이야.",
+      "g_ja": "ここが、私の部屋。",
+      "g_ko": "여기가 지금 내 방이야.",
+      "g_en": "This is my room.",
+      "g_th": "ที่นี่คือห้องของฉันในตอนนี้",
+      "g_tw": "這裡就是我現在住的地方。",
+      "g_tw_cn": "这里就是我现在住的地方。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;02;여기가 지금 내 방이야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 98,
+    "AbsolutePos": 122,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "何日か掃除できてないから、散らかってるけど。",
+      "j_ko": "며칠간 치우지 못해서, 조금 어지러울 거야. 미안.",
+      "g_ja": "何日か掃除できてないから、散らかってるけど。",
+      "g_ko": "며칠간 치우지 못해서, 조금 어지러울 거야. 미안.",
+      "g_en": "I apologize for the mess. I've been unable to clean the last several days.",
+      "g_th": "ฉันไม่ได้ทำความสะอาดมาหลายวัน มันเลยจะรกนิดหน่อยนะ ขอโทษด้วย",
+      "g_tw": "不過最近這幾天都沒整理，所以可能會有點亂，抱歉。",
+      "g_tw_cn": "不过最近这几天都没整理，所以可能会有点乱，抱歉。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;99;며칠간 치우지 못해서, 조금 어지러울 거야. 미안.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 99,
+    "AbsolutePos": 126,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 9,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ここがシロコの部屋なんだね。\"",
+      "j_ko": " \"여기라고?\"",
+      "g_ja": " \"ここがシロコの部屋なんだね。\"",
+      "g_ko": " \"여기라고?\"",
+      "g_en": " \"This is it?\"",
+      "g_th": " \"ที่นี่งั้นเหรอ?\"",
+      "g_tw": "「你住在這裡？」",
+      "g_tw_cn": "「你住在这里？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns9] \"여기라고?\"\\n[ns10] \"평범하네!?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 100,
+    "AbsolutePos": 126,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 10,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"普通の生活をしてるんだね。\"",
+      "j_ko": " \"평범하네!?\"",
+      "g_ja": " \"普通の生活をしてるんだね。\"",
+      "g_ko": " \"평범하네!?\"",
+      "g_en": " \"It looks so ordinary!\"",
+      "g_th": " \"ดูปกติธรรมดาสุดๆ!?\"",
+      "g_tw": "「看起來超級普通！？」",
+      "g_tw_cn": "「看起来超级普通！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns9] \"여기라고?\"\\n[ns10] \"평범하네!?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 101,
+    "AbsolutePos": 129,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "普通……そうかも？",
+      "j_ko": "응. 평범하지……? 그야, 집이니까……?",
+      "g_ja": "普通……そうかも？",
+      "g_ko": "응. 평범하지……? 그야, 집이니까……?",
+      "g_en": "Houses...are rather ordinary...",
+      "g_th": "อื้อ ก็ปกติน่ะสิ...? ก็มันเป็นบ้านนี่นา...?",
+      "g_tw": "嗯，很普通對吧……？<br/>畢竟就是一般的房子……",
+      "g_tw_cn": "嗯，很普通对吧……？<br/>毕竟就是一般的房子……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;01;응. 평범하지……? 그야, 집이니까……?\\n#4;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 102,
+    "AbsolutePos": 130,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"買ってきた物は、どこに置けば良い？\"",
+      "j_ko": " \"아니, 그렇긴 한데…… 그렇구나…….\"",
+      "g_ja": " \"買ってきた物は、どこに置けば良い？\"",
+      "g_ko": " \"아니, 그렇긴 한데…… 그렇구나…….\"",
+      "g_en": " \"Well, that's true, but... I see...\"",
+      "g_th": " \"มันก็ใช่แหละ... อย่างนี้เองสินะ\"",
+      "g_tw": "「是沒錯啦……原來如此……」",
+      "g_tw_cn": "「是没错啦……原来如此……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"아니, 그렇긴 한데…… 그렇구나…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 103,
+    "AbsolutePos": 131,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 104,
+    "AbsolutePos": 131,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、牛乳は冷蔵庫で……洗剤はあっちの棚に……。",
+      "j_ko": "물건들은 저쪽 냉장고에 넣어줄래? 세제는 저쪽 세탁기 선반에 두면 돼. 그리고…….",
+      "g_ja": "あ、牛乳は冷蔵庫で……洗剤はあっちの棚に……。",
+      "g_ko": "물건들은 저쪽 냉장고에 넣어줄래? 세제는 저쪽 세탁기 선반에 두면 돼. 그리고…….",
+      "g_en": "Would you please place the groceries in the refrigerator? And there is a shelf above the washing machine for the detergent. And—",
+      "g_th": "ช่วยเอาของไปเก็บไว้ในตู้เย็นให้หน่อยได้มั้ย? ส่วนผงซักฟอกวางไว้บนชั้นตรงเครื่องซักผ้านั่นก็ได้ แล้วก็...",
+      "g_tw": "可以幫我把東西放到冰箱裡嗎？<br/>洗衣精的話放在那邊的架子上就行了，然後……",
+      "g_tw_cn": "可以帮我把东西放到冰箱里吗？<br/>洗衣精的话放在那边的架子上就行了，然后……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;00;물건들은 저쪽 냉장고에 넣어줄래? 세제는 저쪽 세탁기 선반에 두면 돼. 그리고…….\\n#4;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 105,
+    "AbsolutePos": 132,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 11,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"電気が通ってるんだね！\"",
+      "j_ko": " \"전기가 있군요?!\"",
+      "g_ja": " \"電気が通ってるんだね！\"",
+      "g_ko": " \"전기가 있군요?!\"",
+      "g_en": " \"You have electricity?!\"",
+      "g_th": " \"มีไฟฟ้าใช้ด้วยสินะ?!\"",
+      "g_tw": "「這種地方竟然有電！？」",
+      "g_tw_cn": "「这种地方竟然有电！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s11] \"전기가 있군요?!\"\\n[s12] \"수도도 있고요?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 106,
+    "AbsolutePos": 132,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 12,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"水道も使えるんだ！\"",
+      "j_ko": " \"수도도 있고요?!\"",
+      "g_ja": " \"水道も使えるんだ！\"",
+      "g_ko": " \"수도도 있고요?!\"",
+      "g_en": " \"And plumbing?!\"",
+      "g_th": " \"น้ำประปาไหลด้วยสินะ?!\"",
+      "g_tw": "「而且連水都有！？」",
+      "g_tw_cn": "「而且连水都有！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s11] \"전기가 있군요?!\"\\n[s12] \"수도도 있고요?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 107,
+    "AbsolutePos": 135,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "暑いし、クーラー点けるね。",
+      "j_ko": "아, 더우면 에어컨 켤게. 기다려.",
+      "g_ja": "暑いし、クーラー点けるね。",
+      "g_ko": "아, 더우면 에어컨 켤게. 기다려.",
+      "g_en": "Ah, it must be hot. I will turn on the air conditioner, just a moment.",
+      "g_th": "อ้อ ถ้าร้อนเดี๋ยวเปิดแอร์ให้ รอแป๊บหนึ่งนะ",
+      "g_tw": "啊，如果會熱的話，我幫你開個冷氣。你等我一下。",
+      "g_tw_cn": "啊，如果会热的话，我帮你开个冷气。你等我一下。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;02;아, 더우면 에어컨 켤게. 기다려.\\n#4;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 108,
+    "AbsolutePos": 138,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Confirm_01"
+    }
+  },
+  {
+    "ActualPos": 109,
+    "AbsolutePos": 139,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Work_01"
+    }
+  },
+  {
+    "ActualPos": 110,
+    "AbsolutePos": 140,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"クーラーまで……！？\"",
+      "j_ko": " \"에어컨까지……?!\"",
+      "g_ja": " \"クーラーまで……！？\"",
+      "g_ko": " \"에어컨까지……?!\"",
+      "g_en": " \"You even have air conditioning...?!\"",
+      "g_th": " \"มีแอร์ด้วย...?!\"",
+      "g_tw": "「甚至還有冷氣……！？」",
+      "g_tw_cn": "「甚至还有冷气……！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"에어컨까지……?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 111,
+    "AbsolutePos": 141,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……どこか変？",
+      "j_ko": "으응……. 뭘 기대한 건지 모르겠지만……. ",
+      "g_ja": "……どこか変？",
+      "g_ko": "으응……. 뭘 기대한 건지 모르겠지만……. ",
+      "g_en": "Yes. Were you not expecting me to have these kinds of basic necessities? ",
+      "g_th": "อื้อ... ฉันไม่รู้ว่ากำลังคาดหวังอะไรหรอกนะ... ",
+      "g_tw": "唔嗯……雖然我不知道老師期待的是什麼樣的景象……",
+      "g_tw_cn": "唔嗯……虽然我不知道老师期待的是什么样的景象……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;02;으응……. 뭘 기대한 건지 모르겠지만……. \\n#4;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 112,
+    "AbsolutePos": 142,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ううん、しっかりしてて安心したよ！\"",
+      "j_ko": " \"아뇨, 이런 걸 기대했습니다! 다행이에요! 선생님은 기쁩니다!\"",
+      "g_ja": " \"ううん、しっかりしてて安心したよ！\"",
+      "g_ko": " \"아뇨, 이런 걸 기대했습니다! 다행이에요! 선생님은 기쁩니다!\"",
+      "g_en": " \"No, no. This is exactly what I hoped for! I'm thrilled!\"",
+      "g_th": " \"เปล่าๆ ครูคาดหวังเรื่องพวกนี้ละ โล่งอกจนน้ำตาจะไหลเลย!\"",
+      "g_tw": "「不不不，這就是我想看到的！太好了！老師我很感動！」",
+      "g_tw_cn": "「不不不，这就是我想看到的！太好了！老师我很感动！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"아뇨, 이런 걸 기대했습니다! 다행이에요! 선생님은 기쁩니다!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 113,
+    "AbsolutePos": 143,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "元々は、電気も水道も通ってなかったけど……。",
+      "j_ko": "응. 원래 이쪽 지역도 전기와 수도는 들어오지 않지만…… 전기 정도는 어떻게든 구할 방법은 많아.",
+      "g_ja": "元々は、電気も水道も通ってなかったけど……。",
+      "g_ko": "응. 원래 이쪽 지역도 전기와 수도는 들어오지 않지만…… 전기 정도는 어떻게든 구할 방법은 많아.",
+      "g_en": "Electricity and water doesn't normally run to these areas, but it was an easy remedy.",
+      "g_th": "อื้อ ตอนแรกที่บริเวณนี้ไม่มีน้ำหรือไฟฟ้าหรอกแต่ว่า... วิธีหาไฟฟ้าใช้มันก็มีอยู่หลายวิธี",
+      "g_tw": "嗯，其實這一區本來是沒水沒電的……但是電力這種東西並不難取得。",
+      "g_tw_cn": "嗯，其实这一区本来是没水没电的……但是电力这种东西并不难取得。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;99;응. 원래 이쪽 지역도 전기와 수도는 들어오지 않지만…… 전기 정도는 어떻게든 구할 방법은 많아.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 114,
+    "AbsolutePos": 144,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "昔の生徒会が設置した太陽光発電が近くにあったから、<br/>それを借りてる。",
+      "j_ko": "학생회가 설치해 둔 태양열 지역 발전소가 근처에 있어서 배전을 연결해 두었고, 비상용 발전기도 있어.",
+      "g_ja": "昔の生徒会が設置した太陽光発電が近くにあったから、<br/>それを借りてる。",
+      "g_ko": "학생회가 설치해 둔 태양열 지역 발전소가 근처에 있어서 배전을 연결해 두었고, 비상용 발전기도 있어.",
+      "g_en": "The student council established a solar power station nearby, so I wired this building up to it. I've set up emergency generators as well.",
+      "g_th": "ใกล้ๆ แถวนี้มีโรงไฟฟ้าพลังงานแสงอาทิตย์ที่สภานักเรียนสร้างเอาไว้ ฉันเลยเชื่อมต่อระบบจ่ายไฟ<br/>จากที่นั่นมา แล้วก็มีเครื่องปั่นไฟฉุกเฉินด้วย",
+      "g_tw": "以前學生會設立的太陽能區域發電廠就在這附近，<br/>所以這間房子本來就有拉電線，甚至還有備用的發電機。",
+      "g_tw_cn": "以前学生会设立的太阳能区域发电厂就在这附近，<br/>所以这间房子本来就有拉电线，甚至还有备用的发电机。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;01;학생회가 설치해 둔 태양열 지역 발전소가 근처에 있어서 배전을 연결해 두었고, 비상용 발전기도 있어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 115,
+    "AbsolutePos": 145,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "非常時のために、自転車で発電する仕組みもあるよ。<br/>燃料を使って発電もできる。",
+      "j_ko": "경유로 돌리는 거랑, 이건 휘발유, 그리고 이건 내가 개조한 건데, 자전거 패달을 돌리면 전기가 만들어지는 거.",
+      "g_ja": "非常時のために、自転車で発電する仕組みもあるよ。<br/>燃料を使って発電もできる。",
+      "g_ko": "경유로 돌리는 거랑, 이건 휘발유, 그리고 이건 내가 개조한 건데, 자전거 패달을 돌리면 전기가 만들어지는 거.",
+      "g_en": "One diesel, and one gasoline. I've modified a third one to generate electricity with bicycle pedals, for true emergencies.",
+      "g_th": "มีแบบที่ใช้น้ำมันดีเซลกับอีกอันหนึ่งที่ใช้น้ำมันเบนซิน และส่วนอันนี้คืออันที่ฉันดัดแปลงเอง... มันจะผลิตไฟฟ้าให้เมื่อปั่นจักรยานน่ะ",
+      "g_tw": "除了使用柴油和汽油的發電機以外，<br/>還有這台我自己改造的，只要踩踏板就能發電的發電機。",
+      "g_tw_cn": "除了使用柴油和汽油的发电机以外，<br/>还有这台我自己改造的，只要踩踏板就能发电的发电机。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;02;경유로 돌리는 거랑, 이건 휘발유, 그리고 이건 내가 개조한 건데, 자전거 패달을 돌리면 전기가 만들어지는 거.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 116,
+    "AbsolutePos": 146,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"す、すごい……。\"",
+      "j_ko": " \"그렇구나?!\"",
+      "g_ja": " \"す、すごい……。\"",
+      "g_ko": " \"그렇구나?!\"",
+      "g_en": " \"I-I see!\"",
+      "g_th": " \"งั้นเหรอ?!\"",
+      "g_tw": "「原來如此！？」",
+      "g_tw_cn": "「原来如此！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그렇구나?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 117,
+    "AbsolutePos": 147,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "上水は通ってないけど、タンクが数十個あるから大丈夫。",
+      "j_ko": "그리고 상수도는 아니지만, 물탱크를 수십 개 연결해 두어서 몇 달 정도는 비가 오지 않아도 단수될 일은 없어. ",
+      "g_ja": "上水は通ってないけど、タンクが数十個あるから大丈夫。",
+      "g_ko": "그리고 상수도는 아니지만, 물탱크를 수십 개 연결해 두어서 몇 달 정도는 비가 오지 않아도 단수될 일은 없어. ",
+      "g_en": "While it's not an endless water supply, I've also hooked up several water tanks. Even if we have no rain, I have a sufficient amount for several months. ",
+      "g_th": "และถึงเขตนี้จะไม่มีน้ำ แต่ก็มีแทงก์น้ำหลายสิบแทงก์ที่เชื่อมต่ออยู่ ถึงฝนไม่ตกติดต่อกัน 2-3 เดือน ก็ไม่ขาดน้ำหรอก",
+      "g_tw": "另外雖然沒有自來水，<br/>不過屋子的水管連接著數十個水桶，就算幾個月不下雨也不用擔心會有斷水的可能。",
+      "g_tw_cn": "另外虽然没有自来水，<br/>不过屋子的水管连接着数十个水桶，就算几个月不下雨也不用担心会有断水的可能。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;03;그리고 상수도는 아니지만, 물탱크를 수십 개 연결해 두어서 몇 달 정도는 비가 오지 않아도 단수될 일은 없어. \\n#4;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 118,
+    "AbsolutePos": 148,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ちゃんと浄水してるから、そのまま飲めるよ。",
+      "j_ko": "정수 시스템이랑 연수기도 구축해 놓았으니 그냥 마셔도 돼.",
+      "g_ja": "ちゃんと浄水してるから、そのまま飲めるよ。",
+      "g_ko": "정수 시스템이랑 연수기도 구축해 놓았으니 그냥 마셔도 돼.",
+      "g_en": "I've connected the system to a filter and water softener, making it safe to drink.",
+      "g_th": "ฉันทำระบบกรองน้ำไว้แล้ว ดื่มได้ไม่ต้องกังวล",
+      "g_tw": "而且我還加裝了淨水系統和軟水器，所以那些水是可以直接喝的。",
+      "g_tw_cn": "而且我还加装了净水系统和软水器，所以那些水是可以直接喝的。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;03;정수 시스템이랑 연수기도 구축해 놓았으니 그냥 마셔도 돼.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 119,
+    "AbsolutePos": 149,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 120,
+    "AbsolutePos": 149,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あっちの車庫は、自転車を修理する用。<br/>上の階には、ジムを作った。",
+      "j_ko": "그리고 이쪽 차고는 자전거 수리를 하는 공방으로 개조해 뒀고, 위층엔 체력 단련실. ",
+      "g_ja": "あっちの車庫は、自転車を修理する用。<br/>上の階には、ジムを作った。",
+      "g_ko": "그리고 이쪽 차고는 자전거 수리를 하는 공방으로 개조해 뒀고, 위층엔 체력 단련실. ",
+      "g_en": "There is a fitness room upstairs, and I converted the garage into a workshop for repairing bicycles. ",
+      "g_th": "ส่วนโรงรถทางด้านนี้ ฉันดัดแปลงเป็นห้องซ่อมจักรยาน ส่วนชั้นบนก็ทำเป็นห้องฝึกร่ายกาย ",
+      "g_tw": "至於這邊的車庫被我改造成了修理自行車的工作坊，樓上則是健身空間。",
+      "g_tw_cn": "至于这边的车库被我改造成了修理自行车的工作坊，楼上则是健身空间。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;02;그리고 이쪽 차고는 자전거 수리를 하는 공방으로 개조해 뒀고, 위층엔 체력 단련실. \\n#4;m2",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 121,
+    "AbsolutePos": 150,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "捨てられてる自転車のパーツを集めたら、<br/>わざわざ買わなくても組めるの。",
+      "j_ko": "특히 버려진 자전거 같은 건 여러 개를 분해해서 쓸만한 부품들을 모으면 새 자전거 하나를 만들어낼 수 있거든.",
+      "g_ja": "捨てられてる自転車のパーツを集めたら、<br/>わざわざ買わなくても組めるの。",
+      "g_ko": "특히 버려진 자전거 같은 건 여러 개를 분해해서 쓸만한 부품들을 모으면 새 자전거 하나를 만들어낼 수 있거든.",
+      "g_en": "I collect spare parts from abandoned bikes and fix up new ones.",
+      "g_th": "ถ้านำจักรยานที่ถูกทิ้งหลายๆ คันมาแยกชิ้นส่วนออกแล้วรวบรวมชิ้นส่วนที่ยังพอใช้ได้ไว้ ก็จะประกอบเป็นจักรยานคันใหม่ขึ้นมาได้ด้วย",
+      "g_tw": "我平時會把廢棄的自行車帶回來，用拆下來的零件重新組裝成新的自行車。",
+      "g_tw_cn": "我平时会把废弃的自行车带回来，用拆下来的零件重新组装成新的自行车。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;01;특히 버려진 자전거 같은 건 여러 개를 분해해서 쓸만한 부품들을 모으면 새 자전거 하나를 만들어낼 수 있거든.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 122,
+    "AbsolutePos": 151,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"おぉ、すごいね！\"",
+      "j_ko": " \"으으음…… 시로코는 역시 손재주가 좋구나…….\"",
+      "g_ja": " \"おぉ、すごいね！\"",
+      "g_ko": " \"으으음…… 시로코는 역시 손재주가 좋구나…….\"",
+      "g_en": " \"Wow... You're really handy!\"",
+      "g_th": " \"อืม... ชิโรโกะนี่เก่งงานหลายอย่างเลยนะ...\"",
+      "g_tw": "「唔嗯……你的手果然很巧……」",
+      "g_tw_cn": "「唔嗯……你的手果然很巧……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"으으음…… 시로코는 역시 손재주가 좋구나…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 123,
+    "AbsolutePos": 152,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "廃品を修理して市場で売れば、結構儲かる。",
+      "j_ko": "응. 아비도스에는 고장 나거나 버려진 물건들이 많으니까. 그런 것들을 수리하고 고쳐서 상점가에 가서 팔면 돈이 되거든.",
+      "g_ja": "廃品を修理して市場で売れば、結構儲かる。",
+      "g_ko": "응. 아비도스에는 고장 나거나 버려진 물건들이 많으니까. 그런 것들을 수리하고 고쳐서 상점가에 가서 팔면 돈이 되거든.",
+      "g_en": "Yes. The Abydos District is a graveyard of abandoned items. I fix them, and sell them in the shopping district.",
+      "g_th": "อืม เพราะในอะบิดอสมีของที่พังและของที่ถูกทิ้งอยู่เยอะนี่นา ถ้านำของพวกนั้นมาซ่อมแล้วเอาไป<br/>ขายที่ย่านการค้า ก็พอหาเงินได้อยู่น่ะ",
+      "g_tw": "嗯，阿拜多斯有很多損壞或遺棄的廢棄物。<br/>只要把那些東西修理一下拿去商店街賣，就能賺到生活費了。",
+      "g_tw_cn": "嗯，阿拜多斯有很多损坏或遗弃的废弃物。<br/>只要把那些东西修理一下拿去商店街卖，就能赚到生活费了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;03;응. 아비도스에는 고장 나거나 버려진 물건들이 많으니까. 그런 것들을 수리하고 고쳐서 상점가에 가서 팔면 돈이 되거든.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 124,
+    "AbsolutePos": 153,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"な、なるほど……。\"",
+      "j_ko": " \"아아, 그래서…….\"",
+      "g_ja": " \"な、なるほど……。\"",
+      "g_ko": " \"아아, 그래서…….\"",
+      "g_en": " \"Oh, that's how...\"",
+      "g_th": " \"อ้อ เพราะงั้นก็เลย...\"",
+      "g_tw": "「啊啊，所以你是……」",
+      "g_tw_cn": "「啊啊，所以你是……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"아아, 그래서…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 125,
+    "AbsolutePos": 154,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ん。<br/>最近はアビドスに人が増えたおかげで、需要があるみたい。",
+      "j_ko": "응. 최근 아비도스엔 사람들이 많아지고 있어서, 이런 걸 필요로 하는 사람들이 있어.",
+      "g_ja": "ん。<br/>最近はアビドスに人が増えたおかげで、需要があるみたい。",
+      "g_ko": "응. 최근 아비도스엔 사람들이 많아지고 있어서, 이런 걸 필요로 하는 사람들이 있어.",
+      "g_en": "With many people entering the district, demand has been considerable.",
+      "g_th": "อื้อ ช่วงนี้มีคนมาที่อะบิดอสเยอะขึ้น เลยมีคนที่ต้องการของพวกนี้อยู่น่ะ",
+      "g_tw": "嗯，隨著阿拜多斯的居民越來越多，需要這些東西的人也變多了。",
+      "g_tw_cn": "嗯，随着阿拜多斯的居民越来越多，需要这些东西的人也变多了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;02;응. 최근 아비도스엔 사람들이 많아지고 있어서, 이런 걸 필요로 하는 사람들이 있어.\\n#4;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 126,
+    "AbsolutePos": 157,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 127,
+    "AbsolutePos": 158,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"心配いらなかったね。\"",
+      "j_ko": " \"……내가 괜한 걱정을 했던 거 같아. 시로코.\"",
+      "g_ja": " \"心配いらなかったね。\"",
+      "g_ko": " \"……내가 괜한 걱정을 했던 거 같아. 시로코.\"",
+      "g_en": " \"...I think I was worried about you for no reason, Shiroko.\"",
+      "g_th": " \"ครูคงเป็นห่วงมากเกินไปเองแหละนะ ชิโรโกะ\"",
+      "g_tw": "「……看來是我白擔心了，白子。」",
+      "g_tw_cn": "「……看来是我白担心了，白子。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"……내가 괜한 걱정을 했던 거 같아. 시로코.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 128,
+    "AbsolutePos": 159,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 22
+    }
+  },
+  {
+    "ActualPos": 129,
+    "AbsolutePos": 159,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ん。",
+      "j_ko": "응.",
+      "g_ja": "ん。",
+      "g_ko": "응.",
+      "g_en": "Yes.",
+      "g_th": "อื้อ",
+      "g_tw": "嗯。",
+      "g_tw_cn": "嗯。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "4;시로코 테러 무소속;99;응.",
+    "BGMId": 22,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 130,
+    "AbsolutePos": 161,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "専門家だから、任せて。",
+      "j_ko": "하지만 나는 경험 많은 전문가니까, 너무 큰 걱정은 하지 않아도 돼. 선생님.",
+      "g_ja": "専門家だから、任せて。",
+      "g_ko": "하지만 나는 경험 많은 전문가니까, 너무 큰 걱정은 하지 않아도 돼. 선생님.",
+      "g_en": "I'm an expert when it comes to surviving, so please don't worry about me, Sensei.",
+      "g_th": "ฉันเป็นมืออาชีพที่มีประสบการณ์พอสมควร เพราะงั้นไม่ต้องเป็นห่วงมากเกินไปก็ได้นะ คุณครู",
+      "g_tw": "我畢竟是個經驗老到的專家，所以你真的不必太擔心我，老師。",
+      "g_tw_cn": "我毕竟是个经验老到的专家，所以你真的不必太担心我，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;02;하지만 나는 경험 많은 전문가니까, 너무 큰 걱정은 하지 않아도 돼. 선생님.\\n#3;em;[반짝]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 131,
+    "AbsolutePos": 162,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1693520842
+    }
+  },
+  {
+    "ActualPos": 132,
+    "AbsolutePos": 165,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4208600133
+    }
+  },
+  {
+    "ActualPos": 133,
+    "AbsolutePos": 167,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3052798916
+    }
+  },
+  {
+    "ActualPos": 134,
+    "AbsolutePos": 169,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 135,
+    "AbsolutePos": 171,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（遅くならないうちに、帰ることにした）",
+      "j_ko": "(시간이 늦어서 슬슬 돌아가기로 했다.)",
+      "g_ja": "（遅くならないうちに、帰ることにした）",
+      "g_ko": "(시간이 늦어서 슬슬 돌아가기로 했다.)",
+      "g_en": "It got late eventually, and I got ready to head back.",
+      "g_th": "(เวลาล่วงเลยมาจนฟ้ามืด คุณครูจึงตัดสินใจกลับไปยังชาเล่ต์)",
+      "g_tw": "（因為時間有點晚了，於是準備動身回家）",
+      "g_tw_cn": "（因为时间有点晚了，于是准备动身回家）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(시간이 늦어서 슬슬 돌아가기로 했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 136,
+    "AbsolutePos": 172,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2160792519
+    }
+  },
+  {
+    "ActualPos": 137,
+    "AbsolutePos": 172,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 138,
+    "AbsolutePos": 174,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cricket_02"
+    }
+  },
+  {
+    "ActualPos": 139,
+    "AbsolutePos": 175,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 140,
+    "AbsolutePos": 176,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 15
+    }
+  },
+  {
+    "ActualPos": 141,
+    "AbsolutePos": 176,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"それじゃあ、また連絡するね。\"",
+      "j_ko": " \"그럼 연락할게, 시로코.\"",
+      "g_ja": " \"それじゃあ、また連絡するね。\"",
+      "g_ko": " \"그럼 연락할게, 시로코.\"",
+      "g_en": " \"I'll be in touch, Shiroko.\"",
+      "g_th": " \"งั้นไว้ครูจะติดต่อมาใหม่นะ ชิโรโกะ\"",
+      "g_tw": "「那我們之後再聯絡哦，白子。」",
+      "g_tw_cn": "「那我们之后再联系哦，白子。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"그럼 연락할게, 시로코.\"",
+    "BGMId": 15,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 142,
+    "AbsolutePos": 177,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……もしかしたら、繋がらないかもしれないけど。<br/>しばらく、ここを離れるから。",
+      "j_ko": "……. 연락은 잘 안될지도 몰라. 한동안 떠나 있어야 할지도 모르거든.",
+      "g_ja": "……もしかしたら、繋がらないかもしれないけど。<br/>しばらく、ここを離れるから。",
+      "g_ko": "……. 연락은 잘 안될지도 몰라. 한동안 떠나 있어야 할지도 모르거든.",
+      "g_en": "I may be difficult to contact. I must leave...for a while.",
+      "g_th": "อาจติดต่อไม่ค่อยได้นะ... เพราะฉันอาจจะต้องไปจากที่นี่สักพักน่ะ",
+      "g_tw": "……我不確定你能不能聯絡得到我，因為我可能會離開一陣子。",
+      "g_tw_cn": "……我不确定你能不能联系得到我，因为我可能会离开一阵子。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;00;……. 연락은 잘 안될지도 몰라. 한동안 떠나 있어야 할지도 모르거든.\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 143,
+    "AbsolutePos": 178,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 13,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"離れるって？\"",
+      "j_ko": " \"떠난다고?\"",
+      "g_ja": " \"離れるって？\"",
+      "g_ko": " \"떠난다고?\"",
+      "g_en": " \"You're leaving\"",
+      "g_th": " \"ไปจากที่นี่? จะไปปั่นจักรยานเหรอ?\"",
+      "g_tw": "「你要離開？」",
+      "g_tw_cn": "「你要离开？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s13] \"떠난다고?\"\\n[s14] \"설마 롱 라이딩이라도 떠나는 거야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 144,
+    "AbsolutePos": 178,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 14,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ロングライドでもするの？\"",
+      "j_ko": " \"설마 롱 라이딩이라도 떠나는 거야?\"",
+      "g_ja": " \"ロングライドでもするの？\"",
+      "g_ko": " \"설마 롱 라이딩이라도 떠나는 거야?\"",
+      "g_en": " \"Are you going for one of your long rides?\"",
+      "g_th": " \"จะไปปั่นจักรยานระยะไกลเหรอ?\"",
+      "g_tw": "「是要去長途騎行嗎？」",
+      "g_tw_cn": "「是要去长途骑行吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s13] \"떠난다고?\"\\n[s14] \"설마 롱 라이딩이라도 떠나는 거야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 145,
+    "AbsolutePos": 183,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ロングライド……懐かしいね。<br/>……もう、ライディングは辞めたんだ。",
+      "j_ko": "그리운 단어네. ……그치만 이제 난 자전거는 타지 않아.",
+      "g_ja": "ロングライド……懐かしいね。<br/>……もう、ライディングは辞めたんだ。",
+      "g_ko": "그리운 단어네. ……그치만 이제 난 자전거는 타지 않아.",
+      "g_en": "How nostalgic... No. I don't ride bicycles anymore.",
+      "g_th": "เป็นคำเรียกที่ชวนคิดถึงจังเลยนะ... แต่ตอนนี้ฉันไม่ปั่นจักรยานแล้วละ",
+      "g_tw": "真是個令人懷念的詞語……不過我現在已經不騎自行車了。",
+      "g_tw_cn": "真是个令人怀念的词语……不过我现在已经不骑自行车了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;06;그리운 단어네. ……그치만 이제 난 자전거는 타지 않아.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 146,
+    "AbsolutePos": 184,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"えっ。\"",
+      "j_ko": " \"……그만뒀다고? 어째서?\"",
+      "g_ja": " \"えっ。\"",
+      "g_ko": " \"……그만뒀다고? 어째서?\"",
+      "g_en": " \"...You don't— Why?!\"",
+      "g_th": " \"เลิกปั่นแล้วเหรอ? ทำไมล่ะ?\"",
+      "g_tw": "「……已經不騎了？為什麼呢？」",
+      "g_tw_cn": "「……已经不骑了？为什么呢？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"……그만뒀다고? 어째서?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 147,
+    "AbsolutePos": 185,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "…….",
+      "g_ja": "……。",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "......",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;04;…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 148,
+    "AbsolutePos": 186,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ど、どうして……？\"",
+      "j_ko": " \"시로코 쨩이 자전거를 타지 않는다니, 무슨 얘기야?\"",
+      "g_ja": " \"ど、どうして……？\"",
+      "g_ko": " \"시로코 쨩이 자전거를 타지 않는다니, 무슨 얘기야?\"",
+      "g_en": " \"What do you mean you don't ride anymore?\"",
+      "g_th": " \"ชิโรโกะจังเลิกปั่นจักรยานแล้ว หมายความว่ายังไงน่ะ?\"",
+      "g_tw": "「白子竟然不再騎自行車了……為什麼呢？」",
+      "g_tw_cn": "「白子竟然不再骑自行车了……为什么呢？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"시로코 쨩이 자전거를 타지 않는다니, 무슨 얘기야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 149,
+    "AbsolutePos": 190,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……探しているものがあって。",
+      "j_ko": "자리를 비우는 건, 여기서 찾아봐야 할 게 생길 수도 있어서야. 아직은 아니지만……",
+      "g_ja": "……探しているものがあって。",
+      "g_ko": "자리를 비우는 건, 여기서 찾아봐야 할 게 생길 수도 있어서야. 아직은 아니지만……",
+      "g_en": "...I'll be leaving to find something I may need. Not quite yet, though.",
+      "g_th": "เหตุผลที่ฉันจะไม่อยู่ เพราะมีสิ่งที่ฉันต้องมาหาที่นี่น่ะ ถึงมันจะยังไม่แน่ชัดก็เถอะ...",
+      "g_tw": "我之所以要離開，是因為有了想在這個世界尋找的東西。<br/>雖然不是現在……",
+      "g_tw_cn": "我之所以要离开，是因为有了想在这个世界寻找的东西。<br/>虽然不是现在……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;00;자리를 비우는 건, 여기서 찾아봐야 할 게 생길 수도 있어서야. 아직은 아니지만……\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 150,
+    "AbsolutePos": 191,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "すぐ出るわけじゃないから、また会いに来てほしい。",
+      "j_ko": "언제까지 여기 머물지 모르겠지만, 그래도 또 찾아와줘, 선생님.",
+      "g_ja": "すぐ出るわけじゃないから、また会いに来てほしい。",
+      "g_ko": "언제까지 여기 머물지 모르겠지만, 그래도 또 찾아와줘, 선생님.",
+      "g_en": "I don't know how much longer I'll be here, but please feel free to come visit me, Sensei.",
+      "g_th": "ฉันไม่รู้ว่าจะอยู่ที่นี่อีกนานแค่ไหนแต่ว่า... ไว้แวะมาหากันบ้างนะ คุณครู",
+      "g_tw": "我也不確定會在這裡待多久，但是歡迎你之後再來找我，老師。",
+      "g_tw_cn": "我也不确定会在这里待多久，但是欢迎你之后再来找我，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;02;언제까지 여기 머물지 모르겠지만, 그래도 또 찾아와줘, 선생님.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 151,
+    "AbsolutePos": 194,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 152,
+    "AbsolutePos": 195,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それじゃ……。",
+      "j_ko": "그럼…….",
+      "g_ja": "それじゃ……。",
+      "g_ko": "그럼…….",
+      "g_en": "Goodbye...",
+      "g_th": "ขอตัวนะ...",
+      "g_tw": "再見……",
+      "g_tw_cn": "再见……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 347653563,
+    "DataType": "speaker",
+    "Script": "3;시로코 테러 무소속;99;그럼…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

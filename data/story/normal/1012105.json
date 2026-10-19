@@ -1,0 +1,978 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4238746601
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">水中に咲く艶やかな</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">수면 아래서 화사하게 피어난 꽃</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">水中に咲く艶やかな</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">수면 아래서 화사하게 피어난 꽃</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">The Blossoming Flower Underneath</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ดอกไม้ที่บานสะพรั่งใต้ผืนน้ำ</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">水面下綻放的華麗之花</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">水面下绽放的华丽之花</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;수면 아래서 화사하게 피어난 꽃",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 4238746601,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ユカリを待たせないように、少し早めに到着した）",
+      "j_ko": "(언제나 약속 시각보다 일찍 도착하는 유카리에 맞춰 살짝 먼저 나왔다.)",
+      "g_ja": "（ユカリを待たせないように、少し早めに到着した）",
+      "g_ko": "(언제나 약속 시각보다 일찍 도착하는 유카리에 맞춰 살짝 먼저 나왔다.)",
+      "g_en": "I arrived before the promised time, knowing that Yukari always shows up early.",
+      "g_th": "(คุณครูออกมาก่อนเวลาเล็กน้อยเพื่อไปให้ทันยูคาริที่มาถึงก่อนเวลานัดเสมอ)",
+      "g_tw": "（為了配合總是比約定時間早到的紫，稍微提早了出發的時間）",
+      "g_tw_cn": "（为了配合总是比约定时间早到的紫，稍微提早了出发的时间）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(언제나 약속 시각보다 일찍 도착하는 유카리에 맞춰 살짝 먼저 나왔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（しかし珍しく、約束の時間が近づいてもユカリは姿を見せなかった）",
+      "j_ko": "(그렇지만 약속한 때가 거의 다 되어 가도록 유카리는 나타나지 않았다.)",
+      "g_ja": "（しかし珍しく、約束の時間が近づいてもユカリは姿を見せなかった）",
+      "g_ko": "(그렇지만 약속한 때가 거의 다 되어 가도록 유카리는 나타나지 않았다.)",
+      "g_en": "However, I saw no sign of her as the minutes passed.",
+      "g_th": "(ใกล้ถึงเวลานัดแล้ว แต่ยูคาริก็ยังไม่ปรากฏตัว)",
+      "g_tw": "（然而眼看約定的時間就快到了，紫卻遲遲沒有出現）",
+      "g_tw_cn": "（然而眼看约定的时间就快到了，紫却迟迟没有出现）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇지만 약속한 때가 거의 다 되어 가도록 유카리는 나타나지 않았다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 5,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Water_In_01"
+    }
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 6,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ふと、海の方で何かが動いているのが見えた）",
+      "j_ko": "(바다 쪽에서 간헐적으로 첨벙거리는 소리가 들려온다.)",
+      "g_ja": "（ふと、海の方で何かが動いているのが見えた）",
+      "g_ko": "(바다 쪽에서 간헐적으로 첨벙거리는 소리가 들려온다.)",
+      "g_en": "I heard water splashing, then a gasp.",
+      "g_th": "(คุณครูได้ยินเสียงน้ำกระทบดังจ๋อมๆ เป็นระยะๆ)",
+      "g_tw": "（這時，從海邊傳來了間歇的水花聲）",
+      "g_tw_cn": "（这时，从海边传来了间歇的水花声）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(바다 쪽에서 간헐적으로 첨벙거리는 소리가 들려온다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 9,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Water_In_01"
+    }
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……？<br/>……！",
+      "j_ko": "……? ……!",
+      "g_ja": "……？<br/>……！",
+      "g_ko": "……? ……!",
+      "g_en": "...? ...!",
+      "g_th": "...? ...!",
+      "g_tw": "……？ <br/>……！",
+      "g_tw_cn": "……？ <br/>……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;……? ……!",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " （あれはユカリ……！？）",
+      "j_ko": " (지금 잠깐 유카리 모습이 보인 듯한데……?!)",
+      "g_ja": " （あれはユカリ……！？）",
+      "g_ko": " (지금 잠깐 유카리 모습이 보인 듯한데……?!)",
+      "g_en": " \"(Was that Yukari...?!)\"",
+      "g_th": " (เหมือนจะเป็นยูคาริเลย...?!)",
+      "g_tw": "（剛才好像看見了紫的身影……！？）",
+      "g_tw_cn": "（刚才好像看见了紫的身影……！？）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] (지금 잠깐 유카리 모습이 보인 듯한데……?!)\\n[ns2] (설마 바다에 빠진 건가?!)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " （まさか溺れて……！？）",
+      "j_ko": " (설마 바다에 빠진 건가?!)",
+      "g_ja": " （まさか溺れて……！？）",
+      "g_ko": " (설마 바다에 빠진 건가?!)",
+      "g_en": " \"(Is she drowning?!)\"",
+      "g_th": " (หรือว่ายูคาริตกไปในทะเลน่ะ?!)",
+      "g_tw": "（難道他掉進海裡了！？）",
+      "g_tw_cn": "（难道他掉进海里了！？）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] (지금 잠깐 유카리 모습이 보인 듯한데……?!)\\n[ns2] (설마 바다에 빠진 건가?!)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 17,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 17,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterBomb_01"
+    }
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 18,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " 目を開ける。",
+      "j_ko": " 눈을 뜬다.",
+      "g_ja": " 目を開ける。",
+      "g_ko": " 눈을 뜬다.",
+      "g_en": " Open your eyes.",
+      "g_th": " ลืมตา",
+      "g_tw": " 睜開眼睛",
+      "g_tw_cn": " 睁开眼睛",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] 눈을 뜬다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 19,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2125862224
+    }
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 19,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 267
+    }
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 21,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4055405907
+    }
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:880]― <cmd-char>유카리 수영복</cmd-char>（先生！[wa:1660]身共を探しにいらして[wa:1320]くださったのですね！）",
+      "j_ko": "[wa:880]― <cmd-char>유카리 수영복</cmd-char>(선생님![wa:1620] 바닷물 속에 있는 [wa:1120]소녀를 찾아내어 주셨군요!)",
+      "g_ja": "[wa:880]― <cmd-char>유카리 수영복</cmd-char>（先生！[wa:1660]身共を探しにいらして[wa:1320]くださったのですね！）",
+      "g_ko": "[wa:880]― <cmd-char>유카리 수영복</cmd-char>(선생님![wa:1620] 바닷물 속에 있는 [wa:1120]소녀를 찾아내어 주셨군요!)",
+      "g_en": "― <cmd-char>유카리 수영복</cmd-char>(Sensei! You found me under the sea!)[wa:3380] ",
+      "g_th": "― <cmd-char>유카리 수영복</cmd-char>(ท่านอาจารย์! ตามหาข้าที่อยู่ในทะเลจนเจอสินะเจ้าคะ!)[wa:2780] ",
+      "g_tw": "― <cmd-char>유카리 수영복</cmd-char>（老師！您來找小女子了呢！）[wa:4300] ",
+      "g_tw_cn": "― <cmd-char>유카리 수영복</cmd-char>（老师！您来找小女子了呢！）[wa:4300] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:880]― [log=유카리 수영복](선생님![wa:1620] 바닷물 속에 있는 [wa:1120]소녀를 찾아내어 주셨군요!)[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 4055405907,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 24,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 482635267
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 24,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:1530]― <cmd-char>유카리 수영복</cmd-char>（いつもは[wa:1220]遠くから見ていただけの海が……）",
+      "j_ko": "[wa:1530]― <cmd-char>유카리 수영복</cmd-char>(언제나 [wa:1060]발치에서 내려다볼 뿐이던 바닷속에,)",
+      "g_ja": "[wa:1530]― <cmd-char>유카리 수영복</cmd-char>（いつもは[wa:1220]遠くから見ていただけの海が……）",
+      "g_ko": "[wa:1530]― <cmd-char>유카리 수영복</cmd-char>(언제나 [wa:1060]발치에서 내려다볼 뿐이던 바닷속에,)",
+      "g_en": "― <cmd-char>유카리 수영복</cmd-char>(I never expected to see such beautiful scenery)[wa:1670] ",
+      "g_th": "― <cmd-char>유카리 수영복</cmd-char>(พื้นทะเลที่มักเห็นเวลามองเท้าลงมา)[wa:2190] ",
+      "g_tw": "― <cmd-char>유카리 수영복</cmd-char>（平時只能從遠處眺望的大海……）[wa:2950] ",
+      "g_tw_cn": "― <cmd-char>유카리 수영복</cmd-char>（平时只能从远处眺望的大海……）[wa:2950] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:1530]― [log=유카리 수영복](언제나 [wa:1060]발치에서 내려다볼 뿐이던 바닷속에,)[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 482635267,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 26,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>유카리 수영복</cmd-char>（こんなにも[wa:1160]美しい光景を秘めて[wa:1410]いたなんて）",
+      "j_ko": "― <cmd-char>유카리 수영복</cmd-char>(이토록이나[wa:1160] 아름다운 풍경이[wa:1130] 숨겨져 있을 줄이야.)",
+      "g_ja": "― <cmd-char>유카리 수영복</cmd-char>（こんなにも[wa:1160]美しい光景を秘めて[wa:1410]いたなんて）",
+      "g_ko": "― <cmd-char>유카리 수영복</cmd-char>(이토록이나[wa:1160] 아름다운 풍경이[wa:1130] 숨겨져 있을 줄이야.)",
+      "g_en": "― <cmd-char>유카리 수영복</cmd-char>(hidden under the water that I've only seen from afar.)[wa:1210] ",
+      "g_th": "― <cmd-char>유카리 수영복</cmd-char>(ข้าไม่คิดเลยว่ามันจะซ่อนทัศนียภาพที่งดงามไว้ถึงเพียงนี้)[wa:1130] ",
+      "g_tw": "― <cmd-char>유카리 수영복</cmd-char>（竟然隱藏著如此美麗的景色）[wa:2850] ",
+      "g_tw_cn": "― <cmd-char>유카리 수영복</cmd-char>（竟然隐藏着如此美丽的景色）[wa:2850] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=유카리 수영복](이토록이나[wa:1160] 아름다운 풍경이[wa:1130] 숨겨져 있을 줄이야.)[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 29,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3163332495
+    }
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:790]― <cmd-char>유카리 수영복</cmd-char>（それを、[wa:1600]先生と[wa:1020]こうして二人で[wa:810]眺めることができるだなんて……）",
+      "j_ko": "[wa:790]― <cmd-char>유카리 수영복</cmd-char>(그리고 [wa:1600]그런 장소에서[wa:860] 선생님과 마주 보며[wa:650] 함께 하게 될 줄이야.)[wa:40] ",
+      "g_ja": "[wa:790]― <cmd-char>유카리 수영복</cmd-char>（それを、[wa:1600]先生と[wa:1020]こうして二人で[wa:810]眺めることができるだなんて……）",
+      "g_ko": "[wa:790]― <cmd-char>유카리 수영복</cmd-char>(그리고 [wa:1600]그런 장소에서[wa:860] 선생님과 마주 보며[wa:650] 함께 하게 될 줄이야.)[wa:40] ",
+      "g_en": "― <cmd-char>유카리 수영복</cmd-char>(And for me to be together with Sensei at such a place...)[wa:3140] ",
+      "g_th": "― <cmd-char>유카리 수영복</cmd-char>(แล้วก็ไม่คิดเลยว่า จะได้มองท่านอาจารย์ในที่แบบนี้ด้วย) [wa:3220] ",
+      "g_tw": "― <cmd-char>유카리 수영복</cmd-char>（而且，還能跟老師，像這樣單獨欣賞……）[wa:4660] ",
+      "g_tw_cn": "― <cmd-char>유카리 수영복</cmd-char>（而且，还能跟老师，像这样单独欣赏……）[wa:4660] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:790]― [log=유카리 수영복](그리고 [wa:1600]그런 장소에서[wa:860] 선생님과 마주 보며[wa:650] 함께 하게 될 줄이야.)[wa:40] [/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 3163332495,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 31,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>유카리 수영복</cmd-char>（ああ、[wa:2070]身共は[wa:1260]なん[wa:490]て幸せ者なのでしょう）",
+      "j_ko": "― <cmd-char>유카리 수영복</cmd-char>(아아,[wa:2070] 소녀는[wa:1220] 어[wa:370]쩜 이렇게 행운아일까요?)",
+      "g_ja": "― <cmd-char>유카리 수영복</cmd-char>（ああ、[wa:2070]身共は[wa:1260]なん[wa:490]て幸せ者なのでしょう）",
+      "g_ko": "― <cmd-char>유카리 수영복</cmd-char>(아아,[wa:2070] 소녀는[wa:1220] 어[wa:370]쩜 이렇게 행운아일까요?)",
+      "g_en": "― <cmd-char>유카리 수영복</cmd-char>(Aah, aren't I such a lucky girl?)[wa:3260] ",
+      "g_th": "― <cmd-char>유카리 수영복</cmd-char>(อ่า... ทำไมข้าถึงได้โชคดีแบบนี้นะเจ้าคะ?)[wa:2940] ",
+      "g_tw": "― <cmd-char>유카리 수영복</cmd-char>（啊啊，小女子是多麼幸福啊）[wa:4060] ",
+      "g_tw_cn": "― <cmd-char>유카리 수영복</cmd-char>（啊啊，小女子是多么幸福啊）[wa:4060] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=유카리 수영복](아아,[wa:2070] 소녀는[wa:1220] 어[wa:370]쩜 이렇게 행운아일까요?)[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 34,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3754250218
+    }
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:210]― <cmd-char>유카리 수영복</cmd-char>（あれ……[wa:1520]先生？[wa:1650]なんだか[wa:810]顔色が……？）",
+      "j_ko": "[wa:210]― <cmd-char>유카리 수영복</cmd-char>(어라, [wa:1520]선생님?[wa:1610] 표정이 뭔가,[wa:650] 어라라……?)",
+      "g_ja": "[wa:210]― <cmd-char>유카리 수영복</cmd-char>（あれ……[wa:1520]先生？[wa:1650]なんだか[wa:810]顔色が……？）",
+      "g_ko": "[wa:210]― <cmd-char>유카리 수영복</cmd-char>(어라, [wa:1520]선생님?[wa:1610] 표정이 뭔가,[wa:650] 어라라……?)",
+      "g_en": "― <cmd-char>유카리 수영복</cmd-char>(Um, Sensei? Your face is uh, huh...?)[wa:3470] ",
+      "g_th": "― <cmd-char>유카리 수영복</cmd-char>(เอ๋? ท่านอาจารย์? ทำไมถึงทำหน้าแบบนั้นล่ะ...?)[wa:3110] ",
+      "g_tw": "― <cmd-char>유카리 수영복</cmd-char>（咦……老師？您的臉色好像有點……？）[wa:4230] ",
+      "g_tw_cn": "― <cmd-char>유카리 수영복</cmd-char>（咦……老师？您的脸色好像有点……？）[wa:4230] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;[wa:210]― [log=유카리 수영복](어라, [wa:1520]선생님?[wa:1610] 표정이 뭔가,[wa:650] 어라라……?)[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 3754250218,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 36,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>유카리 수영복</cmd-char>（身共、[wa:850]何かおかしなことでも？）",
+      "j_ko": "― <cmd-char>유카리 수영복</cmd-char>(소녀,[wa:810] 무언가 잘못했사와요?)",
+      "g_ja": "― <cmd-char>유카리 수영복</cmd-char>（身共、[wa:850]何かおかしなことでも？）",
+      "g_ko": "― <cmd-char>유카리 수영복</cmd-char>(소녀,[wa:810] 무언가 잘못했사와요?)",
+      "g_en": "― <cmd-char>유카리 수영복</cmd-char>(Did I do something wrong?)[wa:410] ",
+      "g_th": "― <cmd-char>유카리 수영복</cmd-char>(ข้าทำอะไรผิดไปหรือเปล่าเจ้าคะ?)[wa:210] ",
+      "g_tw": "― <cmd-char>유카리 수영복</cmd-char>（小女子，做了什麼奇怪的事嗎？）[wa:850] ",
+      "g_tw_cn": "― <cmd-char>유카리 수영복</cmd-char>（小女子，做了什么奇怪的事吗？）[wa:850] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=유카리 수영복](소녀,[wa:810] 무언가 잘못했사와요?)[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 39,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 818057574
+    }
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 39,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[wa:180]― <cmd-char>유카리 수영복</cmd-char>（上……？[wa:1250]上にはお日様しかありませんよ……）",
+      "j_ko": "― <cmd-char>유카리 수영복</cmd-char>(위에? [wa:1210]위에는 해님 말고 아무것도…….)",
+      "g_ja": "[wa:180]― <cmd-char>유카리 수영복</cmd-char>（上……？[wa:1250]上にはお日様しかありませんよ……）",
+      "g_ko": "― <cmd-char>유카리 수영복</cmd-char>(위에? [wa:1210]위에는 해님 말고 아무것도…….)",
+      "g_en": "― <cmd-char>유카리 수영복</cmd-char>(Up? There's nothing up there but the sun...)[wa:330] ",
+      "g_th": "― <cmd-char>유카리 수영복</cmd-char>(ข้างบน? ข้างบนก็มีแต่พระอาทิตย์นะ...)[wa:610] ",
+      "g_tw": "― <cmd-char>유카리 수영복</cmd-char>（上面……？上面只有太陽而已唷……）[wa:1410] ",
+      "g_tw_cn": "― <cmd-char>유카리 수영복</cmd-char>（上面……？上面只有太阳而已唷……）[wa:1410] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-530];serial;60;― [log=유카리 수영복](위에? [wa:1210]위에는 해님 말고 아무것도…….)[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 818057574,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "― <cmd-char>유카리 수영복</cmd-char>（え……？[wa:830]そうじゃない……？） ",
+      "j_ko": "― <cmd-char>유카리 수영복</cmd-char>(네? [wa:910]그게 아니어요?)",
+      "g_ja": "― <cmd-char>유카리 수영복</cmd-char>（え……？[wa:830]そうじゃない……？） ",
+      "g_ko": "― <cmd-char>유카리 수영복</cmd-char>(네? [wa:910]그게 아니어요?)",
+      "g_en": "― <cmd-char>유카리 수영복</cmd-char>(What? That's not it?)[wa:550] ",
+      "g_th": "― <cmd-char>유카리 수영복</cmd-char>(เจ้าคะ? ไม่ใช่เรื่องนั้นเหรอเจ้าคะ?)[wa:10] ",
+      "g_tw": "― <cmd-char>유카리 수영복</cmd-char>（咦……？不是這個意思……？）[wa:830] ",
+      "g_tw_cn": "― <cmd-char>유카리 수영복</cmd-char>（咦……？不是这个意思……？）[wa:830] ",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "st",
+    "Script": "#st;[-1200,-630];serial;60;― [log=유카리 수영복](네? [wa:910]그게 아니어요?)[/log]",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 43,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1088769613
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 44,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_WaterOut_01"
+    }
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ぷはっ！",
+      "j_ko": "푸하!",
+      "g_ja": "ぷはっ！",
+      "g_ko": "푸하!",
+      "g_en": "Phew!",
+      "g_th": "ฮ่าฮ่า!",
+      "g_tw": "噗哈！",
+      "g_tw_cn": "噗哈！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2274979840,
+    "DataType": "speaker",
+    "Script": "3;유카리 수영복;18;푸하!\\n#3;greeting\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふふっ！頭の先まで、びしょ濡れですの！",
+      "j_ko": "머리끝까지 다 젖었사와요! 아하하하!",
+      "g_ja": "ふふっ！頭の先まで、びしょ濡れですの！",
+      "g_ko": "머리끝까지 다 젖었사와요! 아하하하!",
+      "g_en": "I'm positively soaked! Haha!",
+      "g_th": "เปียกตั้งแต่หัวจรดเท้าเลยเจ้าค่ะ! อะฮะฮะฮ่า!",
+      "g_tw": "所有頭髮都濕透了呢！啊哈哈哈！",
+      "g_tw_cn": "所有头发都湿透了呢！啊哈哈哈！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2274979840,
+    "DataType": "speaker",
+    "Script": "3;유카리 수영복;19;머리끝까지 다 젖었사와요! 아하하하!\\n#3;em;[재잘]\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"溺れていたわけじゃなくてよかった。\"",
+      "j_ko": " \"엄청 즐거워 보이네!\"",
+      "g_ja": " \"溺れていたわけじゃなくてよかった。\"",
+      "g_ko": " \"엄청 즐거워 보이네!\"",
+      "g_en": " \"You seem to be having fun!\"",
+      "g_th": " \"ทำอะไรอยู่คนเดียวเหรอ?\"",
+      "g_tw": "「看起來玩得很開心嘛！」",
+      "g_tw_cn": "「看起来玩得很开心嘛！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns3] \"엄청 즐거워 보이네!\"\\n[ns4] \"뭐 하고 있었어?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"何をしてたの？\"",
+      "j_ko": " \"뭐 하고 있었어?\"",
+      "g_ja": " \"何をしてたの？\"",
+      "g_ko": " \"뭐 하고 있었어?\"",
+      "g_en": " \"What were you doing?\"",
+      "g_th": " \"เล่นสนุกอะไรอยู่คนเดียวเหรอ?\"",
+      "g_tw": "「你剛才在做什麼？」",
+      "g_tw_cn": "「你刚才在做什么？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns3] \"엄청 즐거워 보이네!\"\\n[ns4] \"뭐 하고 있었어?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "溺れて……？",
+      "j_ko": "아, 그것이…… 약조했던 시간보다 조금 일찍 나와, 바다를 바라보고 있자니…….",
+      "g_ja": "溺れて……？",
+      "g_ko": "아, 그것이…… 약조했던 시간보다 조금 일찍 나와, 바다를 바라보고 있자니…….",
+      "g_en": "Well... I arrived early, and while I was looking at the sea...",
+      "g_th": "อ่า คือว่า... ข้ามาถึงก่อนเวลานัดนิดหน่อย ก็เลยนั่งมองทะเลอยู่น่ะเจ้าค่ะ... ",
+      "g_tw": "啊，那個…… 因為來得比約定的時間還早，就一直看著大海……",
+      "g_tw_cn": "啊，那个…… 因为来得比约定的时间还早，就一直看着大海……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2274979840,
+    "DataType": "speaker",
+    "Script": "3;유카리 수영복;02;아, 그것이…… 약조했던 시간보다 조금 일찍 나와, 바다를 바라보고 있자니…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 50,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はっ……それで慌てて駆けつけてくださったんですの！？<br/>ご心配をおかけしました……！",
+      "j_ko": "투명한 바닷물 속에 비친 꽃들이 신경 쓰여 설레는 마음에 그만…….",
+      "g_ja": "はっ……それで慌てて駆けつけてくださったんですの！？<br/>ご心配をおかけしました……！",
+      "g_ko": "투명한 바닷물 속에 비친 꽃들이 신경 쓰여 설레는 마음에 그만…….",
+      "g_en": "...I saw what looked like flowers under the water. Sea flowers!",
+      "g_th": "แต่พอเห็นเงาดอกไม้ที่สะท้อนอยู่ในน้ำทะเลใสๆ ข้าก็เกิดอยากรู้อยากเห็นขึ้นมา...",
+      "g_tw": "結果被透明的海水中映照的花朵吸引，一時激動就……",
+      "g_tw_cn": "结果被透明的海水中映照的花朵吸引，一时激动就……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2274979840,
+    "DataType": "speaker",
+    "Script": "3;유카리 수영복;07;투명한 바닷물 속에 비친 꽃들이 신경 쓰여 설레는 마음에 그만…….\\n#3;em;[...]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そんなこととも思わず、花を見ることに夢中になっておりまして……。",
+      "j_ko": "그나저나 선생님께서는 어떻게 소녀가 여기 있는 건 어찌 아시고…….",
+      "g_ja": "そんなこととも思わず、花を見ることに夢中になっておりまして……。",
+      "g_ko": "그나저나 선생님께서는 어떻게 소녀가 여기 있는 건 어찌 아시고…….",
+      "g_en": "But Sensei, why did you dive in and join me?",
+      "g_th": "ว่าแต่ท่านอาจารย์รู้ได้ยังไงเจ้าคะว่าข้าอยู่ตรงนี้...",
+      "g_tw": "話說回來，老師您是怎麼知道小女子在這裡的呢……",
+      "g_tw_cn": "话说回来，老师您是怎么知道小女子在这里的呢……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2274979840,
+    "DataType": "speaker",
+    "Script": "3;유카리 수영복;02;그나저나 선생님께서는 어떻게 소녀가 여기 있는 건 어찌 아시고…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それが、その……約束の時間より少し早く着いたので、<br/>海を眺めておりまして……。",
+      "j_ko": "아앗?! 혹시 너무 꽃구경에 집중한 나머지 소녀가 약속에 늦어 버리기라도 한 것일까요?!",
+      "g_ja": "それが、その……約束の時間より少し早く着いたので、<br/>海を眺めておりまして……。",
+      "g_ko": "아앗?! 혹시 너무 꽃구경에 집중한 나머지 소녀가 약속에 늦어 버리기라도 한 것일까요?!",
+      "g_en": "Aah?! Was I so busy indulging that I was late?!",
+      "g_th": "อ๊ะ?! หรือว่าข้ามัวแต่ชมดอกไม้ในทะเลจนเลยเวลานัด?!",
+      "g_tw": "啊啊！？難道是因為小女子太專心賞花，結果反而遲到了嗎！？",
+      "g_tw_cn": "啊啊！？难道是因为小女子太专心赏花，结果反而迟到了吗！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2274979840,
+    "DataType": "speaker",
+    "Script": "3;유카리 수영복;04;아앗?! 혹시 너무 꽃구경에 집중한 나머지 소녀가 약속에 늦어 버리기라도 한 것일까요?!\\n#3;em;[?!]\\n#3;shake",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Surprise",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 53,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "透き通る海の中に映る花々が目に留まって、心が躍ってしまい、<br/>そのまま……どぼん、と。",
+      "j_ko": "네? 시간은 괜찮다고요? 그냥 착각했을 뿐……? 아…… 소녀가 물에 빠졌다고 생각하셔서…….",
+      "g_ja": "透き通る海の中に映る花々が目に留まって、心が躍ってしまい、<br/>そのまま……どぼん、と。",
+      "g_ko": "네? 시간은 괜찮다고요? 그냥 착각했을 뿐……? 아…… 소녀가 물에 빠졌다고 생각하셔서…….",
+      "g_en": "Hm? No...there's been a misunderstanding...? Ah... You thought I was drowning?!",
+      "g_th": "เจ้าคะ? ยังไม่เลยเวลานัด? แต่แค่เข้าใจผิดไปงั้นเหรอเจ้าคะ...? อ่า... ท่านอาจารย์คิดว่าข้าจมน้ำสินะ...",
+      "g_tw": "咦，時間還沒到，只是誤會了……？<br/>啊……原來老師誤以為小女子掉進海裡了……",
+      "g_tw_cn": "咦，时间还没到，只是误会了……？<br/>啊……原来老师误以为小女子掉进海里了……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2274979840,
+    "DataType": "speaker",
+    "Script": "3;유카리 수영복;02;네? 시간은 괜찮다고요? 그냥 착각했을 뿐……? 아…… 소녀가 물에 빠졌다고 생각하셔서…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 54,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ご心配をおかけして申し訳ない気持ちと――",
+      "j_ko": "그래서 그렇게 다급하게…… 소녀는 그런 줄도 모르고 선생님과 함께 있다는 사실만으로 기뻐서…….",
+      "g_ja": "ご心配をおかけして申し訳ない気持ちと――",
+      "g_ko": "그래서 그렇게 다급하게…… 소녀는 그런 줄도 모르고 선생님과 함께 있다는 사실만으로 기뻐서…….",
+      "g_en": "So that's why you seemed so harried! I was so happy to see you that I had no idea!",
+      "g_th": "เพราะงั้นท่านอาจารย์ก็เลยรีบเข้ามาช่วย... แต่ข้าก็ไม่รู้เรื่องอะไรเลย แค่คิดว่าได้เห็นท่านอาจารย์<br/>ก็ดีใจแล้ว...",
+      "g_tw": "所以您才會那麼著急……<br/>小女子卻只因為能和老師在一起而開心……",
+      "g_tw_cn": "所以您才会那么着急……<br/>小女子却只因为能和老师在一起而开心……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2274979840,
+    "DataType": "speaker",
+    "Script": "3;유카리 수영복;07;그래서 그렇게 다급하게…… 소녀는 그런 줄도 모르고 선생님과 함께 있다는 사실만으로 기뻐서…….\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 55,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "心配していただけて嬉しい気持ちが交ざり合って……<br/>なんだか、とても不思議な心地ですわ。",
+      "j_ko": "한편으로는 죄송하면서, 다른 한편으로는 날아오를듯이 기쁘니 조금 복잡한 기분이어요.",
+      "g_ja": "心配していただけて嬉しい気持ちが交ざり合って……<br/>なんだか、とても不思議な心地ですわ。",
+      "g_ko": "한편으로는 죄송하면서, 다른 한편으로는 날아오를듯이 기쁘니 조금 복잡한 기분이어요.",
+      "g_en": "I know not how to feel. I am sorry...but I am also quite honored by your bravery!",
+      "g_th": "ใจหนึ่งข้าก็รู้สึกผิด แต่อีกใจหนึ่งข้าก็ดีใจจนเหมือนจะติดปีกบิน มันเป็นความรู้สึกที่ซับซ้อนจังเลย<br/>นะเจ้าคะ",
+      "g_tw": "雖然感到抱歉，卻又高興得像要飛起來一樣……真是複雜的心情呢。",
+      "g_tw_cn": "虽然感到抱歉，却又高兴得像要飞起来一样……真是复杂的心情呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2274979840,
+    "DataType": "speaker",
+    "Script": "3;유카리 수영복;08;한편으로는 죄송하면서, 다른 한편으로는 날아오를듯이 기쁘니 조금 복잡한 기분이어요.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ユカリが無事ならそれでいいよ。\"",
+      "j_ko": " \"신경 쓰지 마! 유카리가 무사하면 괜찮아.\"",
+      "g_ja": " \"ユカリが無事ならそれでいいよ。\"",
+      "g_ko": " \"신경 쓰지 마! 유카리가 무사하면 괜찮아.\"",
+      "g_en": " \"As long as you're safe, Yukari!\"",
+      "g_th": " \"ไม่ต้องใส่ใจนะ! แค่ยูคาริปลอดภัยก็พอแล้ว\"",
+      "g_tw": "「別在意！只要紫平安就好。」",
+      "g_tw_cn": "「别在意！只要紫平安就好。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"신경 쓰지 마! 유카리가 무사하면 괜찮아.\"\\n[s6] \"그보다 오늘은 약속한 대로 신나게 놀자!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"今日は思いっきり遊ぼう！\"",
+      "j_ko": " \"그보다 오늘은 약속한 대로 신나게 놀자!\"",
+      "g_ja": " \"今日は思いっきり遊ぼう！\"",
+      "g_ko": " \"그보다 오늘은 약속한 대로 신나게 놀자!\"",
+      "g_en": " \"Let's focus on having some fun!\"",
+      "g_th": " \"วันนี้เรามาเล่นสนุกตามที่สัญญากันไว้เถอะนะ!\"",
+      "g_tw": "「今天就照約定好好玩個痛快吧！」",
+      "g_tw_cn": "「今天就照约定好好玩个痛快吧！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"신경 쓰지 마! 유카리가 무사하면 괜찮아.\"\\n[s6] \"그보다 오늘은 약속한 대로 신나게 놀자!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 59,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ええ……！ええ！もちろんですの！",
+      "j_ko": "앗. ……네!",
+      "g_ja": "ええ……！ええ！もちろんですの！",
+      "g_ko": "앗. ……네!",
+      "g_en": "Ah. ...Yes!",
+      "g_th": "อ๊ะ เจ้าค่ะ...!",
+      "g_tw": "啊……是！",
+      "g_tw_cn": "啊……是！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2274979840,
+    "DataType": "speaker",
+    "Script": "3;유카리 수영복;13;앗. ……네!\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 60,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（その後、日が暮れるまで海水浴を満喫した）",
+      "j_ko": "(그후 저녁까지 유카리와 함께 바다를 만끽했다.)",
+      "g_ja": "（その後、日が暮れるまで海水浴を満喫した）",
+      "g_ko": "(그후 저녁까지 유카리와 함께 바다를 만끽했다.)",
+      "g_en": "Afterward, Yukari and I enjoyed the sea until the evening.",
+      "g_th": "(จากนั้นคุณครูกับยูคาริก็เล่นสนุกที่ทะเลกันจนตกเย็น)",
+      "g_tw": "（之後直到傍晚，都和紫一起盡情享受著大海）",
+      "g_tw_cn": "（之后直到傍晚，都和紫一起尽情享受着大海）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그후 저녁까지 유카리와 함께 바다를 만끽했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

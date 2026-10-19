@@ -1,0 +1,1763 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047632056
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 6
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">キララの部活</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">키라라의 부활동</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">キララの部活</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">키라라의 부활동</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Kirara's Club Activities</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">การทำกิจกรรมชมรมของคิราระ</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">綺羅羅的社團活動</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">绮罗罗的社团活动</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;키라라의 부활동",
+    "BGMId": 6,
+    "Sound": "",
+    "BGName": 1047632056,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（ゲヘナでの用事を終えた後、帰路で楽しそうに話している生徒が目に入った）",
+      "j_ko": "(게헨나에서 볼일을 보고 돌아가는 길에서, 즐겁게 떠들며 걷는 학생들을 발견했다.)",
+      "g_ja": "（ゲヘナでの用事を終えた後、帰路で楽しそうに話している生徒が目に入った）",
+      "g_ko": "(게헨나에서 볼일을 보고 돌아가는 길에서, 즐겁게 떠들며 걷는 학생들을 발견했다.)",
+      "g_en": "I was on my way out of Gehenna when I saw a group of students cheerfully chatting and walking together.",
+      "g_th": "(ระหว่างทางกลับหลังจากเสร็จธุระที่เกเฮนน่า คุณครูก็ได้เจอนักเรียนที่พูดคุยเอะอะกันอย่าง<br/>สนุกสนาน)",
+      "g_tw": "（完成格黑娜的工作後，在回程路上看見了一群邊走邊閒聊的學生）",
+      "g_tw_cn": "（完成格黑娜的工作后，在回程路上看见了一群边走边闲聊的学生）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(게헨나에서 볼일을 보고 돌아가는 길에서, 즐겁게 떠들며 걷는 학생들을 발견했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " （楽しそうだな……）",
+      "j_ko": " (친한 친구들인가 보네…….)",
+      "g_ja": " （楽しそうだな……）",
+      "g_ko": " (친한 친구들인가 보네…….)",
+      "g_en": " \"(What a close-knit group...)\"",
+      "g_th": " (คงเป็นเพื่อนสนิทกันสินะ...)",
+      "g_tw": "（他們看起來好像很要好……）",
+      "g_tw_cn": "（他们看起来好像很要好……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] (친한 친구들인가 보네…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あ、私らはこっちだから！<br/>またね、キララ！",
+      "j_ko": "아! 우리는 여기서 저쪽으로 가야 해. 잘 가, 키라라!",
+      "g_ja": "あ、私らはこっちだから！<br/>またね、キララ！",
+      "g_ko": "아! 우리는 여기서 저쪽으로 가야 해. 잘 가, 키라라!",
+      "g_en": "We gotta go this way! See ya, Kirara!",
+      "g_th": "อ๊ะ! พวกเราต้องกลับทางนี้ละ กลับดีๆ นะคิราระ!",
+      "g_tw": "啊！我們接下來要往這邊走。<br/>下次見囉，綺羅羅！",
+      "g_tw_cn": "啊！我们接下来要往这边走。<br/>下次见啰，绮罗罗！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 4133385733,
+    "DataType": "speaker",
+    "Script": "2;키라라;01\\n5;게헨나 학생 B;03\\n4;게헨나 학생 A;02;아! 우리는 여기서 저쪽으로 가야 해. 잘 가, 키라라!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まったね～！",
+      "j_ko": "응! 다음에 또 봐!",
+      "g_ja": "まったね～！",
+      "g_ko": "응! 다음에 또 봐!",
+      "g_en": "Okie dokie! See ya next time!",
+      "g_th": "อื้ม! ไว้เจอกันใหม่นะ!",
+      "g_tw": "嗯！下次見！",
+      "g_tw_cn": "嗯！下次见！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "2;키라라;00;응! 다음에 또 봐!\\n#2;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 15,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 16,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 18,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あれ？",
+      "j_ko": "어라?",
+      "g_ja": "あれ？",
+      "g_ko": "어라?",
+      "g_en": "Oh?",
+      "g_th": "เอ๋?",
+      "g_tw": "咦？",
+      "g_tw_cn": "咦？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "2;키라라;02;어라?\\n#2;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 20,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_03"
+    }
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 20,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "[USERNAME]先生じゃん、はろはろ～！",
+      "j_ko": "[USERNAME] 쌤 안녕! 여기서 만나네?",
+      "g_ja": "[USERNAME]先生じゃん、はろはろ～！",
+      "g_ko": "[USERNAME] 쌤 안녕! 여기서 만나네?",
+      "g_en": "Teach! [USERNAME] Teach! What a happy surprise!",
+      "g_th": "ไฮฮาย ครู [USERNAME]! ได้มาเจอกันตรงนี้ด้วยแฮะ",
+      "g_tw": "嗨，[USERNAME]老師！沒想到會在這裡遇見你耶？",
+      "g_tw_cn": "嗨，[USERNAME]老师！没想到会在这里遇见你耶？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;03;[USERNAME] 쌤 안녕! 여기서 만나네?\\n#3;a\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "お仕事の帰り？あたしもちょうど帰り道！",
+      "j_ko": "일 마치고 돌아가는 중이라고? 나랑 똑같네? 나도 하교하는 중이었거든.",
+      "g_ja": "お仕事の帰り？あたしもちょうど帰り道！",
+      "g_ko": "일 마치고 돌아가는 중이라고? 나랑 똑같네? 나도 하교하는 중이었거든.",
+      "g_en": "You were on your way back after work? Same! I mean, not work, but school just finished!",
+      "g_th": "เพิ่งทำงานเสร็จและกำลังกลับเหรอ? เหมือนฉันเลย! ฉันก็กำลังกลับบ้านเหมือนกัน",
+      "g_tw": "剛工作完要回去嗎？<br/>我也正準備要回家呢。",
+      "g_tw_cn": "刚工作完要回去吗？<br/>我也正准备要回家呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;01;일 마치고 돌아가는 중이라고? 나랑 똑같네? 나도 하교하는 중이었거든.\\n#3;closeup\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"一緒にいた子はお友達？\"",
+      "j_ko": " \"같이 있던 학생들은 친구들?\"",
+      "g_ja": " \"一緒にいた子はお友達？\"",
+      "g_ko": " \"같이 있던 학생들은 친구들?\"",
+      "g_en": " \"Were those your friends?\"",
+      "g_th": " \"ที่อยู่ด้วยกันเมื่อกี้คือเพื่อนๆ เหรอ?\"",
+      "g_tw": "「剛才跟你在一起的那些學生，是你的朋友們嗎？」",
+      "g_tw_cn": "「刚才跟你在一起的那些学生，是你的朋友们吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"같이 있던 학생들은 친구들?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 23,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そだよ～！さっき会ったばっかだけど！",
+      "j_ko": "응! 맞아. 오늘 처음 만난 애들인데, 얘기도 잘 맞아서 좋았어!",
+      "g_ja": "そだよ～！さっき会ったばっかだけど！",
+      "g_ko": "응! 맞아. 오늘 처음 만난 애들인데, 얘기도 잘 맞아서 좋았어!",
+      "g_en": "Yup! I just met them today, but we're besties now! We totally got along!",
+      "g_th": "อื้ม! ใช่ เป็นนักเรียนที่เพิ่งเจอเมื่อวันนี้น่ะ เราคุยกันถูกคอเลย!",
+      "g_tw": "沒錯！他們是我今天剛認識的新朋友，不過我們很聊得來哦！",
+      "g_tw_cn": "没错！他们是我今天刚认识的新朋友，不过我们很聊得来哦！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;00;응! 맞아. 오늘 처음 만난 애들인데, 얘기도 잘 맞아서 좋았어!\\n#3;a\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 24,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"さっき会ったばっか……？\"",
+      "j_ko": " \"오, 오늘 처음 본 사이였다고?\"",
+      "g_ja": " \"さっき会ったばっか……？\"",
+      "g_ko": " \"오, 오늘 처음 본 사이였다고?\"",
+      "g_en": " \"It didn't look like your first time meeting them!\"",
+      "g_th": " \"หืม? เป็นเพื่อนที่เพิ่งเจอกันวันนี้เหรอ?\"",
+      "g_tw": "「你，你說你們今天才剛認識？」",
+      "g_tw_cn": "「你，你说你们今天才刚认识？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"오, 오늘 처음 본 사이였다고?\"\\n[s2] \"완전 찐친 같아 보였는데?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 24,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"すごく仲良さそうだったけど！？\"",
+      "j_ko": " \"완전 찐친 같아 보였는데?!\"",
+      "g_ja": " \"すごく仲良さそうだったけど！？\"",
+      "g_ko": " \"완전 찐친 같아 보였는데?!\"",
+      "g_en": " \"It seemed like you'd been friends forever!\"",
+      "g_th": " \"ดูเหมือนเพื่อนสนิทที่คบมานานเลยนะ?!\"",
+      "g_tw": "「可是你們看起來明明超級要好的啊！？」",
+      "g_tw_cn": "「可是你们看起来明明超级要好的啊！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"오, 오늘 처음 본 사이였다고?\"\\n[s2] \"완전 찐친 같아 보였는데?!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いつ出会ったかなんて、あんま重要じゃなくない？",
+      "j_ko": "응? 언제 처음 봤는지 그런 게 중요해?",
+      "g_ja": "いつ出会ったかなんて、あんま重要じゃなくない？",
+      "g_ko": "응? 언제 처음 봤는지 그런 게 중요해?",
+      "g_en": "Huh? Does it make a difference how long I've known them?",
+      "g_th": "หืม? สำคัญด้วยเหรอว่าได้รู้จักกันตอนไหน?",
+      "g_tw": "嗯？什麼時候認識的很重要嗎？",
+      "g_tw_cn": "嗯？什么时候认识的很重要吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;02;응? 언제 처음 봤는지 그런 게 중요해?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 28,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "楽しければそれで良いの♪",
+      "j_ko": "그냥 친하면 친구인 거 아닐까나? 아하핫!",
+      "g_ja": "楽しければそれで良いの♪",
+      "g_ko": "그냥 친하면 친구인 거 아닐까나? 아하핫!",
+      "g_en": "We're already friends! Hahaha!",
+      "g_th": "ถ้าสนิทกันก็เป็นเพื่อนกันได้แล้วนี่? อะฮ่าฮ่า!",
+      "g_tw": "只要關係好就是朋友了呀～！",
+      "g_tw_cn": "只要关系好就是朋友了呀～！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;01;그냥 친하면 친구인 거 아닐까나? 아하핫!\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生とも、もうマブダチだと思ってるんだけど？",
+      "j_ko": "난 쌤이랑도 만난 시간이랑 관계없이 완전 친하다고 생각하고 있는데?",
+      "g_ja": "先生とも、もうマブダチだと思ってるんだけど？",
+      "g_ko": "난 쌤이랑도 만난 시간이랑 관계없이 완전 친하다고 생각하고 있는데?",
+      "g_en": "Like, you and me are super close, Teach! It doesn't matter when we met!",
+      "g_th": "ฉันคิดว่าตัวเองก็สนิทกับครูอยู่นะ ส่วนเรื่องที่ว่าเรารู้จักกันตอนไหนมันไม่สำคัญหรอก",
+      "g_tw": "就像我跟老師雖然認識沒多久，關係也已經很好了不是嗎？",
+      "g_tw_cn": "就像我跟老师虽然认识没多久，关系也已经很好了不是吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;00;난 쌤이랑도 만난 시간이랑 관계없이 완전 친하다고 생각하고 있는데?\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"これが、陽キャ……！\"",
+      "j_ko": " \"엄청난 친화력……. 이것이 인싸……!\"",
+      "g_ja": " \"これが、陽キャ……！\"",
+      "g_ko": " \"엄청난 친화력……. 이것이 인싸……!\"",
+      "g_en": " \"The charisma...! This must be what they call a 'social butterfly.'\"",
+      "g_th": " \"เป็นคนเอ็กซ์โทรเวิร์ตสินะ... เมคเฟรนด์กับคนอื่นเก่งจัง!\"",
+      "g_tw": "「真是可怕的親和力……這就是陽角嗎……！」",
+      "g_tw_cn": "「真是可怕的亲和力……这就是阳角吗……！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"엄청난 친화력……. 이것이 인싸……!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 31,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あははっ、何それウケる！",
+      "j_ko": "아하핫! 이게 뭐 대단한 거라고?",
+      "g_ja": "あははっ、何それウケる！",
+      "g_ko": "아하핫! 이게 뭐 대단한 거라고?",
+      "g_en": "Hahaha! Nah, it's nothing!",
+      "g_th": "อะฮ่าฮ่า! ไม่ได้เป็นเรื่องยิ่งใหญ่อะไรสักหน่อย",
+      "g_tw": "啊哈哈！也沒有那麼厲害啦！",
+      "g_tw_cn": "啊哈哈！也没有那么厉害啦！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;03;아하핫! 이게 뭐 대단한 거라고?\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 32,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "っていうかそれ……もしかして、嫉妬？",
+      "j_ko": "아! 그렇구나! 쌤…… 설마 질투 나서?",
+      "g_ja": "っていうかそれ……もしかして、嫉妬？",
+      "g_ko": "아! 그렇구나! 쌤…… 설마 질투 나서?",
+      "g_en": "Ah, I get it! Were you...jealous, Teach?",
+      "g_th": "อ๊ะ! หรือว่า! ครูอิจฉา... หรือหวงฉันเหรอ?",
+      "g_tw": "啊！我知道了！<br/>老師你……難道是忌妒了嗎？",
+      "g_tw_cn": "啊！我知道了！<br/>老师你……难道是忌妒了吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;02;아! 그렇구나! 쌤…… 설마 질투 나서?\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_02"
+    }
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 33,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あはっ！ごめんごめん♪一緒に帰るから拗ねないでよ～。",
+      "j_ko": "아하핫! 알았어, 알았어! 그럼, 남은 하굣길은 쌤이랑 같이 가는 걸로 할게!",
+      "g_ja": "あはっ！ごめんごめん♪一緒に帰るから拗ねないでよ～。",
+      "g_ko": "아하핫! 알았어, 알았어! 그럼, 남은 하굣길은 쌤이랑 같이 가는 걸로 할게!",
+      "g_en": "Hahaha! Don't worry. I get it now!",
+      "g_th": "อะฮ่าฮ่า! ก็ได้ๆ ถ้างั้นฉันจะกลับบ้านกับครูแล้วกัน จะไม่แวะคุยกับใครเลย!",
+      "g_tw": "啊哈哈！知道了知道了！<br/>那接下來的路就跟老師一起走吧！",
+      "g_tw_cn": "啊哈哈！知道了知道了！<br/>那接下来的路就跟老师一起走吧！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;03;아하핫! 알았어, 알았어! 그럼, 남은 하굣길은 쌤이랑 같이 가는 걸로 할게!\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 34,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 34,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 35,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 883786889
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 35,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 25
+    }
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 37,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 38,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2959583765
+    }
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 40,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 41,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 42,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 46,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1328496042
+    }
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 47,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 47,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "その時にさ、コンビニで急に――",
+      "j_ko": "그래서 그때 편의점에서……",
+      "g_ja": "その時にさ、コンビニで急に――",
+      "g_ko": "그래서 그때 편의점에서……",
+      "g_en": "So at that convenience store...",
+      "g_th": "เพราะงั้น ตอนนั้นฉันก็เลยเข้าไปในร้านสะดวกซื้อ...",
+      "g_tw": "所以我那時候就在便利商店裡……",
+      "g_tw_cn": "所以我那时候就在便利商店里……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "2;키라라;03;그래서 그때 편의점에서……\\n#2;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 48,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あっ、あたしこっちだった！んじゃね！",
+      "j_ko": "앗, 벌써 여기까지 왔네.",
+      "g_ja": "あっ、あたしこっちだった！んじゃね！",
+      "g_ko": "앗, 벌써 여기까지 왔네.",
+      "g_en": "Ack! We're here already!",
+      "g_th": "อ๊ะ มาถึงตรงนี้แล้วเหรอเนี่ย?",
+      "g_tw": "啊，已經到這裡了啊。",
+      "g_tw_cn": "啊，已经到这里了啊。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "2;키라라;02;앗, 벌써 여기까지 왔네.\\n#2;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 49,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03b"
+    }
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 49,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今日も楽しかったよ～！ありがとね、先生♪",
+      "j_ko": "우리 집은 저쪽으로 가야 해서, 아쉽지만 여기서 바이바이 해야 할 듯!",
+      "g_ja": "今日も楽しかったよ～！ありがとね、先生♪",
+      "g_ko": "우리 집은 저쪽으로 가야 해서, 아쉽지만 여기서 바이바이 해야 할 듯!",
+      "g_en": "I live that way, so let's say bye-bye here!",
+      "g_th": "บ้านฉันต้องไปทางนี้ งั้นเราคงต้องบ๊ายบายกันตรงนี้แล้วละ!",
+      "g_tw": "我家要往那個方向走，看來只能在這裡說掰掰了！",
+      "g_tw_cn": "我家要往那个方向走，看来只能在这里说掰掰了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "2;키라라;00;우리 집은 저쪽으로 가야 해서, 아쉽지만 여기서 바이바이 해야 할 듯!\\n#2;m4",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 50,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ふと気になったんだけど……。\"",
+      "j_ko": " \"한 가지만 물어봐도 될까?\"",
+      "g_ja": " \"ふと気になったんだけど……。\"",
+      "g_ko": " \"한 가지만 물어봐도 될까?\"",
+      "g_en": " \"Before you go, can I ask you one thing?\"",
+      "g_th": " \"ครูขอถามอะไรอย่างหนึ่งได้มั้ย?\"",
+      "g_tw": "「可以問你一個問題嗎？」",
+      "g_tw_cn": "「可以问你一个问题吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"한 가지만 물어봐도 될까?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "え？なになに～？",
+      "j_ko": "쌤이 나한테 궁금한 게 있다니 의외인데? 뭔데뭔데?",
+      "g_ja": "え？なになに～？",
+      "g_ko": "쌤이 나한테 궁금한 게 있다니 의외인데? 뭔데뭔데?",
+      "g_en": "A question? For me?! Oh my gosh, what? What is it?",
+      "g_th": "ครูสงสัยเรื่องฉันด้วยเหรอ? เกินคาดเลยแฮะ? เรื่องอะไรเหรอ?",
+      "g_tw": "老師居然會有問題想問我？是什麼是什麼？",
+      "g_tw_cn": "老师居然会有问题想问我？是什么是什么？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "2;키라라;02;쌤이 나한테 궁금한 게 있다니 의외인데? 뭔데뭔데?\\n#2;em;[?]\\n#2;m3",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"キララは部活とか入らないの？\"",
+      "j_ko": " \"키라라는 왜 동아리 활동을 하지 않는 거야?\"",
+      "g_ja": " \"キララは部活とか入らないの？\"",
+      "g_ko": " \"키라라는 왜 동아리 활동을 하지 않는 거야?\"",
+      "g_en": " \"Why not join a club, Kirara?\"",
+      "g_th": " \"ทำไมคิราระไม่ทำกิจกรรมของชมรมเหรอ?\"",
+      "g_tw": "「綺羅羅為什麼不參加社團活動呢？」",
+      "g_tw_cn": "「绮罗罗为什么不参加社团活动呢？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"키라라는 왜 동아리 활동을 하지 않는 거야?\"\\n[s4] \"동아리에 들어가면 친구들을 더 많이 사귈 수 있는 거 아냐?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"この時間に帰るってことは、どこにも入ってないのかなって。\"",
+      "j_ko": " \"동아리에 들어가면 친구들을 더 많이 사귈 수 있는 거 아냐?\"",
+      "g_ja": " \"この時間に帰るってことは、どこにも入ってないのかなって。\"",
+      "g_ko": " \"동아리에 들어가면 친구들을 더 많이 사귈 수 있는 거 아냐?\"",
+      "g_en": " \"Someone like you would make a lot of friends in a club.\"",
+      "g_th": " \"ถ้าได้เข้าชมรมไหนจริงจัง ก็อาจจะได้เจอเพื่อนมากกว่านี้รึเปล่า?\"",
+      "g_tw": "「加入社團的話，不是能交到更多朋友嗎？」",
+      "g_tw_cn": "「加入社团的话，不是能交到更多朋友吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"키라라는 왜 동아리 활동을 하지 않는 거야?\"\\n[s4] \"동아리에 들어가면 친구들을 더 많이 사귈 수 있는 거 아냐?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 55,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あははっ、真面目な顔するから何かと思った！",
+      "j_ko": "뭔가 했더니, 그게 궁금했구나?",
+      "g_ja": "あははっ、真面目な顔するから何かと思った！",
+      "g_ko": "뭔가 했더니, 그게 궁금했구나?",
+      "g_en": "Oh! That's what you wanted to know?",
+      "g_th": "ก็คิดอยู่ว่าสงสัยเรื่องอะไร",
+      "g_tw": "原來老師是好奇這件事啊……",
+      "g_tw_cn": "原来老师是好奇这件事啊……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "2;키라라;00;뭔가 했더니, 그게 궁금했구나?\\n#2;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "んー……一応あたし、部活入ってるよ？",
+      "j_ko": "그치만 나도 동아리가 있는데?",
+      "g_ja": "んー……一応あたし、部活入ってるよ？",
+      "g_ko": "그치만 나도 동아리가 있는데?",
+      "g_en": "But...I am in a club?",
+      "g_th": "แต่ฉันก็มีชมรมที่สังกัดอยู่แล้วนะ?",
+      "g_tw": "可是我也有參加社團呀？",
+      "g_tw_cn": "可是我也有参加社团呀？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "2;키라라;01;그치만 나도 동아리가 있는데?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 57,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まあでも、確かにふつーの「帰宅部」に見えるかもね？",
+      "j_ko": "응? 귀가부라는 건 그냥 부활동 없이 집에 가는 학생들을 부르는 말이 아니냐고?",
+      "g_ja": "まあでも、確かにふつーの「帰宅部」に見えるかもね？",
+      "g_ko": "응? 귀가부라는 건 그냥 부활동 없이 집에 가는 학생들을 부르는 말이 아니냐고?",
+      "g_en": "...Huh? The Go-Home Club is just a fancy name for students who're avoiding club activities?",
+      "g_th": "หืม? คิดว่าชมรมกลับบ้านไม่ใช่ชมรม แต่เป็นคำที่ใช้เรียกนักเรียนที่กลับบ้านเพราะไม่มีกิจกรรมทำ<br/>หลังเลิกเรียนงั้นเหรอ?",
+      "g_tw": "嗯？你說回家部指的不就是那些沒有參加社團，放學後就回家的學生們？",
+      "g_tw_cn": "嗯？你说回家部指的不就是那些没有参加社团，放学后就回家的学生们？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "2;키라라;02;응? 귀가부라는 건 그냥 부활동 없이 집에 가는 학생들을 부르는 말이 아니냐고?\\n#2;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 58,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 58,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふふん、先生には教えてあげちゃおっかな♪",
+      "j_ko": "아하핫~! 쌤! 잘 알고 있네!",
+      "g_ja": "ふふん、先生には教えてあげちゃおっかな♪",
+      "g_ko": "아하핫~! 쌤! 잘 알고 있네!",
+      "g_en": "Hahaha! Teach! Nothing gets past you!",
+      "g_th": "อะฮ่าฮ่า~! ครู! เก่งนะเนี่ย!",
+      "g_tw": "哈哈哈～！老師你很懂嘛！",
+      "g_tw_cn": "哈哈哈～！老师你很懂嘛！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "2;키라라;08;아하핫~! 쌤! 잘 알고 있네!\\n#2;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 59,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "実はちょっと前までは、ほんとに帰宅部だったんだけど……。",
+      "j_ko": "맞아. 얼마 전까지 난 단순한 귀가부였지만……!",
+      "g_ja": "実はちょっと前までは、ほんとに帰宅部だったんだけど……。",
+      "g_ko": "맞아. 얼마 전까지 난 단순한 귀가부였지만……!",
+      "g_en": "You're right. I was technically in the Go-Home Club...",
+      "g_th": "ใช่แล้วละ ก่อนหน้านี้ฉันก็อยู่ในชมรมกลับบ้านนี่ละ...!",
+      "g_tw": "沒錯，雖然到不久之前，我都還只是回家部的成員……！",
+      "g_tw_cn": "没错，虽然到不久之前，我都还只是回家部的成员……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "2;키라라;99;맞아. 얼마 전까지 난 단순한 귀가부였지만……!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 64,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あたしの所属してる部活、その名は――",
+      "j_ko": "이제는 다르다는 말씀!",
+      "g_ja": "あたしの所属してる部活、その名は――",
+      "g_ko": "이제는 다르다는 말씀!",
+      "g_en": "But no longer!",
+      "g_th": "แต่ว่าตอนนี้ไม่ใช่แล้วนะ!",
+      "g_tw": "但現在不一樣了！",
+      "g_tw_cn": "但现在不一样了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;01;이제는 다르다는 말씀!\\n#3;a\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 65,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "「キラキラ部」！",
+      "j_ko": "나, 이번에 완전 특별한 동아리, <반짝반짝부>를 만들었거든!",
+      "g_ja": "「キラキラ部」！",
+      "g_ko": "나, 이번에 완전 특별한 동아리, <반짝반짝부>를 만들었거든!",
+      "g_en": "I made a totally, super special club! The Twinkle Twinkle Club!",
+      "g_th": "ตอนนี้ฉันตั้งชมรมพิเศษอย่าง <ชมรมเปล่งประกาย> ขึ้นมาแล้วน่ะ!",
+      "g_tw": "因為我最近創了一個超級特別的「閃亮亮部」！",
+      "g_tw_cn": "因为我最近创了一个超级特别的「闪亮亮部」！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;00;나, 이번에 완전 특별한 동아리, <반짝반짝부>를 만들었거든!\\n#3;a\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 66,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"キラキラ……部？\"",
+      "j_ko": " \"반짝반짝…… 부?\"",
+      "g_ja": " \"キラキラ……部？\"",
+      "g_ko": " \"반짝반짝…… 부?\"",
+      "g_en": " \"Twinkle Twinkle...Club?\"",
+      "g_th": " \"ชมรม... เปล่งประกาย?\"",
+      "g_tw": "「閃亮亮……部？」",
+      "g_tw_cn": "「闪亮亮……部？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"반짝반짝…… 부?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 67,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "すんごいワクワクして～<br/>めーっちゃキラキラしてる部活！",
+      "j_ko": "응응! 완전 두근거리고, 완전 반짝거리는 동아리야!",
+      "g_ja": "すんごいワクワクして～<br/>めーっちゃキラキラしてる部活！",
+      "g_ko": "응응! 완전 두근거리고, 완전 반짝거리는 동아리야!",
+      "g_en": "You got it! The totally heart-pounding, super twinkling club!",
+      "g_th": "อื้อ! เป็นชมรมที่น่าตื่นเต้นแล้วก็เปล่งประกายจนแสบตาเลยละ!",
+      "g_tw": "嗯嗯！是個能讓人超級心動～而且超級閃亮的社團哦！",
+      "g_tw_cn": "嗯嗯！是个能让人超级心动～而且超级闪亮的社团哦！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;03;응응! 완전 두근거리고, 완전 반짝거리는 동아리야!\\n#3;hophop\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"な、なるほど……？\"",
+      "j_ko": " \"자, 잘 모르겠는데…….\"",
+      "g_ja": " \"な、なるほど……？\"",
+      "g_ko": " \"자, 잘 모르겠는데…….\"",
+      "g_en": " \"I-I'm not following...\"",
+      "g_th": " \"ครูไม่ค่อยเข้าใจเลย...\"",
+      "g_tw": "「我，我有點不太明白……」",
+      "g_tw_cn": "「我，我有点不太明白……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"자, 잘 모르겠는데…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 69,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "普通の部活動も良いんだけど、あたしにはちょーっと合わないかなって。",
+      "j_ko": "보통의 동아리 활동, 운동이라든가, 취미라든가, 여러 가지 동아리 활동을 한다~! 는 건 좋지만, 나랑은 역시 안 맞는 것 같아서 말야!",
+      "g_ja": "普通の部活動も良いんだけど、あたしにはちょーっと合わないかなって。",
+      "g_ko": "보통의 동아리 활동, 운동이라든가, 취미라든가, 여러 가지 동아리 활동을 한다~! 는 건 좋지만, 나랑은 역시 안 맞는 것 같아서 말야!",
+      "g_en": "Sure, the usual club activities like sports, hobbies, or all that other stuff are fun... But don'tcha think they're not really my vibe?",
+      "g_th": "การได้ทำกิจกรรมชมรมทั่วไปอย่างเช่นออกกำลังกายหรือทำงานอดิเรกมันก็ดีอยู่หรอก~! แต่ว่ามันดูไม่ค่อยเข้ากับฉันน่ะ!",
+      "g_tw": "一般社團不是都會做一些有關運動，或者興趣嗜好之類的活動嗎～？<br/>雖然那樣也很好，但我覺得好像不太適合我！",
+      "g_tw_cn": "一般社团不是都会做一些有关运动，或者兴趣嗜好之类的活动吗～？<br/>虽然那样也很好，但我觉得好像不太适合我！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;01;보통의 동아리 활동, 운동이라든가, 취미라든가, 여러 가지 동아리 활동을 한다~! 는 건 좋지만, 나랑은 역시 안 맞는 것 같아서 말야!\\n#3;m4",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "毎日同じ活動してると、同じ人と会うことになるでしょ？",
+      "j_ko": "매번 같은 활동만 하고, 그 동아리에 가입한 애들만 보게 되고…….",
+      "g_ja": "毎日同じ活動してると、同じ人と会うことになるでしょ？",
+      "g_ko": "매번 같은 활동만 하고, 그 동아리에 가입한 애들만 보게 되고…….",
+      "g_en": "I'd be seeing the same people day in and day out...doing the same exact thing every, single day!",
+      "g_th": "ต้องทำแต่กิจกรรมเดิมๆ ทุกครั้ง แล้วก็ได้เจอแต่เพื่อนๆ ในชมรมนั้น...",
+      "g_tw": "每天都做相同的事，和相同社團的成員們膩在一起……",
+      "g_tw_cn": "每天都做相同的事，和相同社团的成员们腻在一起……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;99;매번 같은 활동만 하고, 그 동아리에 가입한 애들만 보게 되고…….\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 71,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それはそれで楽しそうだけどー……<br/>あたしは、もーっと色んな人と会いたいの！",
+      "j_ko": "하루 이틀쯤이면 몰라도, 맨날맨날 보던 사람만 보면 엄~청 지루할 것 같지 않아?",
+      "g_ja": "それはそれで楽しそうだけどー……<br/>あたしは、もーっと色んな人と会いたいの！",
+      "g_ko": "하루 이틀쯤이면 몰라도, 맨날맨날 보던 사람만 보면 엄~청 지루할 것 같지 않아?",
+      "g_en": "That could be kinda fun for a short stint, but can you imagine hanging out with the same people all the time? Boooring!",
+      "g_th": "ถ้าแค่ 1-2 วัน ฉันน่าจะทำได้อยู่ แต่ถ้าได้เจอคนซ้ำๆ เดิมๆ ไปตลอด ครูว่ามันไม่น่าเบื่อไปหน่อยเหรอ?",
+      "g_tw": "如果只有一兩天就算了，但要是每天都和同樣的人見面，你不覺得超級無聊的嗎？",
+      "g_tw_cn": "如果只有一两天就算了，但要是每天都和同样的人见面，你不觉得超级无聊的吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;07;하루 이틀쯤이면 몰라도, 맨날맨날 보던 사람만 보면 엄~청 지루할 것 같지 않아?\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 72,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "だから、そういう部活作ったんだ♪",
+      "j_ko": "그래서 아예 새로 하나 만들었지 뭐야!",
+      "g_ja": "だから、そういう部活作ったんだ♪",
+      "g_ko": "그래서 아예 새로 하나 만들었지 뭐야!",
+      "g_en": "So, that's why I made a brand new club!",
+      "g_th": "เพราะแบบนั้นฉันก็เลยตั้งชมรมขึ้นมาใหม่เลยน่ะ!",
+      "g_tw": "所以我才會乾脆成立一個新社團！",
+      "g_tw_cn": "所以我才会干脆成立一个新社团！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;03;그래서 아예 새로 하나 만들었지 뭐야!\\n#3;jump\\n#3;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 73,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "昨日までは知りもしなかったような、新しい人とお友達になったり……。",
+      "j_ko": "다른 동아리처럼 하나의 활동만 하기보다는…… 오늘처럼 집에 가는 길에 친구를 만나 친해지고……",
+      "g_ja": "昨日までは知りもしなかったような、新しい人とお友達になったり……。",
+      "g_ko": "다른 동아리처럼 하나의 활동만 하기보다는…… 오늘처럼 집에 가는 길에 친구를 만나 친해지고……",
+      "g_en": "We won't be limited to just one focus like other clubs are! We can meet all kinds of people on the way home and make new friends!",
+      "g_th": "แทนที่จะทำกิจกรรมตายตัวอย่างชมรมอื่นๆ... ฉันขอเลือกที่จะเจอเพื่อนใหม่ระหว่างทางกลับบ้าน<br/>อย่างวันนี้...",
+      "g_tw": "比起其他只做單一活動的社團……<br/>我可以像今天一樣，在回家路上結交新的朋友……",
+      "g_tw_cn": "比起其他只做单一活动的社团……<br/>我可以像今天一样，在回家路上结交新的朋友……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;99;다른 동아리처럼 하나의 활동만 하기보다는…… 오늘처럼 집에 가는 길에 친구를 만나 친해지고……\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 74,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03b"
+    }
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 74,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そのままフードコートに寄っておしゃべりしたり……服買いに行ったり……。",
+      "j_ko": "그런 김에 같이 푸드코트에 들러 잡담을 하거나…… 함께 상점가에서 옷을 보러 가거나…….",
+      "g_ja": "そのままフードコートに寄っておしゃべりしたり……服買いに行ったり……。",
+      "g_ko": "그런 김에 같이 푸드코트에 들러 잡담을 하거나…… 함께 상점가에서 옷을 보러 가거나…….",
+      "g_en": "While we're at it, we can go to the food court and gossip...go shopping together...",
+      "g_th": "และถ้าสนิทกันก็จะได้ไปแวะโรงอาหารแล้วก็พูดคุยเรื่องไร้สาระกัน... หรือไม่ก็ไปซื้อเสื้อผ้าที่ย่านการ<br/>ค้าด้วยกัน...",
+      "g_tw": "然後跟他們一起去美食廣場邊逛邊聊……或是去商店街買衣服……",
+      "g_tw_cn": "然后跟他们一起去美食广场边逛边聊……或是去商店街买衣服……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;01;그런 김에 같이 푸드코트에 들러 잡담을 하거나…… 함께 상점가에서 옷을 보러 가거나…….\\n#3;m2",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "歌いたいな～！って思ったら、そのまますぐにカラオケに行ったり……。",
+      "j_ko": "기분이다~! 싶으면 노래방에 들러 노래를 부르거나……",
+      "g_ja": "歌いたいな～！って思ったら、そのまますぐにカラオケに行ったり……。",
+      "g_ko": "기분이다~! 싶으면 노래방에 들러 노래를 부르거나……",
+      "g_en": "Go sing karaoke, if we're in the mood...",
+      "g_th": "แล้วถ้าจู่ๆ เกิดอยากร้องเพลงขึ้นมา~ ก็ชวนกันไปร้องเพลงที่คาราโอเกะด้วยกัน...",
+      "g_tw": "假如正好興致來了，也可以一起去KTV唱歌……",
+      "g_tw_cn": "假如正好兴致来了，也可以一起去KTV唱歌……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;02;기분이다~! 싶으면 노래방에 들러 노래를 부르거나……\\n#3;jump\\n#3;em;[!]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 76,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そうやって、色んなことして遊ぶの♪",
+      "j_ko": "이렇게 같이 노는 거야!",
+      "g_ja": "そうやって、色んなことして遊ぶの♪",
+      "g_ko": "이렇게 같이 노는 거야!",
+      "g_en": "It'll be a total blast!",
+      "g_th": "นี่แหละการเที่ยวเล่นในแบบของฉัน",
+      "g_tw": "反正就是像這樣跟朋友一起玩樂！",
+      "g_tw_cn": "反正就是像这样跟朋友一起玩乐！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;03;이렇게 같이 노는 거야!\\n#3;hophop\\n#3;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 77,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もちろん、絶対に初対面である必要もないし、<br/>買い物やカラオケじゃなくても良いんだけど～。<br/>「とりあえず、楽しく！」が第一かな♪",
+      "j_ko": "물론 꼭 처음 만난 친구일 필요는 없고, 꼭 쇼핑이나 노래방일 필요도 없어. 하지만 '일단 즐겁게'!",
+      "g_ja": "もちろん、絶対に初対面である必要もないし、<br/>買い物やカラオケじゃなくても良いんだけど～。<br/>「とりあえず、楽しく！」が第一かな♪",
+      "g_ko": "물론 꼭 처음 만난 친구일 필요는 없고, 꼭 쇼핑이나 노래방일 필요도 없어. 하지만 '일단 즐겁게'!",
+      "g_en": "Of course, no one has to meet new people or go shopping or to karaoke or anything like that... They just have to have fun!",
+      "g_th": "แน่นอนว่าไม่จำเป็นต้องเป็นเพื่อนที่เพิ่งเคยเจอกันครั้งแรกหรอกนะ แล้วก็ไม่จำเป็นต้องไปช้อปปิ้ง หรือไปคาราโอเกะเท่านั้นด้วย แต่แค่ต้อง 'สนุกไว้ก่อน'!",
+      "g_tw": "當然也不是一定得跟第一次認識的朋友，也沒有一定要去購物或唱歌……<br/>總之重點就是要「玩得盡興」！",
+      "g_tw_cn": "当然也不是一定得跟第一次认识的朋友，也没有一定要去购物或唱歌……<br/>总之重点就是要「玩得尽兴」！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;00;물론 꼭 처음 만난 친구일 필요는 없고, 꼭 쇼핑이나 노래방일 필요도 없어. 하지만 '일단 즐겁게'!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 78,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それがあたし達「キラキラ部」のモットー！",
+      "j_ko": "이게 우리 <반짝반짝부>의 모토야!",
+      "g_ja": "それがあたし達「キラキラ部」のモットー！",
+      "g_ko": "이게 우리 <반짝반짝부>의 모토야!",
+      "g_en": "That's the Twinkle Twinkle Club's motto!",
+      "g_th": "นี่ละคำขวัญของ <ชมรมเปล่งประกาย> ของเรา!",
+      "g_tw": "這就是我們「閃亮亮部」的座右銘！",
+      "g_tw_cn": "这就是我们「闪亮亮部」的座右铭！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;03;이게 우리 <반짝반짝부>의 모토야!\\n#3;greeting\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 79,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_03"
+    }
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 79,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "めっちゃキラキラワクワクしてない？",
+      "j_ko": "어때? 완전 두근거리고 완전 반짝거리지 않아?",
+      "g_ja": "めっちゃキラキラワクワクしてない？",
+      "g_ko": "어때? 완전 두근거리고 완전 반짝거리지 않아?",
+      "g_en": "What do you think? Totally heart pounding, super twinkling! Right?",
+      "g_th": "เป็นไง? ฟังดูน่าตื่นเต้นและเปล่งประกายมากเลยใช่มั้ย?",
+      "g_tw": "怎麼樣？聽起來是不是超級心動、超級閃亮的？",
+      "g_tw_cn": "怎么样？听起来是不是超级心动、超级闪亮的？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;00;어때? 완전 두근거리고 완전 반짝거리지 않아?\\n#3;a\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 80,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"うん、キララらしくて良いね。\"",
+      "j_ko": " \"정말, 키라라 정도의 친화력을 가진 사람만 할 수 있는 말이네.\"",
+      "g_ja": " \"うん、キララらしくて良いね。\"",
+      "g_ko": " \"정말, 키라라 정도의 친화력을 가진 사람만 할 수 있는 말이네.\"",
+      "g_en": " \"Right! This is something only Kirara the Social Butterfly can pull off!\"",
+      "g_th": " \"เป็นชมรมสำหรับคนที่เข้ากับคนอื่นได้ง่ายอย่างคิราระเลยนะ\"",
+      "g_tw": "「真像是綺羅羅這麼有親和力的人會說出來的話呢。」",
+      "g_tw_cn": "「真像是绮罗罗这么有亲和力的人会说出来的话呢。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"정말, 키라라 정도의 친화력을 가진 사람만 할 수 있는 말이네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 81,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 81,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あははっ、そうかな？",
+      "j_ko": "전혀 그렇지 않아~",
+      "g_ja": "あははっ、そうかな？",
+      "g_ko": "전혀 그렇지 않아~",
+      "g_en": "That's where you're wrong!",
+      "g_th": "ไม่ใช่อย่างนั้นซะทีเดียวหรอก~",
+      "g_tw": "才沒有呢～",
+      "g_tw_cn": "才没有呢～",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;08;전혀 그렇지 않아~\\n#3;a",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 82,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ま、好き勝手やってるだけだよ。<br/>先生も、好き勝手にやりたいことしてみない？",
+      "j_ko": "하고 싶다면 선생님도 얼마든지 할 수 있어!",
+      "g_ja": "ま、好き勝手やってるだけだよ。<br/>先生も、好き勝手にやりたいことしてみない？",
+      "g_ko": "하고 싶다면 선생님도 얼마든지 할 수 있어!",
+      "g_en": "You can do it too, Sensei!",
+      "g_th": "ถ้าครูอยากมาทำกิจกรรมด้วยกันก็มาได้ตลอดเลยนะ!",
+      "g_tw": "只要老師想要也可以參加的呀！",
+      "g_tw_cn": "只要老师想要也可以参加的呀！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;02;하고 싶다면 선생님도 얼마든지 할 수 있어!\\n#3;em;[!]\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 83,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あーでも、先生は先生だからダメか！あははっ！",
+      "j_ko": "아…… 근데 선생님은 선생님이라 안 되나~? 아하핫!",
+      "g_ja": "あーでも、先生は先生だからダメか！あははっ！",
+      "g_ko": "아…… 근데 선생님은 선생님이라 안 되나~? 아하핫!",
+      "g_en": "Ah... Maybe not? Since you're a teacher and all...? Hahaha!",
+      "g_th": "อ่า... หรือว่าครูผู้สอนจะเข้าชมรมไม่ได้นะ~? อะฮ่าฮ่า!",
+      "g_tw": "啊……不過老師畢竟是老師，所以好像也不行就是了～？啊哈哈！",
+      "g_tw_cn": "啊……不过老师毕竟是老师，所以好像也不行就是了～？啊哈哈！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;01;아…… 근데 선생님은 선생님이라 안 되나~? 아하핫!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 84,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今日も楽しかったなー♪",
+      "j_ko": "으음~ 그래도 오늘의 부활동은 조금 성공적이었을지도?",
+      "g_ja": "今日も楽しかったなー♪",
+      "g_ko": "으음~ 그래도 오늘의 부활동은 조금 성공적이었을지도?",
+      "g_en": "Hm... But, you know, I think today's club activities were pretty successful!",
+      "g_th": "อืม~ แต่วันนี้การทำกิจกรรมชมรมก็ถือว่าสำเร็จอยู่นะ?",
+      "g_tw": "嗯～不過今天的社團活動應該還算是挺成功的吧？",
+      "g_tw_cn": "嗯～不过今天的社团活动应该还算是挺成功的吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;00;으음~ 그래도 오늘의 부활동은 조금 성공적이었을지도?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 85,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "んー？何でって……。",
+      "j_ko": "응? 왜냐고?",
+      "g_ja": "んー？何でって……。",
+      "g_ko": "응? 왜냐고?",
+      "g_en": "...Hm? Why do I say that?",
+      "g_th": "หืม? ทำไมน่ะเหรอ?",
+      "g_tw": "嗯？你問為什麼？",
+      "g_tw_cn": "嗯？你问为什么？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;02;응? 왜냐고?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 89,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 90,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03b"
+    }
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 91,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03c"
+    }
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 92,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "だってほら、先生とおしゃべりできたじゃん♪マジラッキー！",
+      "j_ko": "그야, 이렇게 쌤을 만나서 수다 떨 수 있었으니까!",
+      "g_ja": "だってほら、先生とおしゃべりできたじゃん♪マジラッキー！",
+      "g_ko": "그야, 이렇게 쌤을 만나서 수다 떨 수 있었으니까!",
+      "g_en": "Well, because I got to meet up with you and have a chat like this!",
+      "g_th": "ก็... เพราะฉันได้เจอครูและได้เม้าท์มอยกันไง!",
+      "g_tw": "那當然是因為我遇見了老師，還和你聊了天啊！",
+      "g_tw_cn": "那当然是因为我遇见了老师，还和你聊了天啊！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;03;그야, 이렇게 쌤을 만나서 수다 떨 수 있었으니까!\\n#3;a\\n#3;closeup\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 93,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生はどーだった？",
+      "j_ko": "쌤은 어때?!",
+      "g_ja": "先生はどーだった？",
+      "g_ko": "쌤은 어때?!",
+      "g_en": "What do you think, Teach?",
+      "g_th": "แล้วครูคิดว่ายังไงล่ะ?!",
+      "g_tw": "老師覺得呢？",
+      "g_tw_cn": "老师觉得呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;01;쌤은 어때?!\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 94,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"私もキララのことをもっと知れて、楽しかったよ。\"",
+      "j_ko": " \"응…… 나도 키라라를 좀 더 알게 된 것 같아, 즐거웠어.\"",
+      "g_ja": " \"私もキララのことをもっと知れて、楽しかったよ。\"",
+      "g_ko": " \"응…… 나도 키라라를 좀 더 알게 된 것 같아, 즐거웠어.\"",
+      "g_en": " \"You're right. And I enjoyed getting to know you a little better, Kirara.\"",
+      "g_th": " \"อืม... ครูก็สนุกนะ เพราะเหมือนจะได้รู้จักคิราระมากขึ้นด้วย\"",
+      "g_tw": "「嗯……我也覺得很開心，感覺好像更認識你了。」",
+      "g_tw_cn": "「嗯……我也觉得很开心，感觉好像更认识你了。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"응…… 나도 키라라를 좀 더 알게 된 것 같아, 즐거웠어.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 95,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あははっ、良いね良いね！",
+      "j_ko": "에헤헷!",
+      "g_ja": "あははっ、良いね良いね！",
+      "g_ko": "에헤헷!",
+      "g_en": "Heeheehee!",
+      "g_th": "ฮิฮิฮิ!",
+      "g_tw": "耶嘿嘿！",
+      "g_tw_cn": "耶嘿嘿！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3617431173,
+    "DataType": "speaker",
+    "Script": "3;키라라;03;에헤헷!\\n#3;em;[반짝]\\n#3;greeting\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

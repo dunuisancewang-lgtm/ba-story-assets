@@ -1,0 +1,2717 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1479631444
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 233
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">\tマナチャージ</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">마나 충전</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">\tマナチャージ</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">마나 충전</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">Recharging Mana</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">เติมมานา</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">魔力補給</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">魔力补给</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;마나 충전",
+    "BGMId": 233,
+    "Sound": "",
+    "BGName": 1479631444,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03b"
+    }
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 4,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03b"
+    }
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ごきげんよう、マスター。",
+      "j_ko": "안녕하십니까, 마스터.",
+      "g_ja": "ごきげんよう、マスター。",
+      "g_ko": "안녕하십니까, 마스터.",
+      "g_en": "Hello, Master.",
+      "g_th": "สวัสดีค่ะมาสเตอร์",
+      "g_tw": "你好，御者。",
+      "g_tw_cn": "你好，御者。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "5;에리;17;안녕하십니까, 마스터.\\n#5;greeting\\n#5;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 6,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いやはや、こうして学院の外に出るのも久しぶりですね。",
+      "j_ko": "이야, 오랜만에 학원 밖을 나와보네요.",
+      "g_ja": "いやはや、こうして学院の外に出るのも久しぶりですね。",
+      "g_ko": "이야, 오랜만에 학원 밖을 나와보네요.",
+      "g_en": "Wow, it's been a while since I've left the academy.",
+      "g_th": "ว้าว ฉันไม่ได้ออกมานอกสถาบันแบบนี้นานแล้วนะคะ",
+      "g_tw": "哎呀，真是好久沒到學院外面走走了呢。",
+      "g_tw_cn": "哎呀，真是好久没到学院外面走走了呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "5;에리;15;이야, 오랜만에 학원 밖을 나와보네요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "わぁ……楽し～なぁ～",
+      "j_ko": "와아, 신난다…….",
+      "g_ja": "わぁ……楽し～なぁ～",
+      "g_ko": "와아, 신난다…….",
+      "g_en": "Hm. How fun...",
+      "g_th": "อ่า ตื่นเต้นจัง...",
+      "g_tw": "哇，真開心……",
+      "g_tw_cn": "哇，真开心……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "5;에리;22;와아, 신난다…….\\n#5;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 8,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"だ、大丈夫……？\"",
+      "j_ko": " \"별로 신나 보이는 표정이 아닌데요…….\"",
+      "g_ja": " \"だ、大丈夫……？\"",
+      "g_ko": " \"별로 신나 보이는 표정이 아닌데요…….\"",
+      "g_en": " \"Are you having fun? You don't seem like it.\"",
+      "g_th": " \"ดูไม่ออกเลยว่าตื่นเต้น...\"",
+      "g_tw": "「你的表情看起來不怎麼開心耶……」",
+      "g_tw_cn": "「你的表情看起来不怎么开心耶……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"별로 신나 보이는 표정이 아닌데요…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ご心配には及びません。",
+      "j_ko": "아니에요.",
+      "g_ja": "ご心配には及びません。",
+      "g_ko": "아니에요.",
+      "g_en": "Well, I am.",
+      "g_th": "เปล่านะคะ",
+      "g_tw": "不是的。",
+      "g_tw_cn": "不是的。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "5;에리;17;아니에요.\\n#5;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 10,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "これでも、最近の私にしては結構テンションが高いんですよ？",
+      "j_ko": "최근 상태 치고는 정말로 신난 거예요.",
+      "g_ja": "これでも、最近の私にしては結構テンションが高いんですよ？",
+      "g_ko": "최근 상태 치고는 정말로 신난 거예요.",
+      "g_en": "At least, compared to how things have been lately.",
+      "g_th": "อย่างน้อยก็ตื่นเต้นกว่าช่วงที่ผ่านมาค่ะ",
+      "g_tw": "以我最近的狀態來說，這已經算是非常開心了。",
+      "g_tw_cn": "以我最近的状态来说，这已经算是非常开心了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "5;에리;15;최근 상태 치고는 정말로 신난 거예요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ですが目を閉じると……試験会場で私が生み出してしまった課題作品……<br/>もとい邪悪<ruby>な魔物の<rp>(</rp><rt>クリーチャー</rt><rp>)</rp></ruby>姿が浮かんで……。",
+      "j_ko": "아직도 눈을 감으면 떠올라요. 시험장에서 제가 만들어낸 사악한 마물이…….",
+      "g_ja": "ですが目を閉じると……試 験会 場で私が生み出してしまった課題作品……<br/>もとい邪 悪 <ruby> な魔物の<rp>(</rp><rt>クリ ーチャー </rt><rp>)</rp></ruby>姿が浮かんで……。",
+      "g_ko": "아직도 눈을 감으면 떠올라요. 시험장에서 제가 만들어낸 사악한 마물이…….",
+      "g_en": "I can still remember it. That abomination I created on canvas in the classroom...",
+      "g_th": "ฉันยังจำมันได้ดีเลยละค่ะ ปีศาจร้ายที่ฉันสร้างขึ้นบนผืนผ้าแคนวาสในห้องเรียน...",
+      "g_tw": "雖然只要一閉上眼睛……眼前就會浮現出我在考場上畫出的那個詭異魔物……",
+      "g_tw_cn": "虽然只要一闭上眼睛……眼前就会浮现出我在考场上画出的那个诡异魔物……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "5;에리;21;아직도 눈을 감으면 떠올라요. 시험장에서 제가 만들어낸 사악한 마물이…….\\n#5;em;[속상함]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Upset",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 14,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Tampe_02"
+    }
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 15,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Close_01"
+    }
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あぁぁっ！また思い出してしまいました！ こういうときこそ忘却魔法を……！",
+      "j_ko": "아아아! 말을 하니까 또 떠올라 버렸어요! 이럴 때는 기억을 지우는 마법을 사용해야……!",
+      "g_ja": "あぁぁっ！また思い出してしまいました！ こういうときこそ忘却魔法を……！",
+      "g_ko": "아아아! 말을 하니까 또 떠올라 버렸어요! 이럴 때는 기억을 지우는 마법을 사용해야……!",
+      "g_en": "Aah! It's in my head again! This calls for memory-erasing magic...",
+      "g_th": "อ๊าาา! พอพูดถึงเรื่องนั้นภาพมันก็เข้ามาในหัวอีกแล้วค่ะ! ในเวลาแบบนี้ต้องใช้เวทมนตร์ลบความทรงจำสินะ...!",
+      "g_tw": "啊啊啊！我又想起來了！<br/>這種時候就必須用消除記憶的魔法……！",
+      "g_tw_cn": "啊啊啊！我又想起来了！<br/>这种时候就必须用消除记忆的魔法……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "5;에리;24;아아아! 말을 하니까 또 떠올라 버렸어요! 이럴 때는 기억을 지우는 마법을 사용해야……!\\n#5;jump\\n#5;closeup\\n#bgshake",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 18,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 19,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Hit_02"
+    }
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 20,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Hit_02"
+    }
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 21,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Hit_02"
+    }
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"わ、わかったから、本で頭を叩くのはやめよう！\"",
+      "j_ko": " \"아, 알겠으니까 책으로 머리 때리는 건 그만둬!\"",
+      "g_ja": " \"わ、わかったから、本で頭を叩くのはやめよう！\"",
+      "g_ko": " \"아, 알겠으니까 책으로 머리 때리는 건 그만둬!\"",
+      "g_en": " \"H-Hitting yourself in the head with a book won't help!\"",
+      "g_th": " \"คะ... ครูเข้าใจแล้ว เลิกเอาหนังสือตีหัวเถอะ!\"",
+      "g_tw": "「好好好，別再拿書敲自己的頭了！」",
+      "g_tw_cn": "「好好好，别再拿书敲自己的头了！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"아, 알겠으니까 책으로 머리 때리는 건 그만둬!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 23,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1479631444
+    }
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 25,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふぅぅぅ……。",
+      "j_ko": "휴우우우…….",
+      "g_ja": "ふぅぅぅ……。",
+      "g_ko": "휴우우우…….",
+      "g_en": "Whew...",
+      "g_th": "ฮู่ว...",
+      "g_tw": "呼……",
+      "g_tw_cn": "呼……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;22;휴우우우…….\\n#3;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 26,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "やはり、別の魔法でこの状況を打破すべきですね。",
+      "j_ko": "아무래도 다른 마법으로 이 상황을 타개해야겠어요.",
+      "g_ja": "やはり、別の魔法でこの状況を打破すべきですね。",
+      "g_ko": "아무래도 다른 마법으로 이 상황을 타개해야겠어요.",
+      "g_en": "A different kind of magic, then, perhaps.",
+      "g_th": "ถ้างั้นคงต้องใช้เวทมนตร์ชนิดอื่นมาคลี่คลายสถานการณ์แล้วค่ะ",
+      "g_tw": "看來得用別的魔法來解決這個狀況。",
+      "g_tw_cn": "看来得用别的魔法来解决这个状况。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;15;아무래도 다른 마법으로 이 상황을 타개해야겠어요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "マスター、どうすればこの枯渇したマナを回復できるのでしょう……？",
+      "j_ko": "그런 이유로, 마스터. 어떻게 해야 저의 고갈된 마나가 회복될까요?",
+      "g_ja": "マスター、どうすればこの枯渇したマナを回復できるのでしょう……？",
+      "g_ko": "그런 이유로, 마스터. 어떻게 해야 저의 고갈된 마나가 회복될까요?",
+      "g_en": "What do you suggest, Master? How should I recover my mana?",
+      "g_th": "เพราะงั้นมาสเตอร์คะ ช่วยแนะนำหน่อยสิคะว่าฉันจะฟื้นฟูมานาของตัวเองยังไงดี?",
+      "g_tw": "御者，要怎麼做才能讓我枯竭的魔力恢復呢？",
+      "g_tw_cn": "御者，要怎么做才能让我枯竭的魔力恢复呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;06;그런 이유로, 마스터. 어떻게 해야 저의 고갈된 마나가 회복될까요?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"空腹の魂を癒やす、回復魔法なら知ってるよ。\"",
+      "j_ko": " \"허기진 영혼을 채워주는 마법은 어때?\"",
+      "g_ja": " \"空腹の魂を癒やす、回復魔法なら知ってるよ。\"",
+      "g_ko": " \"허기진 영혼을 채워주는 마법은 어때?\"",
+      "g_en": " \"I think I know just the spell for a hungry soul.\"",
+      "g_th": " \"เวทมนตร์ที่ช่วยเติมเต็มจิตวิญญาณอันหิวโหยล่ะ เป็นไง?\"",
+      "g_tw": "「用能填滿空虛靈魂的魔法怎麼樣？」",
+      "g_tw_cn": "「用能填满空虚灵魂的魔法怎么样？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"허기진 영혼을 채워주는 마법은 어때?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "おお、なんとも魅力的な響きですね。",
+      "j_ko": "오호, 듣기만 해도 호기심이 생기는 마법이군요.",
+      "g_ja": "おお、なんとも魅力的な響きですね。",
+      "g_ko": "오호, 듣기만 해도 호기심이 생기는 마법이군요.",
+      "g_en": "Ah, you've piqued my interest.",
+      "g_th": "โฮ่ แค่ได้ยินก็ฟังดูน่าสนใจแล้วค่ะ",
+      "g_tw": "哦哦，是個光聽就覺得很神奇的魔法呢。",
+      "g_tw_cn": "哦哦，是个光听就觉得很神奇的魔法呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;17;오호, 듣기만 해도 호기심이 생기는 마법이군요.\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ぜひ試してみたいです！",
+      "j_ko": "좋습니다. 당장 시험해 보죠.",
+      "g_ja": "ぜひ試してみたいです！",
+      "g_ko": "좋습니다. 당장 시험해 보죠.",
+      "g_en": "Let's test that spell. Lead on.",
+      "g_th": "ดีเลยค่ะ เรามาลองเวทมนตร์นั้นกันเถอะค่ะ",
+      "g_tw": "好，那我們馬上去試試看吧。",
+      "g_tw_cn": "好，那我们马上去试试看吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;18;좋습니다. 당장 시험해 보죠.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 32,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 32,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 33,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 34,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2833158623
+    }
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 35,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Bell_02"
+    }
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 36,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 38,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 266
+    }
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 38,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ほお、ここは……？",
+      "j_ko": "오호, 이곳은……?",
+      "g_ja": "ほお、ここは……？",
+      "g_ko": "오호, 이곳은……?",
+      "g_en": "Hm, what is this place?",
+      "g_th": "โฮ่ ที่นี่คือ...?",
+      "g_tw": "哦哦，這裡是……？",
+      "g_tw_cn": "哦哦，这里是……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;02;오호, 이곳은……?\\n#3;em;[?]",
+    "BGMId": 266,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 39,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"いつも来てるラーメン屋だよ。\"",
+      "j_ko": " \"평소에 자주 찾는 라멘집이야.\"",
+      "g_ja": " \"いつも来てるラーメン屋だよ。\"",
+      "g_ko": " \"평소에 자주 찾는 라멘집이야.\"",
+      "g_en": " \"One of my favorite ramen places.\"",
+      "g_th": " \"ร้านราเม็งที่ครูมาบ่อยๆ น่ะ\"",
+      "g_tw": "「是我平時常來的拉麵店。」",
+      "g_tw_cn": "「是我平时常来的拉面店。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"평소에 자주 찾는 라멘집이야.\"\\n[s2] \"사무실에서 가깝고 맛도 훌륭해.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 39,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"オフィスから近くて、味もバッチリ！\"",
+      "j_ko": " \"사무실에서 가깝고 맛도 훌륭해.\"",
+      "g_ja": " \"オフィスから近くて、味もバッチリ！\"",
+      "g_ko": " \"사무실에서 가깝고 맛도 훌륭해.\"",
+      "g_en": " \"It's close to the office, and the food is good.\"",
+      "g_th": " \"ใกล้สำนักงานแล้วก็อร่อยเหาะ\"",
+      "g_tw": "「離辦公室不遠，味道也很棒。」",
+      "g_tw_cn": "「离办公室不远，味道也很棒。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s1] \"평소에 자주 찾는 라멘집이야.\"\\n[s2] \"사무실에서 가깝고 맛도 훌륭해.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 42,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "マスターがよく訪れる場所……。",
+      "j_ko": "마스터가 자주 찾는 장소라…….",
+      "g_ja": "マスターがよく訪れる場所……。",
+      "g_ko": "마스터가 자주 찾는 장소라…….",
+      "g_en": "One of Master's favorites, hm?",
+      "g_th": "สถานที่ที่มาสเตอร์มาบ่อยๆ...",
+      "g_tw": "是御者常來的地方啊……",
+      "g_tw_cn": "是御者常来的地方啊……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;99;마스터가 자주 찾는 장소라…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……なるほど。<br/>鼻先をくすぐるマナの<ruby>残滓<rp>(</rp><rt>ざんし</rt><rp>)</rp></ruby>だけでわかります。",
+      "j_ko": "……그렇군요. <br/>코끝으로 전해지는 마나의 잔재만으로도 알 수 있습니다.",
+      "g_ja": "……なるほど。<br/>鼻先をくすぐるマナの<ruby>残滓<rp>(</rp><rt>ざんし</rt><rp>)</rp></ruby>だけでわかります。",
+      "g_ko": "……그렇군요. <br/>코끝으로 전해지는 마나의 잔재만으로도 알 수 있습니다.",
+      "g_en": "...I see.<br/>I can sense the traces of mana with the tip of my nose.",
+      "g_th": "อย่างนี้นี่เองสินะคะ...<br/>ได้กลิ่นหอมฟุ้งของมานาที่อบอวลอยู่ที่นี่เลยค่ะ",
+      "g_tw": "……原來如此。<br/>光是從鼻尖傳來的魔力殘痕就能感覺得出來……",
+      "g_tw_cn": "……原来如此。<br/>光是从鼻尖传来的魔力残痕就能感觉得出来……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;11;……그렇군요. #n코끝으로 전해지는 마나의 잔재만으로도 알 수 있습니다.\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ここなら確実に、飢えた魂を癒やせそうですね。",
+      "j_ko": "여기라면 확실히 허기진 영혼을 채울 수 있겠군요.",
+      "g_ja": "ここなら確実に、飢えた魂を癒やせそうですね。",
+      "g_ko": "여기라면 확실히 허기진 영혼을 채울 수 있겠군요.",
+      "g_en": "Yes, this will sate my hungry soul.",
+      "g_th": "ถ้าเป็นที่นี่จะต้องเติมเต็มจิตวิญญาณอันหิวโหยได้แน่ๆ ค่ะ",
+      "g_tw": "這裡確實能填滿空虛的靈魂呢。",
+      "g_tw_cn": "这里确实能填满空虚的灵魂呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;01;여기라면 확실히 허기진 영혼을 채울 수 있겠군요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それに、魂だけでなくお腹も空いていましたので……<br/>おっ、あちらの席が空いていますね。",
+      "j_ko": "마침 배도 고픈 참이니 어서 자리에 앉도록 하죠.",
+      "g_ja": "それに、魂だけでなくお腹も空いていましたので……<br/>おっ、あちらの席が空いていますね。",
+      "g_ko": "마침 배도 고픈 참이니 어서 자리에 앉도록 하죠.",
+      "g_en": "And my stomach. Let's have a seat.",
+      "g_th": "ฉันกำลังหิวพอดีเลย เรารีบไปหาที่นั่งกันเถอะค่ะ",
+      "g_tw": "剛好肚子也餓了，我們趕緊找位置坐下吧。",
+      "g_tw_cn": "刚好肚子也饿了，我们赶紧找位置坐下吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;12;마침 배도 고픈 참이니 어서 자리에 앉도록 하죠.\\n#3;em;[재잘]\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 48,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 49,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_DragChair_01"
+    }
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 50,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Clothes_02"
+    }
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 51,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2833158623
+    }
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えっと……マスターのオススメはありますか？",
+      "j_ko": "음, 혹시 마스터가 추천하는 메뉴가 있을까요?",
+      "g_ja": "えっと……マスターのオススメはありますか？",
+      "g_ko": "음, 혹시 마스터가 추천하는 메뉴가 있을까요?",
+      "g_en": "Is there a particular dish you'd recommend, Master?",
+      "g_th": "อืม มาสเตอร์มีเมนูแนะนำบ้างมั้ยคะ?",
+      "g_tw": "唔嗯，御者有比較推薦的餐點嗎？",
+      "g_tw_cn": "唔嗯，御者有比较推荐的餐点吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;12;음, 혹시 마스터가 추천하는 메뉴가 있을까요?\\n#3;em;[?]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 53,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"とんこつかな。\"",
+      "j_ko": " \"난 돈코츠 라멘을 추천해.\"",
+      "g_ja": " \"とんこつかな。\"",
+      "g_ko": " \"난 돈코츠 라멘을 추천해.\"",
+      "g_en": " \"I think you'll like the tonkotsu ramen.\"",
+      "g_th": " \"ขอแนะนำทงคตสึราเม็ง\"",
+      "g_tw": "「我個人推薦豚骨拉麵。」",
+      "g_tw_cn": "「我个人推荐豚骨拉面。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"난 돈코츠 라멘을 추천해.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 54,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふむ……魔力を秘めた骨から、時間を掛けてマナを抽出したものですね。",
+      "j_ko": "오호. 마력을 가득 머금은 뼈로 마나를 진하게 추출한 라멘이군요.",
+      "g_ja": "ふむ……魔力を秘めた骨から、時間を掛けてマナを抽出したものですね。",
+      "g_ko": "오호. 마력을 가득 머금은 뼈로 마나를 진하게 추출한 라멘이군요.",
+      "g_en": "Hmm. Ramen that extracts thick mana from the essence of bones.",
+      "g_th": "โฮ่ ราเม็งที่สกัดมานาเข้มข้นจากกระดูกที่อัดแน่นด้วยพลังเวทสินะคะ",
+      "g_tw": "哦哦，是用蘊含魔力的骨頭熬出的濃厚湯底製成的拉麵啊。",
+      "g_tw_cn": "哦哦，是用蕴含魔力的骨头熬出的浓厚汤底制成的拉面啊。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;02;오호. 마력을 가득 머금은 뼈로 마나를 진하게 추출한 라멘이군요.\\n#3;em;[반응]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 55,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まさに、飢えた魂を癒やすのにふさわしい<ruby>一杯<rp>(</rp><rt>まほう</rt><rp>)</rp></ruby>と言えるでしょう。",
+      "j_ko": "과연. 허기진 영혼을 채우는 마법이라 할 수 있어요.",
+      "g_ja": "まさに、飢えた魂を癒やすのにふさわしい<ruby>一杯<rp>(</rp><rt>まほう</rt><rp>)</rp></ruby>と言えるでしょう。",
+      "g_ko": "과연. 허기진 영혼을 채우는 마법이라 할 수 있어요.",
+      "g_en": "Yes, that'll be quite suitable.",
+      "g_th": "เรียกว่าเป็นเวทมนตร์ที่เติมเต็มจิตวิญญาณอันหิวโหยได้อย่างแท้จริงเลยค่ะ",
+      "g_tw": "確實足以稱之為填滿靈魂的魔法。",
+      "g_tw_cn": "确实足以称之为填满灵魂的魔法。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;11;과연. 허기진 영혼을 채우는 마법이라 할 수 있어요.\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "では、マスターの導きに従い……とんこつラーメンにします！",
+      "j_ko": "그럼 마스터의 추천대로 돈코츠 라멘으로 하겠습니다.",
+      "g_ja": "では、マスターの導きに従い……とんこつラーメンにします！",
+      "g_ko": "그럼 마스터의 추천대로 돈코츠 라멘으로 하겠습니다.",
+      "g_en": "Tonkotsu ramen it is, then.",
+      "g_th": "ถ้างั้นฉันจะสั่งเมนูทงคตสึราเม็งตามที่มาสเตอร์แนะนำค่ะ",
+      "g_tw": "那就依照御者的推薦，來一碗豚骨拉麵吧。",
+      "g_tw_cn": "那就依照御者的推荐，来一碗豚骨拉面吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;03;그럼 마스터의 추천대로 돈코츠 라멘으로 하겠습니다.\\n#3;greeting\\n#3;em;[반짝]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 57,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 58,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（エリと一緒に空腹の魂を満たしていった）",
+      "j_ko": "(이후 에리와 함께 허기진 영혼을 열심히 채웠다.)",
+      "g_ja": "（エリと一緒に空腹の魂を満たしていった）",
+      "g_ko": "(이후 에리와 함께 허기진 영혼을 열심히 채웠다.)",
+      "g_en": "I sat with Eri until our souls were sated.",
+      "g_th": "(หลังจากนั้นคุณครูกับเอริก็ตั้งใจ \"เติม\" มานาให้จิตวิญญาณอันหิวโหยกันอย่างเต็มที่)",
+      "g_tw": "（之後和繪梨一起努力填滿空虛的靈魂）",
+      "g_tw_cn": "（之后和绘梨一起努力填满空虚的灵魂）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(이후 에리와 함께 허기진 영혼을 열심히 채웠다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 61,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_EatNoodle_01"
+    }
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 62,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_EatNoodle_02"
+    }
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 63,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Serving_02"
+    }
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 64,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Bell_02"
+    }
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 65,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2698047655
+    }
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 66,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "はぁ……全身にマナが満ちていくのを感じます。",
+      "j_ko": "후아아, 확실히 마나가 차오르는 느낌이군요.",
+      "g_ja": "はぁ……全身にマナが満ちていくのを感じます。",
+      "g_ko": "후아아, 확실히 마나가 차오르는 느낌이군요.",
+      "g_en": "Phew, I can feel my mana rushing back.",
+      "g_th": "ฮู่ว รู้สึกได้เลยค่ะว่ามานาฟื้นฟูกลับมาแล้ว",
+      "g_tw": "呼啊～確實感覺到魔力在回復呢。",
+      "g_tw_cn": "呼啊～确实感觉到魔力在回复呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;99;후아아, 확실히 마나가 차오르는 느낌이군요.\\n#3;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"魔力が回復したなら、次は図書館でも回ってみようか。\"",
+      "j_ko": " \"배도 채웠으니, 다음엔 도서관에 가보자.\"",
+      "g_ja": " \"魔力が回復したなら、次は図書館でも回ってみようか。\"",
+      "g_ko": " \"배도 채웠으니, 다음엔 도서관에 가보자.\"",
+      "g_en": " \"Now that we've eaten, let's hit the library.\"",
+      "g_th": " \"ตอนนี้เติมพลังจนอิ่มแล้ว เราไปที่ห้องสมุดกันเถอะ\"",
+      "g_tw": "「填飽肚子之後，接下來去圖書館逛逛吧。」",
+      "g_tw_cn": "「填饱肚子之后，接下来去图书馆逛逛吧。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"배도 채웠으니, 다음엔 도서관에 가보자.\"\\n[s4] \"에리가 좋아할 만한 오컬트 서적이 많은 곳을 알아.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"エリの喜びそうなオカルト本がたくさんあるんじゃないかな。\"",
+      "j_ko": " \"에리가 좋아할 만한 오컬트 서적이 많은 곳을 알아.\"",
+      "g_ja": " \"エリの喜びそうなオカルト本がたくさんあるんじゃないかな。\"",
+      "g_ko": " \"에리가 좋아할 만한 오컬트 서적이 많은 곳을 알아.\"",
+      "g_en": " \"I know a place with lots of occult books.\"",
+      "g_th": " \"ครูรู้จักที่ดีๆ ที่มีหนังสือเกี่ยวกับรหัสยศาสตร์ที่เอริชอบด้วย\"",
+      "g_tw": "「應該有很多繪梨會喜歡的神秘學書籍哦。」",
+      "g_tw_cn": "「应该有很多绘梨会喜欢的神秘学书籍哦。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"배도 채웠으니, 다음엔 도서관에 가보자.\"\\n[s4] \"에리가 좋아할 만한 오컬트 서적이 많은 곳을 알아.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 72,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "おおっ、図書館ですか。",
+      "j_ko": "오호, 도서관이라.",
+      "g_ja": "おおっ、図書館ですか。",
+      "g_ko": "오호, 도서관이라.",
+      "g_en": "A library, you say.",
+      "g_th": "โฮ่ ห้องสมุดเหรอคะ",
+      "g_tw": "哦哦，圖書館啊。",
+      "g_tw_cn": "哦哦，图书馆啊。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;02;오호, 도서관이라.\\n#3;em;[반응]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 73,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "オカルト関連もいいですが、うちの学院で禁書指定されている本が気になります。",
+      "j_ko": "오컬트 관련도 좋지만, 저희 학원에서 금서로 지정된 책이 궁금합니다.",
+      "g_ja": "オカルト関連もいいですが、うちの学院で禁書指定されている本が気になります。",
+      "g_ko": "오컬트 관련도 좋지만, 저희 학원에서 금서로 지정된 책이 궁금합니다.",
+      "g_en": "I do have an interest in the occult, of course, but there is one certain book, banned in our academy, that I'd love to get my hands on most of all.",
+      "g_th": "ฉันสนใจในเรื่องรหัสยศาสตร์นะคะ แต่สิ่งที่ฉันสนใจกว่าก็คือหนังสือที่ถูกตราไว้ว่าเป็นหนังสือต้องห้ามของสถาบันค่ะ",
+      "g_tw": "與神秘學有關的書籍當然很好，但我更好奇那些被學院列為禁書的書呢。",
+      "g_tw_cn": "与神秘学有关的书籍当然很好，但我更好奇那些被学院列为禁书的书呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;11;오컬트 관련도 좋지만, 저희 학원에서 금서로 지정된 책이 궁금합니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 74,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "その禁書を読めば、私の魔法もさらに進化することでしょう。にゅふふ。",
+      "j_ko": "그 금서를 읽을 수 있다면 제 마법은 더욱 진화하겠죠. 뉴후후.",
+      "g_ja": "その禁書を読めば、私の魔法もさらに進化することでしょう。にゅふふ。",
+      "g_ko": "그 금서를 읽을 수 있다면 제 마법은 더욱 진화하겠죠. 뉴후후.",
+      "g_en": "If I could only find it, my magic would evolve even further. Nyuhuhu.",
+      "g_th": "ถ้าได้อ่านหนังสือต้องห้ามนั่น เวทมนตร์ของฉันต้องพัฒนาขึ้นกว่านี้แน่นอนเลยค่ะ อุฮุฮุ",
+      "g_tw": "如果能讀到那些禁書，我的魔法一定可以再次進化吧。妞呵呵。",
+      "g_tw_cn": "如果能读到那些禁书，我的魔法一定可以再次进化吧。妞呵呵。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;09;그 금서를 읽을 수 있다면 제 마법은 더욱 진화하겠죠. 뉴후후.\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ワ、ワイルドハントの禁書って……どんな本なの？\"",
+      "j_ko": " \"와, 와일드헌트의 금서? 어떤 책인데?\"",
+      "g_ja": " \"ワ、ワイルドハントの禁書って……どんな本なの？\"",
+      "g_ko": " \"와, 와일드헌트의 금서? 어떤 책인데?\"",
+      "g_en": " \"A-A book banned at Wildhunt? What kind of book is it?\"",
+      "g_th": " \"นะ... หนังสือต้องห้ามของไวลด์ฮันต์เหรอ? หนังสืออะไรน่ะ?\"",
+      "g_tw": "「狂，狂獵的禁書？能舉個例子嗎？」",
+      "g_tw_cn": "「狂，狂猎的禁书？能举个例子吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"와, 와일드헌트의 금서? 어떤 책인데?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "例えば、「あなたにもできるロープワーク入門」です。",
+      "j_ko": "실용 밧줄 매듭법이요.",
+      "g_ja": "例えば、「あなたにもできるロープワーク入門」です。",
+      "g_ko": "실용 밧줄 매듭법이요.",
+      "g_en": "It's called \"Practical Rope Knotting Techniques.\"",
+      "g_th": "หนังสือที่ชื่อว่า \"เทคนิคการผูกเงื่อนเชือกที่ใช้งานได้จริง\" ค่ะ",
+      "g_tw": "比如《實用繩結法》這本書。",
+      "g_tw_cn": "比如《实用绳结法》这本书。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;02;실용 밧줄 매듭법이요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 77,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "多様な結び方を学ぶことで、<br/>いざというときに寮監隊の追跡を逃れる<ruby>術<rp>(</rp><rt>すべ</rt><rp>)</rp></ruby>が増えますからね。",
+      "j_ko": "다양한 매듭법을 알면, 위기의 순간 사감대의 추적을 따돌릴 방법도 늘어나겠죠.",
+      "g_ja": "多様な結び方を学ぶことで、<br/>いざというときに寮監隊の追跡を逃れる<ruby>術<rp>(</rp><rt>すべ</rt><rp>)</rp></ruby>が増えますからね。",
+      "g_ko": "다양한 매듭법을 알면, 위기의 순간 사감대의 추적을 따돌릴 방법도 늘어나겠죠.",
+      "g_en": "If I could master such a skill, the Prefectural Council would never catch me again.",
+      "g_th": "ถ้ารู้เทคนิคการผูกเชือกเงื่อนแบบต่างๆ ก็จะช่วยเพิ่มโอกาสในการหลบหนีการไล่ล่าของฝ่ายดูแลหอพักให้มากขึ้นค่ะ",
+      "g_tw": "假如掌握各種繩結技巧的話，在危急時刻就能多一種擺脫舍監隊追捕的方法了。",
+      "g_tw_cn": "假如掌握各种绳结技巧的话，在危急时刻就能多一种摆脱舍监队追捕的方法了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;13;다양한 매듭법을 알면, 위기의 순간 사감대의 추적을 따돌릴 방법도 늘어나겠죠.\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 78,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"まさか、そんなことで禁書に……？\"",
+      "j_ko": " \"설마 그런 이유 때문에 금서가 된 거야?\"",
+      "g_ja": " \"まさか、そんなことで禁書に……？\"",
+      "g_ko": " \"설마 그런 이유 때문에 금서가 된 거야?\"",
+      "g_en": " \"Is that why that book got banned?\"",
+      "g_th": " \"เพราะงั้นเลยกลายเป็นหนังสือต้องห้ามเหรอ?\"",
+      "g_tw": "「該不會是因為這個理由才成為禁書吧？」",
+      "g_tw_cn": "「该不会是因为这个理由才成为禁书吧？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"설마 그런 이유 때문에 금서가 된 거야?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 79,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いえ。聞いたところによると、別の理由みたいで……。",
+      "j_ko": "아뇨. 듣자 하니 이상한 이유던데…….",
+      "g_ja": "いえ。聞いたところによると、別の理由みたいで……。",
+      "g_ko": "아뇨. 듣자 하니 이상한 이유던데…….",
+      "g_en": "Oh, no. The reason is...far stranger.",
+      "g_th": "เปล่าค่ะ เหตุผลมัน... แปลกกว่านั้นเยอะเลย...",
+      "g_tw": "不。我聽說原因還挺奇怪的……",
+      "g_tw_cn": "不。我听说原因还挺奇怪的……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;02;아뇨. 듣자 하니 이상한 이유던데…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 80,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "なんでも、<br/>あるパフォーマンスアーティストがその本を参考に自分を縛り、街を歩いたとか。",
+      "j_ko": "어떤 행위 예술가가 그 책에 나온 매듭법으로 자기 몸을 묶고 거리를 활보했다더라고요.",
+      "g_ja": "なんでも、<br/>あるパフォーマンスアーティストがその本を参考に自分を縛り、街を歩いたとか。",
+      "g_ko": "어떤 행위 예술가가 그 책에 나온 매듭법으로 자기 몸을 묶고 거리를 활보했다더라고요.",
+      "g_en": "Apparently, there was a performance artist who tied themselves with knots they'd learned from the book and walked around the streets.",
+      "g_th": "ฉันได้ยินมาว่ามีศิลปินคนหนึ่งที่ใช้เชือกผูกตัวเองตามเงื่อนที่เขียนไว้ในหนังสือเล่มนั้น<br/>แล้วเดินไปตามถนนน่ะค่ะ",
+      "g_tw": "好像是有個行為藝術家，用書裡的繩結法把自己綁起來之後跑到街上閒逛的樣子。",
+      "g_tw_cn": "好像是有个行为艺术家，用书里的绳结法把自己绑起来之后跑到街上闲逛的样子。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;99;어떤 행위 예술가가 그 책에 나온 매듭법으로 자기 몸을 묶고 거리를 활보했다더라고요.\\n#3;em;[재잘]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 81,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "「公序良俗に反する縛り方」……だったそうですが、詳細はよくわかりません。",
+      "j_ko": "거북이 모양? 의 매듭이라던데, 어떤 모양이길래 금서가 됐을까요?",
+      "g_ja": "「公序良俗に反する縛り方」……だったそうですが、詳細はよくわかりません。",
+      "g_ko": "거북이 모양? 의 매듭이라던데, 어떤 모양이길래 금서가 됐을까요?",
+      "g_en": "Turtle shaped knots? Something like that. That's all I know.",
+      "g_th": "เป็นเงื่อนรูปเต่าละมั้ง? อะไรประมาณนั้นน่ะค่ะ สงสัยจังว่ามันเป็นปมแบบไหนกันนะคะถึงได้ถูกห้ามแบบนั้น?",
+      "g_tw": "記得是某種「烏龜造型」的繩結？<br/>究竟長什麼模樣才會被列為禁書呢？",
+      "g_tw_cn": "记得是某种「乌龟造型」的绳结？<br/>究竟长什么模样才会被列为禁书呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;01;거북이 모양? 의 매듭이라던데, 어떤 모양이길래 금서가 됐을까요?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 82,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "マスターは何かご存知だったりしますか？",
+      "j_ko": "마스터는 알고 계세요?",
+      "g_ja": "マスターは何かご存知だったりしますか？",
+      "g_ko": "마스터는 알고 계세요?",
+      "g_en": "You...wouldn't know anything about that, would you, Master?",
+      "g_th": "มาสเตอร์รู้รึเปล่าคะ?",
+      "g_tw": "御者你知道嗎？",
+      "g_tw_cn": "御者你知道吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;02;마스터는 알고 계세요?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 83,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ちょっとわからないかな……。\"",
+      "j_ko": " \"모릅니다!!\"",
+      "g_ja": " \"ちょっとわからないかな……。\"",
+      "g_ko": " \"모릅니다!!\"",
+      "g_en": " \"Not at all!!\"",
+      "g_th": " \"ไม่รู้ววววว!!\"",
+      "g_tw": "「完全不知道！！」",
+      "g_tw_cn": "「完全不知道！！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"모릅니다!!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 84,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まあ、実際に本を読めばわかるはずです。",
+      "j_ko": "뭐, 정확한 건 그 책을 확인해 보면 알 수 있겠죠.",
+      "g_ja": "まあ、実際に本を読めばわかるはずです。",
+      "g_ko": "뭐, 정확한 건 그 책을 확인해 보면 알 수 있겠죠.",
+      "g_en": "Well, I suppose I'll find out myself when I read the book.",
+      "g_th": "เอาเถอะค่ะ ถ้าได้อ่านดูเดี๋ยวก็รู้เองนั่นแหละค่ะ",
+      "g_tw": "沒關係，反正只要看那本書就會知道了。",
+      "g_tw_cn": "没关系，反正只要看那本书就会知道了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;11;뭐, 정확한 건 그 책을 확인해 보면 알 수 있겠죠.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 85,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "にゅふふふ、楽しみが増えましたね。",
+      "j_ko": "뉴후후후, 기대가 됩니다요.",
+      "g_ja": "にゅふふふ、楽しみが増えましたね。",
+      "g_ko": "뉴후후후, 기대가 됩니다요.",
+      "g_en": "Nyuhuhu, ah, the anticipation.",
+      "g_th": "อุฮุฮุ ตื่นเต้นรอแล้วละค่ะ",
+      "g_tw": "妞呵呵，真令人期待。",
+      "g_tw_cn": "妞呵呵，真令人期待。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;10;뉴후후후, 기대가 됩니다요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 86,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 87,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（その後、エリと一緒に図書館を訪れ、さまざまな本を読みあさった）",
+      "j_ko": "(이후로 에리와 서점을 돌며 다양한 책을 탐독했다.)",
+      "g_ja": "（その後、エリと一緒に図書館を訪れ、さまざまな本を読みあさった）",
+      "g_ko": "(이후로 에리와 서점을 돌며 다양한 책을 탐독했다.)",
+      "g_en": "Eri and I explored the store and checked out various books.",
+      "g_th": "(จากนั้นคุณครูกับเอริก็แวะไปดูหนังสือประเภทต่างๆ ที่ร้านหนังสือด้วยกัน)",
+      "g_tw": "（之後和繪梨一起在圖書館翻閱了各種書籍）",
+      "g_tw_cn": "（之后和绘梨一起在图书馆翻阅了各种书籍）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(이후로 에리와 서점을 돌며 다양한 책을 탐독했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 88,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3976053942
+    }
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 91,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 92,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Book_01"
+    }
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 95,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 96,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（そのまま色々な場所を巡り、エリの枯渇したマナを回復していった）",
+      "j_ko": "(계속해서 여러 장소를 돌아다니며, 에리의 고갈된 마나 회복을 도왔다.)",
+      "g_ja": "（そのまま色々な場所を巡り、エリの枯渇したマナを回復していった）",
+      "g_ko": "(계속해서 여러 장소를 돌아다니며, 에리의 고갈된 마나 회복을 도왔다.)",
+      "g_en": "To continue recharging her mana, I went all around with her after that.",
+      "g_th": "(ทั้งสองคนไปยังสถานที่ต่างๆ และช่วยเอริเติมมานาให้กลับมาเหมือนเดิม)",
+      "g_tw": "（接著又到各種地方四處逛逛，協助繪梨恢復枯竭的魔力）",
+      "g_tw_cn": "（接着又到各种地方四处逛逛，协助绘梨恢复枯竭的魔力）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(계속해서 여러 장소를 돌아다니며, 에리의 고갈된 마나 회복을 도왔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 97,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1189606028
+    }
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 99,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 102,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_03"
+    }
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 104,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3491937726
+    }
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 106,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 107,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03b"
+    }
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 110,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2805370093
+    }
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 111,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Arcade_01"
+    }
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 112,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_RetroBoom_01"
+    }
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 113,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_RetroSuccess_01"
+    }
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 115,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1693520842
+    }
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 115,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 96,
+    "AbsolutePos": 116,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 4208600133
+    }
+  },
+  {
+    "ActualPos": 97,
+    "AbsolutePos": 118,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 405119386
+    }
+  },
+  {
+    "ActualPos": 98,
+    "AbsolutePos": 119,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 216
+    }
+  },
+  {
+    "ActualPos": 99,
+    "AbsolutePos": 119,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふぁぁ……今日はたっぷり遊びましたね。",
+      "j_ko": "후아아, 정말 실컷 놀았네요.",
+      "g_ja": "ふぁぁ……今日はたっぷり遊びましたね。",
+      "g_ko": "후아아, 정말 실컷 놀았네요.",
+      "g_en": "Phew, this has been quite a joy.",
+      "g_th": "ฮู่ว ไปเดินเที่ยวมาเต็มที่เลยนะคะ",
+      "g_tw": "呼啊～今天玩得真痛快。",
+      "g_tw_cn": "呼啊～今天玩得真痛快。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;99;후아아, 정말 실컷 놀았네요.\\n#3;em;[한숨]",
+    "BGMId": 216,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 100,
+    "AbsolutePos": 120,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "本当にありがとうございました。とっても楽しかったです。",
+      "j_ko": "감사해요, 마스터. 오늘 정말 즐거웠어요.",
+      "g_ja": "本当にありがとうございました。とっても楽しかったです。",
+      "g_ko": "감사해요, 마스터. 오늘 정말 즐거웠어요.",
+      "g_en": "Thank you, Master. It's been a wonderful day.",
+      "g_th": "ขอบคุณนะคะมาสเตอร์ วันนี้สนุกมากเลยค่ะ",
+      "g_tw": "謝謝你，御者。<br/>我今天真的很開心。",
+      "g_tw_cn": "谢谢你，御者。<br/>我今天真的很开心。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;12;감사해요, 마스터. 오늘 정말 즐거웠어요.\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 101,
+    "AbsolutePos": 121,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"私もエリのおかげで楽しかったよ。\"",
+      "j_ko": " \"나도 덕분에 즐거웠어.\"",
+      "g_ja": " \"私もエリのおかげで楽しかったよ。\"",
+      "g_ko": " \"나도 덕분에 즐거웠어.\"",
+      "g_en": " \"Thank you! I enjoyed it too.\"",
+      "g_th": " \"ครูก็สนุกมากเหมือนกัน\"",
+      "g_tw": "「我也很開心哦。」",
+      "g_tw_cn": "「我也很开心哦。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"나도 덕분에 즐거웠어.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 102,
+    "AbsolutePos": 122,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こういう瞬間は……何か記念になるものが欲しくなります。",
+      "j_ko": "뭔가 이 순간을 기념할 만한 것이 있으면 좋겠다는 생각이 드네요.",
+      "g_ja": "こういう瞬間は……何か記念になるものが欲しくなります。",
+      "g_ko": "뭔가 이 순간을 기념할 만한 것이 있으면 좋겠다는 생각이 드네요.",
+      "g_en": "Perhaps a memento is in order.",
+      "g_th": "บางทีถ้ามีอะไรสักอย่างที่เก็บไว้เป็นที่ระลึกถึงช่วงเวลานี้ก็คงดีนะคะ",
+      "g_tw": "真希望能用某個東西紀念一下這一刻呢。",
+      "g_tw_cn": "真希望能用某个东西纪念一下这一刻呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;02;뭔가 이 순간을 기념할 만한 것이 있으면 좋겠다는 생각이 드네요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 103,
+    "AbsolutePos": 123,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "マスター、よければご一緒に写真でも撮りませんか？",
+      "j_ko": "같이 사진이라도 찍을까요?",
+      "g_ja": "マスター、よければご一緒に写真でも撮りませんか？",
+      "g_ko": "같이 사진이라도 찍을까요?",
+      "g_en": "What would you say to a photo together?",
+      "g_th": "เรามาถ่ายรูปด้วยกันดีมั้ยคะ?",
+      "g_tw": "御者，要不要一起拍張照呀？",
+      "g_tw_cn": "御者，要不要一起拍张照呀？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;03;같이 사진이라도 찍을까요?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 104,
+    "AbsolutePos": 124,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"いいね！\"",
+      "j_ko": " \"좋아!\"",
+      "g_ja": " \"いいね！\"",
+      "g_ko": " \"좋아!\"",
+      "g_en": " \"Sounds good!\"",
+      "g_th": " \"เอาสิ!\"",
+      "g_tw": "「好哇！」",
+      "g_tw_cn": "「好哇！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"좋아!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 105,
+    "AbsolutePos": 127,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 106,
+    "AbsolutePos": 129,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "にゅふふ、それでは私が撮りますね。こちらを見て――",
+      "j_ko": "뉴후후, 그럼 제가 찍겠습니다요. 자, 이쪽을 보시고…….",
+      "g_ja": "にゅふふ、それでは私が撮りますね。こちらを見て――",
+      "g_ko": "뉴후후, 그럼 제가 찍겠습니다요. 자, 이쪽을 보시고…….",
+      "g_en": "Nyuhuhu, allow me, then. Look over here...",
+      "g_th": "อุฮุฮุ ฉันจะถ่ายแล้วนะคะ เอ้า มองทางนี้ค่ะ...",
+      "g_tw": "妞呵呵，那就由我來拍吧。<br/>看這邊……",
+      "g_tw_cn": "妞呵呵，那就由我来拍吧。<br/>看这边……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;14;뉴후후, 그럼 제가 찍겠습니다요. 자, 이쪽을 보시고…….\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 107,
+    "AbsolutePos": 130,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いち、にの、さんっ！",
+      "j_ko": "하나, 둘, 셋~!",
+      "g_ja": "いち、にの、さんっ！",
+      "g_ko": "하나, 둘, 셋~!",
+      "g_en": "One, two, three!",
+      "g_th": "หนึ่ง สอง สาม~!",
+      "g_tw": "一，二，三～！",
+      "g_tw_cn": "一，二，三～！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;03;하나, 둘, 셋~!\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 108,
+    "AbsolutePos": 131,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 109,
+    "AbsolutePos": 131,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Snap_02"
+    }
+  },
+  {
+    "ActualPos": 110,
+    "AbsolutePos": 132,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 405119386
+    }
+  },
+  {
+    "ActualPos": 111,
+    "AbsolutePos": 133,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 112,
+    "AbsolutePos": 135,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "さてさて……。",
+      "j_ko": "어디 보자…….",
+      "g_ja": "さてさて……。",
+      "g_ko": "어디 보자…….",
+      "g_en": "Let's see...",
+      "g_th": "ไหนดูซิ...",
+      "g_tw": "我看看……",
+      "g_tw_cn": "我看看……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;01;어디 보자…….\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 113,
+    "AbsolutePos": 136,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "おおっ、よく撮れました！",
+      "j_ko": "오호, 정말 잘 나왔군요.",
+      "g_ja": "おおっ、よく撮れました！",
+      "g_ko": "오호, 정말 잘 나왔군요.",
+      "g_en": "Ah, it came out well.",
+      "g_th": "โฮ่... รูปออกมาสวยเลยค่ะ",
+      "g_tw": "哦哦，拍得真好。",
+      "g_tw_cn": "哦哦，拍得真好。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;02;오호, 정말 잘 나왔군요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 114,
+    "AbsolutePos": 137,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "…….",
+      "g_ja": "……。",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "......",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;12;…….\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 115,
+    "AbsolutePos": 138,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あらためて、写真とはすごく便利なものですよね。",
+      "j_ko": "새삼 느끼지만, 사진은 참 편리하단 말이죠.",
+      "g_ja": "あらためて、写真とはすごく便利なものですよね。",
+      "g_ko": "새삼 느끼지만, 사진은 참 편리하단 말이죠.",
+      "g_en": "Photographs certainly are convenient.",
+      "g_th": "รูปถ่ายนี่สะดวกดีจริงๆ เลยนะคะ",
+      "g_tw": "我又再次感覺到，照片還真方便呢。",
+      "g_tw_cn": "我又再次感觉到，照片还真方便呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;01;새삼 느끼지만, 사진은 참 편리하단 말이죠.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 116,
+    "AbsolutePos": 139,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 117,
+    "AbsolutePos": 139,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ボタンひとつで、目の前の景色をそっくりそのまま切り取れるんですから。",
+      "j_ko": "버튼 하나로 눈앞의 경치를 그대로 잘라낼 수 있으니까요.",
+      "g_ja": "ボタンひとつで、目の前の景色をそっくりそのまま切り取れるんですから。",
+      "g_ko": "버튼 하나로 눈앞의 경치를 그대로 잘라낼 수 있으니까요.",
+      "g_en": "To capture an entire scene with nothing but the push of a button.",
+      "g_th": "แค่กดปุ่มปุ่มเดียวก็เก็บภาพตรงหน้าไว้ได้แล้ว",
+      "g_tw": "只要按一下就能把眼前的景色完整保留下來。",
+      "g_tw_cn": "只要按一下就能把眼前的景色完整保留下来。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;99;버튼 하나로 눈앞의 경치를 그대로 잘라낼 수 있으니까요.\\n#3;m2",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 118,
+    "AbsolutePos": 140,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でも、だからこそ……<br/>写真という強敵の登場に、多くの画家たちが絶望したとも聞きます。",
+      "j_ko": "그래서일까요……? <br/>사진이라는 강적의 등장에 많은 화가들이 절망했다고 해요.",
+      "g_ja": "でも、だからこそ……<br/>写真という強敵の登場に、多くの画家たちが絶望したとも聞きます。",
+      "g_ko": "그래서일까요……? <br/>사진이라는 강적의 등장에 많은 화가들이 절망했다고 해요.",
+      "g_en": "You know, when the camera was first invented, many painters fell into despair, or so I've heard.",
+      "g_th": "อาจเป็นเพราะแบบนั้นละมั้งคะ...? <br/>ถึงเคยพูดกันว่าจิตรกรหลายๆ คนถึงกับรู้สึกสิ้นหวังเลยตอนที่มีการคิดค้นกล้องถ่ายรูปขึ้น",
+      "g_tw": "也許就是因為這樣吧……？<br/>照片這個強敵的登場，讓許多畫家都感到絕望。",
+      "g_tw_cn": "也许就是因为这样吧……？<br/>照片这个强敌的登场，让许多画家都感到绝望。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;05;그래서일까요……? #n사진이라는 강적의 등장에 많은 화가들이 절망했다고 해요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 119,
+    "AbsolutePos": 141,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "目の前のものを映すなら、写真は一瞬。<br/>なのに、苦労して描いた絵よりも評価が集まることだってありますから。",
+      "j_ko": "한순간에 찍어낸 사진이, 오랫동안 고생해서 그린 그림보다 좋은 평가를 받기도 했으니까.",
+      "g_ja": "目の前のものを映すなら、写真は一瞬。<br/>なのに、苦労して描いた絵よりも評価が集まることだってありますから。",
+      "g_ko": "한순간에 찍어낸 사진이, 오랫동안 고생해서 그린 그림보다 좋은 평가를 받기도 했으니까.",
+      "g_en": "Why spend hours or days painting an image when a photograph can do it in a flash?",
+      "g_th": "เพราะบางครั้งภาพที่ถ่ายได้ในชั่วพริบตาก็อาจได้รับการประเมินค่าว่าดีกว่าภาพวาดที่ต้องใช้เวลา<br/>วาดนาน",
+      "g_tw": "只需一瞬間就能拍出的照片，評價甚至比花費漫長時間畫出的作品還高。",
+      "g_tw_cn": "只需一瞬间就能拍出的照片，评价甚至比花费漫长时间画出的作品还高。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;06;한순간에 찍어낸 사진이, 오랫동안 고생해서 그린 그림보다 좋은 평가를 받기도 했으니까.\\n#3;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 120,
+    "AbsolutePos": 142,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03b"
+    }
+  },
+  {
+    "ActualPos": 121,
+    "AbsolutePos": 142,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でも、画家たちは諦めなかった。",
+      "j_ko": "하지만 화가들은 포기하지 않았어요.",
+      "g_ja": "でも、画家たちは諦めなかった。",
+      "g_ko": "하지만 화가들은 포기하지 않았어요.",
+      "g_en": "But those painters didn't give up. Not ever.",
+      "g_th": "แต่พวกจิตรกรก็ไม่ยอมแพ้หรอกนะคะ",
+      "g_tw": "不過畫家們依然沒有放棄。",
+      "g_tw_cn": "不过画家们依然没有放弃。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;99;하지만 화가들은 포기하지 않았어요.\\n#3;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 122,
+    "AbsolutePos": 143,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それぞれの画家だけに見えている「心の風景」や「感覚」を、<br/>キャンバスに写し出していったんです。",
+      "j_ko": "각자 화가들만이 알 수 있는 <마음의 풍경>이나 <감각>을, <br/>캔버스에 그려나간 것이죠.",
+      "g_ja": "それぞれの画家だけに見えている「心の風景」や「感覚」を、<br/>キャンバスに写し出していったんです。",
+      "g_ko": "각자 화가들만이 알 수 있는 <마음의 풍경>이나 <감각>을, <br/>캔버스에 그려나간 것이죠.",
+      "g_en": "They turned inward, painting the \"scenery of the mind,\" the fields of their emotions, things only painters could express, and only on canvas.",
+      "g_th": "เพราะเหล่าจิตรกรแต่ละคนได้ถ่ายทอด <ทัศนียภาพแห่งจิตใจ> หรือ <ผัสสะ> ที่มีเพียงพวกเขาเท่านั้นที่จะรับรู้ได้ลงบนผืนผ้าใบแคนวาสรูปค่ะ",
+      "g_tw": "而是轉而開始在畫布上，描繪只有畫家才能表現的「心靈風景」與「感覺」。",
+      "g_tw_cn": "而是转而开始在画布上，描绘只有画家才能表现的「心灵风景」与「感觉」。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;11;각자 화가들만이 알 수 있는 <마음의 풍경>이나 <감각>을, #n캔버스에 그려나간 것이죠.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 123,
+    "AbsolutePos": 144,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "きっと、当時の方々は「見えないもの」を描き出すことこそが、<br/>絵の強みだと考えたのでしょう。",
+      "j_ko": "분명, 당시의 분들은 <보이지 않는 것>을 그리는 것이야말로, <br/>그림의 장점이라고 생각했을 거예요.",
+      "g_ja": "きっと、当時の方々は「見えないもの」を描き出すことこそが、<br/>絵の強みだと考えたのでしょう。",
+      "g_ko": "분명, 당시의 분들은 <보이지 않는 것>을 그리는 것이야말로, <br/>그림의 장점이라고 생각했을 거예요.",
+      "g_en": "A photograph can capture what's there, but a painting can capture the invisible.",
+      "g_th": "เห็นได้ชัดว่าผู้คนสมัยนั้นคิดว่าการวาด <สิ่งที่มองไม่เห็น> คือจุดแข็งของการวาดภาพค่ะ",
+      "g_tw": "我想當時的人們，應該是認為描繪「看不見的東西」才是繪畫的優勢吧。",
+      "g_tw_cn": "我想当时的人们，应该是认为描绘「看不见的东西」才是绘画的优势吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;13;분명, 당시의 분들은 <보이지 않는 것>을 그리는 것이야말로, #n그림의 장점이라고 생각했을 거예요.\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 124,
+    "AbsolutePos": 145,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そんな画家達の心に作品を通して触れ……<br/>私も、見えないものを描きたいと思ったんです。",
+      "j_ko": "그런 작품에 담긴 화가들의 마음을 보면서…… <br/>저도 보이지 않는 것을 그리고 싶다 생각했어요.",
+      "g_ja": "そんな画家達の心に作品を通して触れ……<br/>私も、見えないものを描きたいと思ったんです。",
+      "g_ko": "그런 작품에 담긴 화가들의 마음을 보면서…… <br/>저도 보이지 않는 것을 그리고 싶다 생각했어요.",
+      "g_en": "When I read about those artists, and saw their work...I wanted to do the same.",
+      "g_th": "เวลาที่มองภาพวาดที่เปี่ยมด้วยจิตใจของเหล่าจิตรกร...<br/>ฉันก็อยากวาดสิ่งที่มองไม่เห็นเหล่านั้นออกมาเหมือนกันค่ะ",
+      "g_tw": "看著那些作品中蘊含的心意……<br/>我也希望自己能畫出看不見的東西。",
+      "g_tw_cn": "看着那些作品中蕴含的心意……<br/>我也希望自己能画出看不见的东西。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;14;그런 작품에 담긴 화가들의 마음을 보면서…… #n저도 보이지 않는 것을 그리고 싶다 생각했어요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 125,
+    "AbsolutePos": 146,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"その気持ちは、今も変わってないんだよね？\"",
+      "j_ko": " \"그 마음은 여전한 거지?\"",
+      "g_ja": " \"その 気 持ちは、今も 変 わってないんだよね？\"",
+      "g_ko": " \"그 마음은 여전한 거지?\"",
+      "g_en": " \"Do you still feel that way?\"",
+      "g_th": " \"ยังรู้สึกแบบนั้นใช่มั้ย?\"",
+      "g_tw": "「這份心意依然還在吧？」",
+      "g_tw_cn": "「这份心意依然还在吧？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그 마음은 여전한 거지?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 126,
+    "AbsolutePos": 147,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もちろんですとも！<br/>私、オカルトと同じくらい絵も好きですから！",
+      "j_ko": "물론이죠! 저는 오컬트만큼이나 그림을 좋아하니까요!",
+      "g_ja": "もちろんですとも！<br/>私、オカルトと同じくらい絵も好きですから！",
+      "g_ko": "물론이죠! 저는 오컬트만큼이나 그림을 좋아하니까요!",
+      "g_en": "Of course! I love the artistry as much as I love the occult.",
+      "g_th": "แน่นอนค่ะ! เพราะฉันรักการวาดรูปมากพอๆ กับเรื่องรหัสยศาสตร์เลยค่ะ!",
+      "g_tw": "當然！我喜歡繪畫的心情，就跟喜歡神秘學是一樣的！",
+      "g_tw_cn": "当然！我喜欢绘画的心情，就跟喜欢神秘学是一样的！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;07;물론이죠! 저는 오컬트만큼이나 그림을 좋아하니까요!\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 127,
+    "AbsolutePos": 148,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "見ていてくださいね！<br/>いつかきっと高名な画家になって――<br/>私の絵がみんなの家に飾られるようにしてみせます！",
+      "j_ko": "두고 보라죠! 언젠간 초 유명한 작가가 되어서 제 그림이 집집마다 걸리는 날이 올 테니까!",
+      "g_ja": "見ていてくださいね！<br/>いつかきっと高名な画家になって――<br/>私の絵がみんなの家に飾られるようにしてみせます！",
+      "g_ko": "두고 보라죠! 언젠간 초 유명한 작가가 되어서 제 그림이 집집마다 걸리는 날이 올 테니까!",
+      "g_en": "Mark my words, one day, I'll be a renowned artist, and my paintings will hang on the walls of every home.",
+      "g_th": "คอยดูได้เลยค่ะ! สักวันหนึ่ง ฉันจะกลายเป็นจิตรกรที่มีชื่อเสียงและทุกๆ บ้านก็จะต้องมีรูปของฉัน<br/>ติดเอาไว้!",
+      "g_tw": "等著瞧吧！<br/>總有一天我會成為超有名的畫家，讓我的作品裝飾在每個人的家裡！",
+      "g_tw_cn": "等着瞧吧！<br/>总有一天我会成为超有名的画家，让我的作品装饰在每个人的家里！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;14;두고 보라죠! 언젠간 초 유명한 작가가 되어서 제 그림이 집집마다 걸리는 날이 올 테니까!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 128,
+    "AbsolutePos": 149,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"私は今すぐにでも飾りたいけど。\"",
+      "j_ko": " \"나는 지금 하나 걸어두고 싶은데.\"",
+      "g_ja": " \"私は今すぐにでも飾りたいけど。\"",
+      "g_ko": " \"나는 지금 하나 걸어두고 싶은데.\"",
+      "g_en": " \"I want to hang one up right now.\"",
+      "g_th": " \"ครูชักอยากได้สักรูปไปแขวนไว้บ้างแล้วสิ\"",
+      "g_tw": "「我現在就想掛一幅耶。」",
+      "g_tw_cn": "「我现在就想挂一幅耶。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"나는 지금 하나 걸어두고 싶은데.\"\\n[s6] \"미리 신청 해둬도 될까?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 129,
+    "AbsolutePos": 149,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"予約って、できる？\"",
+      "j_ko": " \"미리 신청 해둬도 될까?\"",
+      "g_ja": " \"予約って、できる？\"",
+      "g_ko": " \"미리 신청 해둬도 될까?\"",
+      "g_en": " \"Can I put in an early commission?\"",
+      "g_th": " \"ครูจองรูปไว้ก่อนเลยได้มั้ย?\"",
+      "g_tw": "「可以先預約嗎？」",
+      "g_tw_cn": "「可以先预约吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"나는 지금 하나 걸어두고 싶은데.\"\\n[s6] \"미리 신청 해둬도 될까?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 130,
+    "AbsolutePos": 152,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えっ、今すぐですか！？",
+      "j_ko": "네? 지금요?",
+      "g_ja": "えっ、今すぐですか！？",
+      "g_ko": "네? 지금요?",
+      "g_en": "What? Right now?",
+      "g_th": "คะ? ตอนนี้น่ะเหรอคะ?",
+      "g_tw": "咦？現在？",
+      "g_tw_cn": "咦？现在？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;02;네? 지금요?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 131,
+    "AbsolutePos": 153,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そ、それはちょっと難しいですけど……待っててください！<br/>いつか絶対、素敵な絵をプレゼントします！",
+      "j_ko": "지, 지금은 무리지만…… 기다려 주세요! 꼭 멋진 그림을 선물할 테니까!",
+      "g_ja": "そ、それはちょっと難しいですけど……待っててください！<br/>いつか絶対、素敵な絵をプレゼントします！",
+      "g_ko": "지, 지금은 무리지만…… 기다려 주세요! 꼭 멋진 그림을 선물할 테니까!",
+      "g_en": "I-I can't make you one RIGHT now...but if you can wait, I'll be sure to gift you a masterpiece!",
+      "g_th": "ถะ... ถ้าตอนนี้ยังไม่ไหวหรอกค่ะ... ช่วยรอก่อนนะคะ! ฉันจะวาดภาพที่ยอดเยี่ยมให้เป็นของขวัญมาสเตอร์เองค่ะ!",
+      "g_tw": "雖，雖然現在還不行……不過請拭目以待！<br/>我一定會送上最棒的作品的！",
+      "g_tw_cn": "虽，虽然现在还不行……不过请拭目以待！<br/>我一定会送上最棒的作品的！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;17;지, 지금은 무리지만…… 기다려 주세요! 꼭 멋진 그림을 선물할 테니까!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 132,
+    "AbsolutePos": 154,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……うん、こんなところで立ち止まっていられませんよね。",
+      "j_ko": "……그래요. 이렇게 주저앉아 있을 수는 없어.",
+      "g_ja": "……うん、こんなところで立ち止まっていられませんよね。",
+      "g_ko": "……그래요. 이렇게 주저앉아 있을 수는 없어.",
+      "g_en": "...Once I have the time and the inclination to sit still, I mean.",
+      "g_th": "ค่ะ... ฉันจะมัวมาซึมอยู่แบบนี้ไม่ได้",
+      "g_tw": "……嗯，不能再消沉下去了。",
+      "g_tw_cn": "……嗯，不能再消沉下去了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;11;……그래요. 이렇게 주저앉아 있을 수는 없어.\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 133,
+    "AbsolutePos": 155,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ありがとうございます、マスター。おかげで初心を思い出せました。",
+      "j_ko": "감사합니다, 마스터. 덕분에 제가 미술을 하게 된 계기를 떠올릴 수 있었어요.",
+      "g_ja": "ありがとうございます、マスター。おかげで初心を思い出せました。",
+      "g_ko": "감사합니다, 마스터. 덕분에 제가 미술을 하게 된 계기를 떠올릴 수 있었어요.",
+      "g_en": "Thank you, Master. You helped me remember why I started art in the first place.",
+      "g_th": "ขอบคุณนะคะ มาสเตอร์ ที่ช่วยให้ฉันนึกถึงสิ่งที่ผลักดันให้ฉันเลือกเรียนศิลปะได้",
+      "g_tw": "謝謝你，御者。<br/>謝謝你讓我想起了自己開始畫畫的初衷。",
+      "g_tw_cn": "谢谢你，御者。<br/>谢谢你让我想起了自己开始画画的初衷。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;12;감사합니다, 마스터. 덕분에 제가 미술을 하게 된 계기를 떠올릴 수 있었어요.\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 134,
+    "AbsolutePos": 156,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "がんばります！私を信じてくれるマスターのためにも！",
+      "j_ko": "힘내겠습니다! 저를 믿어 주시는 마스터를 위해서라도!",
+      "g_ja": "がんばります！私を信じてくれるマスターのためにも！",
+      "g_ko": "힘내겠습니다! 저를 믿어 주시는 마스터를 위해서라도!",
+      "g_en": "I'll do my best to live up to your belief in me!",
+      "g_th": "ฉันจะพยายามค่ะ! อย่างน้อยก็เพื่อมาสเตอร์ที่เชื่อในตัวฉัน!",
+      "g_tw": "我會繼續努力的！為了相信著我的御者！",
+      "g_tw_cn": "我会继续努力的！为了相信着我的御者！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;14;힘내겠습니다! 저를 믿어 주시는 마스터를 위해서라도!\\n#3;em;[!]\\n#3;jump",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 135,
+    "AbsolutePos": 157,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"うん！応援してるよ！\"",
+      "j_ko": " \"그래! 응원하고 있을게.\"",
+      "g_ja": " \"うん！応援してるよ！\"",
+      "g_ko": " \"그래! 응원하고 있을게.\"",
+      "g_en": " \"Go for it! I'll be rooting for you.\"",
+      "g_th": " ต้องอย่างนี้สิ! ครูเป็นกำลังใจให้นะ\"",
+      "g_tw": "「嗯！我會一直為你加油的。」",
+      "g_tw_cn": "「嗯！我会一直为你加油的。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그래! 응원하고 있을게.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 136,
+    "AbsolutePos": 158,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えへへ……。",
+      "j_ko": "에헤헤헤…….",
+      "g_ja": "えへへ……。",
+      "g_ko": "에헤헤헤…….",
+      "g_en": "Heeheehee...",
+      "g_th": "อ่า แหะๆๆ...",
+      "g_tw": "嘿嘿嘿……",
+      "g_tw_cn": "嘿嘿嘿……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;03;에헤헤헤…….\\n#3;stiff\\n#3;em;[///]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 137,
+    "AbsolutePos": 159,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "本当に、不思議です。",
+      "j_ko": "정말 신기하네요.",
+      "g_ja": "本当に、不思議です。",
+      "g_ko": "정말 신기하네요.",
+      "g_en": "It's fascinating, isn't it?",
+      "g_th": "น่าแปลกจังเลยนะคะ",
+      "g_tw": "真不可思議。",
+      "g_tw_cn": "真不可思议。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;99;정말 신기하네요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 138,
+    "AbsolutePos": 160,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今日、マスターに会うまではずっと気持ちが沈んでいたのに、<br/>今はこんなに元気が湧いて――",
+      "j_ko": "오늘 마스터와 만나기 전까지만 해도 기분이 안 좋았는데, 이렇게나 큰 힘을 얻다니.",
+      "g_ja": "今日、マスタ ーに会うまではずっと気持ちが沈んでいたのに、 <br/>今はこんなに元 気が湧いて――",
+      "g_ko": "오늘 마스터와 만나기 전까지만 해도 기분이 안 좋았는데, 이렇게나 큰 힘을 얻다니.",
+      "g_en": "I was sour and exhausted today until you came along, and now I'm all refreshed.",
+      "g_th": "วันนี้ก่อนที่ฉันจะมาพบกับมาสเตอร์ฉันรู้สึกไม่ดีมากๆ แต่ตอนนี้กลับรู้สึกมีกำลังใจมากขนาดนี้",
+      "g_tw": "明明在見到御者之前心情還很低落，現在卻感覺充滿了力量。",
+      "g_tw_cn": "明明在见到御者之前心情还很低落，现在却感觉充满了力量。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;01;오늘 마스터와 만나기 전까지만 해도 기분이 안 좋았는데, 이렇게나 큰 힘을 얻다니.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 139,
+    "AbsolutePos": 161,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "やっぱりマスター……言霊魔法を会得されていませんか？",
+      "j_ko": "역시 마스터는 언령 마법을 익히신 것 같아요.",
+      "g_ja": "やっぱりマスター……言霊魔法を会得されていませんか？",
+      "g_ko": "역시 마스터는 언령 마법을 익히신 것 같아요.",
+      "g_en": "Your words truly are magic, Master.",
+      "g_th": "อย่างที่คิดเลย มาสเตอร์นี่เชี่ยวชาญเรื่องวัจนมนตราจริงๆ สินะคะ",
+      "g_tw": "御者果然掌握了言靈魔法吧。",
+      "g_tw_cn": "御者果然掌握了言灵魔法吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3188505523,
+    "DataType": "speaker",
+    "Script": "3;에리;03;역시 마스터는 언령 마법을 익히신 것 같아요.\\n#3;em;[하트]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Heart",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 140,
+    "AbsolutePos": 162,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 141,
+    "AbsolutePos": 163,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（表情がすっかり明るくなったエリと、夢の話をたくさんした）",
+      "j_ko": "(한층 밝은 표정이 된 에리와 계속 꿈에 대한 이야기를 나누었다.)",
+      "g_ja": "（表情がすっかり明るくなったエリと、夢の話をたくさんした）",
+      "g_ko": "(한층 밝은 표정이 된 에리와 계속 꿈에 대한 이야기를 나누었다.)",
+      "g_en": "Eri told me more about her dreams, with a smile on her face.",
+      "g_th": "(เอริเล่าถึงความฝันของเธอต่อด้วยสีหน้าที่สดใสขึ้นกว่าเดิม)",
+      "g_tw": "（之後繼續和表情開朗許多的繪梨聊著夢想的話題）",
+      "g_tw_cn": "（之后继续和表情开朗许多的绘梨聊着梦想的话题）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(한층 밝은 표정이 된 에리와 계속 꿈에 대한 이야기를 나누었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 142,
+    "AbsolutePos": 164,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（その後、夜が更ける前に彼女を学院まで送り届けた）",
+      "j_ko": "(이후 밤이 늦기 전에 학교까지 바래다주었다.)",
+      "g_ja": "（その後、夜が更ける前に彼女を学院まで送り届けた）",
+      "g_ko": "(이후 밤이 늦기 전에 학교까지 바래다주었다.)",
+      "g_en": "Before it got too late, I took her back to the academy.",
+      "g_th": "(หลังจากนั้น คุณครูก็ไปส่งเอริที่สถาบันก่อนที่จะดึกจนเกินไป)",
+      "g_tw": "（並在夜深之前將其送回了學院）",
+      "g_tw_cn": "（并在夜深之前将其送回了学院）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(이후 밤이 늦기 전에 학교까지 바래다주었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

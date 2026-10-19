@@ -1,0 +1,710 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">しがらみ</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">해묵은 빚</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\"></span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">해묵은 빚</span>",
+      "g_en": "<span class=\"scenario-cmd-title\"></span>",
+      "g_th": "<span class=\"scenario-cmd-title\"></span>",
+      "g_tw": "<span class=\"scenario-cmd-title\"></span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\"></span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;해묵은 빚",
+    "BGMId": 999,
+    "Sound": "",
+    "BGName": 1047754314,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（カスミの指定した場所に向かった）",
+      "j_ko": "(카스미가 알려준 약속 장소로 찾아갔다.)",
+      "g_ja": "",
+      "g_ko": "(카스미가 알려준 약속 장소로 찾아갔다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(카스미가 알려준 약속 장소로 찾아갔다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2097097935
+    }
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 6,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（カスミが誰かと険悪なムードで話している）",
+      "j_ko": "(카스미가 누군가와 험악한 분위기로 대화하고 있다.)",
+      "g_ja": "",
+      "g_ko": "(카스미가 누군가와 험악한 분위기로 대화하고 있다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(카스미가 누군가와 험악한 분위기로 대화하고 있다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（……見たことない制服の生徒だ）",
+      "j_ko": "(……본 적 없는 교복을 입은 학생이다.)",
+      "g_ja": "",
+      "g_ko": "(……본 적 없는 교복을 입은 학생이다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(……본 적 없는 교복을 입은 학생이다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 8,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 9,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 92
+    }
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 9,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<ruby>鬼怒川<rp>(</rp><rt>きぬがわ</rt><rp>)</rp></ruby>カスミ……抜け出せたと思ったか？",
+      "j_ko": "키누가와 카스미. 벗어난 줄 알았나?",
+      "g_ja": "",
+      "g_ko": "키누가와 카스미. 벗어난 줄 알았나?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 531290039,
+    "DataType": "speaker",
+    "Script": "#na;나레이션 정체불명의 학생;키누가와 카스미. 벗어난 줄 알았나?",
+    "BGMId": 92,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 12,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2097097935
+    }
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そちらの顔色をうかがわなきゃならんのか？",
+      "j_ko": "내가 그쪽 눈치를 왜 봐?",
+      "g_ja": "",
+      "g_ko": "내가 그쪽 눈치를 왜 봐?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3945318135,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복 가운 OFF;15;내가 그쪽 눈치를 왜 봐?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 14,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "違うとでも？",
+      "j_ko": "봐야 할 걸?",
+      "g_ja": "",
+      "g_ko": "봐야 할 걸?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 531290039,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복 가운 OFF;15\\n#na;나레이션 정체불명의 학생;봐야 할 걸?",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 15,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 16,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"カスミ。\"",
+      "j_ko": " \"카스미.\"",
+      "g_ja": "",
+      "g_ko": " \"카스미.\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"카스미.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 19,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2097097935
+    }
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 20,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生？なぜここに……。",
+      "j_ko": "응?",
+      "g_ja": "",
+      "g_ko": "응?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3945318135,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복 가운 OFF;08;응?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 21,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ああ、私が呼んだのだったな。",
+      "j_ko": "어라, 선생님이 왜 여기…… 아, 내가 불렀지, 참.",
+      "g_ja": "",
+      "g_ko": "어라, 선생님이 왜 여기…… 아, 내가 불렀지, 참.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3945318135,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복 가운 OFF;07;어라, 선생님이 왜 여기…… 아, 내가 불렀지, 참.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……先生？",
+      "j_ko": "……선생님?",
+      "g_ja": "",
+      "g_ko": "……선생님?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 531290039,
+    "DataType": "speaker",
+    "Script": "#na;나레이션 정체불명의 학생;……선생님?",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 26,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 27,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今日は運が良かったな、鬼怒川カスミ。",
+      "j_ko": "오늘은 운이 좋았군, 키누가와 카스미.",
+      "g_ja": "",
+      "g_ko": "오늘은 운이 좋았군, 키누가와 카스미.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 531290039,
+    "DataType": "speaker",
+    "Script": "#na;나레이션 정체불명의 학생;오늘은 운이 좋았군, 키누가와 카스미.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 29,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2097097935
+    }
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今日は？<ruby>い<rp>(</rp><rt>・</rt><rp>)</rp></ruby><ruby>つ<rp>(</rp><rt>・</rt><rp>)</rp></ruby><ruby>も<rp>(</rp><rt>・</rt><rp>)</rp></ruby>と間違えているぞ。",
+      "j_ko": "오늘? 나는 항상 재수 좋아.",
+      "g_ja": "",
+      "g_ko": "오늘? 나는 항상 재수 좋아.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3945318135,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복 가운 OFF;10;오늘? 나는 항상 재수 좋아.\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 2097097935,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 31,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "だが気をつけることだ。ボーデンザッツはいつだって見ている。",
+      "j_ko": "하지만 명심해라. 보덴사츠는 주시한다.",
+      "g_ja": "",
+      "g_ko": "하지만 명심해라. 보덴사츠는 주시한다.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 531290039,
+    "DataType": "speaker",
+    "Script": "#na;나레이션 정체불명의 학생;하지만 명심해라. 보덴사츠는 주시한다.",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 32,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あんなどん底からか？好きにすればいいさ。",
+      "j_ko": "그 밑바닥에서? 그래, 평생 올려다봐.",
+      "g_ja": "",
+      "g_ko": "그 밑바닥에서? 그래, 평생 올려다봐.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3945318135,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복 가운 OFF;15;그 밑바닥에서? 그래, 평생 올려다봐.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 35,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 36,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 36,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 37,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2097097935
+    }
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 41,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Gear_02"
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生、すまない！",
+      "j_ko": "아아! 선생님! 이거 미안해서 어쩌나!",
+      "g_ja": "",
+      "g_ko": "아아! 선생님! 이거 미안해서 어쩌나!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;12;아아! 선생님! 이거 미안해서 어쩌나!\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 44,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "呼び出しておいて悪いが、都合が悪くなってしまった。日を改めてくれるか？",
+      "j_ko": "내가 불러냈지만, 오늘은 역시 안 되겠어! 먼저 돌아가줄래?",
+      "g_ja": "",
+      "g_ko": "내가 불러냈지만, 오늘은 역시 안 되겠어! 먼저 돌아가줄래?",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;10;내가 불러냈지만, 오늘은 역시 안 되겠어! 먼저 돌아가줄래?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"大丈夫？\"",
+      "j_ko": " \"괜찮아?\"",
+      "g_ja": "",
+      "g_ko": " \"괜찮아?\"",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"괜찮아?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 46,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もちろん。",
+      "j_ko": "나? 나야 당연히 멀쩡하지.",
+      "g_ja": "",
+      "g_ko": "나? 나야 당연히 멀쩡하지.",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;03;나? 나야 당연히 멀쩡하지.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 49,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 50,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "とにかく、早く帰ってくれ。本当にすまない！",
+      "j_ko": "아무튼, 빨리 들어가. 정말로 미안!",
+      "g_ja": "",
+      "g_ko": "아무튼, 빨리 들어가. 정말로 미안!",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 485774340,
+    "DataType": "speaker",
+    "Script": "3;카스미 수영복;14;아무튼, 빨리 들어가. 정말로 미안!\\n#3;em;[음표]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 51,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 52,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（カスミに強く促され、その場を後にした）",
+      "j_ko": "(결국, 카스미의 강한 권유에 곧바로 돌아오게 되었다.)",
+      "g_ja": "",
+      "g_ko": "(결국, 카스미의 강한 권유에 곧바로 돌아오게 되었다.)",
+      "g_en": "",
+      "g_th": "",
+      "g_tw": "",
+      "g_tw_cn": "",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(결국, 카스미의 강한 권유에 곧바로 돌아오게 되었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

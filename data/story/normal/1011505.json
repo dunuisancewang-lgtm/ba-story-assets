@@ -1,0 +1,2871 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2618893982
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 36
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">野球の面白さ</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">놓칠 수 없는 것</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">野球の面白さ</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">놓칠 수 없는 것</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">What Cannot be Missed</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">สิ่งที่ไม่อาจปล่อยไปได้</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">不能錯過的事物</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">不能错过的事物</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;놓칠 수 없는 것",
+    "BGMId": 36,
+    "Sound": "",
+    "BGName": 2618893982,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_07"
+    }
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 2,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"すごい熱気だね……。\"",
+      "j_ko": " \"엄청난 열기구나…….\"",
+      "g_ja": " \"すごい熱気だね……。\"",
+      "g_ko": " \"엄청난 열기구나…….\"",
+      "g_en": " \"What an incredibly heated game...\"",
+      "g_th": " \"บรรยากาศคึกคักมากเลยนะ...\"",
+      "g_tw": "「好熱血的氣氛……」",
+      "g_tw_cn": "「好热血的气氛……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"엄청난 열기구나…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 3,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今日は永遠のライバル同士の試合ですから！",
+      "j_ko": "네! 이번 경기야말로 유서 깊은 두 라이벌 팀 사이의 경기니까요!",
+      "g_ja": "今日は永遠のライバル同士の試合ですから！",
+      "g_ko": "네! 이번 경기야말로 유서 깊은 두 라이벌 팀 사이의 경기니까요!",
+      "g_en": "Of course it is! These two teams have a long history of being rivals!",
+      "g_th": "ค่ะ! ก็นี่เป็นการแข่งขันระหว่างทีมคู่แข่งในตำนานเลยนี่คะ!",
+      "g_tw": "嗯！兩支歷史悠久的宿敵球隊，將在今天的球賽中展開對決！",
+      "g_tw_cn": "嗯！两支历史悠久的宿敌球队，将在今天的球赛中展开对决！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;레이;03;네! 이번 경기야말로 유서 깊은 두 라이벌 팀 사이의 경기니까요!\\n#3;a\\n#3;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 4,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "両チームのファンは、仲が良いのか悪いのか不思議な関係で有名なんです。",
+      "j_ko": "양 팀의 팬들은 서로, 사이가 좋으면서도 나쁜 기묘한 관계를 형성하고 있는 것으로도 유명하죠!",
+      "g_ja": "両チームのファンは、仲が良いのか悪いのか不思議な関係で有名なんです。",
+      "g_ko": "양 팀의 팬들은 서로, 사이가 좋으면서도 나쁜 기묘한 관계를 형성하고 있는 것으로도 유명하죠!",
+      "g_en": "And their fans have a weird love-hate relationship with each other.",
+      "g_th": "แฟนๆ ของทั้งสองทีมยังขึ้นชื่อเรื่องความสัมพันธ์ที่เป็นมิตร แต่ก็มีบางมุมที่ห้ำหั่นกันเหมือนกันค่ะ",
+      "g_tw": "雙方球迷之間的關係也是出了名的微妙哦。",
+      "g_tw_cn": "双方球迷之间的关系也是出了名的微妙哦。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;레이;14;양 팀의 팬들은 서로, 사이가 좋으면서도 나쁜 기묘한 관계를 형성하고 있는 것으로도 유명하죠!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 5,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "中にはこの試合を「伝統の一戦」って呼ぶ人もいるくらいなんですよ！",
+      "j_ko": "어떤 사람들은 이 두 팀의 경기를, '전통의 일전'이라고 부르기까지 한답니다!",
+      "g_ja": "中にはこの試合を「伝統の一戦」って呼ぶ人もいるくらいなんですよ！",
+      "g_ko": "어떤 사람들은 이 두 팀의 경기를, '전통의 일전'이라고 부르기까지 한답니다!",
+      "g_en": "It's one of the best classic match-ups in baseball history!",
+      "g_th": "บางคนถึงขนาดกับเรียกการแข่งขันระหว่าง 2 ทีมนี้ว่าเป็น 'การต่อสู้ประเพณี' เลยนะคะ",
+      "g_tw": "有些人甚至把兩隊的比賽稱為「傳統大戰」！",
+      "g_tw_cn": "有些人甚至把两队的比赛称为「传统大战」！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;레이;11;어떤 사람들은 이 두 팀의 경기를, '전통의 일전'이라고 부르기까지 한답니다!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 6,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うぅ……うわあん……！",
+      "j_ko": "으앙…… 으아앙……!",
+      "g_ja": "うぅ……うわあん……！",
+      "g_ko": "으앙…… 으아앙……!",
+      "g_en": "Waah... Waaah...!!",
+      "g_th": "แง... แงงง...!",
+      "g_tw": "嗚……嗚哇啊……！",
+      "g_tw_cn": "呜……呜哇啊……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2746145574,
+    "DataType": "speaker",
+    "Script": "#na;???;으앙…… 으아앙……!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 8,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2618893982
+    }
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 8,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あれ？歓声の中に泣き声が……？",
+      "j_ko": "어라? 어딘가에서 환호성 사이에 섞인 울음소리가……?",
+      "g_ja": "あれ？歓声の中に泣き声が……？",
+      "g_ko": "어라? 어딘가에서 환호성 사이에 섞인 울음소리가……?",
+      "g_en": "Huh? Did I hear someone crying in the middle of all that cheering...?",
+      "g_th": "เอ๋? เหมือนได้ยินเสียงร้องไห้ปนมากับเสียงโห่ร้องเลย...?",
+      "g_tw": "咦？歡呼聲之中好像夾雜著哭聲……？",
+      "g_tw_cn": "咦？欢呼声之中好像夹杂着哭声……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;레이;02;어라? 어딘가에서 환호성 사이에 섞인 울음소리가……?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 2618893982,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 12,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "お姉ちゃん……あれ、妹は……どこ……？",
+      "j_ko": "엄마…… 아빠…… 어딨어……?",
+      "g_ja": "お姉ちゃん……あれ、妹は……どこ……？",
+      "g_ko": "엄마…… 아빠…… 어딨어……?",
+      "g_en": "Mom...Dad...where are you...?",
+      "g_th": "พ่อจ๋า... แม่จ๋า... อยู่ไหน...?",
+      "g_tw": "媽媽……爸爸……你們在哪裡……？",
+      "g_tw_cn": "妈妈……爸爸……你们在哪里……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "3;길 잃은 뱁새 남자아이;02;엄마…… 아빠…… 어딨어……?\\n#3;em;[훌쩍]\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Tear",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 13,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "せ、先生！あの子……。",
+      "j_ko": "서, 선생님? 이건…….",
+      "g_ja": "せ、先生！あの子……。",
+      "g_ko": "서, 선생님? 이건…….",
+      "g_en": "S-Sensei, look...",
+      "g_th": "คะ... คุณครู? เด็กคนนี้...",
+      "g_tw": "老，老師？這是……",
+      "g_tw_cn": "老，老师？这是……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;레이;08;서, 선생님? 이건…….\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 14,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"人が多すぎて、はぐれちゃったみたいだね。\"",
+      "j_ko": " \"사람이 너무 많아서, 부모님을 잃어버렸나 봐.\"",
+      "g_ja": " \"人が多すぎて、はぐれちゃったみたいだね。\"",
+      "g_ko": " \"사람이 너무 많아서, 부모님을 잃어버렸나 봐.\"",
+      "g_en": " \"He must've lost his parents in the crowd.\"",
+      "g_th": " \"คนเยอะเกินจนพลัดหลงกับพ่อแม่สินะ\"",
+      "g_tw": "「好像因為人太多的關係，有小朋友跟父母走散了。」",
+      "g_tw_cn": "「好像因为人太多的关系，有小朋友跟父母走散了。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"사람이 너무 많아서, 부모님을 잃어버렸나 봐.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 15,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えっと、こういう時は……。",
+      "j_ko": "어, 어떻게 하죠?",
+      "g_ja": "えっと、こういう時は……。",
+      "g_ko": "어, 어떻게 하죠?",
+      "g_en": "Wh-What should we do?",
+      "g_th": "ทะ... ทำยังไงดีล่ะคะ?",
+      "g_tw": "該，該怎麼辦？",
+      "g_tw_cn": "该，该怎么办？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;레이;04;어, 어떻게 하죠?\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 19,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "とりあえず、球場スタッフのところまで連れて行ってあげましょうか。",
+      "j_ko": "아, 네! 그렇죠! 일단은 야구장 운영 측에 실종 신고를……. 당연한 건데 생각하지 못했네요.",
+      "g_ja": "とりあえず、球場スタッフのところまで連れて行ってあげましょうか。",
+      "g_ko": "아, 네! 그렇죠! 일단은 야구장 운영 측에 실종 신고를……. 당연한 건데 생각하지 못했네요.",
+      "g_en": "Ah, right! I should tell the stadium first. I don't know why I didn't think of that right away.",
+      "g_th": "อ้อ! ใช่แล้วค่ะ! ต้องไปแจ้งทางสนามว่ามีเด็กหลงก่อน... เรื่องง่ายๆ แท้ๆ แต่ฉันคิดไม่ออกได้ยังไงเนี่ย",
+      "g_tw": "啊，對了！應該先跟棒球場的管理單位通報有小朋友走失……<br/>這麼理所當然的事，我竟然沒想到。",
+      "g_tw_cn": "啊，对了！应该先跟棒球场的管理单位通报有小朋友走失……<br/>这么理所当然的事，我竟然没想到。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;레이;02;아, 네! 그렇죠! 일단은 야구장 운영 측에 실종 신고를……. 당연한 건데 생각하지 못했네요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 20,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 20,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生、こっちです！場所は私がわかりますから！",
+      "j_ko": "이쪽으로 오세요, 선생님. 길은 제가 알고 있으니까요.",
+      "g_ja": "先生、こっちです！場所は私がわかりますから！",
+      "g_ko": "이쪽으로 오세요, 선생님. 길은 제가 알고 있으니까요.",
+      "g_en": "Here, follow me, Sensei. I know where to go.",
+      "g_th": "มาทางนี้สิคะ คุณครู ฉันจะบอกทางให้เองค่ะ",
+      "g_tw": "往這邊，老師。我知道該怎麼去。",
+      "g_tw_cn": "往这边，老师。我知道该怎么去。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;레이;01;이쪽으로 오세요, 선생님. 길은 제가 알고 있으니까요.\\n#3;m4",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 23,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_03"
+    }
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 25,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 26,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "大丈夫だよ、家族が見つかるまで、私たちが一緒にいるからね！",
+      "j_ko": "자, 부모님을 찾을 때까지 우리들이 같이 있어 줄게. 괜찮지?",
+      "g_ja": "大丈夫だよ、家族が見つかるまで、私たちが一緒にいるからね！",
+      "g_ko": "자, 부모님을 찾을 때까지 우리들이 같이 있어 줄게. 괜찮지?",
+      "g_en": "And hey, we'll stay with you until you find your parents, okay?",
+      "g_th": "นี่หนู เดี๋ยวพี่กับคุณครูจะอยู่ด้วยจนกว่าจะเจอพ่อแม่นะจ๊ะ ไม่ต้องกลัวนะ",
+      "g_tw": "來，我們會陪你找到媽媽爸爸的。好嗎？",
+      "g_tw_cn": "来，我们会陪你找到妈妈爸爸的。好吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "2;레이;11;자, 부모님을 찾을 때까지 우리들이 같이 있어 줄게. 괜찮지?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 27,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "本当……？",
+      "j_ko": "정말……?",
+      "g_ja": "本当……？",
+      "g_ko": "정말……?",
+      "g_en": "Really...?",
+      "g_th": "จริงนะ...?",
+      "g_tw": "真的嗎……？",
+      "g_tw_cn": "真的吗……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "4;길 잃은 뱁새 남자아이;01;정말……?\\n#4;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 28,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（球場スタッフに案内されて休憩室に通された）",
+      "j_ko": "(그렇게 운영 측에 아이의 실종 신고를 한 뒤.)",
+      "g_ja": "（球場スタッフに案内されて休憩室に通された）",
+      "g_ko": "(그렇게 운영 측에 아이의 실종 신고를 한 뒤.)",
+      "g_en": "And so, we notified the stadium of the lost child.",
+      "g_th": "(หลังจากแจ้งทางสนามกีฬาว่ามีเด็กพลัดหลง)",
+      "g_tw": "（向球場的管理單位報告走失後）",
+      "g_tw_cn": "（向球场的管理单位报告走失后）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그렇게 운영 측에 아이의 실종 신고를 한 뒤.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（迎えが来るまで一緒に待つことにした）",
+      "j_ko": "(아이와 함께 아이의 부모님을 기다리기로 했다.)",
+      "g_ja": "（迎えが来るまで一緒に待つことにした）",
+      "g_ko": "(아이와 함께 아이의 부모님을 기다리기로 했다.)",
+      "g_en": "And we decided to wait for the child's parents with him.",
+      "g_th": "(คุณครูกับเรย์ก็อยู่รอพ่อแม่ของเด็กด้วยกัน)",
+      "g_tw": "（決定和小朋友一起等待孩子的父母）",
+      "g_tw_cn": "（决定和小朋友一起等待孩子的父母）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(아이와 함께 아이의 부모님을 기다리기로 했다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2618893982
+    }
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 31,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 32,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 13
+    }
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 32,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ねぇ、野球って好き？",
+      "j_ko": "그래서 혹시 야구는 좋아하니?",
+      "g_ja": "ねぇ、野球って好き？",
+      "g_ko": "그래서 혹시 야구는 좋아하니?",
+      "g_en": "So, do you like baseball?",
+      "g_th": "หนูชอบเบสบอลหรือเปล่า?",
+      "g_tw": "你喜歡棒球嗎？",
+      "g_tw_cn": "你喜欢棒球吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;10;그래서 혹시 야구는 좋아하니?",
+    "BGMId": 13,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 33,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "わかんない……ついてきただけだし……。",
+      "j_ko": "야구…… 잘 몰라. 그냥 엄마 아빠가 간다길래 따라왔어.",
+      "g_ja": "わかんない……ついてきただけだし……。",
+      "g_ko": "야구…… 잘 몰라. 그냥 엄마 아빠가 간다길래 따라왔어.",
+      "g_en": "Baseball...? I don't know. Mom and Dad do, I guess, or they wouldn't have brought me here.",
+      "g_th": "ผม... ไม่ค่อยรู้เรื่องเบสบอลหรอก แต่พ่อแม่จะมาดู ผมก็เลยตามมาด้วย",
+      "g_tw": "棒球……我看不懂。是媽媽爸爸說要看棒球才來的。",
+      "g_tw_cn": "棒球……我看不懂。是妈妈爸爸说要看棒球才来的。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;01;야구…… 잘 몰라. 그냥 엄마 아빠가 간다길래 따라왔어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でもいなくなっちゃった……もう会えないのかな……。",
+      "j_ko": "그런데 엄마 아빠는 없어졌고, 안 보이고…… 히잉…….",
+      "g_ja": "でもいなくなっちゃった……もう会えないのかな……。",
+      "g_ko": "그런데 엄마 아빠는 없어졌고, 안 보이고…… 히잉…….",
+      "g_en": "But I don't know where they are now... Waah...",
+      "g_th": "แต่พ่อกับแม่หายไปไหนก็ไม่รู้ แล้วจะหาผมเจอหรือเปล่า... ฮืออ...",
+      "g_tw": "可是媽媽爸爸不見了，我找不到他們……嗚嗚……",
+      "g_tw_cn": "可是妈妈爸爸不见了，我找不到他们……呜呜……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;02;그런데 엄마 아빠는 없어졌고, 안 보이고…… 히잉…….\\n#5;stiff\\n#5;em;[훌쩍]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Tear",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 35,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "大丈夫！きっと家族のみんなも、野球に夢中になっちゃってるだけだから。",
+      "j_ko": "괘, 괜찮아. 괜찮아! 우리가 쭉 같이 있어 줄 테니까! ",
+      "g_ja": "大丈夫！きっと家族のみんなも、野球に夢中になっちゃってるだけだから。",
+      "g_ko": "괘, 괜찮아. 괜찮아! 우리가 쭉 같이 있어 줄 테니까! ",
+      "g_en": "I-It's fine. It's okay! We'll stay with you. ",
+      "g_th": "มะ... ไม่ต้องกังวลหรอกน่า ไม่เป็นไรนะ! พวกเราจะอยู่ด้วยจนกว่าพ่อแม่ของหนูจะมาเลย! ",
+      "g_tw": "別，別擔心，不會有事的！我們會一直陪著你！",
+      "g_tw_cn": "别，别担心，不会有事的！我们会一直陪着你！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;08;괘, 괜찮아. 괜찮아! 우리가 쭉 같이 있어 줄 테니까! \\n#1;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 38,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 39,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_BatSwing_04"
+    }
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 40,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_07"
+    }
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 41,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2618893982
+    }
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 41,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あれ？ファウルボールがこっちに……？",
+      "j_ko": "어? 파울 볼이 이쪽으로……?",
+      "g_ja": "あれ？ファウルボールがこっちに……？",
+      "g_ko": "어? 파울 볼이 이쪽으로……?",
+      "g_en": "Huh? Is that a foul ball coming this way...?",
+      "g_th": "หืม? ลูกฟาวล์... มาทางนี้เหรอ...?",
+      "g_tw": "嗯？界外球往這邊……？",
+      "g_tw_cn": "嗯？界外球往这边……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;레이;04;어? 파울 볼이 이쪽으로……?\\n#3;em;[반응]\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Respond",
+    "BGName": 2618893982,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 43,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 43,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "よっ、ほっ……！",
+      "j_ko": "어디, 어디……!",
+      "g_ja": "よっ、ほっ……！",
+      "g_ko": "어디, 어디……!",
+      "g_en": "Oh, here we go...",
+      "g_th": "ไหนดูซิ...!",
+      "g_tw": "我看看……！",
+      "g_tw_cn": "我看看……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;레이;05;어디, 어디……!\\n#3;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 46,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 47,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_04"
+    }
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 49,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Glove_01"
+    }
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 50,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "やった！捕れました！今日はツイてますよ、先生！",
+      "j_ko": "잡았다! 이야, 오늘은 운이 좋은데!",
+      "g_ja": "やった！捕れました！今日はツイてますよ、先生！",
+      "g_ko": "잡았다! 이야, 오늘은 운이 좋은데!",
+      "g_en": "Got it! Woo, my lucky day!",
+      "g_th": "คว้าไว้ได้แล้ว! วันนี้โชคดีจริงๆ เลยนะเนี่ย!",
+      "g_tw": "接到了！<br/>哇，今天運氣真好！",
+      "g_tw_cn": "接到了！<br/>哇，今天运气真好！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;레이;03;잡았다! 이야, 오늘은 운이 좋은데!\\n#3;em;[재잘]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "…….",
+      "g_ja": "……。",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "3;길 잃은 뱁새 남자아이;00;…….\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 55,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 55,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "これ？このボール、欲しい？",
+      "j_ko": "공, 가질래?",
+      "g_ja": "これ？このボール、欲しい？",
+      "g_ko": "공, 가질래?",
+      "g_en": "Would you like to have it?",
+      "g_th": "เอาบอลมั้ย?",
+      "g_tw": "你想不想要這顆球呀？",
+      "g_tw_cn": "你想不想要这颗球呀？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;01\\n3;레이;10;공, 가질래?\\n#3;m2",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 56,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ううん、いらない。おとしものを見つけたら、おまわりさんにわたしなさい。<br/>って、お姉ちゃんが言ってたから。",
+      "j_ko": "야구공……?",
+      "g_ja": "ううん、いらない。おとしものを見つけたら、おまわりさんにわたしなさい。<br/>って、お姉ちゃんが言ってたから。",
+      "g_ko": "야구공……?",
+      "g_en": "A baseball...?",
+      "g_th": "ลูกเบสบอลเหรอ...?",
+      "g_tw": "棒球……？",
+      "g_tw_cn": "棒球……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;01;야구공……?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 57,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ああ、なるほど……このボールは貰っていいボールなんだよ。<br/>実は、野球って他のスポーツとちょっと違うところがあるの。",
+      "j_ko": "야구는 말이지. 다른 공으로 점수를 내는 경기와는 조금 다른 부분이 있어.",
+      "g_ja": "ああ、なるほど……このボールは貰っていいボールなんだよ。<br/>実は、野球って他のスポーツとちょっと違うところがあるの。",
+      "g_ko": "야구는 말이지. 다른 공으로 점수를 내는 경기와는 조금 다른 부분이 있어.",
+      "g_en": "See, baseball's a lot different from other sports that use a ball to score with.",
+      "g_th": "กีฬาเบสบอลน่ะ มันต่างจากกีฬาอื่นๆ ที่ใช้ลูกทำแต้มอยู่นิดหน่อย",
+      "g_tw": "棒球這種運動呢，和其他球類比賽有點不一樣。",
+      "g_tw_cn": "棒球这种运动呢，和其他球模拟赛有点不一样。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;레이;10;야구는 말이지. 다른 공으로 점수를 내는 경기와는 조금 다른 부분이 있어.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 58,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ちがうところ……？",
+      "j_ko": "뭔데……?",
+      "g_ja": "ちがうところ……？",
+      "g_ko": "뭔데……?",
+      "g_en": "How so...?",
+      "g_th": "ยังไงเหรอ...?",
+      "g_tw": "哪裡不一樣……？",
+      "g_tw_cn": "哪里不一样……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;00;뭔데……?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 59,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "他の球技……ボールを使うスポーツだと、ボールを使って点を取るよね？<br/>サッカーとか、バスケットボールとか。",
+      "j_ko": "공으로 점수를 내는 경기에서는 공이 소중해. 그래서 웬만해선 경기 중에 공을 바꾸지 않지. 경기 중에 관중들에게 공을 주지도 않고.",
+      "g_ja": "他の球技……ボールを使うスポーツだと、ボールを使って点を取るよね？<br/>サッカーとか、バスケットボールとか。",
+      "g_ko": "공으로 점수를 내는 경기에서는 공이 소중해. 그래서 웬만해선 경기 중에 공을 바꾸지 않지. 경기 중에 관중들에게 공을 주지도 않고.",
+      "g_en": "Well, with other sports, the ball itself is what scores the points. So they don't usually change it out in mid-game, and they don't give it away to the fans like this.",
+      "g_th": "ในเกมที่ต้องที่ใช้ลูกทำแต้ม ลูกคือสิ่งสำคัญ เพราะแบบนี้เราก็เลยไม่ค่อยเปลี่ยนลูกระหว่างการแข่งขัน แล้วก็จะไม่เอาลูกให้แฟนกีฬาที่มาเชียร์ด้วย",
+      "g_tw": "在用球得分的比賽中，球通常扮演很重要的角色。<br/>所以基本上不太會在比賽中換球，也不會把比賽中的球送給觀眾。",
+      "g_tw_cn": "在用球得分的比赛中，球通常扮演很重要的角色。<br/>所以基本上不太会在比赛中换球，也不会把比赛中的球送给观众。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;레이;14;공으로 점수를 내는 경기에서는 공이 소중해. 그래서 웬만해선 경기 중에 공을 바꾸지 않지. 경기 중에 관중들에게 공을 주지도 않고.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 60,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そういうスポーツだと、試合中にボールを変えたり、<br/>観客にあげちゃったりはしないんだけど……。",
+      "j_ko": "하지만 야구는 약간 달라. 야구에서는 사람이 점수를 내거든. 그래서 공에 집착하지 않아.",
+      "g_ja": "そういうスポーツだと、試合中にボールを変えたり、<br/>観客にあげちゃったりはしないんだけど……。",
+      "g_ko": "하지만 야구는 약간 달라. 야구에서는 사람이 점수를 내거든. 그래서 공에 집착하지 않아.",
+      "g_en": "But baseball's different. In baseball, people score the points. So the ball's less important, and we don't hang onto it as much.",
+      "g_th": "แต่เบสบอลไม่ใช่อย่างนั้น ในกีฬาเบสบอล ผู้เล่นต่างหากที่เป็นฝ่ายทำคะแนน เราก็เลยไม่ยึดติดกับลูก",
+      "g_tw": "不過棒球不太一樣。<br/>棒球是靠人得分的運動，所以重點並不在於球。",
+      "g_tw_cn": "不过棒球不太一样。<br/>棒球是靠人得分的运动，所以重点并不在于球。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;레이;11;하지만 야구는 약간 달라. 야구에서는 사람이 점수를 내거든. 그래서 공에 집착하지 않아.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 61,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でも野球はね、人が得点するスポーツだから、ボールはそんなに大事じゃないんだ。<br/>だからこうやって、試合中でも観客にボールをプレゼントしたりするの！",
+      "j_ko": "그래서 야구는…… 경기 중에도 관중들에게 많은 공을 나눠주고는 해. 이런 식으로. 베푸는 경기라고도 할 수 있지.",
+      "g_ja": "でも野球はね、人が得点するスポーツだから、ボールはそんなに大事じゃないんだ。<br/>だからこうやって、試合中でも観客にボールをプレゼントしたりするの！",
+      "g_ko": "그래서 야구는…… 경기 중에도 관중들에게 많은 공을 나눠주고는 해. 이런 식으로. 베푸는 경기라고도 할 수 있지.",
+      "g_en": "And even in the middle of the game, if a ball goes flying out to a fan, the fan gets to keep it. It's a game that gives.",
+      "g_th": "และเพราะแบบนี้... ในกีฬาเบสบอลก็เลยมีการให้ลูกกับแฟนๆ ที่มาเชียร์ แม้จะอยู่ระหว่างการแข่งขัน<br/>ก็ตาม จะเรียกว่าเป็นเกมแห่งการให้ก็ยังได้",
+      "g_tw": "棒球比賽中……也會像這樣分送很多球給觀眾。<br/>可以算是一種代表「分享」的比賽吧。",
+      "g_tw_cn": "棒球比赛中……也会像这样分送很多球给观众。<br/>可以算是一种代表「分享」的比赛吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;레이;10;그래서 야구는…… 경기 중에도 관중들에게 많은 공을 나눠주고는 해. 이런 식으로. 베푸는 경기라고도 할 수 있지.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 62,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ボールは遠くへ飛んで、選手たち<ruby>は家に<rp>(</rp><rt>ホームベース</rt><rp>)</rp></ruby>帰ってくる……どう？カッコよくない？",
+      "j_ko": "공들은 떠나고, 사람은 <ruby>  집  <rp>(</rp><rt>홈 플레이트</rt><rp>)</rp></ruby>으로 돌아오는 경기. 멋지지 않니?",
+      "g_ja": "ボールは遠くへ飛んで、選手たち<ruby>は家に<rp>(</rp><rt>ホームベース</rt><rp>)</rp></ruby>帰ってくる……どう？カッコよくない？",
+      "g_ko": "공들은 떠나고, 사람은 <ruby>  집  <rp>(</rp><rt>홈 플레이트</rt><rp>)</rp></ruby>으로 돌아오는 경기. 멋지지 않니?",
+      "g_en": "The ball just follows the fan home. Isn't that amazing?",
+      "g_th": "เกมที่บอลถูกโยนออกไป ส่วนคนก็กลับบ้านหรือโฮมเพลต เจ๋งใช่มั้ยล่ะ?",
+      "g_tw": "雖然球會離開，但人會回<ruby>到家裡<rp>(</rp><rt>本壘</rt><rp>)</rp></ruby>……不覺得很棒嗎？",
+      "g_tw_cn": "虽然球会离开，但人会回<ruby>到家里<rp>(</rp><rt>本垒</rt><rp>)</rp></ruby>……不觉得很棒吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;레이;14;공들은 떠나고, 사람은 [ruby=홈 플레이트]  집  [/ruby]으로 돌아오는 경기. 멋지지 않니?\\n#3;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 63,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うーん……よく分かんない……。",
+      "j_ko": "그런 거 몰라…….",
+      "g_ja": "うーん……よく分かんない……。",
+      "g_ko": "그런 거 몰라…….",
+      "g_en": "Eh, I guess.",
+      "g_th": "เรื่องแบบนั้นผมไม่อินหรอก...",
+      "g_tw": "我不太懂……",
+      "g_tw_cn": "我不太懂……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;00;그런 거 몰라…….\\n#5;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 64,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そ、そっか……説明が難しかったかな……。",
+      "j_ko": "그, 그러니……?",
+      "g_ja": "そ、そっか……説明が難しかったかな……。",
+      "g_ko": "그, 그러니……?",
+      "g_en": "Y-You guess?!",
+      "g_th": "งะ... งั้นเหรอ...?",
+      "g_tw": "是，是嗎……？",
+      "g_tw_cn": "是，是吗……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;레이;08;그, 그러니……?\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 67,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 68,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_GloveHandling_01"
+    }
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 69,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Glove_02"
+    }
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 70,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Whistle_01"
+    }
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<スリーストライク……アウト！>",
+      "j_ko": "<쓰리 스트라이크…… 아웃!>",
+      "g_ja": "<スリーストライク……アウト！>",
+      "g_ko": "<쓰리 스트라이크…… 아웃!>",
+      "g_en": "Strike three! You're out!",
+      "g_th": "<ทรี สไตรค์... เอาต์!>",
+      "g_tw": "「三好球……三振出局！」",
+      "g_tw_cn": "「三好球……三振出局！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1593491180,
+    "DataType": "speaker",
+    "Script": "#na;심판;<쓰리 스트라이크…… 아웃!>",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 73,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_07"
+    }
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 74,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2618893982
+    }
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 74,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 74,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "見て！三振！アウトだよ！さっきのファウルでストライクが一つ増えて、バッターが焦ったんだ。",
+      "j_ko": "저거 봐! 삼진 아웃이야! 조금 전 파울로 스트라이크 카운트가 하나 늘었으니까, 타자가 조급해진 거야!",
+      "g_ja": "見て！三振！アウトだよ！さっきのファウルでストライクが一つ増えて、バッターが焦ったんだ。",
+      "g_ko": "저거 봐! 삼진 아웃이야! 조금 전 파울로 스트라이크 카운트가 하나 늘었으니까, 타자가 조급해진 거야!",
+      "g_en": "Ah, did you see that? That foul ball made the batter impatient.",
+      "g_th": "ดูนั่นสิ! เอาต์เพราะตีลูกไม่ถูก 3 ครั้ง! ลูกฟาวล์เมื่อกี้นี้ทำให้จำนวนสไตรค์เพิ่มมาอีกหนึ่ง แบตเตอร์ก็เลยเริ่มใจร้อนสินะ!",
+      "g_tw": "你看！是三振出局！<br/>剛才因為界外球讓好球數增加，所以打者開始心急了！",
+      "g_tw_cn": "你看！是三振出局！<br/>刚才因为界外球让好球数增加，所以打者开始心急了！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;00\\n1;레이;03;저거 봐! 삼진 아웃이야! 조금 전 파울로 스트라이크 카운트가 하나 늘었으니까, 타자가 조급해진 거야!\\n#1;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 2618893982,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それを狙って下に落ちる変化球でバッターを揺さぶって……",
+      "j_ko": "그걸 노려서 한 번 아래로 떨어지는 변화구로 심리전을 유도한 다음…….",
+      "g_ja": "それを狙って下に落ちる変化球でバッターを揺さぶって……",
+      "g_ko": "그걸 노려서 한 번 아래로 떨어지는 변화구로 심리전을 유도한 다음…….",
+      "g_en": "The pitcher took advantage of that, and faked like they were going to throw a falling curve ball...",
+      "g_th": "พิชเชอร์ก็เลยสร้างสงครามประสาทด้วยการทำเหมือนจะโยนลูกโค้งลงข้างล่าง...",
+      "g_tw": "看準這個機會，用一顆下墜的變化球引發心理戰……",
+      "g_tw_cn": "看准这个机会，用一颗下坠的变化球引发心理战……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;10;그걸 노려서 한 번 아래로 떨어지는 변화구로 심리전을 유도한 다음…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "最後は真ん中にズバッと直球を決めて、堂々とアウトを取る！これぞ真っ向勝負！",
+      "j_ko": "가운데에 강하게 꽃아 넣는 직구로, 아웃카운트를 당당하게 잡아낸 거지! 정면 승부야!",
+      "g_ja": "最後は真ん中にズバッと直球を決めて、堂々とアウトを取る！これぞ真っ向勝負！",
+      "g_ko": "가운데에 강하게 꽃아 넣는 직구로, 아웃카운트를 당당하게 잡아낸 거지! 정면 승부야!",
+      "g_en": "Then, boom! Fastball straight to the center! What a showdown!",
+      "g_th": "แล้วก็ขว้างลูกตรงแรงๆ เข้าตรงกลางให้ครบ 3 เอาต์ไปเลย! นี่ละการแข่งขันแบบเผชิญหน้ากันตรงๆ!",
+      "g_tw": "然後用強勢逼近中心的直球，堂堂正正把出局數拿下！<br/>跟打者正面對決！",
+      "g_tw_cn": "然后用强势逼近中心的直球，堂堂正正把出局数拿下！<br/>跟打者正面对决！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;11;가운데에 강하게 꽃아 넣는 직구로, 아웃카운트를 당당하게 잡아낸 거지! 정면 승부야!\\n#1;em;[재잘]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 79,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 79,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_BoomEffect_01"
+    }
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 80,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Boom_02"
+    }
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 80,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "わかんない……おもしろくない！",
+      "j_ko": "그런 거 몰라! 모른다구!",
+      "g_ja": "わかんない……おもしろくない！",
+      "g_ko": "그런 거 몰라! 모른다구!",
+      "g_en": "I don't even know what any of that means!",
+      "g_th": "เรื่องแบบนั้นผมไม่รู้หรอก! ไม่เห็นจะเข้าใจเลย!",
+      "g_tw": "我聽不懂！完全聽不懂啦！",
+      "g_tw_cn": "我听不懂！完全听不懂啦！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;02;그런 거 몰라! 모른다구!\\n#5;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 81,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 9
+    }
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 81,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "お姉ちゃん、全然探しに来てくれないし……どうせ私より野球のほうが好きなんだ。",
+      "j_ko": "엄마 아빠는 분명 나보다 야구가 좋은 걸 거야……. 이렇게 될 때까지 찾아와 주지도 않고…….",
+      "g_ja": "お姉ちゃん、全然探しに来てくれないし……どうせ私より野球のほうが好きなんだ。",
+      "g_ko": "엄마 아빠는 분명 나보다 야구가 좋은 걸 거야……. 이렇게 될 때까지 찾아와 주지도 않고…….",
+      "g_en": "...But I bet Mom and Dad do. They must REALLY care about this game. They haven't even come to find me yet.",
+      "g_th": "พ่อกับแม่ต้องชอบเบสบอลมากกว่าชอบผมแน่... ผมหายไปแท้ๆ แต่ก็ไม่มาหา...",
+      "g_tw": "媽媽爸爸比起我更喜歡棒球……<br/>我都不見這麼久了，居然還不來找我……",
+      "g_tw_cn": "妈妈爸爸比起我更喜欢棒球……<br/>我都不见这么久了，居然还不来找我……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;01;엄마 아빠는 분명 나보다 야구가 좋은 걸 거야……. 이렇게 될 때까지 찾아와 주지도 않고…….\\n#5;stiff",
+    "BGMId": 9,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 82,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_02"
+    }
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 82,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "野球なんて全然おもしろくない！",
+      "j_ko": "야구가 뭐가 재밌다고! 농구나 축구처럼 빨리 뛰지도 않고, 뭐가 휙휙 바뀌는 것도 아니고!",
+      "g_ja": "野球なんて全然おもしろくない！",
+      "g_ko": "야구가 뭐가 재밌다고! 농구나 축구처럼 빨리 뛰지도 않고, 뭐가 휙휙 바뀌는 것도 아니고!",
+      "g_en": "Why DO they care, anyway? This game's boring. It's just a bunch of people standing around. Not like basketball or soccer...",
+      "g_th": "เบสบอลมันมีอะไรน่าสนุกนักหนา! ไม่เห็นต้องวิ่งให้เร็ว แล้วก็ไม่มีอะไรให้ตื่นเต้นเหมือนบาสเก็ตบอล<br/>หรือฟุตบอลด้วย!",
+      "g_tw": "棒球到底有什麼好玩的！<br/>既不像籃球足球會到處跑來跑去，又要打半天！",
+      "g_tw_cn": "棒球到底有什么好玩的！<br/>既不像篮球足球会到处跑来跑去，又要打半天！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;01;야구가 뭐가 재밌다고! 농구나 축구처럼 빨리 뛰지도 않고, 뭐가 휙휙 바뀌는 것도 아니고!\\n#5;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 83,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ただ立ってるだけで、ボールが来たら打つだけじゃん……。",
+      "j_ko": "공 잡을 때도 그냥 멍하니 서 있다가, 가까이 오는 거 잡는 게 전부고…….",
+      "g_ja": "ただ立ってるだけで、ボールが来たら打つだけじゃん……。",
+      "g_ko": "공 잡을 때도 그냥 멍하니 서 있다가, 가까이 오는 거 잡는 게 전부고…….",
+      "g_en": "Even when they catch the ball, they just run a little bit and then stop again...",
+      "g_th": "ตอนรับลูกก็แค่ยืนเหม่อ แล้วค่อยรับตอนลูกลอยเข้ามาใกล้ๆ...",
+      "g_tw": "接球的時候也只是呆呆站著，讓球飛進手套裡而已……",
+      "g_tw_cn": "接球的时候也只是呆呆站着，让球飞进手套里而已……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;01;공 잡을 때도 그냥 멍하니 서 있다가, 가까이 오는 거 잡는 게 전부고…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 84,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "全然おもしろくない！お姉ちゃん嫌い！……野球も大嫌い！",
+      "j_ko": "이게 뭐야! 엄마도 아빠도 다 미워……. 야구도 미워!",
+      "g_ja": "全然おもしろくない！お姉ちゃん嫌い！……野球も大嫌い！",
+      "g_ko": "이게 뭐야! 엄마도 아빠도 다 미워……. 야구도 미워!",
+      "g_en": "This sucks! I hate Mom, I hate Dad... I hate baseball!",
+      "g_th": "มันสนุกตรงไหน! ผมเกลียดทั้งพ่อแม่... ทั้งเบสบอลเลย!",
+      "g_tw": "什麼跟什麼嘛！<br/>我討厭媽媽爸爸……也討厭棒球！",
+      "g_tw_cn": "什么跟什么嘛！<br/>我讨厌妈妈爸爸……也讨厌棒球！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;02;이게 뭐야! 엄마도 아빠도 다 미워……. 야구도 미워!\\n#5;em;[훌쩍]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Tear",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 85,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "…….",
+      "g_ja": "……。",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;길 잃은 뱁새 남자아이;00;…….\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 86,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（野球が、面白くない……？）",
+      "j_ko": "(야구가, 재미없다…….)",
+      "g_ja": "（野球が、面白くない……？）",
+      "g_ko": "(야구가, 재미없다…….)",
+      "g_en": "(Baseball is boring...?)",
+      "g_th": "(เบสบอลไม่สนุกงั้นเหรอ...)",
+      "g_tw": "（棒球不好玩……？）",
+      "g_tw_cn": "（棒球不好玩……？）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;99;(야구가, 재미없다…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 87,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（そういえば、私も小さい頃はそう思ってたな……）",
+      "j_ko": "(그러고 보면, 아주 어릴 때는 나도…….)",
+      "g_ja": "（そういえば、私も小さい頃はそう思ってたな……）",
+      "g_ko": "(그러고 보면, 아주 어릴 때는 나도…….)",
+      "g_en": "(Now that I think about it, I might have said the same thing at that age.)",
+      "g_th": "(จะว่าไป ตอนยังเด็กมากๆ เราก็...)",
+      "g_tw": "（這麼說來，其實我很小的時候也……）",
+      "g_tw_cn": "（这么说来，其实我很小的时候也……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;01;(그러고 보면, 아주 어릴 때는 나도…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 88,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 88,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ねぇ、知ってる？野球って「面白くない」のが正しいスポーツなんだよ。",
+      "j_ko": "그거 아니? 야구는 원래, 재미없게 플레이하는 게 맞는 스포츠라는 걸.",
+      "g_ja": "ねぇ、知ってる？野球って「面白くない」のが正しいスポーツなんだよ。",
+      "g_ko": "그거 아니? 야구는 원래, 재미없게 플레이하는 게 맞는 스포츠라는 걸.",
+      "g_en": "Here's the thing. Baseball's SUPPOSED to be boring.",
+      "g_th": "รู้อะไรหรือเปล่า? เดิมทีแล้วเบสบอลไม่ใช่กีฬาที่เล่นเอาสนุกหรอกนะ",
+      "g_tw": "你知道嗎？<br/>棒球這種運動，本來就是要打得無聊才算成功哦。",
+      "g_tw_cn": "你知道吗？<br/>棒球这种运动，本来就是要打得无聊才算成功哦。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;02;그거 아니? 야구는 원래, 재미없게 플레이하는 게 맞는 스포츠라는 걸.\\n#1;m2",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 89,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"えっ、そうなの？\"",
+      "j_ko": " \"그건 저도 흥미가 생기는 이야기로군요. 레이 해설가님.\"",
+      "g_ja": " \"えっ、そうなの？\"",
+      "g_ko": " \"그건 저도 흥미가 생기는 이야기로군요. 레이 해설가님.\"",
+      "g_en": " \"That's an interesting statement, Commentator Rei.\"",
+      "g_th": " \"ฟังดูน่าสนใจเลยนะ มันเป็นยังไงเหรอคุณนักวิเคราะห์?\"",
+      "g_tw": "「這種說法聽起來真有趣呢，莉解說員。」",
+      "g_tw_cn": "「这种说法听起来真有趣呢，莉解说员。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"그건 저도 흥미가 생기는 이야기로군요. 레이 해설가님.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 90,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "せ、先生もですか……？",
+      "j_ko": "서, 선생님도요……?",
+      "g_ja": "せ、先生もですか……？",
+      "g_ko": "서, 선생님도요……?",
+      "g_en": "H-Hang on, Sensei...",
+      "g_th": "คะ... คุณครูก็สงสัยเหรอคะ...?",
+      "g_tw": "怎，怎麼連老師也……？",
+      "g_tw_cn": "怎，怎么连老师也……？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;08;서, 선생님도요……?\\n#1;em;[땀]\\n#1;stiff",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 93,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 94,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えっと、つまり、野球で大事なのは、淡々と1イニングを抑えることなんだよね。",
+      "j_ko": "크흠. 그러니까 이런 거야. 야구에서 가장 중요한 목적은 재미없게 한 이닝을 막아내는 거지.",
+      "g_ja": "えっと、つまり、野球で大事なのは、淡々と1イニングを抑えることなんだよね。",
+      "g_ko": "크흠. 그러니까 이런 거야. 야구에서 가장 중요한 목적은 재미없게 한 이닝을 막아내는 거지.",
+      "g_en": "*cough* So it's like this. When you're playing defense in baseball, you want everything to stick to the same routine.",
+      "g_th": "อะแฮ่ม ในกีฬาเบสบอลน่ะ เป้าหมายที่สำคัญที่สุดคือการปิดอินนิ่งที่ไม่สนุกให้ได้",
+      "g_tw": "咳哼，事情是這樣的。<br/>棒球最重要的目標，是要先無趣平靜地守完一局。",
+      "g_tw_cn": "咳哼，事情是这样的。<br/>棒球最重要的目标，是要先无趣平静地守完一局。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;12;크흠. 그러니까 이런 거야. 야구에서 가장 중요한 목적은 재미없게 한 이닝을 막아내는 거지.\\n#1;em;[한숨]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sigh",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 95,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "3人のバッターが最初のボールでゴロかフライを打って、三者凡退で終わらせる。",
+      "j_ko": "세 타자가 모두 초구 땅볼이나 플라이를 쳐서 삼자범퇴가 나는 것…… 그게 가장 좋은 경우니까.",
+      "g_ja": "3人のバッターが最初のボールでゴロかフライを打って、三者凡退で終わらせる。",
+      "g_ko": "세 타자가 모두 초구 땅볼이나 플라이를 쳐서 삼자범퇴가 나는 것…… 그게 가장 좋은 경우니까.",
+      "g_en": "If all three batters hit their first pitch as grounders or flyouts, that's what's best for you.",
+      "g_th": "และวิธีที่ดีที่สุดก็คือ... การที่แบตเตอร์ตีลูกร่วงพื้นหรือลูกฟลายจนเอาต์ไปทั้ง 3 คน...",
+      "g_tw": "三名打者都在第一球打出滾地球或飛球，形成三上三下……這是最理想的情況。",
+      "g_tw_cn": "三名打者都在第一球打出滚地球或飞球，形成三上三下……这是最理想的情况。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;05;세 타자가 모두 초구 땅볼이나 플라이를 쳐서 삼자범퇴가 나는 것…… 그게 가장 좋은 경우니까.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 96,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "派手ではないから、つまらなく見えがちだけど、絶対にミスしないことが大事なの。",
+      "j_ko": "정식 경기에서는, 가장 재미없지만, 절대로 실수가 없도록 잡아내는 것이 가장 중요한 것이거든.",
+      "g_ja": "派手ではないから、つまらなく見えがちだけど、絶対にミスしないことが大事なの。",
+      "g_ko": "정식 경기에서는, 가장 재미없지만, 절대로 실수가 없도록 잡아내는 것이 가장 중요한 것이거든.",
+      "g_en": "If that doesn't happen, someone's made a mistake. The trick is to keep things \"boring\" by not making any.",
+      "g_th": "ส่วนในการแข่งขันที่เป็นทางการ ถึงมันจะไม่สนุกเอาเสียเลย แต่สิ่งสำคัญก็คือต้องไม่ให้เกิดข้อผิด<br/>พลาดเป็นอันขาด",
+      "g_tw": "在正式比賽中，最重要的關鍵是不要犯下失誤，因此會讓比賽顯得有點無聊。",
+      "g_tw_cn": "在正式比赛中，最重要的关键是不要犯下失误，因此会让比赛显得有点无聊。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;99;정식 경기에서는, 가장 재미없지만, 절대로 실수가 없도록 잡아내는 것이 가장 중요한 것이거든.\\n#1;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 97,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "野球はね、注目されにくいところで頑張らないといけないスポーツなんだよ。",
+      "j_ko": "그러니까 야구는…… 보이지 않는 곳에서 가장 열심히 해야 하는 운동이야.",
+      "g_ja": "野球はね、注目されにくいところで頑張らないといけないスポーツなんだよ。",
+      "g_ko": "그러니까 야구는…… 보이지 않는 곳에서 가장 열심히 해야 하는 운동이야.",
+      "g_en": "So when it looks boring, it's because the whole team is doing their absolute best to keep it that way.",
+      "g_th": "เบสบอลน่ะ... เป็นกีฬาที่ต้องพยายามทำให้ดีที่สุดในที่ที่ไม่มีใครเห็น",
+      "g_tw": "所以棒球這種運動……必須在所有人都看不見的地方傾注最多努力。",
+      "g_tw_cn": "所以棒球这种运动……必须在所有人都看不见的地方倾注最多努力。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;14;그러니까 야구는…… 보이지 않는 곳에서 가장 열심히 해야 하는 운동이야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 98,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "見せ場ももちろん大事だけど、勝つために、地味な部分も必死に努力する――",
+      "j_ko": "가장 아무렇지도 않은 모습을 보이기 위해, 가장 재미없는 모습을 보여 주기 위해서, 죽을힘을 다해 발버둥 쳐야 하는 운동인 거지.",
+      "g_ja": "見せ場ももちろん大事だけど、勝つために、地味な部分も必死に努力する――",
+      "g_ko": "가장 아무렇지도 않은 모습을 보이기 위해, 가장 재미없는 모습을 보여 주기 위해서, 죽을힘을 다해 발버둥 쳐야 하는 운동인 거지.",
+      "g_en": "You have to struggle as hard as you can to look as nonchalant as possible.",
+      "g_th": "เป็นกีฬาที่ต้องต่อสู้อย่างสุดความสามารถให้คนอื่นเห็นว่าเรานิ่งที่สุด และดูน่าเบื่อให้มากที่สุดเลยละ",
+      "g_tw": "為了表現得若無其事、為了展現最無趣的模樣而拚命掙扎。",
+      "g_tw_cn": "为了表现得若无其事、为了展现最无趣的模样而拚命挣扎。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;03;가장 아무렇지도 않은 모습을 보이기 위해, 가장 재미없는 모습을 보여 주기 위해서, 죽을힘을 다해 발버둥 쳐야 하는 운동인 거지.\\n#1;em;[음표]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Music",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 99,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私は野球のそういうところが好き。",
+      "j_ko": "나는 말이지. 그 역설적인 모습이 참 좋아.",
+      "g_ja": "私は野球のそういうところが好き。",
+      "g_ko": "나는 말이지. 그 역설적인 모습이 참 좋아.",
+      "g_en": "And I kind of love the irony of that.",
+      "g_th": "แล้วพี่ก็ชอบความย้อนแย้งนั่นมากเลย",
+      "g_tw": "我呢，很喜歡棒球這種矛盾的地方。",
+      "g_tw_cn": "我呢，很喜欢棒球这种矛盾的地方。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;14;나는 말이지. 그 역설적인 모습이 참 좋아.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 100,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "白鳥って知ってる？優雅に見えるけど、水の下では必死に足を動かしてるんだって。",
+      "j_ko": "백조 알지? 백조는 우아하게 떠 있지만, 그렇게 하기 위해서 필사적으로 물 갈퀴질을 한다고 하잖아?",
+      "g_ja": "白鳥って知ってる？優雅に見えるけど、水の下では必死に足を動かしてるんだって。",
+      "g_ko": "백조 알지? 백조는 우아하게 떠 있지만, 그렇게 하기 위해서 필사적으로 물 갈퀴질을 한다고 하잖아?",
+      "g_en": "You know swans, right? Up above the surface, they're just floating like clouds...but under the surface, their feet are always going like crazy.",
+      "g_th": "รู้จักหงส์ใช่มั้ย? หงส์ลอยตัวเหนือน้ำได้อย่างสง่างาม แต่เห็นอย่างนั้นมันก็ต้องถีบขาว่ายน้ำอย่างเอา<br/>เป็นเอาตายเลยนะ",
+      "g_tw": "你知道天鵝嗎？<br/>天鵝雖然看起來很優雅，其實一直都在水面下奮力划水哦。",
+      "g_tw_cn": "你知道天鹅吗？<br/>天鹅虽然看起来很优雅，其实一直都在水面下奋力划水哦。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;10;백조 알지? 백조는 우아하게 떠 있지만, 그렇게 하기 위해서 필사적으로 물 갈퀴질을 한다고 하잖아?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 101,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "目に見える美しい姿を保つために、見えないところで全力を尽くしてる。",
+      "j_ko": "평범한 모습을 보여 주기 위해서, 보이지 않는 곳에서는 항상 최선을 다해야 한다는 것…….",
+      "g_ja": "目に見える美しい姿を保つために、見えないところで全力を尽くしてる。",
+      "g_ko": "평범한 모습을 보여 주기 위해서, 보이지 않는 곳에서는 항상 최선을 다해야 한다는 것…….",
+      "g_en": "Having to do your best to seem ordinary and not get noticed...",
+      "g_th": "การที่ต้องพยายามทำให้ดีที่สุดในจุดที่ไม่มีใครเห็น เพื่อให้ออกมาดูธรรมดาที่สุด...",
+      "g_tw": "為了表現出平靜的一面，而在看不見的地方拚盡全力……",
+      "g_tw_cn": "为了表现出平静的一面，而在看不见的地方拚尽全力……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;10;평범한 모습을 보여 주기 위해서, 보이지 않는 곳에서는 항상 최선을 다해야 한다는 것…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 102,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それって、かっこいいと思わない？",
+      "j_ko": "그건, 어딘가 멋진 면이 있는 거 아닐까?",
+      "g_ja": "それって、かっこいいと思わない？",
+      "g_ko": "그건, 어딘가 멋진 면이 있는 거 아닐까?",
+      "g_en": "...that's commendable, I think. There's something cool about it.",
+      "g_th": "แบบนั้นมันเจ๋งสุดๆ ไปเลยไม่ใช่เหรอ?",
+      "g_tw": "不覺得聽起來很帥嗎？",
+      "g_tw_cn": "不觉得听起来很帅吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;03;그건, 어딘가 멋진 면이 있는 거 아닐까?\\n#1;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 104,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……。",
+      "j_ko": "…….",
+      "g_ja": "……。",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "3;길 잃은 뱁새 남자아이;00;…….\\n#3;em;…",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 105,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そ、そうかな……そうかも……？",
+      "j_ko": "그럴, 까?",
+      "g_ja": "そ、そうかな……そうかも……？",
+      "g_ko": "그럴, 까?",
+      "g_en": "...Yeah?",
+      "g_th": "งั้น... เหรอ?",
+      "g_tw": "是，是嗎？",
+      "g_tw_cn": "是，是吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "3;길 잃은 뱁새 남자아이;00;그럴, 까?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 96,
+    "AbsolutePos": 106,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そうだよ。",
+      "j_ko": "그렇지!",
+      "g_ja": "そうだよ。",
+      "g_ko": "그렇지!",
+      "g_en": "Yeah, I'd say so.",
+      "g_th": "ก็ใช่น่ะสิ!",
+      "g_tw": "沒錯！",
+      "g_tw_cn": "没错！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "3;길 잃은 뱁새 남자아이;00\\n1;레이;13;그렇지!\\n#3;m5\\n#1;ar\\n#1;em;[재잘]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 97,
+    "AbsolutePos": 107,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うん……。",
+      "j_ko": "응…….",
+      "g_ja": "うん……。",
+      "g_ko": "응…….",
+      "g_en": "Huh...",
+      "g_th": "อืม...",
+      "g_tw": "嗯……",
+      "g_tw_cn": "嗯……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "3;길 잃은 뱁새 남자아이;00;응…….\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 98,
+    "AbsolutePos": 108,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "野球、悪くないかも……？",
+      "j_ko": "야구, 나쁘지 않을지도…….",
+      "g_ja": "野球、悪くないかも……？",
+      "g_ko": "야구, 나쁘지 않을지도…….",
+      "g_en": "That IS pretty cool. Maybe baseball's okay...",
+      "g_th": "บางทีเบสบอล... ก็อาจจะไม่แย่เท่าไรก็ได้...",
+      "g_tw": "棒球，說不定還挺好看的……",
+      "g_tw_cn": "棒球，说不定还挺好看的……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "3;길 잃은 뱁새 남자아이;00;야구, 나쁘지 않을지도…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 99,
+    "AbsolutePos": 109,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "でしょ？",
+      "j_ko": "그렇지?",
+      "g_ja": "でしょ？",
+      "g_ko": "그렇지?",
+      "g_en": "Right?",
+      "g_th": "ใช่มั้ยล่ะ?",
+      "g_tw": "對吧？",
+      "g_tw_cn": "对吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;14;그렇지?\\n#1;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 100,
+    "AbsolutePos": 112,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 101,
+    "AbsolutePos": 113,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_BatSwing_04"
+    }
+  },
+  {
+    "ActualPos": 102,
+    "AbsolutePos": 114,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_07"
+    }
+  },
+  {
+    "ActualPos": 103,
+    "AbsolutePos": 115,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "6番打者、落ちる変化球をしっかり捉えました！",
+      "j_ko": "6번 타자. 떨어지는 변화구를, 제대로 노려 쳤습니다!",
+      "g_ja": "6番打者、落ちる変化球をしっかり捉えました！",
+      "g_ko": "6번 타자. 떨어지는 변화구를, 제대로 노려 쳤습니다!",
+      "g_en": "Sixth batter gets a GREAT hit on that falling curve ball!",
+      "g_th": "แบตเตอร์ลำดับที่ 6 ตีลูกเคิร์ฟที่ตกลงมาได้อย่างแม่นยำเลยครับ!",
+      "g_tw": "第六棒打者，瞄準了下墜變化球，穩穩打中！",
+      "g_tw_cn": "第六棒打者，瞄准了下坠变化球，稳稳打中！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 188168986,
+    "DataType": "speaker",
+    "Script": "#na;아나운서;6번 타자. 떨어지는 변화구를, 제대로 노려 쳤습니다!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 104,
+    "AbsolutePos": 116,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "右中間を破るヒット！走る走る！1塁を蹴ってそのまま2塁を狙います！",
+      "j_ko": "우중간 외야에 떨어진 안타! 1루를 거쳐 2루로 달려갑니다!",
+      "g_ja": "右中間を破るヒット！走る走る！1塁を蹴ってそのまま2塁を狙います！",
+      "g_ko": "우중간 외야에 떨어진 안타! 1루를 거쳐 2루로 달려갑니다!",
+      "g_en": "The ball lands in center right field! The batter gets past first base. They're heading for second!",
+      "g_th": "ลูกตกทางขวาของสนามส่วนนอก! วิ่งจากเบสแรกไปเบสที่ 2 แล้วครับ!",
+      "g_tw": "是個落在右中外野的安打！經過一壘跑向二壘！",
+      "g_tw_cn": "是个落在右中外野的安打！经过一垒跑向二垒！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 188168986,
+    "DataType": "speaker",
+    "Script": "#na;아나운서;우중간 외야에 떨어진 안타! 1루를 거쳐 2루로 달려갑니다!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 105,
+    "AbsolutePos": 117,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2618893982
+    }
+  },
+  {
+    "ActualPos": 106,
+    "AbsolutePos": 117,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_07"
+    }
+  },
+  {
+    "ActualPos": 107,
+    "AbsolutePos": 117,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ぃよぉーっし打ったーっ！行けー！周れ周れー！2塁まで！2塁まで走れ！",
+      "j_ko": "뛰어! 뛰라고! 1루타를 2루타로 만드는 거야!",
+      "g_ja": "ぃよぉーっし打ったーっ！行けー！周れ周れー！2塁まで！2塁まで走れ！",
+      "g_ko": "뛰어! 뛰라고! 1루타를 2루타로 만드는 거야!",
+      "g_en": "Run! Run! Make it a double!",
+      "g_th": "วิ่ง! วิ่งให้ไวกว่านี้! เอาให้ได้ 2 เบสไปเลย!",
+      "g_tw": "快跑！跑啊！把一壘安打變成二壘安打！",
+      "g_tw_cn": "快跑！跑啊！把一垒安打变成二垒安打！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;00\\n1;레이;18;뛰어! 뛰라고! 1루타를 2루타로 만드는 거야!\\n#1;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 2618893982,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 108,
+    "AbsolutePos": 118,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Sliding_01"
+    }
+  },
+  {
+    "ActualPos": 109,
+    "AbsolutePos": 118,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "あっ！ダメっ！ボール投げてるよ！",
+      "j_ko": "빠르다……! 수비가 2루로 공을 던졌어! 그리고 다리를 뻗었는데?",
+      "g_ja": "あっ！ダメっ！ボール投げてるよ！",
+      "g_ko": "빠르다……! 수비가 2루로 공을 던졌어! 그리고 다리를 뻗었는데?",
+      "g_en": "Look at that speed! Defense throws to second base. The baseman stretches out for the catch...",
+      "g_th": "ไวชะมัด...! ฝ่ายรับปาลูกไปที่เบส 2 แล้ว! แล้วก็ยืดขาออกไปด้วย?",
+      "g_tw": "好快……！球丟向二壘了！跑者也把腿伸了出來？",
+      "g_tw_cn": "好快……！球丢向二垒了！跑者也把腿伸了出来？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;00;빠르다……! 수비가 2루로 공을 던졌어! 그리고 다리를 뻗었는데?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 110,
+    "AbsolutePos": 119,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "きっと大丈夫……スライディングなら間に合う！……判定は！？",
+      "j_ko": "슬라이딩이야! 판정은……!?",
+      "g_ja": "きっと大丈夫……スライディングなら間に合う！……判定は！？",
+      "g_ko": "슬라이딩이야! 판정은……!?",
+      "g_en": "It's a slide! And the call is...?!",
+      "g_th": "สไลด์ตัวเข้าไปเลย! จะตัดสินว่าไงนะ...!?",
+      "g_tw": "滑壘！判決是……！？",
+      "g_tw_cn": "滑垒！判决是……！？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;05;슬라이딩이야! 판정은……!?\\n#1;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 111,
+    "AbsolutePos": 123,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_07"
+    }
+  },
+  {
+    "ActualPos": 112,
+    "AbsolutePos": 123,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……セーフ！セーフです！見事なスライディング！シングルヒットをツーベースにしました！",
+      "j_ko": "세이프! 세이프입니다! 호쾌한 준족이었습니다! 1루타를 2루타로 만들어냅니다!",
+      "g_ja": "……セーフ！セーフです！見事なスライディング！シングルヒットをツーベースにしました！",
+      "g_ko": "세이프! 세이프입니다! 호쾌한 준족이었습니다! 1루타를 2루타로 만들어냅니다!",
+      "g_en": "Safe! What a sprint, turning a single into a double!",
+      "g_th": "เซฟ! เซฟครับ! ฝีเท้ารวดเร็วเหลือเชื่อเลย! วิ่งได้ 2 เบสเลยนะครับ!",
+      "g_tw": "Safe！安全上壘！<br/>真是神速的飛毛腿啊！順利將一壘安打變成了二壘安打！",
+      "g_tw_cn": "Safe！安全上垒！<br/>真是神速的飞毛腿啊！顺利将一垒安打变成了二垒安打！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1761758461,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;00\\n1;레이;05\\n#na;장내 아나운서;세이프! 세이프입니다! 호쾌한 준족이었습니다! 1루타를 2루타로 만들어냅니다!",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 113,
+    "AbsolutePos": 124,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Flick_01"
+    }
+  },
+  {
+    "ActualPos": 114,
+    "AbsolutePos": 124,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "やった！",
+      "j_ko": "좋았어!",
+      "g_ja": "やった！",
+      "g_ko": "좋았어!",
+      "g_en": "Yeah!",
+      "g_th": "เยี่ยมเลย!",
+      "g_tw": "好耶！",
+      "g_tw_cn": "好耶！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;03;좋았어!\\n#1;jump",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 115,
+    "AbsolutePos": 125,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "すごい！",
+      "j_ko": "와!",
+      "g_ja": "すごい！",
+      "g_ko": "와!",
+      "g_en": "Woo!",
+      "g_th": "ว้าว!",
+      "g_tw": "哇！",
+      "g_tw_cn": "哇！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;00;와!\\n#5;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 116,
+    "AbsolutePos": 126,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "どう？野球、楽しいでしょ？",
+      "j_ko": "어때?",
+      "g_ja": "どう？野球、楽しいでしょ？",
+      "g_ko": "어때?",
+      "g_en": "You like that?",
+      "g_th": "เป็นไงล่ะ?",
+      "g_tw": "你覺得怎麼樣？",
+      "g_tw_cn": "你觉得怎么样？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "5;뱁새 남자 아이;00\\n1;레이;10;어때?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 117,
+    "AbsolutePos": 127,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 118,
+    "AbsolutePos": 127,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "うん、すっごく面白い！なんかよく分かんないけど、ぐわーってなった！すごい！",
+      "j_ko": "재미있어!",
+      "g_ja": "うん、すっごく面白い！なんかよく分かんないけど、ぐわーってなった！すごい！",
+      "g_ko": "재미있어!",
+      "g_en": "Yeah, that was cool!",
+      "g_th": "สนุกเลยฮะ!",
+      "g_tw": "好好玩！",
+      "g_tw_cn": "好好玩！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;00;재미있어!\\n#5;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 119,
+    "AbsolutePos": 128,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふふっ、ここからもっと面白くなっていくよ！",
+      "j_ko": "응!",
+      "g_ja": "ふふっ、ここからもっと面白くなっていくよ！",
+      "g_ko": "응!",
+      "g_en": "Right?",
+      "g_th": "อื้อ!",
+      "g_tw": "嗯！",
+      "g_tw_cn": "嗯！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;11;응!\\n#1;em;[재잘]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 120,
+    "AbsolutePos": 129,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 121,
+    "AbsolutePos": 130,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_07"
+    }
+  },
+  {
+    "ActualPos": 122,
+    "AbsolutePos": 130,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（試合はますます熱を帯びて進み――）",
+      "j_ko": "(경기는 그렇게 계속해서 열기를 더해 갔고.)",
+      "g_ja": "（試合はますます熱を帯びて進み――）",
+      "g_ko": "(경기는 그렇게 계속해서 열기를 더해 갔고.)",
+      "g_en": "The game heated up more and more.",
+      "g_th": "(การแข่งขันดำเนินต่อไปอย่างดุเดือด)",
+      "g_tw": "（比賽的氣氛變得越來越熱烈）",
+      "g_tw_cn": "（比赛的气氛变得越来越热烈）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(경기는 그렇게 계속해서 열기를 더해 갔고.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 123,
+    "AbsolutePos": 131,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（お姉ちゃんも、ようやく姿を現した）",
+      "j_ko": "(아이의 부모도, 이내 모습을 드러냈다.)",
+      "g_ja": "（お姉ちゃんも、ようやく姿を現した）",
+      "g_ko": "(아이의 부모도, 이내 모습을 드러냈다.)",
+      "g_en": "Before long, the child's parents showed up.",
+      "g_th": "(และพ่อแม่ของเด็กก็มาหาในที่สุด)",
+      "g_tw": "（小朋友的父母也在不久後出現）",
+      "g_tw_cn": "（小朋友的父母也在不久后出现）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(아이의 부모도, 이내 모습을 드러냈다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 124,
+    "AbsolutePos": 132,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（かなり慌てた様子で、必死に探していたようだ）",
+      "j_ko": "(상당히 사색이 되어…… 아이를 찾고 있었다는 것 같았다.)",
+      "g_ja": "（かなり慌てた様子で、必死に探していたようだ）",
+      "g_ko": "(상당히 사색이 되어…… 아이를 찾고 있었다는 것 같았다.)",
+      "g_en": "Judging by their faces, they'd been looking for quite a while.",
+      "g_th": "(พวกเขาหน้าซีดและดูเหนื่อย... น่าจะเพราะตามหาลูกกันอยู่นาน)",
+      "g_tw": "（臉色相當蒼白……看來應該找孩子找得非常著急）",
+      "g_tw_cn": "（脸色相当苍白……看来应该找孩子找得非常着急）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(상당히 사색이 되어…… 아이를 찾고 있었다는 것 같았다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 125,
+    "AbsolutePos": 133,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2618893982
+    }
+  },
+  {
+    "ActualPos": 126,
+    "AbsolutePos": 133,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 127,
+    "AbsolutePos": 134,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 36
+    }
+  },
+  {
+    "ActualPos": 128,
+    "AbsolutePos": 134,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "本当に、ありがとうございます……何とお礼を言えばいいのか……。",
+      "j_ko": "고맙습니다……. 고맙습니다……. 이 은혜를 어떻게 갚아야 할지…….",
+      "g_ja": "本当に、ありがとうございます……何とお礼を言えばいいのか……。",
+      "g_ko": "고맙습니다……. 고맙습니다……. 이 은혜를 어떻게 갚아야 할지…….",
+      "g_en": "Thank you... Thank you... I don't know how to repay you...",
+      "g_th": "ขอบคุณนะครับ... ขอบคุณมากครับ... ไม่รู้ว่าตอบแทนบุญคุณยังไงถึงจะพอ...",
+      "g_tw": "謝謝……謝謝你們……<br/>真不知道該怎麼報答這份恩情才好……",
+      "g_tw_cn": "谢谢……谢谢你们……<br/>真不知道该怎么报答这份恩情才好……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3819653240,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;00\\n1;레이;10\\n#na;아버지;고맙습니다……. 고맙습니다……. 이 은혜를 어떻게 갚아야 할지…….",
+    "BGMId": 36,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 129,
+    "AbsolutePos": 135,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "大丈夫？すっごく心配したんだから……とにかく無事でよかった。",
+      "j_ko": "괜찮니? 얼마나 걱정했는데……. 정말로 미안하다. 무사해서 다행이야.",
+      "g_ja": "大丈夫？すっごく心配したんだから……とにかく無事でよかった。",
+      "g_ko": "괜찮니? 얼마나 걱정했는데……. 정말로 미안하다. 무사해서 다행이야.",
+      "g_en": "Are you okay? We were so worried... I'm really sorry. We're so glad you're safe.",
+      "g_th": "เป็นยังไงบ้างลูก? แม่เป็นห่วงแทบแย่... แม่ขอโทษนะ โล่งอกไปทีนะที่ไม่เป็นอะไร",
+      "g_tw": "你還好嗎？媽媽好擔心你……<br/>真的很對不起，幸好你平安無事。",
+      "g_tw_cn": "你还好吗？妈妈好担心你……<br/>真的很对不起，幸好你平安无事。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 3551770959,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;00\\n1;레이;10\\n#na;어머니;괜찮니? 얼마나 걱정했는데……. 정말로 미안하다. 무사해서 다행이야.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 130,
+    "AbsolutePos": 136,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cartoon_01"
+    }
+  },
+  {
+    "ActualPos": 131,
+    "AbsolutePos": 136,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "大丈夫だよ！一緒に野球見てたから寂しくなかったんだ！",
+      "j_ko": "괜찮아! 여기 선생님이랑 누나랑 놀고 있었어!",
+      "g_ja": "大丈夫だよ！一緒に野球見てたから寂しくなかったんだ！",
+      "g_ko": "괜찮아! 여기 선생님이랑 누나랑 놀고 있었어!",
+      "g_en": "It's okay! I had Sensei and Sis here to play with me!",
+      "g_th": "ผมไม่เป็นไรเลย! พี่สาวกับคุณครูคนนี้ช่วยมาอยู่เป็นเพื่อนน่ะ!",
+      "g_tw": "我沒事的！我在這裡跟老師還有姐姐玩！",
+      "g_tw_cn": "我没事的！我在这里跟老师还有姐姐玩！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;00;괜찮아! 여기 선생님이랑 누나랑 놀고 있었어!\\n#5;hophop",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 132,
+    "AbsolutePos": 137,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ばいばい！今日すごく楽しかった！ありがとう！",
+      "j_ko": "그럼, 선생님! 누나! 나 갈게! 오늘 재미있었어! 고마워!",
+      "g_ja": "ばいばい！今日すごく楽しかった！ありがとう！",
+      "g_ko": "그럼, 선생님! 누나! 나 갈게! 오늘 재미있었어! 고마워!",
+      "g_en": "Okay, Sensei, Sis! I've gotta go! I had a lot of fun! Thank you!",
+      "g_th": "คุณครู! พี่สาว! งั้นผมไปก่อนนะ! วันนี้สนุกมากเลย! ขอบคุณฮะ!",
+      "g_tw": "那麼老師和姐姐，我走囉！<br/>今天很好玩！謝謝你們！",
+      "g_tw_cn": "那么老师和姐姐，我走啰！<br/>今天很好玩！谢谢你们！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2533580965,
+    "DataType": "speaker",
+    "Script": "5;길 잃은 뱁새 남자아이;00;그럼, 선생님! 누나! 나 갈게! 오늘 재미있었어! 고마워!\\n#5;em;[재잘]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Chat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 133,
+    "AbsolutePos": 141,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_03"
+    }
+  },
+  {
+    "ActualPos": 134,
+    "AbsolutePos": 142,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_03a"
+    }
+  },
+  {
+    "ActualPos": 135,
+    "AbsolutePos": 142,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "良かったです。あの子、ちゃんと笑顔で帰れて……へへっ。",
+      "j_ko": "다행이었네요. 그리고…… 조금이지만, 기분 좋은 일이었어요. 헤헤.",
+      "g_ja": "良かったです。あの子、ちゃんと笑顔で帰れて……へへっ。",
+      "g_ko": "다행이었네요. 그리고…… 조금이지만, 기분 좋은 일이었어요. 헤헤.",
+      "g_en": "I'm glad. This...worked out pretty well. Heehee.",
+      "g_th": "โล่งอกไปทีนะคะ แล้วก็... เรื่องเมื่อกี้ทำให้ฉันใจฟูเลยค่ะ แหะๆ",
+      "g_tw": "太好了。而且……雖然只是微不足道的小事，但心情還是很好呢。嘿嘿。",
+      "g_tw_cn": "太好了。而且……虽然只是微不足道的小事，但心情还是很好呢。嘿嘿。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;11;다행이었네요. 그리고…… 조금이지만, 기분 좋은 일이었어요. 헤헤.\\n#1;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 136,
+    "AbsolutePos": 143,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"私も、レイの野球論に感動したよ。\"  ",
+      "j_ko": " \"나도 레이의 야구론에 감탄했어.\"",
+      "g_ja": " \"私も、レイの野球論に感動したよ。\"  ",
+      "g_ko": " \"나도 레이의 야구론에 감탄했어.\"",
+      "g_en": " \"You've got a very impressive theory of baseball, Rei.\"",
+      "g_th": " \"ครูก็ประทับใจกับทฤษฎีเบสบอลของเรย์นะ\"",
+      "g_tw": "「我也被莉的棒球理論驚嘆到了哦。」",
+      "g_tw_cn": "「我也被莉的棒球理论惊叹到了哦。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns] \"나도 레이의 야구론에 감탄했어.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 137,
+    "AbsolutePos": 144,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えっ！？野球論だなんて……。",
+      "j_ko": "네, 네?! 제, 야구, 뭐요?",
+      "g_ja": "えっ！？野球論だなんて……。",
+      "g_ko": "네, 네?! 제, 야구, 뭐요?",
+      "g_en": "Wh-What?! Theory of...? Nah.",
+      "g_th": "คะ... คะ?! ทฤษฎี... ของฉันน่ะเหรอคะ?",
+      "g_tw": "咦咦！？我的棒球什麼？",
+      "g_tw_cn": "咦咦！？我的棒球什么？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;04;네, 네?! 제, 야구, 뭐요?\\n#1;em;[?!]\\n#1;shake",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Surprise",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 138,
+    "AbsolutePos": 145,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……",
+      "j_ko": "…….",
+      "g_ja": "……",
+      "g_ko": "…….",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "……",
+      "g_tw_cn": "……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;08;…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 139,
+    "AbsolutePos": 146,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もう！からかうのはやめてください、先生！",
+      "j_ko": "노, 놀리지 마세요. 선생님.",
+      "g_ja": "もう！からかうのはやめてください、先生！",
+      "g_ko": "노, 놀리지 마세요. 선생님.",
+      "g_en": "D-Don't tease me, Sensei.",
+      "g_th": "ยะ... อย่าล้อกันเล่นสิคะ คุณครู",
+      "g_tw": "別，別捉弄我了，老師。",
+      "g_tw_cn": "别，别捉弄我了，老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;12;노, 놀리지 마세요. 선생님.\\n#1;em;[///]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 140,
+    "AbsolutePos": 147,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"からかってるつもりはないよ。\"",
+      "j_ko": " \"놀리는 거 아닌데?\"",
+      "g_ja": " \"からかってるつもりはないよ。\"",
+      "g_ko": " \"놀리는 거 아닌데?\"",
+      "g_en": " \"I'm not.\"",
+      "g_th": " \"ครูไม่ได้ล้อเล่นสักหน่อย?\"",
+      "g_tw": "「我沒有在捉弄你啊？」",
+      "g_tw_cn": "「我没有在捉弄你啊？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s] \"놀리는 거 아닌데?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 141,
+    "AbsolutePos": 148,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "なら、恥ずかしくなるようなことを、言わないでください……。",
+      "j_ko": "그러면 부끄러운 소리 하지 마세요…….",
+      "g_ja": "なら、恥ずかしくなるようなことを、言わないでください……。",
+      "g_ko": "그러면 부끄러운 소리 하지 마세요…….",
+      "g_en": "Well, you're embarrassing me, so...yeah.",
+      "g_th": "งั้นก็อย่าพูดอะไรให้ฉันอายเลยค่ะ...",
+      "g_tw": "那就別說會讓人家難為情的話……",
+      "g_tw_cn": "那就别说会让人家难为情的话……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 1660465663,
+    "DataType": "speaker",
+    "Script": "1;레이;06;그러면 부끄러운 소리 하지 마세요…….\\n#1;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 142,
+    "AbsolutePos": 149,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 143,
+    "AbsolutePos": 150,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（レイは帽子をぐっと深くかぶり直したが――）",
+      "j_ko": "(레이는 그렇게 이야기하며 모자를 깊이 눌러썼지만.)",
+      "g_ja": "（レイは帽子をぐっと深くかぶり直したが――）",
+      "g_ko": "(레이는 그렇게 이야기하며 모자를 깊이 눌러썼지만.)",
+      "g_en": "Rei pulled her hat down as she said that.",
+      "g_th": "(เรย์พูดพลางดึงหมวกลงมาปิดหน้า)",
+      "g_tw": "（莉一邊說著，一邊壓低了帽子）",
+      "g_tw_cn": "（莉一边说着，一边压低了帽子）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(레이는 그렇게 이야기하며 모자를 깊이 눌러썼지만.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 144,
+    "AbsolutePos": 151,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（耳の先まで真っ赤になっていた）",
+      "j_ko": "(그 귀는, 이미 끝까지 빨개져 있었다.)",
+      "g_ja": "（耳の先まで真っ赤になっていた）",
+      "g_ko": "(그 귀는, 이미 끝까지 빨개져 있었다.)",
+      "g_en": "But her ears were already completely red.",
+      "g_th": "(แต่ก็ซ่อนหูที่แดงก่ำของตัวเองไม่ได้)",
+      "g_tw": "（可惜沒能遮住他已經紅透了的耳朵）",
+      "g_tw_cn": "（可惜没能遮住他已经红透了的耳朵）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그 귀는, 이미 끝까지 빨개져 있었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]

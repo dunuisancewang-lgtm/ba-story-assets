@@ -1,0 +1,2166 @@
+[
+  {
+    "ActualPos": 0,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3167142369
+    }
+  },
+  {
+    "ActualPos": 1,
+    "AbsolutePos": 0,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 10
+    }
+  },
+  {
+    "ActualPos": 2,
+    "AbsolutePos": 0,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "<span class=\"scenario-cmd-title\">理由がなくたって</span>",
+      "j_ko": "<span class=\"scenario-cmd-title\">굳이 설명할 필요는……</span>",
+      "g_ja": "<span class=\"scenario-cmd-title\">理由がなくたって</span>",
+      "g_ko": "<span class=\"scenario-cmd-title\">굳이 설명할 필요는……</span>",
+      "g_en": "<span class=\"scenario-cmd-title\">No Need to Explain...</span>",
+      "g_th": "<span class=\"scenario-cmd-title\">ไม่ต้องหาเหตุผลก็ได้...</span>",
+      "g_tw": "<span class=\"scenario-cmd-title\">無須特意解釋……</span>",
+      "g_tw_cn": "<span class=\"scenario-cmd-title\">无须特意解释……</span>",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "title",
+    "Script": "#title;굳이 설명할 필요는……",
+    "BGMId": 10,
+    "Sound": "",
+    "BGName": 3167142369,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 3,
+    "AbsolutePos": 1,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（仕事終わりに、買い物をしていると……）",
+      "j_ko": "(샬레 업무의 일환으로 시내에 들러, 이런저런 물품들을 구입하고 있었다.)",
+      "g_ja": "（仕事終わりに、買い物をしていると……）",
+      "g_ko": "(샬레 업무의 일환으로 시내에 들러, 이런저런 물품들을 구입하고 있었다.)",
+      "g_en": "I was downtown, buying some items that we needed at Schale.",
+      "g_th": "(คุณครูเข้ามาในเมืองเพื่อทำงานของชาเล่ต์ และกำลังซื้อของนู่นนี่อยู่)",
+      "g_tw": "（因為夏萊公務上的需要，到市區購買各式物品的途中……）",
+      "g_tw_cn": "（因为夏莱公务上的需要，到市区购买各式物品的途中……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(샬레 업무의 일환으로 시내에 들러, 이런저런 물품들을 구입하고 있었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 4,
+    "AbsolutePos": 4,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_02"
+    }
+  },
+  {
+    "ActualPos": 5,
+    "AbsolutePos": 6,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 6,
+    "AbsolutePos": 7,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "まさか、こんなところでお会いできるとは。",
+      "j_ko": "어라, 선생님. 이런 곳에서 만나는군요.",
+      "g_ja": "まさか、こんなところでお会いできるとは。",
+      "g_ko": "어라, 선생님. 이런 곳에서 만나는군요.",
+      "g_en": "Sensei. How unexpected.",
+      "g_th": "เอ๋ คุณครู? ได้เจอกันในที่แบบนี้ด้วยสินะคะ",
+      "g_tw": "哎呀，老師。<br/>沒想到會在這裡見到您呢。",
+      "g_tw_cn": "哎呀，老师。<br/>没想到会在这里见到您呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2746145574,
+    "DataType": "speaker",
+    "Script": "#na;???;어라, 선생님. 이런 곳에서 만나는군요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 7,
+    "AbsolutePos": 10,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3167142369
+    }
+  },
+  {
+    "ActualPos": 8,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"この声は……。\"",
+      "j_ko": " \"……음? 이 목소리는…….\"",
+      "g_ja": " \"この声は……。\"",
+      "g_ko": " \"……음? 이 목소리는…….\"",
+      "g_en": " \"...Huh? This voice is...\"",
+      "g_th": " \"หืม...? เสียงนี้มัน...\"",
+      "g_tw": "「……嗯？這個聲音是……」",
+      "g_tw_cn": "「……嗯？这个声音是……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] \"……음? 이 목소리는…….\"\\n[ns2] \"……미네?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 9,
+    "AbsolutePos": 11,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 2,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……ミネ？\"",
+      "j_ko": " \"……미네?\"",
+      "g_ja": " \"……ミネ？\"",
+      "g_ko": " \"……미네?\"",
+      "g_en": " \"...Mine?\"",
+      "g_th": " \"มิเนะเหรอ...?\"",
+      "g_tw": "「……美禰？」",
+      "g_tw_cn": "「……美祢？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns1] \"……음? 이 목소리는…….\"\\n[ns2] \"……미네?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 10,
+    "AbsolutePos": 15,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 11,
+    "AbsolutePos": 17,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生もお仕事中ですか？",
+      "j_ko": "샬레 업무로 나오신 건가요? 후후, 이거 우연이네요.",
+      "g_ja": "先生もお仕事中ですか？",
+      "g_ko": "샬레 업무로 나오신 건가요? 후후, 이거 우연이네요.",
+      "g_en": "Did your work for Schale bring you here? What a pleasant coincidence.",
+      "g_th": "ออกมาทำงานของชาเล่ต์เหรอคะ? ฮุฮุ บังเอิญจังเลยนะคะ",
+      "g_tw": "您是為了夏萊的公務而來的嗎？<br/>呵呵，真巧呢。",
+      "g_tw_cn": "您是为了夏莱的公务而来的吗？<br/>呵呵，真巧呢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;03;샬레 업무로 나오신 건가요? 후후, 이거 우연이네요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 12,
+    "AbsolutePos": 18,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私は救護騎士団の用事がありまして。<br/>同じ方向でしたら、途中まで一緒に行きましょう。",
+      "j_ko": "마침 저도 구호기사단의 일이 있어서 나왔습니다. 선생님께서만 괜찮으시다면, 가는 데까지는 함께 가시죠.",
+      "g_ja": "私は救護騎士団の用事がありまして。<br/>同じ方向でしたら、途中まで一緒に行きましょう。",
+      "g_ko": "마침 저도 구호기사단의 일이 있어서 나왔습니다. 선생님께서만 괜찮으시다면, 가는 데까지는 함께 가시죠.",
+      "g_en": "Remedial Knights business has also compelled me here. If it pleases you, let us proceed together, until it is time for us to part ways.",
+      "g_th": "ฉันเองก็ออกมาเพราะงานของชมรมอัศวินบรรเทาทุกข์เหมือนกันค่ะ ถ้าคุณครูไม่ว่าอะไร ขอฉันไปกับ<br/>คุณครูด้วยได้มั้ยคะ?",
+      "g_tw": "我也是來執行救護騎士團的公務。<br/>如果您不介意的話，就讓我陪您一同進行吧。",
+      "g_tw_cn": "我也是来运行救护骑士团的公务。<br/>如果您不介意的话，就让我陪您一同进行吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;02;마침 저도 구호기사단의 일이 있어서 나왔습니다. 선생님께서만 괜찮으시다면, 가는 데까지는 함께 가시죠.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 13,
+    "AbsolutePos": 22,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "どうしました、先生？",
+      "j_ko": "선생님? 왜 그러시죠? 뭔가 표정이…….",
+      "g_ja": "どうしました、先生？",
+      "g_ko": "선생님? 왜 그러시죠? 뭔가 표정이…….",
+      "g_en": "Sensei? Is something wrong? Your expression...",
+      "g_th": "คุณครู? ทำไมล่ะคะ? ทำไมถึงทำหน้าแบบนั้นล่ะ...",
+      "g_tw": "老師？怎麼了嗎？<br/>您的表情好像……",
+      "g_tw_cn": "老师？怎么了吗？<br/>您的表情好像……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;10;선생님? 왜 그러시죠? 뭔가 표정이…….\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 14,
+    "AbsolutePos": 23,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ああ、衣装のことですか。",
+      "j_ko": "……아아, 이 옷 말씀이신가요?",
+      "g_ja": "……ああ、衣装のことですか。",
+      "g_ko": "……아아, 이 옷 말씀이신가요?",
+      "g_en": "...Ah, my costume?",
+      "g_th": "อ้อ... หมายถึงชุดนี้น่ะเหรอคะ?",
+      "g_tw": "……啊啊，是這身衣服嗎？",
+      "g_tw_cn": "……啊啊，是这身衣服吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;02;……아아, 이 옷 말씀이신가요?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 15,
+    "AbsolutePos": 28,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "説明しておりませんでしたね。",
+      "j_ko": "……아, 그렇군요. 죄송합니다. 설명이 부족했네요.",
+      "g_ja": "説明しておりませんでしたね。",
+      "g_ko": "……아, 그렇군요. 죄송합니다. 설명이 부족했네요.",
+      "g_en": "I understand now. My apologies. My explanation was insufficient.",
+      "g_th": "อ่า... นั่นสินะคะ ขอโทษด้วยค่ะ ฉันยังไม่ได้อธิบายสินะคะ",
+      "g_tw": "……原來如此。<br/>不好意思，是我沒有解釋清楚。",
+      "g_tw_cn": "……原来如此。<br/>不好意思，是我没有解释清楚。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;14;……아, 그렇군요. 죄송합니다. 설명이 부족했네요.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 16,
+    "AbsolutePos": 29,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "今日は「救護」の一環でライブをする予定なのです。",
+      "j_ko": "구호기사단의 일이긴 하지만, 이번 일은 일종의 위문 공연입니다. 따라서 평소의 옷보다는 이 옷이 더 적합하다고 생각했습니다.",
+      "g_ja": "今日は「救護」の一環でライブをする予定なのです。",
+      "g_ko": "구호기사단의 일이긴 하지만, 이번 일은 일종의 위문 공연입니다. 따라서 평소의 옷보다는 이 옷이 더 적합하다고 생각했습니다.",
+      "g_en": "I am here on Remedial Knights duty, but for a tribute concert of sorts. My logic was that this costume would be better suited for such conditions.",
+      "g_th": "นี่เป็นงานของชมรมอัศวินบรรเทาทุกข์ก็จริง แต่เป็นงานแสดงเพื่อให้กำลังใจน่ะค่ะ ฉันเลยคิดว่าชุดนี้<br/>น่าจะเหมาะกว่าชุดที่ใส่เป็นปกติค่ะ",
+      "g_tw": "雖然說是救護騎士團的公務，不過我今天其實是來進行一場慰問性質的表演。<br/>因此與平時的服裝相比，我認為換上這身服裝會更適合。",
+      "g_tw_cn": "虽然说是救护骑士团的公务，不过我今天其实是来进行一场慰问性质的表演。<br/>因此与平时的服装相比，我认为换上这身服装会更适合。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;00;구호기사단의 일이긴 하지만, 이번 일은 일종의 위문 공연입니다. 따라서 평소의 옷보다는 이 옷이 더 적합하다고 생각했습니다.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 17,
+    "AbsolutePos": 30,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "それゆえ、このようにアイドルの衣装を着ております。",
+      "j_ko": "설명이 되셨을까요?",
+      "g_ja": "それゆえ、このようにアイドルの衣装を着ております。",
+      "g_ko": "설명이 되셨을까요?",
+      "g_en": "Does that clear any misunderstandings?",
+      "g_th": "ก็เป็นอย่างนี้ละค่ะ",
+      "g_tw": "不知道這樣的回答，您是否滿意呢？",
+      "g_tw_cn": "不知道这样的回答，您是否满意呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;02;설명이 되셨을까요?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 18,
+    "AbsolutePos": 31,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 3,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"大変だね。\"",
+      "j_ko": " \"아아, 과연. 고생이구나.\"",
+      "g_ja": " \"大変だね。\"",
+      "g_ko": " \"아아, 과연. 고생이구나.\"",
+      "g_en": " \"Ah, I see. You always have a lot on your plate.\"",
+      "g_th": " \"อ่า... สุดท้ายก็เป็นงานที่ต้องเหนื่อยสินะ\"",
+      "g_tw": "「啊啊，原來如此啊。真是辛苦你了。」",
+      "g_tw_cn": "「啊啊，原来如此啊。真是辛苦你了。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"아아, 과연. 고생이구나.\"\\n[s4] \"미네도 정말 열심이네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 19,
+    "AbsolutePos": 31,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 4,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"頑張ってるんだね。\"",
+      "j_ko": " \"미네도 정말 열심이네.\"",
+      "g_ja": " \"頑張ってるんだね。\"",
+      "g_ko": " \"미네도 정말 열심이네.\"",
+      "g_en": " \"You're working hard, I see.\"",
+      "g_th": " \"มิเนะตั้งใจทำงานจังเลยนะ\"",
+      "g_tw": "「美禰真的很認真呢。」",
+      "g_tw_cn": "「美祢真的很认真呢。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s3] \"아아, 과연. 고생이구나.\"\\n[s4] \"미네도 정말 열심이네.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 20,
+    "AbsolutePos": 34,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふふっ。<br/>これくらい、何ともありません。",
+      "j_ko": "후후. 아닙니다. 뭐 이런 정도로요.",
+      "g_ja": "ふふっ。<br/>これくらい、何ともありません。",
+      "g_ko": "후후. 아닙니다. 뭐 이런 정도로요.",
+      "g_en": "Heehee. These are simply my duties.",
+      "g_th": "ฮุฮุ ไม่หรอกค่ะ เรื่องแค่นี้เอง",
+      "g_tw": "呵呵，不敢當。",
+      "g_tw_cn": "呵呵，不敢当。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;03;후후. 아닙니다. 뭐 이런 정도로요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 21,
+    "AbsolutePos": 37,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07a"
+    }
+  },
+  {
+    "ActualPos": 22,
+    "AbsolutePos": 38,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "では、行きましょうか。",
+      "j_ko": "그러면 의문점도 해결되셨으니……. 마저 가실까요?",
+      "g_ja": "では、行きましょうか。",
+      "g_ko": "그러면 의문점도 해결되셨으니……. 마저 가실까요?",
+      "g_en": "Now that your curiosity has been fulfilled... Shall we?",
+      "g_th": "งั้นในเมื่อหายสงสัยแล้ว... เราไปกันต่อดีมั้ยคะ?",
+      "g_tw": "既然問題已經解決……那我們走吧。",
+      "g_tw_cn": "既然问题已经解决……那我们走吧。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;12;그러면 의문점도 해결되셨으니……. 마저 가실까요?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 23,
+    "AbsolutePos": 41,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 24,
+    "AbsolutePos": 41,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_01"
+    }
+  },
+  {
+    "ActualPos": 25,
+    "AbsolutePos": 42,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 26,
+    "AbsolutePos": 43,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 27,
+    "AbsolutePos": 45,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（……数日後）",
+      "j_ko": "(……며칠 후.)",
+      "g_ja": "（……数日後）",
+      "g_ko": "(……며칠 후.)",
+      "g_en": "...A few days later.",
+      "g_th": "(ไม่กี่วันหลังจากนั้น...)",
+      "g_tw": "（……幾天後）",
+      "g_tw_cn": "（……几天后）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(……며칠 후.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 28,
+    "AbsolutePos": 46,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3322378874
+    }
+  },
+  {
+    "ActualPos": 29,
+    "AbsolutePos": 48,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Bird_02"
+    }
+  },
+  {
+    "ActualPos": 30,
+    "AbsolutePos": 49,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 414441485
+    }
+  },
+  {
+    "ActualPos": 31,
+    "AbsolutePos": 51,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（仕事のつながりで、レストランにやってきた）",
+      "j_ko": "(업무 진행 관계로 약속이 있어, 근처의 비즈니스 레스토랑을 찾았다.)",
+      "g_ja": "（仕事のつながりで、レストランにやってきた）",
+      "g_ko": "(업무 진행 관계로 약속이 있어, 근처의 비즈니스 레스토랑을 찾았다.)",
+      "g_en": "I was at a high-end restaurant for a work meeting.",
+      "g_th": "(คุณครูออกมาที่ร้านอาหารระดับหรูที่อยู่แถวนั้นเพื่อคุยงาน)",
+      "g_tw": "（由於一些公務上的原因，和人約在一間附近的商務餐廳見面）",
+      "g_tw_cn": "（由于一些公务上的原因，和人约在一间附近的商务餐厅见面）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(업무 진행 관계로 약속이 있어, 근처의 비즈니스 레스토랑을 찾았다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 32,
+    "AbsolutePos": 54,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Crowd_02"
+    }
+  },
+  {
+    "ActualPos": 33,
+    "AbsolutePos": 56,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 34,
+    "AbsolutePos": 57,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ん？",
+      "j_ko": "……음? 선생님??",
+      "g_ja": "……ん？",
+      "g_ko": "……음? 선생님??",
+      "g_en": "...Hm? Sensei?",
+      "g_th": "หืม...? คุณครู??",
+      "g_tw": "……嗯？老師？？",
+      "g_tw_cn": "……嗯？老师？？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2746145574,
+    "DataType": "speaker",
+    "Script": "#na;???;……음? 선생님??",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 35,
+    "AbsolutePos": 60,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 414441485
+    }
+  },
+  {
+    "ActualPos": 36,
+    "AbsolutePos": 61,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 37,
+    "AbsolutePos": 63,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 6
+    }
+  },
+  {
+    "ActualPos": 38,
+    "AbsolutePos": 63,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "またお会いするとは、驚きました。",
+      "j_ko": "어라……. 이런 곳에서 또 뵙는군요. 얼마 전에도 우연히 뵈지 않았던가요?",
+      "g_ja": "またお会いするとは、驚きました。",
+      "g_ko": "어라……. 이런 곳에서 또 뵙는군요. 얼마 전에도 우연히 뵈지 않았던가요?",
+      "g_en": "Another unexpected coincidence. This happened just a few days prior.",
+      "g_th": "เอ๋... ได้เจอกันในที่แบบนี้อีกแล้วนะคะ เราเพิ่งบังเอิญเจอกันเมื่อไม่กี่วันก่อนไม่ใช่เหรอคะ?",
+      "g_tw": "哎呀……居然又見到您了呢。<br/>我們不久前也曾在路上巧遇吧？",
+      "g_tw_cn": "哎呀……居然又见到您了呢。<br/>我们不久前也曾在路上巧遇吧？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;02;어라……. 이런 곳에서 또 뵙는군요. 얼마 전에도 우연히 뵈지 않았던가요?\\n#3;em;…",
+    "BGMId": 6,
+    "Sound": "SFX_Emoticon_Motion_Dot",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 39,
+    "AbsolutePos": 64,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もちろん、私としては嬉しい限りですが……ふふっ。",
+      "j_ko": "물론 저는, 선생님을 자주 뵈게 된 이런 우연이 아주 기쁩니다만……. 후후.",
+      "g_ja": "もちろん、私としては嬉しい限りですが……ふふっ。",
+      "g_ko": "물론 저는, 선생님을 자주 뵈게 된 이런 우연이 아주 기쁩니다만……. 후후.",
+      "g_en": "Although, a coincidence which leads me to seeing you, Sensei, is certainly a good thing. Heehee.",
+      "g_th": "แต่ฉันก็ดีใจมากเลยนะคะที่บังเอิญเจอคุณครูบ่อยๆ แบบนี้... ฮุฮุ",
+      "g_tw": "當然，這種奇妙的巧合我非常歡迎……呵呵。",
+      "g_tw_cn": "当然，这种奇妙的巧合我非常欢迎……呵呵。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;03;물론 저는, 선생님을 자주 뵈게 된 이런 우연이 아주 기쁩니다만……. 후후.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 40,
+    "AbsolutePos": 65,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 5,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ここでもライブをするの？\"",
+      "j_ko": " \"여기도 공연하러 온 거야?\"",
+      "g_ja": " \"ここでもライブをするの？\"",
+      "g_ko": " \"여기도 공연하러 온 거야?\"",
+      "g_en": " \"Are you here for a concert?\"",
+      "g_th": " \"ใส่ชุดไอดอลอีกแล้ว วันนี้มีการแสดงเหรอ?\"",
+      "g_tw": "「你來這裡也是為了表演嗎？」",
+      "g_tw_cn": "「你来这里也是为了表演吗？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"여기도 공연하러 온 거야?\"\\n[s6] \"이번에도 아이돌 복장이네?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 41,
+    "AbsolutePos": 65,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 6,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"今日もアイドル衣装なんだね。\"",
+      "j_ko": " \"이번에도 아이돌 복장이네?\"",
+      "g_ja": " \"今日もアイドル衣装なんだね。\"",
+      "g_ko": " \"이번에도 아이돌 복장이네?\"",
+      "g_en": " \"You're in your idol costume again.\"",
+      "g_th": " \"มิเนะในชุดไอดอลอีกแล้วแฮะ มีการแสดงที่นี่เหรอ?\"",
+      "g_tw": "「你這次也穿著偶像服耶。」",
+      "g_tw_cn": "「你这次也穿着偶像服耶。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s5] \"여기도 공연하러 온 거야?\"\\n[s6] \"이번에도 아이돌 복장이네?\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 42,
+    "AbsolutePos": 68,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……あっ、今回はライブのためではありません。",
+      "j_ko": "……네?",
+      "g_ja": "……あっ、今回はライブのためではありません。",
+      "g_ko": "……네?",
+      "g_en": "Hm?",
+      "g_th": "คะ...?",
+      "g_tw": "……嗯？",
+      "g_tw_cn": "……嗯？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;02;……네?\\n#3;em;[?]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Question",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 43,
+    "AbsolutePos": 69,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ここの料理が美味しいと聞きまして、食事に来た次第です。",
+      "j_ko": "아, 이번에는 공연 때문에 온 것이 아닙니다. 그저 이곳 메뉴가 훌륭하다고 추천을 들었던 것뿐이거든요.",
+      "g_ja": "ここの料理が美味しいと聞きまして、食事に来た次第です。",
+      "g_ko": "아, 이번에는 공연 때문에 온 것이 아닙니다. 그저 이곳 메뉴가 훌륭하다고 추천을 들었던 것뿐이거든요.",
+      "g_en": "No, no concert this time. I simply received a recommendation that the food here was delicious.",
+      "g_th": "คะ... ครั้งนี้ฉันไม่ได้มาเพราะการแสดงหรอกค่ะ ฉันมาเพราะมีคนแนะนำว่าอาหารของที่นี่อร่อยค่ะ",
+      "g_tw": "啊，我這次並非為了表演而來，只是有很多人都向我推薦這裡的餐點。",
+      "g_tw_cn": "啊，我这次并非为了表演而来，只是有很多人都向我推荐这里的餐点。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;04;아, 이번에는 공연 때문에 온 것이 아닙니다. 그저 이곳 메뉴가 훌륭하다고 추천을 들었던 것뿐이거든요.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 44,
+    "AbsolutePos": 70,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "衣装を着ている理由は……。",
+      "j_ko": "이 옷은 그저…….",
+      "g_ja": "衣装を着ている理由は……。",
+      "g_ko": "이 옷은 그저…….",
+      "g_en": "This costume just...",
+      "g_th": "ส่วนชุดนี้ก็แค่...",
+      "g_tw": "至於這身衣服……",
+      "g_tw_cn": "至于这身衣服……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;06;이 옷은 그저…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 45,
+    "AbsolutePos": 75,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "…………。",
+      "j_ko": "………….",
+      "g_ja": "…………。",
+      "g_ko": "………….",
+      "g_en": "...",
+      "g_th": "...",
+      "g_tw": "…………",
+      "g_tw_cn": "…………",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;99;………….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 46,
+    "AbsolutePos": 76,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……ど、ドレスコードです。",
+      "j_ko": "……자, 자리에 맞는, 격식에 맞는 의상을 찾다 보니, 그렇게 된 것 같습니다. 네.",
+      "g_ja": "……ど、ドレスコードです。",
+      "g_ko": "……자, 자리에 맞는, 격식에 맞는 의상을 찾다 보니, 그렇게 된 것 같습니다. 네.",
+      "g_en": "...h-happened to be the most appropriate outfit for the occasion... Yes...",
+      "g_th": "พะ... พอดีฉันหาชุดที่เป็นทางการและเข้ากับบรรยากาศ ก็เลยได้เป็นชุดนี้มา ค่ะ...",
+      "g_tw": "……只，只是為了符合餐廳的氛圍，結果就變成這樣了。嗯。",
+      "g_tw_cn": "……只，只是为了符合餐厅的氛围，结果就变成这样了。嗯。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;03;……자, 자리에 맞는, 격식에 맞는 의상을 찾다 보니, 그렇게 된 것 같습니다. 네.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 47,
+    "AbsolutePos": 77,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "場の雰囲気に合うよう選びました。",
+      "j_ko": "이곳은 꽤 고급 레스토랑이니까요. 조금 드레스 같은 걸 차려입는 게 좋겠지요. 그게 좋겠군요.",
+      "g_ja": "場の雰囲気に合うよう選びました。",
+      "g_ko": "이곳은 꽤 고급 레스토랑이니까요. 조금 드레스 같은 걸 차려입는 게 좋겠지요. 그게 좋겠군요.",
+      "g_en": "This is fine dining, after all. One should adapt to the situation. That sounds like a valid excuse.",
+      "g_th": "ก็ที่นี่เป็นร้านอาหารที่ค่อนข้างหรูหรานี่คะ ฉันเลยคิดว่าถ้าใส่ชุดที่เหมือนชุดเดรสมา ก็น่าจะเหมาะ<br/>กับโอกาสค่ะ",
+      "g_tw": "這裡畢竟是間高級餐廳，我認為還是穿禮服來會比較適合。<br/>沒錯，就是這樣。",
+      "g_tw_cn": "这里毕竟是间高级餐厅，我认为还是穿礼服来会比较适合。<br/>没错，就是这样。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;05;이곳은 꽤 고급 레스토랑이니까요. 조금 드레스 같은 걸 차려입는 게 좋겠지요. 그게 좋겠군요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 48,
+    "AbsolutePos": 78,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 7,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " （場の雰囲気に……？）",
+      "j_ko": " (……자리에 맞는……?)",
+      "g_ja": " （場の雰囲気に……？）",
+      "g_ko": " (……자리에 맞는……?)",
+      "g_en": " \"(...For the occasion?)\"",
+      "g_th": " (เหมาะกับโอกาส...?)",
+      "g_tw": "（符合餐廳氛圍……？）",
+      "g_tw_cn": "（符合餐厅氛围……？）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] (……자리에 맞는……?)\\n[s8] (뭐지? 방금 전의 정적은…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 49,
+    "AbsolutePos": 78,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 8,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " （今の間はなんだろう……）",
+      "j_ko": " (뭐지? 방금 전의 정적은…….)",
+      "g_ja": " （今の間はなんだろう……）",
+      "g_ko": " (뭐지? 방금 전의 정적은…….)",
+      "g_en": " \"(What was with the pause earlier...?)\"",
+      "g_th": " (อะไรกัน? ความเงียบเมื่อครู่นี้มัน...)",
+      "g_tw": "（嗯？剛才那陣沉默是……）",
+      "g_tw_cn": "（嗯？刚才那阵沉默是……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s7] (……자리에 맞는……?)\\n[s8] (뭐지? 방금 전의 정적은…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 50,
+    "AbsolutePos": 81,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "せ、先生もお約束があるでしょうし、そろそろ失礼いたします。",
+      "j_ko": "아, 아무튼 선생님께서도 일정이 있으시다 하셨으니, 오늘은 이만 먼저 자리를 비우겠습니다.",
+      "g_ja": "せ、先生もお約束があるでしょうし、そろそろ失礼いたします。",
+      "g_ko": "아, 아무튼 선생님께서도 일정이 있으시다 하셨으니, 오늘은 이만 먼저 자리를 비우겠습니다.",
+      "g_en": "W-Well. I'm certain you naturally have a very busy schedule, so I shall be on my way.",
+      "g_th": "อ่า... เอาเถอะค่ะ เมื่อกี้คุณครูบอกว่ามาที่นี่เพราะมีธุระ ถ้างั้นวันนี้ฉันขอตัวก่อนดีกว่าค่ะ",
+      "g_tw": "總，總之既然老師看起來還有事要忙，我今天就先離開了。",
+      "g_tw_cn": "总，总之既然老师看起来还有事要忙，我今天就先离开了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;04;아, 아무튼 선생님께서도 일정이 있으시다 하셨으니, 오늘은 이만 먼저 자리를 비우겠습니다.\\n#3;em;[///]\\n#3;m4",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Shy",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 51,
+    "AbsolutePos": 82,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "では……！",
+      "j_ko": "실례했습니다. 그럼 이만……!",
+      "g_ja": "では……！",
+      "g_ko": "실례했습니다. 그럼 이만……!",
+      "g_en": "Please excuse me. Let us meet again...!",
+      "g_th": "ขอโทษที่เสียมารยาทนะคะ ถ้างั้นฉันขอตัวก่อน...",
+      "g_tw": "不好意思，先告辭了……！",
+      "g_tw_cn": "不好意思，先告辞了……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;07;실례했습니다. 그럼 이만……!\\n#3;greeting",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 52,
+    "AbsolutePos": 85,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Run_03"
+    }
+  },
+  {
+    "ActualPos": 53,
+    "AbsolutePos": 87,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 54,
+    "AbsolutePos": 88,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（その後も、町でアイドル姿のミネと会う度に……）",
+      "j_ko": "(이후로도 몇 번 정도, 간간이 미네와 마주치는 일들이 있었다.)",
+      "g_ja": "（その後も、町でアイドル姿のミネと会う度に……）",
+      "g_ko": "(이후로도 몇 번 정도, 간간이 미네와 마주치는 일들이 있었다.)",
+      "g_en": "Mine and I continued to run into each other after that.",
+      "g_th": "(หลังจากนั้นคุณครูก็ได้บังเอิญเจอมิเนะอีกเป็นครั้งคราว)",
+      "g_tw": "（之後又碰巧在路上撞見了美禰好幾次）",
+      "g_tw_cn": "（之后又碰巧在路上撞见了美祢好几次）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(이후로도 몇 번 정도, 간간이 미네와 마주치는 일들이 있었다.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 55,
+    "AbsolutePos": 89,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3617355053
+    }
+  },
+  {
+    "ActualPos": 56,
+    "AbsolutePos": 92,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1593220993
+    }
+  },
+  {
+    "ActualPos": 57,
+    "AbsolutePos": 95,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3491937726
+    }
+  },
+  {
+    "ActualPos": 58,
+    "AbsolutePos": 98,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 59,
+    "AbsolutePos": 99,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（……なぜか毎回、変な言い訳を聞かされた）",
+      "j_ko": "(그리고 그때마다 미네는 아이돌 복장을 하고 있었고, 점점 더 이상한 이유들을 둘러댔다…….)",
+      "g_ja": "（……なぜか毎回、変な言い訳を聞かされた）",
+      "g_ko": "(그리고 그때마다 미네는 아이돌 복장을 하고 있었고, 점점 더 이상한 이유들을 둘러댔다…….)",
+      "g_en": "Every time I ran into her, she was still wearing her idol costume, and she gave increasingly strange excuses every time.",
+      "g_th": "(และในทุกครั้งที่เจอ มิเนะจะอยู่ในชุดไอดอล และมากับข้ออ้างที่ดูจะแปลกขึ้นทุกครั้ง...)",
+      "g_tw": "（而且每次都穿著偶像服，對此給出的解釋也越來越荒謬……）",
+      "g_tw_cn": "（而且每次都穿着偶像服，对此给出的解释也越来越荒谬……）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(그리고 그때마다 미네는 아이돌 복장을 하고 있었고, 점점 더 이상한 이유들을 둘러댔다…….)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 60,
+    "AbsolutePos": 103,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 3052798916
+    }
+  },
+  {
+    "ActualPos": 61,
+    "AbsolutePos": 103,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 62,
+    "AbsolutePos": 104,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Cricket_02"
+    }
+  },
+  {
+    "ActualPos": 63,
+    "AbsolutePos": 105,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（とある夜勤の日）",
+      "j_ko": "(……또 다음 날.)",
+      "g_ja": "（とある夜勤の日）",
+      "g_ko": "(……또 다음 날.)",
+      "g_en": "And then, the next day...",
+      "g_th": "(และในวันต่อมา...)",
+      "g_tw": "（……另一天）",
+      "g_tw_cn": "（……另一天）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(……또 다음 날.)",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 64,
+    "AbsolutePos": 108,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 65,
+    "AbsolutePos": 109,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2949065454
+    }
+  },
+  {
+    "ActualPos": 66,
+    "AbsolutePos": 111,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 16
+    }
+  },
+  {
+    "ActualPos": 67,
+    "AbsolutePos": 111,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "（眠気を覚ますためにコンビニへ向かったところ……）",
+      "j_ko": "(야근을 하던 밤. 잠시 잠을 깨기 위해 편의점을 들렀다.)",
+      "g_ja": "（眠気を覚ますためにコンビニへ向かったところ……）",
+      "g_ko": "(야근을 하던 밤. 잠시 잠을 깨기 위해 편의점을 들렀다.)",
+      "g_en": "I was working overtime, late into the night, so I went to visit a convenience store to wake myself up.",
+      "g_th": "(คืนนั้นคุณครูทำงานจนดึก จึงแวะไปที่ร้านสะดวกซื้อเพื่อให้หายง่วง)",
+      "g_tw": "（因為加班到了深夜，所以打算去便利商店逛逛來提振精神）",
+      "g_tw_cn": "（因为加班到了深夜，所以打算去便利商店逛逛来提振精神）",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 602628616,
+    "DataType": "speaker",
+    "Script": "#na;(야근을 하던 밤. 잠시 잠을 깨기 위해 편의점을 들렀다.)",
+    "BGMId": 16,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 68,
+    "AbsolutePos": 115,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_Bell_02"
+    }
+  },
+  {
+    "ActualPos": 69,
+    "AbsolutePos": 116,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07a"
+    }
+  },
+  {
+    "ActualPos": 70,
+    "AbsolutePos": 117,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07b"
+    }
+  },
+  {
+    "ActualPos": 71,
+    "AbsolutePos": 120,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……あら、先生。",
+      "j_ko": "……어라. 선생님. 이런 시간에도 나와 계시는군요.",
+      "g_ja": "……あら、先生。",
+      "g_ko": "……어라. 선생님. 이런 시간에도 나와 계시는군요.",
+      "g_en": "...Sensei? You are out rather late.",
+      "g_th": "เอ๋... คุณครู ดึกป่านนี้ยังออกมาข้างนอกอีกเหรอคะ?",
+      "g_tw": "……咦？老師。<br/>這種時間您怎麼會來這裡呢？",
+      "g_tw_cn": "……咦？老师。<br/>这种时间您怎么会来这里呢？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;00;……어라. 선생님. 이런 시간에도 나와 계시는군요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 72,
+    "AbsolutePos": 121,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こんな時間まで、お疲れ様です。",
+      "j_ko": "아, 야근 중이셨던 겁니까. 으음……. 늦은 시간까지 고생이 많으시군요.",
+      "g_ja": "こんな時間まで、お疲れ様です。",
+      "g_ko": "아, 야근 중이셨던 겁니까. 으음……. 늦은 시간까지 고생이 많으시군요.",
+      "g_en": "O-Overtime? I see. You are fulfilling your duty with diligence.",
+      "g_th": "อ๊ะ หรือว่าคุณครูยังทำงานอยู่คะ? อืม... ต้องเหน็ดเหนื่อยจนถึงดึกดื่นเลยนะคะเนี่ย",
+      "g_tw": "啊，剛才在加班是嗎？<br/>唔嗯……工作到這麼晚，真是辛苦您了。",
+      "g_tw_cn": "啊，刚才在加班是吗？<br/>唔嗯……工作到这么晚，真是辛苦您了。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;02;아, 야근 중이셨던 겁니까. 으음……. 늦은 시간까지 고생이 많으시군요.\\n#5;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 73,
+    "AbsolutePos": 122,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いつも私たち生徒のために、ありがとうございます。",
+      "j_ko": "제가 무언가를 대표할 수는 없지만, 그래도 저희들을 위해 힘써 주시는 모습, 다시 한번 감사드립니다.",
+      "g_ja": "いつも私たち生徒のために、ありがとうございます。",
+      "g_ko": "제가 무언가를 대표할 수는 없지만, 그래도 저희들을 위해 힘써 주시는 모습, 다시 한번 감사드립니다.",
+      "g_en": "I cannot speak for everyone, but I'm certain everyone is grateful for all of your hard work.",
+      "g_th": "ถึงฉันจะทำงานแทนให้ไม่ได้ แต่ฉันก็อยากขอบคุณที่คุณครูทำงานอย่างหนักเพื่อพวกเราอยู่เสมอค่ะ",
+      "g_tw": "雖然我沒資格代表所有學生，但見到您為我們這麼努力，我還是希望向您說聲謝謝。",
+      "g_tw_cn": "虽然我没资格代表所有学生，但见到您为我们这么努力，我还是希望向您说声谢谢。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;03;제가 무언가를 대표할 수는 없지만, 그래도 저희들을 위해 힘써 주시는 모습, 다시 한번 감사드립니다.\\n#5;em;[반짝]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Twinkle",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 74,
+    "AbsolutePos": 123,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ですが、たまにはゆっくり……。",
+      "j_ko": "그리고…….",
+      "g_ja": "ですが、たまにはゆっくり……。",
+      "g_ko": "그리고…….",
+      "g_en": "And...",
+      "g_th": "แล้วก็...",
+      "g_tw": "而且……",
+      "g_tw_cn": "而且……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;99;그리고…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 75,
+    "AbsolutePos": 128,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……あっ。",
+      "j_ko": "……아…….",
+      "g_ja": "……あっ。",
+      "g_ko": "……아…….",
+      "g_en": "...Ah...",
+      "g_th": "อ่า...",
+      "g_tw": "……啊。",
+      "g_tw_cn": "……啊。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;10;……아…….\\n#5;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 76,
+    "AbsolutePos": 129,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "こ、これは……。",
+      "j_ko": "……그……. 선생님.",
+      "g_ja": "こ、これは……。",
+      "g_ko": "……그……. 선생님.",
+      "g_en": "...Um... Sensei.",
+      "g_th": "คือว่า... คุณครู",
+      "g_tw": "那個……老師。",
+      "g_tw_cn": "那个……老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;06;……그……. 선생님.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 77,
+    "AbsolutePos": 130,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "えっとですね……。",
+      "j_ko": "지금 이건……. 그러니까, 이 옷은…….",
+      "g_ja": "えっとですね……。",
+      "g_ko": "지금 이건……. 그러니까, 이 옷은…….",
+      "g_en": "This is... I mean, this costume is...",
+      "g_th": "พอดีตอนนี้... เอ่อ ชุดนี้น่ะค่ะ...",
+      "g_tw": "我……我這身服裝是因為……",
+      "g_tw_cn": "我……我这身服装是因为……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;04;지금 이건……. 그러니까, 이 옷은…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 78,
+    "AbsolutePos": 131,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 9,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ミネ、待って。\"",
+      "j_ko": " \"미네, 잠깐만. 그…….\"",
+      "g_ja": " \"ミネ、待って。\"",
+      "g_ko": " \"미네, 잠깐만. 그…….\"",
+      "g_en": " \"Mine, hold on a second.\"",
+      "g_th": " \"มิเนะ ไม่เป็นไรหรอก...\"",
+      "g_tw": "「等等，美禰。那個……」",
+      "g_tw_cn": "「等等，美祢。那个……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s9] \"미네, 잠깐만. 그…….\"\\n[s10] \"굳이 일일이 변명하지 않아도…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 79,
+    "AbsolutePos": 131,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 10,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"理由がなくたって……。\"",
+      "j_ko": " \"굳이 일일이 변명하지 않아도…….\"",
+      "g_ja": " \"理由がなくたって……。\"",
+      "g_ko": " \"굳이 일일이 변명하지 않아도…….\"",
+      "g_en": " \"You don't have to make up an excuse for wearing it.\"",
+      "g_th": " \"ไม่ต้องหาข้อแก้ตัวทุกครั้งก็ได้...\"",
+      "g_tw": "「其實你也不必每次都找藉口……」",
+      "g_tw_cn": "「其实你也不必每次都找借口……」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s9] \"미네, 잠깐만. 그…….\"\\n[s10] \"굳이 일일이 변명하지 않아도…….\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 80,
+    "AbsolutePos": 136,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "いえ、先生……！",
+      "j_ko": "아, 아닙니다! 이건 그러니까……! 그……!",
+      "g_ja": "いえ、先生……！",
+      "g_ko": "아, 아닙니다! 이건 그러니까……! 그……!",
+      "g_en": "Th-That is not quite...! This is...um...",
+      "g_th": "มะ... ไม่ใช่อย่างนั้นนะคะ! พอดีว่า...! เอ่อ...!",
+      "g_tw": "不，不是那樣的！請您聽我解釋……！<br/>我……！",
+      "g_tw_cn": "不，不是那样的！请您听我解释……！<br/>我……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;04;아, 아닙니다! 이건 그러니까……! 그……!\\n#5;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 81,
+    "AbsolutePos": 137,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "その、なんと言えば……。",
+      "j_ko": "으음……! 뭐라고 해야 하지, 이건. 그…….",
+      "g_ja": "その、なんと言えば……。",
+      "g_ko": "으음……! 뭐라고 해야 하지, 이건. 그…….",
+      "g_en": "Um! How shall I say this...",
+      "g_th": "อืม...! ฉันต้องพูดยังไงดีนะ เอ่อ...",
+      "g_tw": "唔嗯……！該怎麼說呢，那個……",
+      "g_tw_cn": "唔嗯……！该怎么说呢，那个……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;06;으음……! 뭐라고 해야 하지, 이건. 그…….\\n#5;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 82,
+    "AbsolutePos": 141,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "ふ、普段着なのです！<br/>今の私は、救護騎士団の団長ではなく……。",
+      "j_ko": "……아, 평상복! 지금의 저는 구호기사단의 단장이 아니라 개인 자격으로 나왔으니, 그냥 평상복 느낌으로……!!",
+      "g_ja": "ふ、普段着なのです！<br/>今の私は、救護騎士団の団長ではなく……。",
+      "g_ko": "……아, 평상복! 지금의 저는 구호기사단의 단장이 아니라 개인 자격으로 나왔으니, 그냥 평상복 느낌으로……!!",
+      "g_en": "Ah! Yes. This is simply casual wear. Today I stand before you not as captain of the Remedial Knights, but rather as a normal citizen. Therefore, I am dressed as a normal citizen would be.",
+      "g_th": "อ้อ แค่ชุดอยู่บ้าน! ตอนนี้ฉันไม่ได้ออกมาข้างนอกในฐานะหัวหน้าชมรมอัศวินบรรเทาทุกข์ แต่ออกมาเพราะเรื่องส่วนตัวค่ะ งั้นนี่ก็เป็นแค่ชุดอยู่บ้านธรรมดา...!!",
+      "g_tw": "……對了，休閒服！<br/>因為我現在是以個人，而非救護騎士團團長的名義外出，所以才會穿著休閒服……！",
+      "g_tw_cn": "……对了，休闲服！<br/>因为我现在是以个人，而非救护骑士团团长的名义外出，所以才会穿着休闲服……！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;13;……아, 평상복! 지금의 저는 구호기사단의 단장이 아니라 개인 자격으로 나왔으니, 그냥 평상복 느낌으로……!!\\n#5;em;[!]\\n#5;jump",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Exclaim",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 83,
+    "AbsolutePos": 142,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07a"
+    }
+  },
+  {
+    "ActualPos": 84,
+    "AbsolutePos": 142,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……っ！",
+      "j_ko": "아니, 잠깐만요. 평상복으로 이런 걸 입는 게 보통이었던가? 으음……!!",
+      "g_ja": "……っ！",
+      "g_ko": "아니, 잠깐만요. 평상복으로 이런 걸 입는 게 보통이었던가? 으음……!!",
+      "g_en": "Wait. Please hold. Do people don such attire as \"casual wear\"?",
+      "g_th": "ไม่สิ เดี๋ยวนะ ปกติเราใส่ชุดแบบนี้เป็นชุดอยู่บ้านหรือเปล่านะ? อืม...!!",
+      "g_tw": "不，等等……真的會有人把這種衣服當成休閒服嗎？<br/>唔……！！",
+      "g_tw_cn": "不，等等……真的会有人把这种衣服当成休闲服吗？<br/>唔……！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;10;아니, 잠깐만요. 평상복으로 이런 걸 입는 게 보통이었던가? 으음……!!\\n#5;m2",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 85,
+    "AbsolutePos": 143,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "これでは、私がいつもアイドル衣装を着ていると思われて……。",
+      "j_ko": "뭐라고 해야 하지? 무슨 말을 해야 자연스러울까요?",
+      "g_ja": "これでは、私がいつもアイドル衣装を着ていると思われて……。",
+      "g_ko": "뭐라고 해야 하지? 무슨 말을 해야 자연스러울까요?",
+      "g_en": "How shall I approach this? How does one present themselves naturally in such a situation?",
+      "g_th": "งั้นต้องบอกว่าอะไรดีนะ? ฉันควรบอกว่าอะไรถึงจะดูเป็นธรรมชาติเหรอคะ?",
+      "g_tw": "該怎麼說才對？怎麼解釋聽起來才會比較自然？",
+      "g_tw_cn": "该怎么说才对？怎么解释听起来才会比较自然？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;04;뭐라고 해야 하지? 무슨 말을 해야 자연스러울까요?\\n#5;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 86,
+    "AbsolutePos": 144,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07b"
+    }
+  },
+  {
+    "ActualPos": 87,
+    "AbsolutePos": 144,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "誤解です、先生！",
+      "j_ko": "아, 아니 잠깐. 그걸 지금 선생님 앞에서 직접 말하는 것도 조금……!!",
+      "g_ja": "誤解です、先生！",
+      "g_ko": "아, 아니 잠깐. 그걸 지금 선생님 앞에서 직접 말하는 것도 조금……!!",
+      "g_en": "D-Did I just say that out loud?",
+      "g_th": "ดะ... เดี๋ยวสิ ฉันจะหาเหตุผลต่อหน้าคุณครูแบบนี้ได้เหรอ...!!",
+      "g_tw": "不，先等一下。這種話直接在老師面前講出來好像也有點……！！",
+      "g_tw_cn": "不，先等一下。这种话直接在老师面前讲出来好像也有点……！！",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;07;아, 아니 잠깐. 그걸 지금 선생님 앞에서 직접 말하는 것도 조금……!!\\n#5;m4",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 88,
+    "AbsolutePos": 148,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 999
+    }
+  },
+  {
+    "ActualPos": 89,
+    "AbsolutePos": 149,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……今、何か言いましたか？",
+      "j_ko": "음? 선생님, 방금 뭔가 말씀하셨나요?",
+      "g_ja": "……今、何か言いましたか？",
+      "g_ko": "음? 선생님, 방금 뭔가 말씀하셨나요?",
+      "g_en": "Hm? What did you say, Sensei?",
+      "g_th": "หืม? เมื่อกี้คุณครูว่าอะไรนะคะ?",
+      "g_tw": "嗯？老師，您剛才有說什麼嗎？",
+      "g_tw_cn": "嗯？老师，您刚才有说什么吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;02;음? 선생님, 방금 뭔가 말씀하셨나요?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 90,
+    "AbsolutePos": 150,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_07c"
+    }
+  },
+  {
+    "ActualPos": 91,
+    "AbsolutePos": 150,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "大丈夫、とは……？",
+      "j_ko": "……네? 괜찮다고요? 뭐, 뭐가…….",
+      "g_ja": "大丈夫、とは……？",
+      "g_ko": "……네? 괜찮다고요? 뭐, 뭐가…….",
+      "g_en": "...Excuse me? It's...okay? Wh-What could you mean...?",
+      "g_th": "คะ...? ไม่เป็นไรงั้นเหรอคะ? ยะ... ยังไงคะ...",
+      "g_tw": "……嗯？您說沒關係？<br/>您，您指的是……",
+      "g_tw_cn": "……嗯？您说没关系？<br/>您，您指的是……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;10;……네? 괜찮다고요? 뭐, 뭐가…….\\n#5;m3",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 92,
+    "AbsolutePos": 151,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 11,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ミネが可愛いものを好きなのは知ってるよ。\"",
+      "j_ko": " \"미네가 귀여운 거 좋아하는 건 알고 있는걸.\"",
+      "g_ja": " \"ミネが可愛いものを好きなのは知ってるよ。\"",
+      "g_ko": " \"미네가 귀여운 거 좋아하는 건 알고 있는걸.\"",
+      "g_en": " \"I know you like cute things.\"",
+      "g_th": " \"ไม่ต้องแก้ตัวหรอก ครูรู้ว่ามิเนะชอบอะไรน่ารักๆ\"",
+      "g_tw": "「我知道你喜歡可愛的事物，美禰。」",
+      "g_tw_cn": "「我知道你喜欢可爱的事物，美祢。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s11] \"미네가 귀여운 거 좋아하는 건 알고 있는걸.\"\\n[s12] \"자기 취향의 옷을 입는 거잖아. 좋다고 생각해.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 93,
+    "AbsolutePos": 151,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 12,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"自分の好きな格好をするのに、理由はいらないよ。\"",
+      "j_ko": " \"자기 취향의 옷을 입는 거잖아. 좋다고 생각해.\"",
+      "g_ja": " \"自分の好きな格好をするのに、理由はいらないよ。\"",
+      "g_ko": " \"자기 취향의 옷을 입는 거잖아. 좋다고 생각해.\"",
+      "g_en": " \"I think it's good you're expressing yourself.\"",
+      "g_th": " \"ดีแล้วละที่ใส่ชุดตามความชอบของตัวเอง\"",
+      "g_tw": "「你只是穿上自己喜歡的衣服而已，我不覺得這有什麼問題。」",
+      "g_tw_cn": "「你只是穿上自己喜欢的衣服而已，我不觉得这有什么问题。」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[s11] \"미네가 귀여운 거 좋아하는 건 알고 있는걸.\"\\n[s12] \"자기 취향의 옷을 입는 거잖아. 좋다고 생각해.\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 94,
+    "AbsolutePos": 154,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "そ、そうでした……。",
+      "j_ko": "아아, 역시 그렇지요. 네. 그런 거라면 다행…….",
+      "g_ja": "そ、そうでした……。",
+      "g_ko": "아아, 역시 그렇지요. 네. 그런 거라면 다행…….",
+      "g_en": "Yes. Um. Naturally. In that case, it's a relief...",
+      "g_th": "อ่า... อย่างนั้นสินะคะ ค่ะ ถ้างั้นก็ค่อยยังชั่ว...",
+      "g_tw": "啊啊，原來如此。我明白了。<br/>如果是這樣的話就太……",
+      "g_tw_cn": "啊啊，原来如此。我明白了。<br/>如果是这样的话就太……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;04;아아, 역시 그렇지요. 네. 그런 거라면 다행…….\\n#5;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 95,
+    "AbsolutePos": 155,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生には、お伝えしておりましたね。",
+      "j_ko": "인……게…….",
+      "g_ja": "先生には、お伝えしておりましたね。",
+      "g_ko": "인……게…….",
+      "g_en": "to...hear...",
+      "g_th": "เดี๋ยวนะ...",
+      "g_tw": "好……了嗎？",
+      "g_tw_cn": "好……了吗？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;99;인……게…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 96,
+    "AbsolutePos": 160,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……先生？",
+      "j_ko": "……선생님?",
+      "g_ja": "……先生？",
+      "g_ko": "……선생님?",
+      "g_en": "...Sensei?",
+      "g_th": "คุณครู...?",
+      "g_tw": "……老師？",
+      "g_tw_cn": "……老师？",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;10;……선생님?",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 97,
+    "AbsolutePos": 161,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "お、お待ちください。",
+      "j_ko": "잠시만요, 선생님. 지금 그 말씀은……. 어…….",
+      "g_ja": "お、お待ちください。",
+      "g_ko": "잠시만요, 선생님. 지금 그 말씀은……. 어…….",
+      "g_en": "Halt. Sensei. Those words...you just uttered...their meaning...",
+      "g_th": "เดี๋ยวนะคะ คุณครู ที่คุณครูพูดเมื่อกี้... อ่า...",
+      "g_tw": "請等一下，老師。<br/>您剛才那番話……的意思是……",
+      "g_tw_cn": "请等一下，老师。<br/>您刚才那番话……的意思是……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "5;미네 아이돌;04;잠시만요, 선생님. 지금 그 말씀은……. 어…….\\n#5;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 98,
+    "AbsolutePos": 164,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 99,
+    "AbsolutePos": 167,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 2949065454
+    }
+  },
+  {
+    "ActualPos": 100,
+    "AbsolutePos": 167,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bgm",
+      "Id": 233
+    }
+  },
+  {
+    "ActualPos": 101,
+    "AbsolutePos": 168,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "もしかして……。",
+      "j_ko": "……아아. 네.",
+      "g_ja": "もしかして……。",
+      "g_ko": "……아아. 네.",
+      "g_en": "...Ah. Yes.",
+      "g_th": "เอ่อ... ค่ะ",
+      "g_tw": "原來……",
+      "g_tw_cn": "原来……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;04;……아아. 네.\\n#3;em;[땀]",
+    "BGMId": 0,
+    "Sound": "SFX_Emoticon_Motion_Sweat",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 102,
+    "AbsolutePos": 169,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "レストランで会った時から、気づいていたのですか？",
+      "j_ko": "처음부터……. 네. 이미 알고 계셨다고요…….",
+      "g_ja": "レストランで会った時から、気づいていたのですか？",
+      "g_ko": "처음부터……. 네. 이미 알고 계셨다고요…….",
+      "g_en": "You've known from the beginning. The very beginning.",
+      "g_th": "คุณครูรู้ตั้งแต่แรก... เลยสินะคะ...",
+      "g_tw": "您打從一開始……就知道了嗎……",
+      "g_tw_cn": "您打从一开始……就知道了吗……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;04;처음부터……. 네. 이미 알고 계셨다고요…….",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 103,
+    "AbsolutePos": 170,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……なるほど。",
+      "j_ko": "그렇군요…….",
+      "g_ja": "……なるほど。",
+      "g_ko": "그렇군요…….",
+      "g_en": "I see...",
+      "g_th": "อย่างนี้นี่เอง...",
+      "g_tw": "這樣啊……",
+      "g_tw_cn": "这样啊……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;14;그렇군요…….\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 104,
+    "AbsolutePos": 175,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_BoomEffect_01"
+    }
+  },
+  {
+    "ActualPos": 105,
+    "AbsolutePos": 175,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "先生……。",
+      "j_ko": "……선생님.",
+      "g_ja": "先生……。",
+      "g_ko": "……선생님.",
+      "g_en": "...Sensei.",
+      "g_th": "คุณครูคะ...",
+      "g_tw": "……老師。",
+      "g_tw_cn": "……老师。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;07;……선생님.\\n#3;stiff",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 106,
+    "AbsolutePos": 178,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "sound",
+      "Id": "SE_FootStep_02"
+    }
+  },
+  {
+    "ActualPos": 107,
+    "AbsolutePos": 181,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 13,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"……ミネさん！？\"",
+      "j_ko": " \"……!? 미네 씨……!?\"",
+      "g_ja": " \"……ミネさん！？\"",
+      "g_ko": " \"……!? 미네 씨……!?\"",
+      "g_en": " \"...?! Mine...?!\"",
+      "g_th": " \"คุณมิเนะ...!? เป็นอะไรไป...!?\"",
+      "g_tw": "「美禰同學……！？」",
+      "g_tw_cn": "「美祢同学……！？」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns13] \"……!? 미네 씨……!?\"\\n[ns14] \"뭔가 압박 가득한 표정!!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 108,
+    "AbsolutePos": 181,
+    "SelectionGroup": 0,
+    "SelectionToGroup": 14,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": " \"ち、近くない……？\"",
+      "j_ko": " \"뭔가 압박 가득한 표정!!\"",
+      "g_ja": " \"ち、近くない……？\"",
+      "g_ko": " \"뭔가 압박 가득한 표정!!\"",
+      "g_en": " \"An intimidating stare!\"",
+      "g_th": " \"ทำไมทำหน้าเหมือนโกรธกันล่ะ!!\"",
+      "g_tw": "「你的表情好有壓迫感！！」",
+      "g_tw_cn": "「你的表情好有压迫感！！」",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": -1,
+    "DataType": "option",
+    "Script": "[ns13] \"……!? 미네 씨……!?\"\\n[ns14] \"뭔가 압박 가득한 표정!!\"",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 109,
+    "AbsolutePos": 184,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "私の気持ちが分かっていたのなら……。",
+      "j_ko": "그…….",
+      "g_ja": "私の気持ちが分かっていたのなら……。",
+      "g_ko": "그…….",
+      "g_en": "Those...",
+      "g_th": "ก็...",
+      "g_tw": "那個……",
+      "g_tw_cn": "那个……",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "3;미네 아이돌;06;그…….\\n#3;closeup",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  },
+  {
+    "ActualPos": 110,
+    "AbsolutePos": 185,
+    "DataType": "cmd",
+    "Payload": {
+      "Type": "bg",
+      "Id": 1047754314
+    }
+  },
+  {
+    "ActualPos": 111,
+    "AbsolutePos": 186,
+    "SelectionGroup": 0,
+    "SelectionToGroup": -1,
+    "PopupFileName": "",
+    "Message": {
+      "j_ja": "……もっと、早く言ってください。",
+      "j_ko": "……그런 이야기는, 조금 더 빨리 해 주세요.",
+      "g_ja": "……もっと、早く言ってください。",
+      "g_ko": "……그런 이야기는, 조금 더 빨리 해 주세요.",
+      "g_en": "Those kinds of things...you should express immediately.",
+      "g_th": "ถ้าคุณครูรู้อยู่แล้ว ทำไมไม่บอกกันตั้งแต่ก่อนหน้านี้ล่ะคะ?",
+      "g_tw": "……那種事情，下次請早點告訴我。",
+      "g_tw_cn": "……那种事情，下次请早点告诉我。",
+      "c_cn": "[cn not found]",
+      "c_cn_tw": "[cn not found]"
+    },
+    "CharacterId": 2067025223,
+    "DataType": "speaker",
+    "Script": "#na;미네 아이돌;……그런 이야기는, 조금 더 빨리 해 주세요.",
+    "BGMId": 0,
+    "Sound": "",
+    "BGName": 0,
+    "ShowTextColor": "black"
+  }
+]
